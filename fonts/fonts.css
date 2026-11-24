@@ -1,0 +1,25 @@
+/* Self-hosted fonts, so the website looks the same offline, on GitHub Pages and anywhere else.
+   Both fonts are from Google Fonts under the SIL Open Font License (see the OFL files here).
+   Bodoni Moda has no rupee sign or subscript digits, so those few characters come from Manrope. */
+@font-face {
+  font-family: "Bodoni Moda";
+  src: url("BodoniModa.woff2") format("woff2");
+  font-weight: 400 900;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Bodoni Moda";
+  src: url("Manrope.woff2") format("woff2");
+  font-weight: 400 900;
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+20B9, U+2080-2089;
+}
+@font-face {
+  font-family: "Manrope";
+  src: url("Manrope.woff2") format("woff2");
+  font-weight: 200 800;
+  font-style: normal;
+  font-display: swap;
+}

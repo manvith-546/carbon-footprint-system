@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Project details | Carbon Footprint Estimation and Recommendation System</title>
+<meta name="description" content="Data, machine learning models and method behind the BMW and Mercedes-Benz car carbon footprint estimator. Student mini project.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Ccircle cx='16' cy='16' r='14' fill='%2307090c' stroke='%23e3b866' stroke-width='2'/%3E%3Cpath d='M16 7l2.6 6.4L25 16l-6.4 2.6L16 25l-2.6-6.4L7 16l6.4-2.6z' fill='%23e3b866'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="fonts/fonts.css">
+<link rel="stylesheet" href="details.css">
+</head>
+<body>
+<a class="skip" href="#range">Skip to the content</a>
+
+<header class="top">
+  <div class="top-name">Carbon Footprint Estimation<br>and Recommendation System</div>
+  <nav aria-label="Sections">
+    <a href="index.html">Back to the estimator</a>
+    <a href="#range">Your car</a>
+    <a href="#models">Models</a>
+    <a href="#road">Lab vs road</a>
+    <a href="#ml">Machine learning</a>
+    <a href="#data">Data</a>
+  </nav>
+</header>
+
+<main>
+  <section class="intro">
+    <h1>Project details: data, models and method</h1>
+    <p>Everything behind the app on one page: every petrol and diesel model from 2014 to 2026, the laboratory against road comparison, the machine learning results with a CO₂ and emission-group predictor, and the data sources.</p>
+  </section>
+
+  <section id="range" class="block viz-root">
+    <h2>All <span id="nModels"></span> models by CO₂ rating</h2>
+    <p class="lead">Each line is one BMW or Mercedes-Benz model variant, placed by its rated tailpipe CO₂. Hover a line to read it, click to open that car in the app.</p>
+    <div class="legend"><span class="key bmw"></span>BMW <span class="key merc"></span>Mercedes-Benz <span class="key you"></span>Your car</div>
+    <div class="ruler-wrap"><svg id="ruler" viewBox="0 0 1000 190" role="img" aria-label="CO2 rating of every model, by brand"></svg></div>
+    <p class="hint" id="rulerNote"></p>
+  </section>
+
+  <section id="models" class="block">
+    <h2>Browse the models</h2>
+    <div class="filters">
+      <label class="field">Search <input type="search" id="q" placeholder="X5, C 300, AMG…"></label>
+      <label class="field">Brand
+        <select id="fBrand"><option value="">Both</option><option>BMW</option><option>Mercedes-Benz</option></select>
+      </label>
+      <label class="field">Vehicle class <select id="fClass"><option value="">All</option></select></label>
+      <label class="field">Emission tier
+        <select id="fTier"><option value="">All</option><option>Low</option><option>Medium</option><option>High</option></select>
+      </label>
+    </div>
+    <p class="hint" id="count" role="status"></p>
+    <div class="table-wrap">
+      <table class="data" id="table">
+        <thead><tr>
+          <th><button data-sort="make">Brand</button></th>
+          <th><button data-sort="model">Model</button></th>
+          <th><button data-sort="year_to">Years</button></th>
+          <th><button data-sort="vehicle_class">Class</button></th>
+          <th class="num"><button data-sort="engine_l">Engine</button></th>
+          <th>Fuel</th>
+          <th class="num"><button data-sort="fuel_comb">L/100 km</button></th>
+          <th class="num"><button data-sort="co2_g_km">CO₂ g/km</button></th>
+          <th>Tier</th>
+          <th><span class="sr">Use</span></th>
+        </tr></thead>
+        <tbody></tbody>
+      </table>
+    </div>
+    <button type="button" class="btn ghost" id="more">Show more models</button>
+  </section>
+
+  <section id="road" class="block viz-root">
+    <h2>Laboratory rating against real driving</h2>
+    <p class="lead">European fleet records for both makers: the official laboratory value (WLTP) beside what the cars' own fuel meters recorded on the road (OBFCM). Plug-in hybrids show the widest difference.</p>
+    <div class="filters">
+      <label class="field">Year
+        <select id="euYear"><option value="">2021 to 2024</option><option>2021</option><option>2022</option><option>2023</option><option>2024</option></select>
+      </label>
+      <div class="legend"><span class="dot hollow"></span>Laboratory <span class="dot solid"></span>On the road</div>
+    </div>
+    <div id="dumbbells" class="dumbbells"></div>
+    <p class="hint">Averages are weighted by the number of vehicles in each record. These are fleet groups, not individual models.</p>
+  </section>
+
+  <section id="ml" class="block viz-root">
+    <h2>The machine learning behind it</h2>
+    <div class="cols">
+      <div>
+        <h3>Regression: predicting CO₂ g/km</h3>
+        <p class="lead">Tested on models the algorithm never saw during training.</p>
+        <div class="table-wrap"><table class="data" id="mlTable"><thead><tr>
+          <th>Inputs</th><th>Algorithm</th><th class="num">CV R²</th><th class="num">Test R²</th><th class="num">MAE g/km</th>
+        </tr></thead><tbody></tbody></table></div>
+        <p class="hint">Specifications = engine size, cylinders, class, transmission, fuel, brand, and whether it is a performance version (AMG, M, ALPINA, Maybach) or has all-wheel drive (xDrive, 4MATIC), both read from the model name. The second group also knows the fuel consumption, which almost fixes CO₂ physically. Models are split by name, so the test cars are ones the model never saw.</p>
+      </div>
+      <div>
+        <h3>What drives CO₂ in the specification model</h3>
+        <div id="importance" class="bars"></div>
+      </div>
+      <div>
+        <h3>Clustering: three emission tiers (K-Means)</h3>
+        <div class="table-wrap"><table class="data" id="tierTable"><thead><tr>
+          <th>Tier</th><th class="num">Models</th><th class="num">Engine L</th><th class="num">L/100 km</th><th class="num">CO₂ g/km</th>
+        </tr></thead><tbody></tbody></table></div>
+        <p class="hint" id="silNote"></p>
+      </div>
+    </div>
+    <div class="cols cls-cols">
+      <div>
+        <h3>Classification: which emission group is a car in?</h3>
+        <p class="lead">K-Means found the groups using fuel use and CO₂. The classifier predicts the group from the specifications alone, so it can place a car before anyone has measured it.</p>
+        <div class="table-wrap"><table class="data" id="clsTable"><thead><tr>
+          <th>Algorithm</th><th class="num">CV macro F1</th><th class="num">Test accuracy</th><th class="num">Test macro F1</th>
+        </tr></thead><tbody></tbody></table></div>
+        <p class="hint" id="clsNote"></p>
+      </div>
+      <div>
+        <h3>Confusion matrix on the test cars</h3>
+        <div class="table-wrap"><table class="data cm" id="cmTable"></table></div>
+        <p class="hint" id="cmNote"></p>
+      </div>
+    </div>
+    <h3 style="margin-top:28px">Try the two models</h3>
+    <p class="lead" id="tryLead">Enter the specifications of a car. The regression model predicts its CO₂ rating and the classifier its emission group. Both run in your browser and give the same answers as the Flask API (<code>/api/predict</code>).</p>
+    <div class="row" style="margin-top:14px">
+      <label class="field">Brand <select id="c_make"><option>BMW</option><option>Mercedes-Benz</option></select></label>
+      <label class="field">Vehicle class <select id="c_class"></select></label>
+      <label class="field">Transmission <select id="c_trans"></select></label>
+      <label class="field">Fuel <select id="c_fuel"></select></label>
+      <label class="field">Performance version <select id="c_perf"><option value="no">No</option><option value="yes">Yes (AMG, M, ALPINA)</option></select></label>
+      <label class="field">All-wheel drive <select id="c_awd"><option value="no">No</option><option value="yes">Yes (xDrive, 4MATIC)</option></select></label>
+      <label class="field">Engine size (L) <input type="number" id="c_engine" min="1" max="7" step="0.1" value="2.0"></label>
+      <label class="field">Cylinders <input type="number" id="c_cyl" min="3" max="12" step="1" value="4"></label>
+    </div>
+    <button type="button" class="btn" id="predictBtn">Predict</button>
+    <div id="predictOut" class="predict-out" role="status"></div>
+  </section>
+
+  <section id="data" class="block">
+    <h2>Data sources</h2>
+    <ul class="sources">
+      <li><a href="https://www.kaggle.com/datasets/debajyotipodder/co2-emission-by-vehicles" target="_blank" rel="noopener">CO2 Emission by Vehicles (Kaggle)</a>, the main dataset: 7,385 rated vehicles from the Government of Canada (model years 2014 to 2020), of which the BMW and Mercedes-Benz rows are used here.</li>
+      <li><a href="https://open.canada.ca/data/en/dataset/98f1a129-f628-4ce4-b24d-6f16bf24dd64" target="_blank" rel="noopener">Fuel consumption ratings (Government of Canada)</a>: the original source of the main dataset, and the 2021 to 2026 petrol and diesel ratings and the battery-electric ratings added here. Open Government Licence – Canada.</li>
+      <li>2024_Cars_Aggregated.csv, the European real-world (OBFCM) fleet file used in the first version of this project.</li>
+      <li><a href="https://cea.nic.in/wp-content/uploads/2021/03/User_Guide_Version_20.0.pdf" target="_blank" rel="noopener">CO₂ Baseline Database (Central Electricity Authority)</a>: the CO₂ of India's grid electricity, used for the electric cars.</li>
+      <li><a href="https://ourworldindata.org/co2/country/india" target="_blank" rel="noopener">CO₂ emissions per person in India (Global Carbon Budget, via Our World in Data)</a>, used in the everyday comparison.</li>
+    </ul>
+    <div class="table-wrap"><table class="data" id="factorTable"><thead><tr>
+      <th>Factor</th><th class="num">Value</th><th>Unit</th><th>Source</th>
+    </tr></thead><tbody></tbody></table></div>
+  </section>
+</main>
+
+<footer class="foot">Student mini project. Car ratings are tailpipe CO₂ from laboratory tests. Not affiliated with, endorsed or sponsored by BMW AG or Mercedes-Benz Group AG.</footer>
+<div id="tooltip" class="tooltip" role="tooltip" hidden></div>
+
+<script src="data.js"></script>
+<script src="model.js"></script>
+<script src="footprint.js"></script>
+<script src="predictor.js"></script>
+<script src="details.js"></script>
+</body>
+</html>
