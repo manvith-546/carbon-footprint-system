@@ -1,0 +1,208 @@
+[
+ {
+  "profile": {
+   "car_id": 425
+  },
+  "total_kg": 2635.5,
+  "km_month": 1000.0,
+  "fuel_cost": 113640,
+  "comparisons": {
+   "trees_to_absorb": 119.8,
+   "share_of_average_indian": 1.198,
+   "lpg_cylinders": 62.2
+  },
+  "tips": [
+   {
+    "kind": "ev",
+    "kg": 751.5,
+    "rupees": 92909
+   },
+   {
+    "kind": "habit",
+    "kg": 287.1,
+    "rupees": 22728
+   },
+   {
+    "kind": "habit",
+    "kg": 263.5,
+    "rupees": 11364
+   },
+   {
+    "kind": "habit",
+    "kg": 263.5,
+    "rupees": 11364
+   }
+  ]
+ },
+ {
+  "profile": {
+   "car_id": 425,
+   "mode": "fuel",
+   "fuel_spend_month": 8000,
+   "fuel_price": 102
+  },
+  "total_kg": 2182.7,
+  "km_month": 828.2,
+  "fuel_cost": 96000,
+  "comparisons": {
+   "trees_to_absorb": 99.2,
+   "share_of_average_indian": 0.992,
+   "lpg_cylinders": 51.5
+  },
+  "tips": [
+   {
+    "kind": "ev",
+    "kg": 622.4,
+    "rupees": 78830
+   },
+   {
+    "kind": "habit",
+    "kg": 237.8,
+    "rupees": 19200
+   },
+   {
+    "kind": "habit",
+    "kg": 218.3,
+    "rupees": 9600
+   },
+   {
+    "kind": "habit",
+    "kg": 218.3,
+    "rupees": 9600
+   }
+  ]
+ },
+ {
+  "profile": {
+   "car_id": 752,
+   "km_month": 2500,
+   "city_share": 85,
+   "elec_price": 10
+  },
+  "total_kg": 6728.5,
+  "km_month": 2500.0,
+  "fuel_cost": 286950,
+  "comparisons": {
+   "trees_to_absorb": 305.8,
+   "share_of_average_indian": 3.058,
+   "lpg_cylinders": 158.7
+  },
+  "tips": [
+   {
+    "kind": "ev",
+    "kg": 2907.4,
+    "rupees": 234390
+   },
+   {
+    "kind": "habit",
+    "kg": 745.7,
+    "rupees": 57390
+   },
+   {
+    "kind": "car",
+    "kg": 734.3,
+    "rupees": 29100
+   },
+   {
+    "kind": "habit",
+    "kg": 672.8,
+    "rupees": 28695
+   },
+   {
+    "kind": "habit",
+    "kg": 672.8,
+    "rupees": 28695
+   },
+   {
+    "kind": "habit",
+    "kg": 173.4,
+    "rupees": 7395
+   }
+  ]
+ },
+ {
+  "profile": {
+   "car_id": 462,
+   "km_month": 400,
+   "city_share": 20
+  },
+  "total_kg": 1074.0,
+  "km_month": 400.0,
+  "fuel_cost": 46272,
+  "comparisons": {
+   "trees_to_absorb": 48.8,
+   "share_of_average_indian": 0.488,
+   "lpg_cylinders": 25.3
+  },
+  "tips": [
+   {
+    "kind": "ev",
+    "kg": 442.4,
+    "rupees": 39322
+   },
+   {
+    "kind": "car",
+    "kg": 235.9,
+    "rupees": 9984
+   },
+   {
+    "kind": "habit",
+    "kg": 107.4,
+    "rupees": 4627
+   },
+   {
+    "kind": "habit",
+    "kg": 107.4,
+    "rupees": 4627
+   }
+  ]
+ },
+ {
+  "profile": {
+   "car_id": 578,
+   "mode": "fuel",
+   "fuel_spend_month": 30000,
+   "city_share": 70
+  },
+  "total_kg": 8511.1,
+  "km_month": 1808.3,
+  "fuel_cost": 360000,
+  "comparisons": {
+   "trees_to_absorb": 386.9,
+   "share_of_average_indian": 3.869,
+   "lpg_cylinders": 200.7
+  },
+  "tips": [
+   {
+    "kind": "ev",
+    "kg": 5130.4,
+    "rupees": 322798
+   },
+   {
+    "kind": "car",
+    "kg": 3639.6,
+    "rupees": 149946
+   },
+   {
+    "kind": "habit",
+    "kg": 1268.2,
+    "rupees": 72000
+   },
+   {
+    "kind": "habit",
+    "kg": 851.1,
+    "rupees": 36000
+   },
+   {
+    "kind": "habit",
+    "kg": 851.1,
+    "rupees": 36000
+   },
+   {
+    "kind": "habit",
+    "kg": 97.0,
+    "rupees": 4101
+   }
+  ]
+ }
+]

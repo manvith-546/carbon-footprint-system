@@ -1,0 +1,167 @@
+Model year,Make,Model,Vehicle class,Motor (kW),Transmission,Fuel type,City (kWh/100 km),Highway (kWh/100 km),Combined (kWh/100 km),City (Le/100 km),Highway (Le/100 km),Combined (Le/100 km),Range (km),CO2 emissions (g/km),CO2 rating ,Smog rating,Recharge time (h)
+2015,BMW,i3,Subcompact,125,A1,B,15.2,18.8,16.8,1.7,2.1,1.9,130,0,n/a,n/a,4
+2016,BMW,i3,Subcompact,125,A1,B,15.2,18.8,16.8,1.7,2.1,1.9,130,0,10,n/a,4
+2017,BMW,i3 (60 Ah),Subcompact,125,A1,B,15.2,18.8,16.8,1.7,2.1,1.9,130,0,10,10,4
+2017,BMW,i3 (94 Ah),Subcompact,125,A1,B,16.2,19.7,17.8,1.8,2.2,2.0,183,0,10,10,5
+2018,BMW,i3,Subcompact,125,A1,B,16.2,19.7,17.8,1.8,2.2,2.0,183,0,10,10,5
+2018,BMW,i3s,Subcompact,135,A1,B,17.1,21.1,18.9,1.9,2.4,2.1,172,0,10,10,5
+2019,BMW,i3 (120 Ah),Subcompact,125,A1,B,16.8,20.6,18.5,1.9,2.3,2.1,246,0,10,10,7
+2019,BMW,i3s (120 Ah),Subcompact,135,A1,B,16.8,20.6,18.5,1.9,2.3,2.1,246,0,10,10,7
+2020,BMW,i3 (120 Ah),Subcompact,125,A1,B,16.8,20.6,18.5,1.9,2.3,2.1,246,0,10,10,7
+2020,BMW,i3s (120 Ah),Subcompact,135,A1,B,16.8,20.6,18.5,1.9,2.3,2.1,246,0,10,10,7
+2021,BMW,i3 (120 Ah),Subcompact,125,A1,B,16.8,20.6,18.5,1.9,2.3,2.1,246,0,10,10,7
+2021,BMW,i3s (120 Ah),Subcompact,135,A1,B,16.8,20.6,18.5,1.9,2.3,2.1,246,0,10,10,7
+2022,BMW,"i4 eDrive40 (18"" Wheels)",Subcompact,250,A1,B,19.1,19.3,19.2,2.1,2.2,2.2,484,0,10,10,10
+2022,BMW,"i4 eDrive40 (19"" Wheels)",Subcompact,250,A1,B,20.9,21.3,21.1,2.4,2.4,2.4,454,0,10,10,10
+2022,BMW,"i4 M50 xDrive (19"" Wheels)",Subcompact,400,A1,B,22.3,21.4,21.9,2.5,2.4,2.5,435,0,10,10,10
+2022,BMW,"i4 M50 xDrive (20"" Wheels)",Subcompact,400,A1,B,26.4,26.1,26.3,3.0,2.9,3.0,365,0,10,10,10
+2022,BMW,"iX xDrive50 (20"" Wheels)",Sport utility vehicle: Standard,400,A1,B,24.3,24.2,24.2,2.7,2.7,2.7,521,0,10,10,12
+2022,BMW,"iX xDrive50 (21"" Wheels)",Sport utility vehicle: Standard,400,A1,B,25.4,25.1,25.3,2.9,2.8,2.8,491,0,10,10,12
+2022,BMW,"iX xDrive50 (22"" Wheels)",Sport utility vehicle: Standard,400,A1,B,24.3,24.5,24.4,2.7,2.8,2.7,507,0,10,10,12
+2022,Mercedes-Benz,EQB 350 4MATIC SUV,Sport utility vehicle: Small,215,A1,B,21.1,22.4,21.7,2.4,2.5,2.5,365,0,10,10,7.5
+2022,Mercedes-Benz,EQS 580 4MATIC Sedan,Full-size,385,A1,B,23.0,21.1,22.4,2.6,2.4,2.5,547,0,10,10,11.25
+2023,BMW,"i4 eDrive35 Gran Coupe (18"" Wheels)",Subcompact,210,A1,B,18.2,18.9,18.5,2.0,2.1,2.1,412,0,10,10,8
+2023,BMW,"i4 eDrive35 Gran Coupe (19"" Wheels)",Subcompact,210,A1,B,19.6,20.5,20.0,2.2,2.3,2.2,378,0,10,10,8
+2023,BMW,"i4 eDrive40 Gran Coupe (18"" Wheels)",Subcompact,250,A1,B,19.1,19.3,19.2,2.1,2.2,2.2,484,0,10,10,10
+2023,BMW,"i4 eDrive40 Gran Coupe (19"" Wheels)",Subcompact,250,A1,B,20.9,21.3,21.1,2.3,2.4,2.4,454,0,10,10,10
+2023,BMW,"i4 M50 Gran Coupe (19"" Wheels)",Subcompact,400,A1,B,22.3,21.4,21.9,2.5,2.4,2.5,436,0,10,10,10
+2023,BMW,"i4 M50 Gran Coupe (20"" Wheels)",Subcompact,400,A1,B,26.4,26.1,26.3,3.0,2.9,3.0,365,0,10,10,10
+2023,BMW,"i7 xDrive60 (19"" Wheels)",Full-size,400,A1,B,24.0,22.9,23.5,2.7,2.6,2.6,512,0,10,10,12
+2023,BMW,"i7 xDrive60 (20"" Wheels)",Full-size,400,A1,B,25.8,24.5,25.2,2.9,2.8,2.8,476,0,10,10,12
+2023,BMW,"i7 xDrive60 (21"" Wheels)",Full-size,400,A1,B,24.5,23.5,24.1,2.8,2.6,2.7,496,0,10,10,12
+2023,BMW,"iX xDrive40 (20"" Wheels) ",Sport utility vehicle: Standard,240,A1,B,25.1,25.6,25.3,2.8,2.9,2.8,322,0,10,10,8
+2023,BMW,"iX xDrive40 (21"" Wheels) ",Sport utility vehicle: Standard,240,A1,B,24.7,25.9,25.2,2.8,2.9,2.8,322,0,10,10,8
+2023,BMW,"iX xDrive40 (22"" Wheels) ",Sport utility vehicle: Standard,240,A1,B,24.8,25.9,25.3,2.8,2.9,2.8,320,0,10,10,8
+2023,BMW,"iX xDrive50 (20"" Wheels)",Sport utility vehicle: Standard,385,A1,B,24.3,24.2,24.2,2.7,2.7,2.7,521,0,10,10,12
+2023,BMW,"iX xDrive50 (21"" Wheels)",Sport utility vehicle: Standard,385,A1,B,25.4,25.1,25.3,2.9,2.8,2.8,496,0,10,10,12
+2023,BMW,"iX xDrive50 (22"" Wheels)",Sport utility vehicle: Standard,385,A1,B,24.3,24.5,24.4,2.7,2.8,2.7,512,0,10,10,12
+2023,BMW,"iX M60 (21"" Wheels)",Sport utility vehicle: Standard,397,A1,B,27.6,26.3,27.0,3.1,3.0,3.0,463,0,10,10,12
+2023,BMW,"iX M60 (22"" Wheels)",Sport utility vehicle: Standard,397,A1,B,27.3,26.0,26.7,3.1,2.9,3.0,441,0,10,10,12
+2023,Mercedes-Benz,AMG EQE 4MATIC+ Sedan,Mid-size,460,A1,B,28.1,28.5,28.3,3.2,3.2,3.2,362,0,10,10,9.5
+2023,Mercedes-Benz,AMG EQS 4MATIC+ Sedan,Full-size,484,A1,B,28.4,27.4,27.9,3.2,3.1,3.1,446,0,10,10,11.25
+2023,Mercedes-Benz,EQB 250+,Sport utility vehicle: Small,140,A1,B,18.5,21.6,19.9,2.1,2.4,2.2,394,0,10,10,7.75
+2023,Mercedes-Benz,EQB 350 4MATIC SUV,Sport utility vehicle: Small,215,A1,B,21.4,22.0,21.7,2.4,2.5,2.4,356,0,10,10,6.25
+2023,Mercedes-Benz,EQE 350 4MATIC Sedan,Mid-size,215,A1,B,24.2,24.2,24.2,2.7,2.7,2.7,418,0,10,10,8.25
+2023,Mercedes-Benz,EQE 350 4MATIC SUV,Sport utility vehicle: Standard,215,A1,B,25.4,26.4,25.9,2.9,3.0,2.9,407,0,10,10,9.5
+2023,Mercedes-Benz,EQE 500 4MATIC Sedan,Mid-size,300,A1,B,25.0,25.5,25.2,2.8,2.9,2.8,418,0,10,10,9.5
+2023,Mercedes-Benz,EQE 500 4MATIC SUV,Sport utility vehicle: Standard,300,A1,B,23.0,24.5,23.7,2.6,2.7,2.7,433,0,10,10,9.5
+2023,Mercedes-Benz,EQS 450 4MATIC Sedan,Full-size,265,A1,B,20.7,19.9,20.3,2.3,2.2,2.3,547,0,10,10,11.5
+2023,Mercedes-Benz,EQS 450 4MATIC SUV,Sport utility vehicle: Standard,265,A1,B,26.7,27.3,26.7,3.0,3.1,3.0,459,0,10,10,11.5
+2023,Mercedes-Benz,EQS 580 4MATIC Sedan,Full-size,385,A1,B,23.3,22.7,23.0,2.6,2.5,2.6,547,0,10,10,11.25
+2023,Mercedes-Benz,EQS 580 4MATIC SUV,Sport utility vehicle: Standard,400,A1,B,26.1,28.0,27.3,3.0,3.2,3.1,459,0,10,10,11.5
+2024,BMW,"i4 eDrive35 Gran Coupe (18"" Wheels)",Subcompact,210,A1,B,17.2,17.7,17.4,1.9,2.0,2.0,444,0,10,10,7
+2024,BMW,"i4 eDrive35 Gran Coupe (19"" Wheels)",Subcompact,210,A1,B,18.8,19.5,19.1,2.1,2.2,2.1,406,0,10,10,7
+2024,BMW,"i4 eDrive40 Gran Coupe (18"" Wheels)",Subcompact,250,A1,B,19.1,19.3,19.2,2.1,2.2,2.2,484,0,10,10,8
+2024,BMW,"i4 eDrive40 Gran Coupe (19"" Wheels)",Subcompact,250,A1,B,20.9,21.2,21.0,2.3,2.4,2.4,455,0,10,10,8
+2024,BMW,"i4 xDrive40 Gran Coupe (18"" Wheels)",Subcompact,295,A1,B,19.5,18.9,19.2,2.2,2.1,2.2,494,0,10,10,8
+2024,BMW,"i4 xDrive40 Gran Coupe (19"" Wheels)",Subcompact,295,A1,B,21.5,20.9,21.2,2.4,2.3,2.4,449,0,10,10,8
+2024,BMW,"i4 M50 Gran Coupe (19"" Wheels)",Subcompact,400,A1,B,22.4,21.5,22.0,2.5,2.4,2.5,433,0,10,10,8
+2024,BMW,"i4 M50 Gran Coupe (20"" Wheels)",Subcompact,400,A1,B,26.4,26.1,26.3,3.0,2.9,3.0,365,0,10,10,8
+2024,BMW,"i5 M60 Sedan (19"" Wheels)",Compact,442,A1,B,23.3,22.6,23.0,2.6,2.5,2.6,412,0,10,10,8
+2024,BMW,"i5 M60 Sedan (20"" Wheels)",Compact,442,A1,B,23.5,23.4,23.5,2.6,2.6,2.6,399,0,10,10,8
+2024,BMW,"i5 M60 Sedan (21"" Wheels)",Compact,442,A1,B,24.8,24.4,24.6,2.8,2.7,2.8,386,0,10,10,8
+2024,BMW,"i7 xDrive60 Sedan (19"" Wheels)",Full-size,400,A1,B,24.1,22.6,23.4,2.7,2.5,2.6,510,0,10,10,11
+2024,BMW,"i7 xDrive60 Sedan (20"" Wheels)",Full-size,400,A1,B,25.6,24.2,25.0,2.9,2.7,2.8,480,0,10,10,11
+2024,BMW,"i7 xDrive60 Sedan (21"" Wheels)",Full-size,400,A1,B,24.3,23.1,23.8,2.7,2.6,2.7,494,0,10,10,11
+2024,BMW,"i7 M70 xDrive Sedan (20"" Wheels)",Full-size,485,A1,B,28.4,26.1,27.4,3.2,2.9,3.1,441,0,10,10,11
+2024,BMW,"i7 M70 xDrive Sedan (21"" Wheels)",Full-size,485,A1,B,26.7,24.8,25.8,3.0,2.8,2.9,468,0,10,10,11
+2024,BMW,"iX xDrive40 (20"" Wheels) ",Sport utility vehicle: Standard,240,A1,B,24.0,24.5,24.2,2.7,2.8,2.7,351,0,10,10,8
+2024,BMW,"iX xDrive40 (21"" Wheels) ",Sport utility vehicle: Standard,240,A1,B,24.3,25.1,24.6,2.7,2.8,2.8,346,0,10,10,8
+2024,BMW,"iX xDrive40 (22"" Wheels) ",Sport utility vehicle: Standard,240,A1,B,23.3,24.4,23.8,2.6,2.7,2.7,356,0,10,10,8
+2024,BMW,"iX xDrive50 (20"" Wheels) ",Sport utility vehicle: Standard,385,A1,B,25.3,24.7,25.0,2.8,2.8,2.8,500,0,10,10,11
+2024,BMW,"iX xDrive50 (21"" Wheels)",Sport utility vehicle: Standard,385,A1,B,25.4,25.4,25.4,2.8,2.9,2.9,494,0,10,10,11
+2024,BMW,"iX xDrive50 (22"" Wheels) ",Sport utility vehicle: Standard,385,A1,B,25.5,25.7,25.6,2.9,2.9,2.9,491,0,10,10,11
+2024,BMW,"iX M60 (21"" Wheels)",Sport utility vehicle: Standard,397,A1,B,26.8,26.0,26.4,3.0,2.9,3.0,476,0,10,10,11
+2024,BMW,"iX M60 (22"" Wheels)",Sport utility vehicle: Standard,397,A1,B,26.8,25.5,26.2,3.0,2.9,2.9,476,0,10,10,11
+2024,Mercedes-Benz,AMG EQE 4MATIC+ Sedan,Mid-size,460,A1,B,28.6,28.6,28.6,3.2,3.2,3.2,370,0,10,10,10.5
+2024,Mercedes-Benz,AMG EQE 4MATIC+ SUV,Sport utility vehicle: Standard,460,A1,B,27.3,29.8,28.6,3.1,3.3,3.2,378,0,10,10,9.5
+2024,Mercedes-Benz,AMG EQS 4MATIC+ Sedan,Full-size,484,A1,B,26.4,24.5,25.5,3.0,2.8,2.9,483,0,10,10,11.25
+2024,Mercedes-Benz,EQB 250+,Sport utility vehicle: Small,142,A1,B,20.5,23.2,21.7,2.3,2.6,2.4,359,0,10,10,7.25
+2024,Mercedes-Benz,EQB 300 4MATIC,Sport utility vehicle: Small,170,A1,B,23.5,24.8,24.0,2.6,2.8,2.7,330,0,10,10,6.75
+2024,Mercedes-Benz,EQE 350 4MATIC Sedan,Mid-size,215,A1,B,24.2,21.7,23.0,2.7,2.5,2.6,451,0,10,10,9.5
+2024,Mercedes-Benz,EQE 350 4MATIC SUV,Sport utility vehicle: Standard,215,A1,B,23.6,25.5,24.9,2.7,2.9,2.8,426,0,10,10,9.5
+2024,Mercedes-Benz,EQE 500 4MATIC Sedan,Mid-size,300,A1,B,23.6,23.6,23.6,2.6,2.6,2.6,446,0,10,10,9.5
+2024,Mercedes-Benz,EQE 500 4MATIC SUV,Sport utility vehicle: Standard,300,A1,B,23.3,24.8,24.0,2.6,2.8,2.7,462,0,10,10,9.5
+2024,Mercedes-Benz,EQS 450 4MATIC Sedan,Full-size,265,A1,B,22.6,21.4,22.0,2.5,2.4,2.5,555,0,10,10,12.75
+2024,Mercedes-Benz,EQS 450 4MATIC SUV,Sport utility vehicle: Standard,265,A1,B,24.9,25.7,25.2,2.8,2.9,2.8,531,0,10,10,14
+2024,Mercedes-Benz,EQS 580 4MATIC Sedan,Full-size,400,A1,B,22.1,21.4,21.8,2.5,2.4,2.5,555,0,10,10,12.75
+2024,Mercedes-Benz,EQS 580 4MATIC SUV,Sport utility vehicle: Standard,400,A1,B,24.7,25.9,25.2,2.8,2.9,2.8,531,0,10,10,14
+2024,Mercedes-Benz,Maybach EQS 680 4MATIC SUV,Sport utility vehicle: Standard,484,A1,B,25.9,25.8,25.9,2.9,2.9,2.9,517,0,10,10,14
+2025,BMW,"i4 eDrive35 Gran Coupe (18"" Wheels)",Compact,210,A1,B,17.9,18.4,18.1,2.0,2.1,2.0,428,0,10,10,8
+2025,BMW,"i4 eDrive35 Gran Coupe (19"" Wheels)",Compact,210,A1,B,19.4,20.2,19.7,2.2,2.3,2.2,393,0,10,10,8
+2025,BMW,"i4 eDrive40 Gran Coupe (18"" Wheels)",Compact,250,A1,B,18.6,18.9,18.7,2.1,2.1,2.1,512,0,10,10,10
+2025,BMW,"i4 eDrive40 Gran Coupe (19"" Wheels)",Compact,250,A1,B,19.8,20.4,20.1,2.2,2.3,2.3,475,0,10,10,10
+2025,BMW,"i4 xDrive40 Gran Coupe (18"" Wheels)",Compact,295,A1,B,21.1,20.3,20.8,2.4,2.3,2.3,462,0,10,10,10
+2025,BMW,"i4 xDrive40 Gran Coupe (19"" Wheels)",Compact,295,A1,B,22.6,22.1,22.4,2.5,2.5,2.5,431,0,10,10,10
+2025,BMW,"i4 M50 xDrive Gran Coupe (19"" Wheels)",Compact,400,A1,B,22.6,21.9,22.3,2.5,2.5,2.5,430,0,10,10,10
+2025,BMW,"i4 M50 xDrive Gran Coupe (20"" Wheels)",Compact,400,A1,B,26.3,26.1,26.2,2.9,2.9,2.9,365,0,10,10,10
+2025,BMW,"i5 xDrive40 Sedan (19"" Wheels)",Compact,290,A1,B,22.7,22.1,22.5,2.6,2.5,2.5,428,0,10,10,10
+2025,BMW,"i5 xDrive40 Sedan (20"" Wheels)",Compact,290,A1,B,22.8,22.3,22.6,2.6,2.5,2.5,422,0,10,10,10
+2025,BMW,"i5 xDrive40 Sedan (21"" Wheels)",Compact,290,A1,B,24.2,24.0,24.1,2.7,2.7,2.7,399,0,10,10,10
+2025,BMW,"i5 M60 xDrive Sedan (19"" Wheels)",Compact,442,A1,B,23.7,22.9,23.3,2.7,2.6,2.6,407,0,10,10,10
+2025,BMW,"i5 M60 xDrive Sedan (20"" Wheels)",Compact,442,A1,B,23.8,23.7,23.8,2.7,2.7,2.7,402,0,10,10,10
+2025,BMW,"i5 M60 xDrive Sedan (21"" Wheels)",Compact,442,A1,B,25.1,24.7,24.9,2.8,2.8,2.8,385,0,10,10,10
+2025,BMW,"i7 xDrive60 Sedan (19"" Wheels)",Full-size,400,A1,B,24.5,23.1,23.9,2.8,2.6,2.7,500,0,10,10,12
+2025,BMW,"i7 xDrive60 Sedan (20"" Wheels)",Full-size,400,A1,B,26.0,24.5,25.3,2.9,2.8,2.8,476,0,10,10,12
+2025,BMW,"i7 xDrive60 Sedan (21"" Wheels)",Full-size,400,A1,B,24.6,23.4,24.1,2.8,2.6,2.7,496,0,10,10,12
+2025,BMW,"i7 M70 xDrive Sedan (20"" Wheels)",Full-size,485,A1,B,29.0,26.6,27.9,3.3,3.0,3.1,431,0,10,10,12
+2025,BMW,"i7 M70 xDrive Sedan (21"" Wheels)",Full-size,485,A1,B,27.2,25.3,26.4,3.1,2.8,3.0,459,0,10,10,12
+2025,BMW,"iX xDrive40 (20"" Wheels)",Sport utility vehicle: Standard,240,A1,B,24.2,24.7,24.4,2.7,2.8,2.7,349,0,10,10,9
+2025,BMW,"iX xDrive40 (21"" Wheels)",Sport utility vehicle: Standard,240,A1,B,24.9,25.7,25.3,2.8,2.9,2.8,340,0,10,10,9
+2025,BMW,"iX xDrive40 (22"" Wheels)",Sport utility vehicle: Standard,240,A1,B,23.5,24.5,24.0,2.6,2.8,2.7,352,0,10,10,9
+2025,BMW,"iX xDrive50 (20"" Wheels)",Sport utility vehicle: Standard,385,A1,B,25.5,24.9,25.2,2.9,2.8,2.8,497,0,10,10,13
+2025,BMW,"iX xDrive50 (21"" Wheels)",Sport utility vehicle: Standard,385,A1,B,25.7,25.9,25.8,2.9,2.9,2.9,488,0,10,10,13
+2025,BMW,"iX xDrive50 (22"" Wheels)",Sport utility vehicle: Standard,385,A1,B,25.7,25.9,25.8,2.9,2.9,2.9,486,0,10,10,13
+2025,BMW,"iX M60 (21"" Wheels)",Sport utility vehicle: Standard,397,A1,B,28.0,27.1,27.6,3.1,3.0,3.1,457,0,10,10,13
+2025,BMW,"iX M60 (22"" Wheels)",Sport utility vehicle: Standard,397,A1,B,27.8,26.4,27.2,3.1,3.0,3.1,459,0,10,10,13
+2025,Mercedes-Benz,AMG EQE 4MATIC+ Sedan,Mid-size,460,A1,B,30.2,29.6,29.9,3.4,3.3,3.4,354,0,10,10,10.75
+2025,Mercedes-Benz,AMG EQE 4MATIC+ SUV,Sport utility vehicle: Standard,460,A1,B,27.6,29.1,28.3,3.1,3.3,3.2,370,0,10,10,10.75
+2025,Mercedes-Benz,AMG EQS 4MATIC+ Sedan,Full-size,484,A1,B,28.0,26.1,26.7,3.1,2.9,3.0,507,0,10,10,14
+2025,Mercedes-Benz,EQB 250+,Sport utility vehicle: Small,140,A1,B,18.4,20.9,19.6,2.1,2.3,2.2,404,0,10,10,8.25
+2025,Mercedes-Benz,EQB 300 4MATIC,Sport utility vehicle: Small,168,A1,B,23.5,24.8,24.0,2.6,2.8,2.7,330,0,10,10,6.75
+2025,Mercedes-Benz,EQE 350 4MATIC Sedan,Mid-size,215,A1,B,24.2,24.5,24.4,2.7,2.8,2.7,430,0,10,10,9.5
+2025,Mercedes-Benz,EQE 350 4MATIC SUV,Sport utility vehicle: Standard,215,A1,B,24.9,26.7,26.1,2.8,3.0,2.9,407,0,10,10,9.5
+2025,Mercedes-Benz,EQE 500 4MATIC Sedan,Mid-size,300,A1,B,24.5,24.8,24.6,2.8,2.8,2.8,428,0,10,10,9.5
+2025,Mercedes-Benz,EQE 500 4MATIC SUV,Sport utility vehicle: Standard,300,A1,B,25.5,26.7,26.1,2.8,3.0,2.9,425,0,10,10,10.25
+2025,Mercedes-Benz,EQS 450 4MATIC Sedan,Full-size,265,A1,B,23.1,22.4,22.8,2.6,2.5,2.6,591,0,10,10,14
+2025,Mercedes-Benz,EQS 450 4MATIC SUV,Sport utility vehicle: Standard,265,A1,B,26.1,27.0,26.5,2.9,3.0,3.0,502,0,10,10,14
+2025,Mercedes-Benz,EQS 580 4MATIC Sedan,Full-size,400,A1,B,22.4,22.4,22.4,2.5,2.5,2.5,597,0,10,10,14
+2025,Mercedes-Benz,EQS 580 4MATIC SUV,Sport utility vehicle: Standard,400,A1,B,25.5,26.7,26.1,2.9,3.0,2.9,510,0,10,10,14
+2025,Mercedes-Benz,Maybach EQS 680 4MATIC SUV,Sport utility vehicle: Standard,484,A1,B,27.3,27.3,27.3,3.1,3.1,3.1,486,0,10,10,12.75
+2025,Mercedes-Benz,G 580 with EQ Technology,Sport utility vehicle: Standard,432,A1,B,31.1,37.3,33.6,3.5,4.2,3.8,385,0,10,10,13.6
+2026,BMW,"i4 eDrive40 Gran Coupe (18"" Wheels)",Compact,250,A1,B,17.3,18.3,17.7,1.9,2.1,2.0,536,0,10,10,9
+2026,BMW,"i4 eDrive40 Gran Coupe (19"" Wheels)",Compact,250,A1,B,18.7,20.0,19.3,2.1,2.2,2.2,494,0,10,10,9
+2026,BMW,"i4 xDrive40 Gran Coupe (18"" Wheels)",Compact,295,A1,B,21.1,20.3,20.8,2.4,2.3,2.3,462,0,10,10,8
+2026,BMW,"i4 xDrive40 Gran Coupe (19"" Wheels)",Compact,295,A1,B,22.6,22.1,22.4,2.5,2.5,2.5,431,0,10,10,8
+2026,BMW,"i4 M60 xDrive Gran Coupe (19"" Wheels)",Compact,442,A1,B,21.1,21.7,21.4,2.4,2.4,2.4,447,0,10,10,9
+2026,BMW,"i4 M60 xDrive Gran Coupe (20"" Wheels)",Compact,442,A1,B,25.4,26.2,25.7,2.9,2.9,2.9,373,0,10,10,9
+2026,BMW,"i5 xDrive40 Sedan (19"" Wheels)",Compact,290,A1,B,21.2,21.6,21.4,2.4,2.4,2.4,447,0,10,10,8
+2026,BMW,"i5 xDrive40 Sedan (20"" Wheels)",Compact,290,A1,B,21.6,22.2,21.9,2.4,2.5,2.5,438,0,10,10,8
+2026,BMW,"i5 xDrive40 Sedan (21"" Wheels)",Compact,290,A1,B,22.7,23.7,23.1,2.5,2.7,2.6,417,0,10,10,8
+2026,BMW,"i5 M60 xDrive Sedan (19"" Wheels)",Compact,442,A1,B,21.0,21.4,21.2,2.4,2.4,2.4,446,0,10,10,8
+2026,BMW,"i5 M60 xDrive Sedan (20"" Wheels)",Compact,442,A1,B,21.8,22.8,22.3,2.5,2.6,2.5,428,0,10,10,8
+2026,BMW,"i5 M60 xDrive Sedan (21"" Wheels)",Compact,442,A1,B,22.7,23.5,23.1,2.5,2.6,2.6,417,0,10,10,8
+2026,BMW,"i7 xDrive60 Sedan (19"" Wheels)",Full-size,400,A1,B,24.5,23.1,23.9,2.8,2.6,2.7,500,0,10,10,10
+2026,BMW,"i7 xDrive60 Sedan (20"" Wheels)",Full-size,400,A1,B,26.0,24.5,25.3,2.9,2.8,2.8,476,0,10,10,10
+2026,BMW,"i7 xDrive60 Sedan (21"" Wheels)",Full-size,400,A1,B,24.6,23.4,24.1,2.8,2.6,2.7,496,0,10,10,10
+2026,BMW,"i7 M70 xDrive Sedan (20"" Wheels)",Full-size,485,A1,B,29.0,26.7,28.0,3.3,3.0,3.1,430,0,10,10,10
+2026,BMW,"i7 M70 xDrive Sedan (21"" Wheels)",Full-size,485,A1,B,27.2,25.3,26.4,3.1,2.8,3.0,459,0,10,10,10
+2026,BMW,"iX xDrive45 (20"" Wheels)",Sport utility vehicle: Standard,300,A1,B,22.2,22.5,22.4,2.5,2.5,2.5,502,0,10,10,10
+2026,BMW,"iX xDrive45 (21"" Wheels)",Sport utility vehicle: Standard,300,A1,B,23.1,23.8,23.4,2.6,2.7,2.6,478,0,10,10,10
+2026,BMW,"iX xDrive45 (22"" Wheels)",Sport utility vehicle: Standard,300,A1,B,24.6,25.5,25.0,2.8,2.9,2.8,449,0,10,10,10
+2026,BMW,"iX xDrive45 (23"" Wheels)",Sport utility vehicle: Standard,300,A1,B,23.6,24.5,24.0,2.7,2.8,2.7,467,0,10,10,10
+2026,BMW,"iX xDrive60 (20"" Wheels)",Sport utility vehicle: Standard,400,A1,B,21.1,22.2,21.6,2.4,2.5,2.4,586,0,10,10,11
+2026,BMW,"iX xDrive60 (21"" Wheels)",Sport utility vehicle: Standard,400,A1,B,22.7,23.7,23.1,2.5,2.7,2.6,549,0,10,10,11
+2026,BMW,"iX xDrive60 (22"" Wheels)",Sport utility vehicle: Standard,400,A1,B,23.3,24.7,23.9,2.6,2.8,2.7,526,0,10,10,11
+2026,BMW,"iX xDrive60 (23"" Wheels)",Sport utility vehicle: Standard,400,A1,B,24.1,25.2,24.6,2.7,2.8,2.8,512,0,10,10,11
+2026,BMW,"iX M70 (21"" Wheels)",Sport utility vehicle: Standard,425,A1,B,26.6,25.4,26.1,3.0,2.9,2.9,488,0,10,10,11
+2026,BMW,"iX M70 (22"" Wheels)",Sport utility vehicle: Standard,425,A1,B,28.3,26.9,27.6,3.2,3.0,3.1,457,0,10,10,11
+2026,BMW,"iX M70 (23"" Wheels)",Sport utility vehicle: Standard,425,A1,B,28.2,27.4,27.8,3.2,3.1,3.1,455,0,10,10,11
+2026,Mercedes-Benz,CLA 350 4MATIC with EQ Technology,Compact,260,A1,B,17.4,18.2,17.7,2.0,2.0,2.0,502,0,10,10,8.85
+2026,Mercedes-Benz,EQE 320 4MATIC Sedan,Mid-size,235,A1,B,24.2,24.5,24.4,2.7,2.8,2.7,430,0,10,10,10.75
+2026,Mercedes-Benz,EQE 320 4MATIC SUV,Station wagon: Mid-size,235,A1,B,24.9,26.7,26.1,2.8,3.0,2.9,407,0,10,10,10.75
+2026,Mercedes-Benz,EQS 400 4MATIC SUV,Sport utility vehicle: Standard,265,A1,B,26.1,27.0,26.5,2.9,3.0,3.0,502,0,10,10,14
+2026,Mercedes-Benz,EQS 450 4MATIC Sedan,Full-size,265,A1,B,23.1,22.4,22.8,2.6,2.5,2.6,591,0,10,10,14
+2026,Mercedes-Benz,EQS 550 4MATIC SUV,Sport utility vehicle: Standard,400,A1,B,25.5,26.7,26.1,2.9,3.0,2.9,510,0,10,10,14
+2026,Mercedes-Benz,EQS 580 4MATIC Sedan,Full-size,400,A1,B,22.4,22.4,22.4,2.5,2.5,2.5,597,0,10,10,14
+2026,Mercedes-Benz,G 580 with EQ Technology,Sport utility vehicle: Standard,432,A1,B,31.1,37.3,33.6,3.5,4.2,3.8,385,0,10,10,13.6

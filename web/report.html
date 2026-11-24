@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Car carbon report | BMW &amp; Mercedes-Benz</title>
+<meta name="description" content="A one-page report of a car's yearly CO2, fuel use and recommendations, ready to print or save as PDF.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Ccircle cx='16' cy='16' r='14' fill='%2307090c' stroke='%23e3b866' stroke-width='2'/%3E%3Cpath d='M16 7l2.6 6.4L25 16l-6.4 2.6L16 25l-2.6-6.4L7 16l6.4-2.6z' fill='%23e3b866'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="fonts/fonts.css">
+<link rel="stylesheet" href="report.css">
+</head>
+<body>
+<div class="toolbar">
+  <a href="index.html" class="back">Back to the estimator</a>
+  <p>One A4 page. In the print window choose <b>Save as PDF</b> to keep a copy.</p>
+  <button type="button" id="printBtn">Print or save as PDF</button>
+</div>
+
+<article class="sheet" id="sheet">
+  <header class="head">
+    <div>
+      <h1>Car carbon report</h1>
+      <p>Carbon Footprint Estimation and Recommendation System</p>
+    </div>
+    <p class="date" id="rDate"></p>
+  </header>
+
+  <section class="car">
+    <p class="make" id="rMake"></p>
+    <h2 id="rModel"></h2>
+    <p class="specline" id="rSpecs"></p>
+  </section>
+
+  <section class="inputs" id="rInputs" aria-label="Your driving"></section>
+
+  <section class="result">
+    <div class="total">
+      <b id="rTotal"></b>
+      <span>tonnes of CO₂ a year</span>
+      <p class="band" id="rBand"></p>
+    </div>
+    <dl class="stats" id="rStats"></dl>
+  </section>
+
+  <section class="split">
+    <h3>Where it comes from</h3>
+    <div class="bar" id="rBar"></div>
+    <div class="legend" id="rLegend"></div>
+  </section>
+
+  <section class="likes">
+    <h3>That is about the same as</h3>
+    <ul id="rLikes"></ul>
+  </section>
+
+  <section class="tips">
+    <h3>How to cut it</h3>
+    <table>
+      <thead><tr><th class="n">#</th><th>Change</th><th class="num">CO₂ saved a year</th><th class="num">Money saved a year</th></tr></thead>
+      <tbody id="rTips"></tbody>
+    </table>
+    <p class="note">The savings overlap, so they do not simply add up.</p>
+  </section>
+
+  <footer class="foot">
+    <p id="rMethod"></p>
+    <p>Sources: Government of Canada Fuel Consumption Ratings 2021–2026 and Kaggle CO2_Emissions_Canada.csv (car ratings); Central Electricity Authority CO₂ Baseline Database (India's grid); Global Carbon Budget via Our World in Data (CO₂ per person in India); Arbor Day Foundation (CO₂ a tree absorbs); IPCC 2006 Guidelines (LPG).</p>
+    <p>Student mini project. Not affiliated with, endorsed or sponsored by BMW AG or Mercedes-Benz Group AG.</p>
+  </footer>
+</article>
+
+<script src="data.js"></script>
+<script src="footprint.js"></script>
+<script src="report.js"></script>
+</body>
+</html>

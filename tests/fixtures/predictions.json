@@ -1,0 +1,1314 @@
+[
+ {
+  "make": "Mercedes-Benz",
+  "vehicle_class": "SUV - STANDARD",
+  "transmission": "AS7",
+  "fuel_type": "Z",
+  "performance": "yes",
+  "awd": "no",
+  "engine_l": 6.0,
+  "cylinders": 12,
+  "expected_co2_g_km": 464.2853722081994,
+  "expected_group_probabilities": {
+   "High": 0.9915512689509304,
+   "Low": 0.0022707832130446403,
+   "Medium": 0.006177947836025048
+  }
+ },
+ {
+  "make": "BMW",
+  "vehicle_class": "FULL-SIZE",
+  "transmission": "A8",
+  "fuel_type": "Z",
+  "performance": "no",
+  "awd": "no",
+  "engine_l": 3.0,
+  "cylinders": 6,
+  "expected_co2_g_km": 229.29621936009227,
+  "expected_group_probabilities": {
+   "High": 0.06813761928479821,
+   "Low": 0.05941268570217208,
+   "Medium": 0.8724496950130296
+  }
+ },
+ {
+  "make": "BMW",
+  "vehicle_class": "TWO-SEATER",
+  "transmission": "M6",
+  "fuel_type": "Z",
+  "performance": "no",
+  "awd": "no",
+  "engine_l": 2.0,
+  "cylinders": 4,
+  "expected_co2_g_km": 205.74268970848223,
+  "expected_group_probabilities": {
+   "High": 0.013646970021535,
+   "Low": 0.8903611112062984,
+   "Medium": 0.09599191877216676
+  }
+ },
+ {
+  "make": "Mercedes-Benz",
+  "vehicle_class": "STATION WAGON - MID-SIZE",
+  "transmission": "AS7",
+  "fuel_type": "Z",
+  "performance": "yes",
+  "awd": "yes",
+  "engine_l": 5.5,
+  "cylinders": 8,
+  "expected_co2_g_km": 303.7133372212046,
+  "expected_group_probabilities": {
+   "High": 0.9417855247900714,
+   "Low": 0.012526844970287505,
+   "Medium": 0.04568763023964112
+  }
+ },
+ {
+  "make": "Mercedes-Benz",
+  "vehicle_class": "TWO-SEATER",
+  "transmission": "M6",
+  "fuel_type": "Z",
+  "performance": "no",
+  "awd": "no",
+  "engine_l": 1.8,
+  "cylinders": 4,
+  "expected_co2_g_km": 206.48087154254387,
+  "expected_group_probabilities": {
+   "High": 0.01360395064181354,
+   "Low": 0.8992744839536994,
+   "Medium": 0.0871215654044872
+  }
+ },
+ {
+  "make": "BMW",
+  "vehicle_class": "COMPACT",
+  "transmission": "M6",
+  "fuel_type": "Z",
+  "performance": "yes",
+  "awd": "no",
+  "engine_l": 3.0,
+  "cylinders": 6,
+  "expected_co2_g_km": 265.10192458149953,
+  "expected_group_probabilities": {
+   "High": 0.09445331328577657,
+   "Low": 0.033200759133272514,
+   "Medium": 0.8723459275809511
+  }
+ },
+ {
+  "make": "BMW",
+  "vehicle_class": "SUBCOMPACT",
+  "transmission": "AS8",
+  "fuel_type": "Z",
+  "performance": "no",
+  "awd": "no",
+  "engine_l": 2.0,
+  "cylinders": 4,
+  "expected_co2_g_km": 202.99440081644175,
+  "expected_group_probabilities": {
+   "High": 0.013623970728109072,
+   "Low": 0.9102171205075865,
+   "Medium": 0.07615890876430456
+  }
+ },
+ {
+  "make": "Mercedes-Benz",
+  "vehicle_class": "STATION WAGON - SMALL",
+  "transmission": "A9",
+  "fuel_type": "Z",
+  "performance": "no",
+  "awd": "yes",
+  "engine_l": 2.0,
+  "cylinders": 4,
+  "expected_co2_g_km": 217.33597431029486,
+  "expected_group_probabilities": {
+   "High": 0.010480109132485347,
+   "Low": 0.9344376485819009,
+   "Medium": 0.05508224228561369
+  }
+ },
+ {
+  "make": "Mercedes-Benz",
+  "vehicle_class": "COMPACT",
+  "transmission": "AM7",
+  "fuel_type": "Z",
+  "performance": "yes",
+  "awd": "yes",
+  "engine_l": 2.0,
+  "cylinders": 4,
+  "expected_co2_g_km": 225.31831810889298,
+  "expected_group_probabilities": {
+   "High": 0.060457061530275906,
+   "Low": 0.8073379734706617,
+   "Medium": 0.1322049649990624
+  }
+ },
+ {
+  "make": "BMW",
+  "vehicle_class": "COMPACT",
+  "transmission": "A8",
+  "fuel_type": "Z",
+  "performance": "no",
+  "awd": "yes",
+  "engine_l": 2.0,
+  "cylinders": 4,
+  "expected_co2_g_km": 206.1901294628153,
+  "expected_group_probabilities": {
+   "High": 0.015044116951066243,
+   "Low": 0.9229902656034674,
+   "Medium": 0.06196561744546614
+  }
+ },
+ {
+  "make": "Mercedes-Benz",
+  "vehicle_class": "FULL-SIZE",
+  "transmission": "A9",
+  "fuel_type": "Z",
+  "performance": "yes",
+  "awd": "yes",
+  "engine_l": 4.0,
+  "cylinders": 8,
+  "expected_co2_g_km": 303.7145482589613,
+  "expected_group_probabilities": {
+   "High": 0.8870759323537779,
+   "Low": 0.005394729436137041,
+   "Medium": 0.10752933821008506
+  }
+ },
+ {
+  "make": "BMW",
+  "vehicle_class": "SUBCOMPACT",
+  "transmission": "AS8",
+  "fuel_type": "Z",
+  "performance": "no",
+  "awd": "yes",
+  "engine_l": 3.0,
+  "cylinders": 6,
+  "expected_co2_g_km": 230.43543081244914,
+  "expected_group_probabilities": {
+   "High": 0.08566432191273929,
+   "Low": 0.10109503402490785,
+   "Medium": 0.8132406440623527
+  }
+ },
+ {
+  "make": "BMW",
+  "vehicle_class": "SUBCOMPACT",
+  "transmission": "AS8",
+  "fuel_type": "Z",
+  "performance": "yes",
+  "awd": "yes",
+  "engine_l": 3.0,
+  "cylinders": 6,
+  "expected_co2_g_km": 241.63707562936324,
+  "expected_group_probabilities": {
+   "High": 0.10813006078007657,
+   "Low": 0.028315226259808205,
+   "Medium": 0.863554712960115
+  }
+ },
+ {
+  "make": "Mercedes-Benz",
+  "vehicle_class": "STATION WAGON - SMALL",
+  "transmission": "AM8",
+  "fuel_type": "Z",
+  "performance": "no",
+  "awd": "no",
+  "engine_l": 2.0,
+  "cylinders": 4,
+  "expected_co2_g_km": 201.0646736864326,
+  "expected_group_probabilities": {
+   "High": 0.005267263221881074,
+   "Low": 0.9383205224634095,
+   "Medium": 0.05641221431470924
+  }
+ },
+ {
+  "make": "Mercedes-Benz",
+  "vehicle_class": "SUV - STANDARD",
+  "transmission": "A9",
+  "fuel_type": "Z",
+  "performance": "no",
+  "awd": "yes",
+  "engine_l": 4.0,
+  "cylinders": 8,
+  "expected_co2_g_km": 341.1241875057659,
+  "expected_group_probabilities": {
+   "High": 0.8091658673740788,
+   "Low": 0.03613968308864508,
+   "Medium": 0.154694449537276
+  }
+ },
+ {
+  "make": "Mercedes-Benz",
+  "vehicle_class": "SUBCOMPACT",
+  "transmission": "A9",
+  "fuel_type": "Z",
+  "performance": "no",
+  "awd": "yes",
+  "engine_l": 2.0,
+  "cylinders": 4,
+  "expected_co2_g_km": 217.33597431029486,
+  "expected_group_probabilities": {
+   "High": 0.01737228798679513,
+   "Low": 0.9066312696814972,
+   "Medium": 0.07599644233170777
+  }
+ },
+ {
+  "make": "BMW",
+  "vehicle_class": "MID-SIZE",
+  "transmission": "AS8",
+  "fuel_type": "Z",
+  "performance": "no",
+  "awd": "yes",
+  "engine_l": 4.4,
+  "cylinders": 8,
+  "expected_co2_g_km": 282.58181870298165,
+  "expected_group_probabilities": {
+   "High": 0.730398638953795,
+   "Low": 0.053886712878027015,
+   "Medium": 0.21571464816817812
+  }
+ },
+ {
+  "make": "BMW",
+  "vehicle_class": "MID-SIZE",
+  "transmission": "AS8",
+  "fuel_type": "D",
+  "performance": "no",
+  "awd": "yes",
+  "engine_l": 3.0,
+  "cylinders": 6,
+  "expected_co2_g_km": 222.3225663547221,
+  "expected_group_probabilities": {
+   "High": 0.07525354522777272,
+   "Low": 0.08066611535594466,
+   "Medium": 0.8440803394162826
+  }
+ },
+ {
+  "make": "BMW",
+  "vehicle_class": "SUV - SMALL",
+  "transmission": "AS8",
+  "fuel_type": "Z",
+  "performance": "yes",
+  "awd": "yes",
+  "engine_l": 3.0,
+  "cylinders": 6,
+  "expected_co2_g_km": 258.82738793719614,
+  "expected_group_probabilities": {
+   "High": 0.14041116025924844,
+   "Low": 0.06610907703510463,
+   "Medium": 0.7934797627056469
+  }
+ },
+ {
+  "make": "Mercedes-Benz",
+  "vehicle_class": "SUV - STANDARD",
+  "transmission": "AS7",
+  "fuel_type": "Z",
+  "performance": "no",
+  "awd": "yes",
+  "engine_l": 4.7,
+  "cylinders": 8,
+  "expected_co2_g_km": 346.94573484591575,
+  "expected_group_probabilities": {
+   "High": 0.873016944373034,
+   "Low": 0.011836140804314286,
+   "Medium": 0.11514691482265159
+  }
+ },
+ {
+  "make": "Mercedes-Benz",
+  "vehicle_class": "SUBCOMPACT",
+  "transmission": "AM7",
+  "fuel_type": "Z",
+  "performance": "no",
+  "awd": "yes",
+  "engine_l": 2.0,
+  "cylinders": 4,
+  "expected_co2_g_km": 208.5894750610522,
+  "expected_group_probabilities": {
+   "High": 0.007849460222463946,
+   "Low": 0.9468276516379512,
+   "Medium": 0.045322888139584946
+  }
+ },
+ {
+  "make": "Mercedes-Benz",
+  "vehicle_class": "SUV - STANDARD",
+  "transmission": "AS7",
+  "fuel_type": "E",
+  "performance": "no",
+  "awd": "yes",
+  "engine_l": 3.5,
+  "cylinders": 6,
+  "expected_co2_g_km": 274.47354924061153,
+  "expected_group_probabilities": {
+   "High": 0.39162151902632814,
+   "Low": 0.03466359295742433,
+   "Medium": 0.5737148880162475
+  }
+ },
+ {
+  "make": "Mercedes-Benz",
+  "vehicle_class": "MID-SIZE",
+  "transmission": "AM7",
+  "fuel_type": "Z",
+  "performance": "no",
+  "awd": "yes",
+  "engine_l": 2.0,
+  "cylinders": 4,
+  "expected_co2_g_km": 207.95100963535202,
+  "expected_group_probabilities": {
+   "High": 0.011988632095143607,
+   "Low": 0.9280098864389866,
+   "Medium": 0.06000148146586968
+  }
+ },
+ {
+  "make": "Mercedes-Benz",
+  "vehicle_class": "MID-SIZE",
+  "transmission": "A9",
+  "fuel_type": "Z",
+  "performance": "no",
+  "awd": "yes",
+  "engine_l": 2.0,
+  "cylinders": 4,
+  "expected_co2_g_km": 216.69750888459467,
+  "expected_group_probabilities": {
+   "High": 0.018772289352562345,
+   "Low": 0.9021549867013586,
+   "Medium": 0.07907272394607918
+  }
+ },
+ {
+  "make": "Mercedes-Benz",
+  "vehicle_class": "COMPACT",
+  "transmission": "A9",
+  "fuel_type": "Z",
+  "performance": "no",
+  "awd": "yes",
+  "engine_l": 3.0,
+  "cylinders": 6,
+  "expected_co2_g_km": 232.99627787971332,
+  "expected_group_probabilities": {
+   "High": 0.0930176825599193,
+   "Low": 0.07976808557105043,
+   "Medium": 0.8272142318690302
+  }
+ },
+ {
+  "make": "Mercedes-Benz",
+  "vehicle_class": "STATION WAGON - MID-SIZE",
+  "transmission": "A9",
+  "fuel_type": "Z",
+  "performance": "no",
+  "awd": "yes",
+  "engine_l": 3.0,
+  "cylinders": 6,
+  "expected_co2_g_km": 236.7965780111022,
+  "expected_group_probabilities": {
+   "High": 0.0689028180370171,
+   "Low": 0.06903395998549251,
+   "Medium": 0.8620632219774903
+  }
+ },
+ {
+  "make": "Mercedes-Benz",
+  "vehicle_class": "TWO-SEATER",
+  "transmission": "A9",
+  "fuel_type": "Z",
+  "performance": "no",
+  "awd": "no",
+  "engine_l": 4.7,
+  "cylinders": 8,
+  "expected_co2_g_km": 275.95258091593786,
+  "expected_group_probabilities": {
+   "High": 0.7565853562104792,
+   "Low": 0.05784505353828778,
+   "Medium": 0.1855695902512329
+  }
+ },
+ {
+  "make": "Mercedes-Benz",
+  "vehicle_class": "MID-SIZE",
+  "transmission": "AS7",
+  "fuel_type": "Z",
+  "performance": "no",
+  "awd": "yes",
+  "engine_l": 4.7,
+  "cylinders": 6,
+  "expected_co2_g_km": 239.03759705373525,
+  "expected_group_probabilities": {
+   "High": 0.25843239007530683,
+   "Low": 0.043032337227904574,
+   "Medium": 0.6985352726967886
+  }
+ },
+ {
+  "make": "BMW",
+  "vehicle_class": "SUBCOMPACT",
+  "transmission": "AS8",
+  "fuel_type": "Z",
+  "performance": "yes",
+  "awd": "no",
+  "engine_l": 4.4,
+  "cylinders": 8,
+  "expected_co2_g_km": 307.73865208984074,
+  "expected_group_probabilities": {
+   "High": 0.9027599967452637,
+   "Low": 0.004561080473412135,
+   "Medium": 0.09267892278132414
+  }
+ },
+ {
+  "make": "Mercedes-Benz",
+  "vehicle_class": "COMPACT",
+  "transmission": "AS7",
+  "fuel_type": "E",
+  "performance": "no",
+  "awd": "yes",
+  "engine_l": 2.0,
+  "cylinders": 4,
+  "expected_co2_g_km": 198.33622819641946,
+  "expected_group_probabilities": {
+   "High": 0.01920817343160457,
+   "Low": 0.9075746686986524,
+   "Medium": 0.07321715786974313
+  }
+ },
+ {
+  "make": "Mercedes-Benz",
+  "vehicle_class": "SUBCOMPACT",
+  "transmission": "A9",
+  "fuel_type": "Z",
+  "performance": "no",
+  "awd": "yes",
+  "engine_l": 3.0,
+  "cylinders": 6,
+  "expected_co2_g_km": 235.57907746329474,
+  "expected_group_probabilities": {
+   "High": 0.07678350881222894,
+   "Low": 0.0933710279874661,
+   "Medium": 0.829845463200305
+  }
+ },
+ {
+  "make": "BMW",
+  "vehicle_class": "FULL-SIZE",
+  "transmission": "AS8",
+  "fuel_type": "Z",
+  "performance": "no",
+  "awd": "no",
+  "engine_l": 6.0,
+  "cylinders": 12,
+  "expected_co2_g_km": 349.07341176763003,
+  "expected_group_probabilities": {
+   "High": 0.8736141819005452,
+   "Low": 0.012528624358281521,
+   "Medium": 0.1138571937411732
+  }
+ },
+ {
+  "make": "Mercedes-Benz",
+  "vehicle_class": "COMPACT",
+  "transmission": "AS7",
+  "fuel_type": "Z",
+  "performance": "no",
+  "awd": "yes",
+  "engine_l": 4.7,
+  "cylinders": 8,
+  "expected_co2_g_km": 279.5626268567682,
+  "expected_group_probabilities": {
+   "High": 0.7538714081934085,
+   "Low": 0.033713246279283016,
+   "Medium": 0.21241534552730854
+  }
+ },
+ {
+  "make": "BMW",
+  "vehicle_class": "MID-SIZE",
+  "transmission": "AS8",
+  "fuel_type": "Z",
+  "performance": "yes",
+  "awd": "yes",
+  "engine_l": 4.4,
+  "cylinders": 8,
+  "expected_co2_g_km": 292.74708536210676,
+  "expected_group_probabilities": {
+   "High": 0.9254172478017771,
+   "Low": 0.006378569822049137,
+   "Medium": 0.06820418237617383
+  }
+ },
+ {
+  "make": "BMW",
+  "vehicle_class": "COMPACT",
+  "transmission": "A8",
+  "fuel_type": "D",
+  "performance": "no",
+  "awd": "yes",
+  "engine_l": 2.0,
+  "cylinders": 4,
+  "expected_co2_g_km": 189.43052968884592,
+  "expected_group_probabilities": {
+   "High": 0.013006191929270251,
+   "Low": 0.9307767996448404,
+   "Medium": 0.05621700842588937
+  }
+ },
+ {
+  "make": "BMW",
+  "vehicle_class": "MID-SIZE",
+  "transmission": "AM7",
+  "fuel_type": "Z",
+  "performance": "yes",
+  "awd": "no",
+  "engine_l": 4.4,
+  "cylinders": 8,
+  "expected_co2_g_km": 333.78312599795515,
+  "expected_group_probabilities": {
+   "High": 0.9510978175519434,
+   "Low": 0.008086034300736584,
+   "Medium": 0.04081614814731987
+  }
+ },
+ {
+  "make": "Mercedes-Benz",
+  "vehicle_class": "STATION WAGON - SMALL",
+  "transmission": "AM7",
+  "fuel_type": "Z",
+  "performance": "yes",
+  "awd": "yes",
+  "engine_l": 2.0,
+  "cylinders": 4,
+  "expected_co2_g_km": 227.046932052171,
+  "expected_group_probabilities": {
+   "High": 0.04062340149598023,
+   "Low": 0.8656987235861265,
+   "Medium": 0.09367787491789334
+  }
+ },
+ {
+  "make": "Mercedes-Benz",
+  "vehicle_class": "SUV - SMALL",
+  "transmission": "AM7",
+  "fuel_type": "Z",
+  "performance": "no",
+  "awd": "yes",
+  "engine_l": 2.0,
+  "cylinders": 4,
+  "expected_co2_g_km": 204.31481059868838,
+  "expected_group_probabilities": {
+   "High": 0.006029829382201841,
+   "Low": 0.9622170330101055,
+   "Medium": 0.03175313760769268
+  }
+ },
+ {
+  "make": "BMW",
+  "vehicle_class": "COMPACT",
+  "transmission": "AS8",
+  "fuel_type": "Z",
+  "performance": "no",
+  "awd": "no",
+  "engine_l": 3.0,
+  "cylinders": 6,
+  "expected_co2_g_km": 228.27636959159594,
+  "expected_group_probabilities": {
+   "High": 0.05710652792277687,
+   "Low": 0.12001864834170388,
+   "Medium": 0.8228748237355191
+  }
+ },
+ {
+  "make": "BMW",
+  "vehicle_class": "STATION WAGON - SMALL",
+  "transmission": "AS8",
+  "fuel_type": "Z",
+  "performance": "no",
+  "awd": "yes",
+  "engine_l": 2.0,
+  "cylinders": 4,
+  "expected_co2_g_km": 206.0223214184213,
+  "expected_group_probabilities": {
+   "High": 0.009337788955987955,
+   "Low": 0.9463956115394384,
+   "Medium": 0.04426659950457356
+  }
+ },
+ {
+  "make": "Mercedes-Benz",
+  "vehicle_class": "STATION WAGON - SMALL",
+  "transmission": "AM7",
+  "fuel_type": "Z",
+  "performance": "no",
+  "awd": "yes",
+  "engine_l": 2.0,
+  "cylinders": 4,
+  "expected_co2_g_km": 208.5894750610522,
+  "expected_group_probabilities": {
+   "High": 0.005501182244035389,
+   "Low": 0.9652844107504447,
+   "Medium": 0.02921440700551977
+  }
+ },
+ {
+  "make": "BMW",
+  "vehicle_class": "COMPACT",
+  "transmission": "AM7",
+  "fuel_type": "Z",
+  "performance": "no",
+  "awd": "yes",
+  "engine_l": 2.0,
+  "cylinders": 4,
+  "expected_co2_g_km": 206.3852057721221,
+  "expected_group_probabilities": {
+   "High": 0.008697920799998184,
+   "Low": 0.946619214711446,
+   "Medium": 0.0446828644885558
+  }
+ },
+ {
+  "make": "BMW",
+  "vehicle_class": "COMPACT",
+  "transmission": "AS8",
+  "fuel_type": "D",
+  "performance": "no",
+  "awd": "yes",
+  "engine_l": 2.0,
+  "cylinders": 4,
+  "expected_co2_g_km": 192.7307803025176,
+  "expected_group_probabilities": {
+   "High": 0.011865992593722079,
+   "Low": 0.9218757619174188,
+   "Medium": 0.06625824548885915
+  }
+ },
+ {
+  "make": "Mercedes-Benz",
+  "vehicle_class": "STATION WAGON - MID-SIZE",
+  "transmission": "AS7",
+  "fuel_type": "Z",
+  "performance": "yes",
+  "awd": "yes",
+  "engine_l": 2.0,
+  "cylinders": 4,
+  "expected_co2_g_km": 227.22814551811248,
+  "expected_group_probabilities": {
+   "High": 0.07747718338873572,
+   "Low": 0.8117809274502824,
+   "Medium": 0.11074188916098182
+  }
+ },
+ {
+  "make": "BMW",
+  "vehicle_class": "FULL-SIZE",
+  "transmission": "AS8",
+  "fuel_type": "Z",
+  "performance": "yes",
+  "awd": "no",
+  "engine_l": 4.4,
+  "cylinders": 8,
+  "expected_co2_g_km": 306.2325551112834,
+  "expected_group_probabilities": {
+   "High": 0.9610721588467874,
+   "Low": 0.004286971948352685,
+   "Medium": 0.034640869204860016
+  }
+ },
+ {
+  "make": "Mercedes-Benz",
+  "vehicle_class": "STATION WAGON - MID-SIZE",
+  "transmission": "AS7",
+  "fuel_type": "Z",
+  "performance": "no",
+  "awd": "yes",
+  "engine_l": 3.5,
+  "cylinders": 6,
+  "expected_co2_g_km": 237.40385848115528,
+  "expected_group_probabilities": {
+   "High": 0.08492117027875759,
+   "Low": 0.040298205448107305,
+   "Medium": 0.8747806242731351
+  }
+ },
+ {
+  "make": "Mercedes-Benz",
+  "vehicle_class": "TWO-SEATER",
+  "transmission": "AS7",
+  "fuel_type": "Z",
+  "performance": "no",
+  "awd": "no",
+  "engine_l": 4.7,
+  "cylinders": 8,
+  "expected_co2_g_km": 273.14653394175855,
+  "expected_group_probabilities": {
+   "High": 0.7886491781655817,
+   "Low": 0.0365724588770004,
+   "Medium": 0.17477836295741786
+  }
+ },
+ {
+  "make": "Mercedes-Benz",
+  "vehicle_class": "SUBCOMPACT",
+  "transmission": "AS7",
+  "fuel_type": "Z",
+  "performance": "no",
+  "awd": "no",
+  "engine_l": 4.7,
+  "cylinders": 8,
+  "expected_co2_g_km": 281.5637827607432,
+  "expected_group_probabilities": {
+   "High": 0.7817665464499198,
+   "Low": 0.03452182596560799,
+   "Medium": 0.18371162758447224
+  }
+ },
+ {
+  "make": "Mercedes-Benz",
+  "vehicle_class": "COMPACT",
+  "transmission": "AS7",
+  "fuel_type": "Z",
+  "performance": "no",
+  "awd": "yes",
+  "engine_l": 3.0,
+  "cylinders": 6,
+  "expected_co2_g_km": 230.88508330973866,
+  "expected_group_probabilities": {
+   "High": 0.0983410234950996,
+   "Low": 0.055657646997062146,
+   "Medium": 0.8460013295078379
+  }
+ },
+ {
+  "make": "Mercedes-Benz",
+  "vehicle_class": "SUV - STANDARD",
+  "transmission": "A9",
+  "fuel_type": "Z",
+  "performance": "yes",
+  "awd": "yes",
+  "engine_l": 3.0,
+  "cylinders": 6,
+  "expected_co2_g_km": 277.36315181420764,
+  "expected_group_probabilities": {
+   "High": 0.08791853315513923,
+   "Low": 0.031090501214146204,
+   "Medium": 0.8809909656307146
+  }
+ },
+ {
+  "make": "Mercedes-Benz",
+  "vehicle_class": "TWO-SEATER",
+  "transmission": "AM7",
+  "fuel_type": "Z",
+  "performance": "yes",
+  "awd": "no",
+  "engine_l": 6.2,
+  "cylinders": 8,
+  "expected_co2_g_km": 363.7450003337917,
+  "expected_group_probabilities": {
+   "High": 0.9392203203001792,
+   "Low": 0.007883316492748718,
+   "Medium": 0.052896363207072
+  }
+ },
+ {
+  "make": "Mercedes-Benz",
+  "vehicle_class": "STATION WAGON - SMALL",
+  "transmission": "AM8",
+  "fuel_type": "Z",
+  "performance": "yes",
+  "awd": "yes",
+  "engine_l": 2.0,
+  "cylinders": 4,
+  "expected_co2_g_km": 230.4512326564021,
+  "expected_group_probabilities": {
+   "High": 0.00748494983277592,
+   "Low": 0.9671352427119237,
+   "Medium": 0.025379807455300364
+  }
+ },
+ {
+  "make": "BMW",
+  "vehicle_class": "FULL-SIZE",
+  "transmission": "A8",
+  "fuel_type": "Z",
+  "performance": "no",
+  "awd": "yes",
+  "engine_l": 3.0,
+  "cylinders": 6,
+  "expected_co2_g_km": 235.3930576890311,
+  "expected_group_probabilities": {
+   "High": 0.07980557587961222,
+   "Low": 0.0528028767450914,
+   "Medium": 0.8673915473752962
+  }
+ },
+ {
+  "make": "Mercedes-Benz",
+  "vehicle_class": "COMPACT",
+  "transmission": "A9",
+  "fuel_type": "Z",
+  "performance": "no",
+  "awd": "yes",
+  "engine_l": 4.0,
+  "cylinders": 8,
+  "expected_co2_g_km": 280.3087916401412,
+  "expected_group_probabilities": {
+   "High": 0.6260858295023116,
+   "Low": 0.050011642433763194,
+   "Medium": 0.3239025280639251
+  }
+ },
+ {
+  "make": "BMW",
+  "vehicle_class": "TWO-SEATER",
+  "transmission": "AS8",
+  "fuel_type": "Z",
+  "performance": "no",
+  "awd": "no",
+  "engine_l": 2.0,
+  "cylinders": 4,
+  "expected_co2_g_km": 198.7387279066543,
+  "expected_group_probabilities": {
+   "High": 0.015679495567027413,
+   "Low": 0.8953469843212357,
+   "Medium": 0.0889735201117369
+  }
+ },
+ {
+  "make": "Mercedes-Benz",
+  "vehicle_class": "FULL-SIZE",
+  "transmission": "A7",
+  "fuel_type": "Z",
+  "performance": "yes",
+  "awd": "no",
+  "engine_l": 6.0,
+  "cylinders": 12,
+  "expected_co2_g_km": 354.1015548845885,
+  "expected_group_probabilities": {
+   "High": 0.9806005777626465,
+   "Low": 0.0008794632159118141,
+   "Medium": 0.018519959021441598
+  }
+ },
+ {
+  "make": "BMW",
+  "vehicle_class": "FULL-SIZE",
+  "transmission": "AS8",
+  "fuel_type": "Z",
+  "performance": "yes",
+  "awd": "yes",
+  "engine_l": 4.4,
+  "cylinders": 8,
+  "expected_co2_g_km": 292.6312333291288,
+  "expected_group_probabilities": {
+   "High": 0.9464072828068413,
+   "Low": 0.004834235629944725,
+   "Medium": 0.04875848156321406
+  }
+ },
+ {
+  "make": "BMW",
+  "vehicle_class": "FULL-SIZE",
+  "transmission": "AS8",
+  "fuel_type": "Z",
+  "performance": "no",
+  "awd": "yes",
+  "engine_l": 2.0,
+  "cylinders": 4,
+  "expected_co2_g_km": 205.61070525592578,
+  "expected_group_probabilities": {
+   "High": 0.037992714423929416,
+   "Low": 0.8437253897213358,
+   "Medium": 0.11828189585473488
+  }
+ },
+ {
+  "make": "Mercedes-Benz",
+  "vehicle_class": "SUV - STANDARD",
+  "transmission": "AS7",
+  "fuel_type": "D",
+  "performance": "no",
+  "awd": "yes",
+  "engine_l": 3.0,
+  "cylinders": 6,
+  "expected_co2_g_km": 280.35923102518564,
+  "expected_group_probabilities": {
+   "High": 0.10940405717120257,
+   "Low": 0.025523522035438517,
+   "Medium": 0.8650724207933588
+  }
+ },
+ {
+  "make": "Mercedes-Benz",
+  "vehicle_class": "SUBCOMPACT",
+  "transmission": "A9",
+  "fuel_type": "Z",
+  "performance": "yes",
+  "awd": "no",
+  "engine_l": 2.0,
+  "cylinders": 4,
+  "expected_co2_g_km": 241.03619491080667,
+  "expected_group_probabilities": {
+   "High": 0.07821360425399894,
+   "Low": 0.73633525108987,
+   "Medium": 0.18545114465613102
+  }
+ },
+ {
+  "make": "Mercedes-Benz",
+  "vehicle_class": "MID-SIZE",
+  "transmission": "AS7",
+  "fuel_type": "Z",
+  "performance": "no",
+  "awd": "yes",
+  "engine_l": 3.0,
+  "cylinders": 6,
+  "expected_co2_g_km": 232.8294174676199,
+  "expected_group_probabilities": {
+   "High": 0.09580970313788763,
+   "Low": 0.05773392143102251,
+   "Medium": 0.8464563754310896
+  }
+ },
+ {
+  "make": "Mercedes-Benz",
+  "vehicle_class": "SUBCOMPACT",
+  "transmission": "AS7",
+  "fuel_type": "Z",
+  "performance": "no",
+  "awd": "yes",
+  "engine_l": 3.5,
+  "cylinders": 6,
+  "expected_co2_g_km": 234.48940566529066,
+  "expected_group_probabilities": {
+   "High": 0.0822788112206716,
+   "Low": 0.06026969351150706,
+   "Medium": 0.857451495267821
+  }
+ },
+ {
+  "make": "Mercedes-Benz",
+  "vehicle_class": "STATION WAGON - SMALL",
+  "transmission": "A9",
+  "fuel_type": "Z",
+  "performance": "yes",
+  "awd": "yes",
+  "engine_l": 4.0,
+  "cylinders": 8,
+  "expected_co2_g_km": 305.2206452375187,
+  "expected_group_probabilities": {
+   "High": 0.826549778468761,
+   "Low": 0.032532309786874644,
+   "Medium": 0.14091791174436447
+  }
+ },
+ {
+  "make": "BMW",
+  "vehicle_class": "COMPACT",
+  "transmission": "AS8",
+  "fuel_type": "Z",
+  "performance": "yes",
+  "awd": "yes",
+  "engine_l": 3.0,
+  "cylinders": 6,
+  "expected_co2_g_km": 239.05427604578182,
+  "expected_group_probabilities": {
+   "High": 0.10831068618883677,
+   "Low": 0.05862699303597451,
+   "Medium": 0.8330623207751883
+  }
+ },
+ {
+  "make": "BMW",
+  "vehicle_class": "COMPACT",
+  "transmission": "AS8",
+  "fuel_type": "Z",
+  "performance": "no",
+  "awd": "no",
+  "engine_l": 2.0,
+  "cylinders": 4,
+  "expected_co2_g_km": 200.41160123286033,
+  "expected_group_probabilities": {
+   "High": 0.012492367869946876,
+   "Low": 0.8985312821776387,
+   "Medium": 0.08897634995241453
+  }
+ },
+ {
+  "make": "Mercedes-Benz",
+  "vehicle_class": "MID-SIZE",
+  "transmission": "AM7",
+  "fuel_type": "Z",
+  "performance": "no",
+  "awd": "no",
+  "engine_l": 2.0,
+  "cylinders": 4,
+  "expected_co2_g_km": 203.60517954751114,
+  "expected_group_probabilities": {
+   "High": 0.012525188746789775,
+   "Low": 0.9018418356443023,
+   "Medium": 0.08563297560890805
+  }
+ },
+ {
+  "make": "Mercedes-Benz",
+  "vehicle_class": "COMPACT",
+  "transmission": "AM8",
+  "fuel_type": "Z",
+  "performance": "no",
+  "awd": "yes",
+  "engine_l": 2.0,
+  "cylinders": 4,
+  "expected_co2_g_km": 202.57982138977832,
+  "expected_group_probabilities": {
+   "High": 0.009512873023330197,
+   "Low": 0.9554665148442136,
+   "Medium": 0.03502061213245624
+  }
+ },
+ {
+  "make": "BMW",
+  "vehicle_class": "SUV - SMALL",
+  "transmission": "AS8",
+  "fuel_type": "Z",
+  "performance": "no",
+  "awd": "yes",
+  "engine_l": 2.0,
+  "cylinders": 4,
+  "expected_co2_g_km": 216.33843722333438,
+  "expected_group_probabilities": {
+   "High": 0.008445271755497653,
+   "Low": 0.9380464900641275,
+   "Medium": 0.0535082381803749
+  }
+ },
+ {
+  "make": "BMW",
+  "vehicle_class": "COMPACT",
+  "transmission": "A8",
+  "fuel_type": "Z",
+  "performance": "no",
+  "awd": "no",
+  "engine_l": 3.0,
+  "cylinders": 6,
+  "expected_co2_g_km": 226.78256978725372,
+  "expected_group_probabilities": {
+   "High": 0.05108544110460613,
+   "Low": 0.10579202970951186,
+   "Medium": 0.843122529185882
+  }
+ },
+ {
+  "make": "BMW",
+  "vehicle_class": "MID-SIZE",
+  "transmission": "AS8",
+  "fuel_type": "Z",
+  "performance": "no",
+  "awd": "yes",
+  "engine_l": 2.0,
+  "cylinders": 4,
+  "expected_co2_g_km": 205.65962307717427,
+  "expected_group_probabilities": {
+   "High": 0.020991426674138516,
+   "Low": 0.9024141958685026,
+   "Medium": 0.07659437745735898
+  }
+ },
+ {
+  "make": "Mercedes-Benz",
+  "vehicle_class": "SUV - SMALL",
+  "transmission": "AS7",
+  "fuel_type": "Z",
+  "performance": "yes",
+  "awd": "yes",
+  "engine_l": 2.0,
+  "cylinders": 4,
+  "expected_co2_g_km": 231.84181865427243,
+  "expected_group_probabilities": {
+   "High": 0.05475978196379241,
+   "Low": 0.8382878189931923,
+   "Medium": 0.10695239904301537
+  }
+ },
+ {
+  "make": "Mercedes-Benz",
+  "vehicle_class": "COMPACT",
+  "transmission": "AS7",
+  "fuel_type": "Z",
+  "performance": "yes",
+  "awd": "no",
+  "engine_l": 2.0,
+  "cylinders": 4,
+  "expected_co2_g_km": 222.68496506124964,
+  "expected_group_probabilities": {
+   "High": 0.0704168148298511,
+   "Low": 0.8334443280225701,
+   "Medium": 0.0961388571475789
+  }
+ },
+ {
+  "make": "Mercedes-Benz",
+  "vehicle_class": "SPECIAL PURPOSE VEHICLE",
+  "transmission": "A7",
+  "fuel_type": "Z",
+  "performance": "no",
+  "awd": "no",
+  "engine_l": 2.0,
+  "cylinders": 4,
+  "expected_co2_g_km": 252.8072814417508,
+  "expected_group_probabilities": {
+   "High": 0.018951265757042764,
+   "Low": 0.893231685779248,
+   "Medium": 0.08781704846370936
+  }
+ },
+ {
+  "make": "BMW",
+  "vehicle_class": "COMPACT",
+  "transmission": "M6",
+  "fuel_type": "Z",
+  "performance": "no",
+  "awd": "no",
+  "engine_l": 3.0,
+  "cylinders": 6,
+  "expected_co2_g_km": 239.9162974621549,
+  "expected_group_probabilities": {
+   "High": 0.028230756230889643,
+   "Low": 0.1239065520089179,
+   "Medium": 0.8478626917601924
+  }
+ },
+ {
+  "make": "Mercedes-Benz",
+  "vehicle_class": "STATION WAGON - MID-SIZE",
+  "transmission": "AM8",
+  "fuel_type": "Z",
+  "performance": "yes",
+  "awd": "yes",
+  "engine_l": 2.0,
+  "cylinders": 4,
+  "expected_co2_g_km": 237.47407616419625,
+  "expected_group_probabilities": {
+   "High": 0.01859480399564303,
+   "Low": 0.9145169821302442,
+   "Medium": 0.06688821387411266
+  }
+ },
+ {
+  "make": "BMW",
+  "vehicle_class": "COMPACT",
+  "transmission": "M6",
+  "fuel_type": "Z",
+  "performance": "yes",
+  "awd": "no",
+  "engine_l": 4.4,
+  "cylinders": 8,
+  "expected_co2_g_km": 318.7934784589318,
+  "expected_group_probabilities": {
+   "High": 0.9141755126572636,
+   "Low": 0.0067316122684980655,
+   "Medium": 0.07909287507423818
+  }
+ },
+ {
+  "make": "Mercedes-Benz",
+  "vehicle_class": "COMPACT",
+  "transmission": "AS7",
+  "fuel_type": "Z",
+  "performance": "no",
+  "awd": "no",
+  "engine_l": 2.0,
+  "cylinders": 4,
+  "expected_co2_g_km": 199.51980964131846,
+  "expected_group_probabilities": {
+   "High": 0.012850009477402377,
+   "Low": 0.9129810563469353,
+   "Medium": 0.07416893417566225
+  }
+ },
+ {
+  "make": "Mercedes-Benz",
+  "vehicle_class": "SUBCOMPACT",
+  "transmission": "A9",
+  "fuel_type": "Z",
+  "performance": "yes",
+  "awd": "no",
+  "engine_l": 4.0,
+  "cylinders": 8,
+  "expected_co2_g_km": 305.8317707529368,
+  "expected_group_probabilities": {
+   "High": 0.886938003036459,
+   "Low": 0.00507349476041314,
+   "Medium": 0.1079885022031279
+  }
+ },
+ {
+  "make": "Mercedes-Benz",
+  "vehicle_class": "COMPACT",
+  "transmission": "A9",
+  "fuel_type": "Z",
+  "performance": "yes",
+  "awd": "no",
+  "engine_l": 6.0,
+  "cylinders": 12,
+  "expected_co2_g_km": 349.5557428183571,
+  "expected_group_probabilities": {
+   "High": 0.7897366167048614,
+   "Low": 0.011518643262799564,
+   "Medium": 0.1987447400323391
+  }
+ },
+ {
+  "make": "Mercedes-Benz",
+  "vehicle_class": "COMPACT",
+  "transmission": "AS7",
+  "fuel_type": "Z",
+  "performance": "yes",
+  "awd": "yes",
+  "engine_l": 3.0,
+  "cylinders": 6,
+  "expected_co2_g_km": 250.29705595755127,
+  "expected_group_probabilities": {
+   "High": 0.15618349628141723,
+   "Low": 0.12890424393559446,
+   "Medium": 0.7149122597829883
+  }
+ },
+ {
+  "make": "BMW",
+  "vehicle_class": "TWO-SEATER",
+  "transmission": "AS8",
+  "fuel_type": "D",
+  "performance": "yes",
+  "awd": "no",
+  "engine_l": 3.5,
+  "cylinders": 6,
+  "expected_co2_g_km": 233.57384921809148,
+  "expected_group_probabilities": {
+   "High": 0.19099520073145385,
+   "Low": 0.05394376952246552,
+   "Medium": 0.7550610297460802
+  }
+ },
+ {
+  "make": "Mercedes-Benz",
+  "vehicle_class": "COMPACT",
+  "transmission": "XYZ",
+  "fuel_type": "Z",
+  "performance": "no",
+  "awd": "yes",
+  "engine_l": 1.6,
+  "cylinders": 4,
+  "expected_co2_g_km": 212.94760634811777,
+  "expected_group_probabilities": {
+   "High": 0.01932328927183572,
+   "Low": 0.9205144789945467,
+   "Medium": 0.06016223173361767
+  }
+ }
+]

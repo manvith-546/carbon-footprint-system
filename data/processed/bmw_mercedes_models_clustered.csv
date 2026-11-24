@@ -1,0 +1,1015 @@
+id,make,model,years,year_from,year_to,vehicle_class,engine_l,cylinders,transmission,transmission_name,fuel_type,fuel_name,performance,awd,fuel_city,fuel_hwy,fuel_comb,co2_g_km,tier
+1,BMW,228 xDrive Gran Coupe,2025,2025,2025,COMPACT,2.0,4,AM7,7-speed automated manual,Z,Premium petrol,no,yes,9.0,6.3,7.7,179,Low
+2,BMW,228i,2014–2020,2014,2020,SUBCOMPACT,2.0,4,AS8,8-speed automatic,Z,Premium petrol,no,no,9.9,6.5,8.4,197,Low
+3,BMW,228i,2014–2020,2014,2020,SUBCOMPACT,2.0,4,M6,6-speed manual,Z,Premium petrol,no,no,10.7,7.0,9.0,211,Low
+4,BMW,228i CABRIOLET,2014–2020,2014,2020,SUBCOMPACT,2.0,4,AS8,8-speed automatic,Z,Premium petrol,no,no,10.4,7.1,8.9,205,Low
+5,BMW,228i COUPE,2014–2020,2014,2020,SUBCOMPACT,2.0,4,AS8,8-speed automatic,Z,Premium petrol,no,no,10.0,6.5,8.4,193,Low
+6,BMW,228i COUPE,2014–2020,2014,2020,SUBCOMPACT,2.0,4,M6,6-speed manual,Z,Premium petrol,no,no,10.7,6.9,9.0,207,Low
+7,BMW,228i xDRIVE,2014–2020,2014,2020,SUBCOMPACT,2.0,4,AS8,8-speed automatic,Z,Premium petrol,no,yes,10.4,6.8,8.8,207,Low
+8,BMW,228i xDRIVE CABRIOLET,2014–2020,2014,2020,SUBCOMPACT,2.0,4,AS8,8-speed automatic,Z,Premium petrol,no,yes,10.6,7.0,9.0,209,Low
+9,BMW,228i xDRIVE COUPE,2014–2020,2014,2020,SUBCOMPACT,2.0,4,AS8,8-speed automatic,Z,Premium petrol,no,yes,10.3,6.7,8.7,200,Low
+10,BMW,228i xDrive Gran Coupe,2021,2021,2021,COMPACT,2.0,4,AS8,8-speed automatic,Z,Premium petrol,no,yes,10.2,7.2,8.8,206,Low
+11,BMW,228i xDrive Gran Coupe,2024,2024,2024,COMPACT,2.0,4,AS8,8-speed automatic,Z,Premium petrol,no,yes,10.2,7.2,8.8,205,Low
+12,BMW,230i CABRIOLET,2014–2020,2014,2020,SUBCOMPACT,2.0,4,AS8,8-speed automatic,Z,Premium petrol,no,no,10.0,7.1,8.7,206,Low
+13,BMW,230i COUPE,2014–2020,2014,2020,SUBCOMPACT,2.0,4,AS8,8-speed automatic,Z,Premium petrol,no,no,9.7,7.0,8.4,198,Low
+14,BMW,230i COUPE,2014–2020,2014,2020,SUBCOMPACT,2.0,4,M6,6-speed manual,Z,Premium petrol,no,no,11.1,7.3,9.4,219,Low
+15,BMW,230i xDrive Cabriolet,2014–2020,2014,2020,SUBCOMPACT,2.0,4,AS8,8-speed automatic,Z,Premium petrol,no,yes,10.4,7.3,9.0,212,Low
+16,BMW,230i xDrive Cabriolet,2021,2021,2021,SUBCOMPACT,2.0,4,AS8,8-speed automatic,Z,Premium petrol,no,yes,11.2,7.7,9.6,225,Low
+17,BMW,230i xDrive Coupe,2014–2020,2014,2020,SUBCOMPACT,2.0,4,AS8,8-speed automatic,Z,Premium petrol,no,yes,10.2,7.3,8.9,208,Low
+18,BMW,230i xDrive Coupe,2021,2021,2021,SUBCOMPACT,2.0,4,AS8,8-speed automatic,Z,Premium petrol,no,yes,11.2,7.7,9.6,225,Low
+19,BMW,230i xDrive Coupe,2023,2023,2023,SUBCOMPACT,2.0,4,AS8,8-speed automatic,Z,Premium petrol,no,yes,9.6,6.9,8.4,195,Low
+20,BMW,230i xDrive Coupe,2024,2024,2024,SUBCOMPACT,2.0,4,AS8,8-speed automatic,Z,Premium petrol,no,yes,9.6,7.1,8.4,195,Low
+21,BMW,230i xDrive Coupe,2025–2026,2025,2026,SUBCOMPACT,2.0,4,AS8,8-speed automatic,Z,Premium petrol,no,yes,9.5,7.1,8.4,194,Low
+22,BMW,320i,2014–2020,2014,2020,COMPACT,2.0,4,A8,8-speed automatic,Z,Premium petrol,no,no,10.0,6.5,8.4,193,Low
+23,BMW,320i,2014–2020,2014,2020,COMPACT,2.0,4,AS8,8-speed automatic,Z,Premium petrol,no,no,10.0,6.5,8.4,198,Low
+24,BMW,320i,2014–2020,2014,2020,COMPACT,2.0,4,M6,6-speed manual,Z,Premium petrol,no,no,10.4,6.8,8.8,204,Low
+25,BMW,320i SEDAN,2014–2020,2014,2020,COMPACT,2.0,4,AS8,8-speed automatic,Z,Premium petrol,no,no,10.0,6.5,8.4,193,Low
+26,BMW,320i SEDAN,2014–2020,2014,2020,COMPACT,2.0,4,M6,6-speed manual,Z,Premium petrol,no,no,10.7,6.9,9.0,207,Low
+27,BMW,320i xDRIVE,2014–2020,2014,2020,COMPACT,2.0,4,A8,8-speed automatic,Z,Premium petrol,no,yes,10.2,7.0,8.8,202,Low
+28,BMW,320i xDRIVE,2014–2020,2014,2020,COMPACT,2.0,4,AS8,8-speed automatic,Z,Premium petrol,no,yes,10.4,6.8,8.8,206,Low
+29,BMW,320i xDRIVE SEDAN,2014–2020,2014,2020,COMPACT,2.0,4,AS8,8-speed automatic,Z,Premium petrol,no,yes,10.3,6.7,8.7,200,Low
+30,BMW,328d xDRIVE,2014–2020,2014,2020,COMPACT,2.0,4,A8,8-speed automatic,D,Diesel,no,yes,7.6,5.5,6.7,181,Low
+31,BMW,328d xDRIVE,2014–2020,2014,2020,COMPACT,2.0,4,AS8,8-speed automatic,D,Diesel,no,yes,7.8,5.8,6.9,185,Low
+32,BMW,328d xDRIVE SEDAN,2014–2020,2014,2020,COMPACT,2.0,4,AS8,8-speed automatic,D,Diesel,no,yes,7.6,5.5,6.7,181,Low
+33,BMW,328d xDRIVE TOURING,2014–2020,2014,2020,STATION WAGON - SMALL,2.0,4,A8,8-speed automatic,D,Diesel,no,yes,7.6,5.5,6.7,181,Low
+34,BMW,328d xDRIVE TOURING,2014–2020,2014,2020,STATION WAGON - SMALL,2.0,4,AS8,8-speed automatic,D,Diesel,no,yes,7.8,5.8,6.9,184,Low
+35,BMW,328i,2014–2020,2014,2020,COMPACT,2.0,4,A8,8-speed automatic,Z,Premium petrol,no,no,10.0,6.5,8.4,193,Low
+36,BMW,328i,2014–2020,2014,2020,COMPACT,2.0,4,M6,6-speed manual,Z,Premium petrol,no,no,10.4,6.7,8.7,200,Low
+37,BMW,328i SEDAN,2014–2020,2014,2020,COMPACT,2.0,4,AS8,8-speed automatic,Z,Premium petrol,no,no,10.0,6.5,8.4,193,Low
+38,BMW,328i SEDAN,2014–2020,2014,2020,COMPACT,2.0,4,M6,6-speed manual,Z,Premium petrol,no,no,10.7,6.9,9.0,207,Low
+39,BMW,328i xDRIVE,2014–2020,2014,2020,COMPACT,2.0,4,A8,8-speed automatic,Z,Premium petrol,no,yes,10.6,7.2,9.1,209,Low
+40,BMW,328i xDRIVE,2014–2020,2014,2020,COMPACT,2.0,4,AS8,8-speed automatic,Z,Premium petrol,no,yes,10.5,6.9,8.9,209,Low
+41,BMW,328i xDRIVE GRAN TURISMO,2014–2020,2014,2020,FULL-SIZE,2.0,4,A8,8-speed automatic,Z,Premium petrol,no,yes,10.6,7.2,9.1,209,Low
+42,BMW,328i xDRIVE GRAN TURISMO,2014–2020,2014,2020,FULL-SIZE,2.0,4,AS8,8-speed automatic,Z,Premium petrol,no,yes,10.6,7.0,9.0,209,Low
+43,BMW,328i xDRIVE SEDAN,2014–2020,2014,2020,COMPACT,2.0,4,AS8,8-speed automatic,Z,Premium petrol,no,yes,10.6,7.2,9.1,209,Low
+44,BMW,328i xDRIVE TOURING,2014–2020,2014,2020,STATION WAGON - SMALL,2.0,4,A8,8-speed automatic,Z,Premium petrol,no,yes,10.6,7.2,9.1,209,Low
+45,BMW,328i xDRIVE TOURING,2014–2020,2014,2020,STATION WAGON - SMALL,2.0,4,AS8,8-speed automatic,Z,Premium petrol,no,yes,10.6,7.0,9.0,209,Low
+46,BMW,330i xDRIVE,2014–2020,2014,2020,COMPACT,2.0,4,AS8,8-speed automatic,Z,Premium petrol,no,yes,10.1,7.2,8.8,205,Low
+47,BMW,330i xDRIVE GRAN TURISMO,2014–2020,2014,2020,FULL-SIZE,2.0,4,AS8,8-speed automatic,Z,Premium petrol,no,yes,10.3,7.3,8.9,209,Low
+48,BMW,330i xDRIVE TOURING,2014–2020,2014,2020,STATION WAGON - SMALL,2.0,4,AS8,8-speed automatic,Z,Premium petrol,no,yes,10.3,7.3,8.9,209,Low
+49,BMW,330i xDrive Sedan,2014–2020,2014,2020,COMPACT,2.0,4,AS8,8-speed automatic,Z,Premium petrol,no,yes,9.5,6.9,8.3,195,Low
+50,BMW,330i xDrive Sedan,2021–2022,2021,2022,COMPACT,2.0,4,AS8,8-speed automatic,Z,Premium petrol,no,yes,9.5,6.9,8.3,195,Low
+51,BMW,330i xDrive Sedan,2023–2024,2023,2024,COMPACT,2.0,4,AS8,8-speed automatic,Z,Premium petrol,no,yes,9.8,7.0,8.6,200,Low
+52,BMW,330i xDrive Sedan,2025–2026,2025,2026,COMPACT,2.0,4,AS8,8-speed automatic,Z,Premium petrol,no,yes,8.9,6.9,8.0,185,Low
+53,BMW,335i,2014–2020,2014,2020,COMPACT,3.0,6,A8,8-speed automatic,Z,Premium petrol,no,no,11.4,7.3,9.6,221,Medium
+54,BMW,335i,2014–2020,2014,2020,COMPACT,3.0,6,M6,6-speed manual,Z,Premium petrol,no,no,11.8,7.9,10.0,230,Medium
+55,BMW,335i SEDAN,2014–2020,2014,2020,COMPACT,3.0,6,AS8,8-speed automatic,Z,Premium petrol,no,no,11.4,7.4,9.6,221,Medium
+56,BMW,335i SEDAN,2014–2020,2014,2020,COMPACT,3.0,6,M6,6-speed manual,Z,Premium petrol,no,no,11.5,7.8,9.8,225,Medium
+57,BMW,335i xDRIVE,2014–2020,2014,2020,COMPACT,3.0,6,A8,8-speed automatic,Z,Premium petrol,no,yes,11.7,7.8,9.9,228,Medium
+58,BMW,335i xDRIVE,2014–2020,2014,2020,COMPACT,3.0,6,M6,6-speed manual,Z,Premium petrol,no,yes,11.9,8.3,10.3,237,Medium
+59,BMW,335i xDRIVE GRAN TURISMO,2014–2020,2014,2020,FULL-SIZE,3.0,6,A8,8-speed automatic,Z,Premium petrol,no,yes,11.9,8.0,10.1,232,Medium
+60,BMW,335i xDRIVE GRAN TURISMO,2014–2020,2014,2020,FULL-SIZE,3.0,6,AS8,8-speed automatic,Z,Premium petrol,no,yes,12.0,7.8,10.1,234,Medium
+61,BMW,335i xDRIVE SEDAN,2014–2020,2014,2020,COMPACT,3.0,6,AS8,8-speed automatic,Z,Premium petrol,no,yes,11.9,7.8,10.0,230,Medium
+62,BMW,335i xDRIVE SEDAN,2014–2020,2014,2020,COMPACT,3.0,6,M6,6-speed manual,Z,Premium petrol,no,yes,12.0,8.3,10.3,237,Medium
+63,BMW,340i,2014–2020,2014,2020,COMPACT,3.0,6,AS8,8-speed automatic,Z,Premium petrol,no,no,10.4,7.1,8.9,208,Medium
+64,BMW,340i,2014–2020,2014,2020,COMPACT,3.0,6,M6,6-speed manual,Z,Premium petrol,no,no,12.0,8.0,10.2,238,Medium
+65,BMW,340i xDRIVE,2014–2020,2014,2020,COMPACT,3.0,6,AS8,8-speed automatic,Z,Premium petrol,no,yes,11.1,7.5,9.5,222,Medium
+66,BMW,340i xDRIVE,2014–2020,2014,2020,COMPACT,3.0,6,M6,6-speed manual,Z,Premium petrol,no,yes,12.1,8.4,10.4,244,Medium
+67,BMW,340i xDRIVE GRAN TURISMO,2014–2020,2014,2020,FULL-SIZE,3.0,6,AS8,8-speed automatic,Z,Premium petrol,no,yes,11.9,8.0,10.1,236,Medium
+68,BMW,428i CABRIOLET,2014–2020,2014,2020,SUBCOMPACT,2.0,4,AS8,8-speed automatic,Z,Premium petrol,no,no,10.6,6.9,8.9,208,Low
+69,BMW,428i COUPE,2014–2020,2014,2020,COMPACT,2.0,4,A8,8-speed automatic,Z,Premium petrol,no,no,10.0,6.5,8.4,193,Low
+70,BMW,428i COUPE,2014–2020,2014,2020,COMPACT,2.0,4,AS8,8-speed automatic,Z,Premium petrol,no,no,10.0,6.5,8.4,195,Low
+71,BMW,428i COUPE,2014–2020,2014,2020,COMPACT,2.0,4,M6,6-speed manual,Z,Premium petrol,no,no,10.6,6.9,8.9,206,Low
+72,BMW,428i GRAN COUPE,2014–2020,2014,2020,COMPACT,2.0,4,AS8,8-speed automatic,Z,Premium petrol,no,no,10.6,6.9,8.9,208,Low
+73,BMW,428i GRAN COUPE,2014–2020,2014,2020,COMPACT,2.0,4,M6,6-speed manual,Z,Premium petrol,no,no,10.9,6.8,9.0,208,Low
+74,BMW,428i xDRIVE CABRIOLET,2014–2020,2014,2020,SUBCOMPACT,2.0,4,AS8,8-speed automatic,Z,Premium petrol,no,yes,11.2,7.3,9.5,221,Low
+75,BMW,428i xDRIVE COUPE,2014–2020,2014,2020,COMPACT,2.0,4,A8,8-speed automatic,Z,Premium petrol,no,yes,10.6,7.2,9.1,209,Low
+76,BMW,428i xDRIVE COUPE,2014–2020,2014,2020,COMPACT,2.0,4,AS8,8-speed automatic,Z,Premium petrol,no,yes,10.6,7.0,9.0,209,Low
+77,BMW,428i xDRIVE GRAN COUPE,2014–2020,2014,2020,COMPACT,2.0,4,AS8,8-speed automatic,Z,Premium petrol,no,yes,10.6,7.0,9.0,209,Low
+78,BMW,430i Coupe,2014–2020,2014,2020,COMPACT,2.0,4,AS8,8-speed automatic,Z,Premium petrol,no,no,10.1,7.0,8.7,204,Low
+79,BMW,430i xDrive Cabriolet,2014–2020,2014,2020,SUBCOMPACT,2.0,4,AS8,8-speed automatic,Z,Premium petrol,no,yes,10.6,7.3,9.1,213,Low
+80,BMW,430i xDrive Cabriolet,2022,2022,2022,SUBCOMPACT,2.0,4,AS8,8-speed automatic,Z,Premium petrol,no,yes,10.0,7.1,8.7,202,Low
+81,BMW,430i xDrive Cabriolet,2023,2023,2023,SUBCOMPACT,2.0,4,AS8,8-speed automatic,Z,Premium petrol,no,yes,10.1,7.1,8.7,203,Low
+82,BMW,430i xDrive Cabriolet,2024,2024,2024,SUBCOMPACT,2.0,4,AS8,8-speed automatic,Z,Premium petrol,no,yes,10.0,7.1,8.7,203,Low
+83,BMW,430i xDrive Cabriolet,2025–2026,2025,2026,SUBCOMPACT,2.0,4,AS8,8-speed automatic,Z,Premium petrol,no,yes,9.6,7.1,8.5,196,Low
+84,BMW,430i xDrive Coupe,2014–2020,2014,2020,COMPACT,2.0,4,AS8,8-speed automatic,Z,Premium petrol,no,yes,10.4,7.3,9.0,212,Low
+85,BMW,430i xDrive Coupe,2021–2022,2021,2022,SUBCOMPACT,2.0,4,AS8,8-speed automatic,Z,Premium petrol,no,yes,10.0,7.1,8.7,202,Low
+86,BMW,430i xDrive Coupe,2023,2023,2023,SUBCOMPACT,2.0,4,AS8,8-speed automatic,Z,Premium petrol,no,yes,10.1,7.1,8.7,203,Low
+87,BMW,430i xDrive Coupe,2024,2024,2024,SUBCOMPACT,2.0,4,AS8,8-speed automatic,Z,Premium petrol,no,yes,10.0,7.1,8.7,203,Low
+88,BMW,430i xDrive Coupe,2025–2026,2025,2026,SUBCOMPACT,2.0,4,AS8,8-speed automatic,Z,Premium petrol,no,yes,8.7,6.9,7.9,183,Low
+89,BMW,430i xDrive Gran Coupe,2014–2020,2014,2020,COMPACT,2.0,4,AS8,8-speed automatic,Z,Premium petrol,no,yes,10.4,7.3,9.0,212,Low
+90,BMW,430i xDrive Gran Coupe,2025,2025,2025,COMPACT,2.0,4,AS8,8-speed automatic,Z,Premium petrol,no,yes,9.3,6.9,8.2,190,Low
+91,BMW,435i CABRIOLET,2014–2020,2014,2020,SUBCOMPACT,3.0,6,AS8,8-speed automatic,Z,Premium petrol,no,no,11.8,7.6,9.9,230,Medium
+92,BMW,435i COUPE,2014–2020,2014,2020,COMPACT,3.0,6,A8,8-speed automatic,Z,Premium petrol,no,no,11.4,7.3,9.6,221,Medium
+93,BMW,435i COUPE,2014–2020,2014,2020,COMPACT,3.0,6,AS8,8-speed automatic,Z,Premium petrol,no,no,11.5,7.6,9.8,226,Medium
+94,BMW,435i COUPE,2014–2020,2014,2020,COMPACT,3.0,6,M6,6-speed manual,Z,Premium petrol,no,no,11.8,8.0,10.1,234,Medium
+95,BMW,435i GRAN COUPE,2014–2020,2014,2020,COMPACT,3.0,6,AS8,8-speed automatic,Z,Premium petrol,no,no,11.4,7.4,9.6,221,Medium
+96,BMW,435i xDRIVE CABRIOLET,2014–2020,2014,2020,SUBCOMPACT,3.0,6,AS8,8-speed automatic,Z,Premium petrol,no,yes,12.0,8.1,10.2,238,Medium
+97,BMW,435i xDRIVE COUPE,2014–2020,2014,2020,COMPACT,3.0,6,A8,8-speed automatic,Z,Premium petrol,no,yes,11.7,7.8,9.9,228,Medium
+98,BMW,435i xDRIVE COUPE,2014–2020,2014,2020,COMPACT,3.0,6,AS8,8-speed automatic,Z,Premium petrol,no,yes,12.0,7.8,10.1,234,Medium
+99,BMW,435i xDRIVE COUPE,2014–2020,2014,2020,COMPACT,3.0,6,M6,6-speed manual,Z,Premium petrol,no,yes,12.1,8.3,10.4,240,Medium
+100,BMW,435i xDRIVE GRAN COUPE,2014–2020,2014,2020,COMPACT,3.0,6,AS8,8-speed automatic,Z,Premium petrol,no,yes,12.0,7.8,10.1,234,Medium
+101,BMW,440i COUPE,2014–2020,2014,2020,COMPACT,3.0,6,AS8,8-speed automatic,Z,Premium petrol,no,no,10.7,7.4,9.2,216,Medium
+102,BMW,440i COUPE,2014–2020,2014,2020,COMPACT,3.0,6,M6,6-speed manual,Z,Premium petrol,no,no,12.4,8.4,10.6,246,Medium
+103,BMW,440i xDRIVE CABRIOLET,2014–2020,2014,2020,SUBCOMPACT,3.0,6,AS8,8-speed automatic,Z,Premium petrol,no,yes,12.0,8.1,10.2,239,Medium
+104,BMW,440i xDRIVE COUPE,2014–2020,2014,2020,COMPACT,3.0,6,AS8,8-speed automatic,Z,Premium petrol,no,yes,11.3,7.8,9.8,228,Medium
+105,BMW,440i xDRIVE COUPE,2014–2020,2014,2020,COMPACT,3.0,6,M6,6-speed manual,Z,Premium petrol,no,yes,12.6,8.5,10.8,251,Medium
+106,BMW,440i xDRIVE GRAN COUPE,2014–2020,2014,2020,COMPACT,3.0,6,AS8,8-speed automatic,Z,Premium petrol,no,yes,11.3,7.8,9.8,228,Medium
+107,BMW,528i,2014–2020,2014,2020,MID-SIZE,2.0,4,A8,8-speed automatic,Z,Premium petrol,no,no,10.2,7.0,8.8,202,Low
+108,BMW,528i SEDAN,2014–2020,2014,2020,MID-SIZE,2.0,4,AS8,8-speed automatic,Z,Premium petrol,no,no,10.4,7.1,8.9,205,Low
+109,BMW,528i xDRIVE,2014–2020,2014,2020,MID-SIZE,2.0,4,A8,8-speed automatic,Z,Premium petrol,no,yes,10.6,7.2,9.1,209,Low
+110,BMW,528i xDRIVE,2014–2020,2014,2020,MID-SIZE,2.0,4,AS8,8-speed automatic,Z,Premium petrol,no,yes,10.5,6.9,8.9,209,Low
+111,BMW,528i xDRIVE SEDAN,2014–2020,2014,2020,MID-SIZE,2.0,4,AS8,8-speed automatic,Z,Premium petrol,no,yes,10.6,7.2,9.1,209,Low
+112,BMW,530i xDRIVE,2014–2020,2014,2020,MID-SIZE,2.0,4,AS8,8-speed automatic,Z,Premium petrol,no,yes,10.3,7.3,8.9,209,Low
+113,BMW,530i xDrive Sedan,2014–2020,2014,2020,MID-SIZE,2.0,4,AS8,8-speed automatic,Z,Premium petrol,no,yes,9.9,7.5,8.8,206,Low
+114,BMW,530i xDrive Sedan,2021–2023,2021,2023,MID-SIZE,2.0,4,AS8,8-speed automatic,Z,Premium petrol,no,yes,10.1,7.5,8.9,206,Low
+115,BMW,530i xDrive Sedan,2022,2022,2022,MID-SIZE,2.0,4,AS8,8-speed automatic,Z,Premium petrol,no,yes,10.1,7.4,8.9,206,Low
+116,BMW,530i xDrive Sedan,2024–2026,2024,2026,MID-SIZE,2.0,4,AS8,8-speed automatic,Z,Premium petrol,no,yes,8.7,6.8,7.9,182,Low
+117,BMW,535d xDRIVE,2014–2020,2014,2020,MID-SIZE,3.0,6,A8,8-speed automatic,D,Diesel,no,yes,9.2,6.4,7.9,213,Medium
+118,BMW,535d xDRIVE,2014–2020,2014,2020,MID-SIZE,3.0,6,AS8,8-speed automatic,D,Diesel,no,yes,9.2,6.3,7.9,212,Medium
+119,BMW,535d xDRIVE SEDAN,2014–2020,2014,2020,MID-SIZE,3.0,6,AS8,8-speed automatic,D,Diesel,no,yes,9.2,6.3,7.9,213,Medium
+120,BMW,535i xDRIVE,2014–2020,2014,2020,MID-SIZE,3.0,6,A8,8-speed automatic,Z,Premium petrol,no,yes,11.9,8.0,10.1,232,Medium
+121,BMW,535i xDRIVE,2014–2020,2014,2020,MID-SIZE,3.0,6,AS8,8-speed automatic,Z,Premium petrol,no,yes,11.9,8.1,10.2,238,Medium
+122,BMW,535i xDRIVE GRAN TURISMO,2014–2020,2014,2020,FULL-SIZE,3.0,6,A8,8-speed automatic,Z,Premium petrol,no,yes,12.5,8.6,10.7,246,Medium
+123,BMW,535i xDRIVE GRAN TURISMO,2014–2020,2014,2020,FULL-SIZE,3.0,6,AS8,8-speed automatic,Z,Premium petrol,no,yes,12.9,9.0,11.1,258,Medium
+124,BMW,535i xDRIVE SEDAN,2014–2020,2014,2020,MID-SIZE,3.0,6,AS8,8-speed automatic,Z,Premium petrol,no,yes,12.1,8.1,10.3,237,Medium
+125,BMW,540i xDRIVE,2014–2020,2014,2020,MID-SIZE,3.0,6,AS8,8-speed automatic,Z,Premium petrol,no,yes,11.4,8.0,9.9,232,Medium
+126,BMW,540i xDrive Sedan,2014–2020,2014,2020,MID-SIZE,3.0,6,AS8,8-speed automatic,Z,Premium petrol,no,yes,10.7,8.1,9.5,222,Medium
+127,BMW,540i xDrive Sedan,2021,2021,2021,FULL-SIZE,3.0,6,AS8,8-speed automatic,Z,Premium petrol,no,yes,10.3,7.6,9.1,211,Medium
+128,BMW,540i xDrive Sedan,2022,2022,2022,FULL-SIZE,3.0,6,AS8,8-speed automatic,Z,Premium petrol,no,yes,10.5,8.1,9.4,219,Medium
+129,BMW,540i xDrive Sedan,2023,2023,2023,MID-SIZE,3.0,6,AS8,8-speed automatic,Z,Premium petrol,no,yes,10.5,8.1,9.4,219,Medium
+130,BMW,550i xDRIVE,2014–2020,2014,2020,MID-SIZE,4.4,8,A8,8-speed automatic,Z,Premium petrol,no,yes,14.4,9.6,12.2,281,High
+131,BMW,550i xDRIVE,2014–2020,2014,2020,MID-SIZE,4.4,8,AS8,8-speed automatic,Z,Premium petrol,no,yes,14.4,9.6,12.3,288,High
+132,BMW,550i xDRIVE GRAN TURISMO,2014–2020,2014,2020,FULL-SIZE,4.4,8,A8,8-speed automatic,Z,Premium petrol,no,yes,15.0,9.8,12.7,292,High
+133,BMW,550i xDRIVE GRAN TURISMO,2014–2020,2014,2020,FULL-SIZE,4.4,8,AS8,8-speed automatic,Z,Premium petrol,no,yes,14.8,9.6,12.4,288,High
+134,BMW,550i xDRIVE SEDAN,2014–2020,2014,2020,MID-SIZE,4.4,8,AS8,8-speed automatic,Z,Premium petrol,no,yes,14.4,9.7,12.3,283,High
+135,BMW,640i xDRIVE CABRIOLET,2014–2020,2014,2020,SUBCOMPACT,3.0,6,AS8,8-speed automatic,Z,Premium petrol,no,yes,12.2,8.2,10.4,243,Medium
+136,BMW,640i xDRIVE GRAN COUPE,2014–2020,2014,2020,COMPACT,3.0,6,A8,8-speed automatic,Z,Premium petrol,no,yes,11.9,8.0,10.1,232,Medium
+137,BMW,640i xDRIVE GRAN COUPE,2014–2020,2014,2020,COMPACT,3.0,6,AS8,8-speed automatic,Z,Premium petrol,no,yes,12.2,8.3,10.4,244,Medium
+138,BMW,640i xDRIVE GRAN TURISMO,2014–2020,2014,2020,FULL-SIZE,3.0,6,AS8,8-speed automatic,Z,Premium petrol,no,yes,11.9,8.4,10.3,241,Medium
+139,BMW,650i xDRIVE CABRIOLET,2014–2020,2014,2020,SUBCOMPACT,4.4,8,A8,8-speed automatic,Z,Premium petrol,no,yes,15.0,9.8,12.7,292,High
+140,BMW,650i xDRIVE CABRIOLET,2014–2020,2014,2020,SUBCOMPACT,4.4,8,AS8,8-speed automatic,Z,Premium petrol,no,yes,14.7,9.6,12.4,290,High
+141,BMW,650i xDRIVE COUPE,2014–2020,2014,2020,COMPACT,4.4,8,A8,8-speed automatic,Z,Premium petrol,no,yes,14.4,9.6,12.2,281,High
+142,BMW,650i xDRIVE COUPE,2014–2020,2014,2020,COMPACT,4.4,8,AS8,8-speed automatic,Z,Premium petrol,no,yes,14.2,9.5,12.1,281,High
+143,BMW,650i xDRIVE COUPE,2014–2020,2014,2020,SUBCOMPACT,4.4,8,AS8,8-speed automatic,Z,Premium petrol,no,yes,14.0,10.0,12.2,286,High
+144,BMW,650i xDRIVE GRAN COUPE,2014–2020,2014,2020,COMPACT,4.4,8,A8,8-speed automatic,Z,Premium petrol,no,yes,15.0,9.8,12.7,292,High
+145,BMW,650i xDRIVE GRAN COUPE,2014–2020,2014,2020,COMPACT,4.4,8,AS8,8-speed automatic,Z,Premium petrol,no,yes,14.6,9.6,12.4,289,High
+146,BMW,740Ld xDRIVE SEDAN,2014–2020,2014,2020,FULL-SIZE,3.0,6,AS8,8-speed automatic,D,Diesel,no,yes,10.2,7.1,8.8,238,Medium
+147,BMW,740Li xDRIVE,2014–2020,2014,2020,FULL-SIZE,3.0,6,A8,8-speed automatic,Z,Premium petrol,no,yes,12.5,8.6,10.7,246,Medium
+148,BMW,740Li xDRIVE,2014–2020,2014,2020,FULL-SIZE,3.0,6,AS8,8-speed automatic,Z,Premium petrol,no,yes,11.9,8.1,10.2,238,Medium
+149,BMW,740Li xDRIVE SEDAN,2014–2020,2014,2020,FULL-SIZE,3.0,6,AS8,8-speed automatic,Z,Premium petrol,no,yes,12.1,8.1,10.3,237,Medium
+150,BMW,750Li xDRIVE,2014–2020,2014,2020,FULL-SIZE,4.4,8,A8,8-speed automatic,Z,Premium petrol,no,yes,15.0,9.8,12.7,292,High
+151,BMW,750Li xDRIVE,2014–2020,2014,2020,FULL-SIZE,4.4,8,AS8,8-speed automatic,Z,Premium petrol,no,yes,14.3,9.5,12.2,286,High
+152,BMW,750Li xDrive Sedan,2014–2020,2014,2020,FULL-SIZE,4.4,8,AS8,8-speed automatic,Z,Premium petrol,no,yes,14.8,9.9,12.6,292,High
+153,BMW,750Li xDrive Sedan,2021,2021,2021,FULL-SIZE,4.4,8,AS8,8-speed automatic,Z,Premium petrol,no,yes,14.0,9.7,12.0,281,High
+154,BMW,750Li xDrive Sedan,2022,2022,2022,FULL-SIZE,4.4,8,AS8,8-speed automatic,Z,Premium petrol,no,yes,13.9,9.6,12.0,279,High
+155,BMW,750i xDRIVE,2014–2020,2014,2020,FULL-SIZE,4.4,8,A8,8-speed automatic,Z,Premium petrol,no,yes,15.0,9.8,12.7,292,High
+156,BMW,750i xDRIVE,2014–2020,2014,2020,FULL-SIZE,4.4,8,AS8,8-speed automatic,Z,Premium petrol,no,yes,14.0,9.3,11.9,279,High
+157,BMW,750i xDRIVE SWB,2014–2020,2014,2020,FULL-SIZE,4.4,8,AS8,8-speed automatic,Z,Premium petrol,no,yes,14.3,9.4,12.1,283,High
+158,BMW,750i xDrive Sedan,2014–2020,2014,2020,FULL-SIZE,4.4,8,AS8,8-speed automatic,Z,Premium petrol,no,yes,14.8,9.9,12.6,292,High
+159,BMW,750i xDrive Sedan,2021,2021,2021,FULL-SIZE,4.4,8,AS8,8-speed automatic,Z,Premium petrol,no,yes,14.0,9.7,12.0,281,High
+160,BMW,750i xDrive Sedan,2022,2022,2022,FULL-SIZE,4.4,8,AS8,8-speed automatic,Z,Premium petrol,no,yes,13.9,9.6,12.0,279,High
+161,BMW,760Li,2014–2020,2014,2020,FULL-SIZE,6.0,12,A8,8-speed automatic,Z,Premium petrol,no,no,18.7,11.5,15.5,356,High
+162,BMW,760Li SEDAN,2014–2020,2014,2020,FULL-SIZE,6.0,12,AS8,8-speed automatic,Z,Premium petrol,no,no,18.7,11.6,15.5,356,High
+163,BMW,760i xDrive Sedan,2023,2023,2023,FULL-SIZE,4.4,8,AS8,8-speed automatic,Z,Premium petrol,no,yes,13.0,9.1,11.3,261,High
+164,BMW,760i xDrive Sedan,2024–2026,2024,2026,FULL-SIZE,4.4,8,AS8,8-speed automatic,Z,Premium petrol,no,yes,13.3,9.3,11.5,265,High
+165,BMW,ACTIVEHYBRID 3,2014–2020,2014,2020,COMPACT,3.0,6,A8,8-speed automatic,Z,Premium petrol,no,no,9.2,7.1,8.3,191,Medium
+166,BMW,ACTIVEHYBRID 3,2014–2020,2014,2020,COMPACT,3.0,6,AS8,8-speed automatic,Z,Premium petrol,no,no,9.7,7.5,8.7,200,Medium
+167,BMW,ACTIVEHYBRID 5,2014–2020,2014,2020,MID-SIZE,3.0,6,A8,8-speed automatic,Z,Premium petrol,no,no,10.5,7.9,9.3,214,Medium
+168,BMW,ACTIVEHYBRID 5,2014–2020,2014,2020,MID-SIZE,3.0,6,AS8,8-speed automatic,Z,Premium petrol,no,no,10.6,7.9,9.4,218,Medium
+169,BMW,ACTIVEHYBRID 7L,2014–2020,2014,2020,FULL-SIZE,3.0,6,A8,8-speed automatic,Z,Premium petrol,no,no,10.5,7.6,9.2,212,Medium
+170,BMW,ACTIVEHYBRID 7L,2014–2020,2014,2020,FULL-SIZE,3.0,6,AS8,8-speed automatic,Z,Premium petrol,no,no,10.6,7.7,9.3,214,Medium
+171,BMW,ALPINA B6 xDRIVE GRAN COUPE,2014–2020,2014,2020,COMPACT,4.4,8,AS8,8-speed automatic,Z,Premium petrol,yes,yes,14.6,9.6,12.4,289,High
+172,BMW,ALPINA B7 xDRIVE LWB,2014–2020,2014,2020,FULL-SIZE,4.4,8,A8,8-speed automatic,Z,Premium petrol,yes,yes,15.0,9.8,12.7,292,High
+173,BMW,ALPINA B7 xDRIVE LWB,2014–2020,2014,2020,FULL-SIZE,4.4,8,AS8,8-speed automatic,Z,Premium petrol,yes,yes,15.2,9.8,12.8,294,High
+174,BMW,ALPINA B7 xDRIVE SWB,2014–2020,2014,2020,FULL-SIZE,4.4,8,A8,8-speed automatic,Z,Premium petrol,yes,yes,15.0,9.8,12.7,292,High
+175,BMW,ALPINA B7 xDRIVE SWB,2014–2020,2014,2020,FULL-SIZE,4.4,8,AS8,8-speed automatic,Z,Premium petrol,yes,yes,15.2,9.8,12.8,294,High
+176,BMW,ALPINA B8 Gran Coupe,2022,2022,2022,MID-SIZE,4.4,8,AS8,8-speed automatic,Z,Premium petrol,yes,no,13.9,9.6,12.0,279,High
+177,BMW,ALPINA B8 Gran Coupe,2023–2024,2023,2024,MID-SIZE,4.4,8,AS8,8-speed automatic,Z,Premium petrol,yes,no,14.1,9.9,12.2,284,High
+178,BMW,ALPINA XB7,2021–2022,2021,2022,SUV - STANDARD,4.4,8,AS8,8-speed automatic,Z,Premium petrol,yes,no,15.7,11.5,13.8,321,High
+179,BMW,ALPINA XB7,2023–2026,2023,2026,SUV - STANDARD,4.4,8,AS8,8-speed automatic,Z,Premium petrol,yes,no,15.2,11.6,13.6,314,High
+180,BMW,Alpina B7,2022,2022,2022,FULL-SIZE,4.4,8,AS8,8-speed automatic,Z,Premium petrol,yes,no,13.9,9.6,12.0,279,High
+181,BMW,Alpina B7 xDrive,2014–2020,2014,2020,FULL-SIZE,4.4,8,AS8,8-speed automatic,Z,Premium petrol,yes,yes,14.4,9.7,12.3,288,High
+182,BMW,Alpina B7 xDrive,2021,2021,2021,FULL-SIZE,4.4,8,AS8,8-speed automatic,Z,Premium petrol,yes,yes,14.0,9.7,12.0,281,High
+183,BMW,M2,2014–2020,2014,2020,SUBCOMPACT,3.0,6,AM7,7-speed automated manual,Z,Premium petrol,yes,no,11.8,8.9,10.5,245,Medium
+184,BMW,M2,2014–2020,2014,2020,SUBCOMPACT,3.0,6,M6,6-speed manual,Z,Premium petrol,yes,no,13.0,9.2,11.3,265,Medium
+185,BMW,M2 Competition,2014–2020,2014,2020,SUBCOMPACT,3.0,6,AM7,7-speed automated manual,Z,Premium petrol,yes,no,14.2,10.4,12.5,292,Medium
+186,BMW,M2 Competition,2014–2020,2014,2020,SUBCOMPACT,3.0,6,M6,6-speed manual,Z,Premium petrol,yes,no,13.4,9.6,11.7,273,Medium
+187,BMW,M2 Competition,2021,2021,2021,SUBCOMPACT,3.0,6,AM7,7-speed automated manual,Z,Premium petrol,yes,no,14.3,10.4,12.6,293,Medium
+188,BMW,M2 Competition,2021,2021,2021,SUBCOMPACT,3.0,6,M6,6-speed manual,Z,Premium petrol,yes,no,13.4,9.6,11.7,273,Medium
+189,BMW,M2 Coupe,2023–2024,2023,2024,SUBCOMPACT,3.0,6,AS8,8-speed automatic,Z,Premium petrol,yes,no,14.6,10.3,12.7,294,Medium
+190,BMW,M2 Coupe,2023–2024,2023,2024,SUBCOMPACT,3.0,6,M6,6-speed manual,Z,Premium petrol,yes,no,14.3,10.0,12.4,287,Medium
+191,BMW,M2 Coupe,2025–2026,2025,2026,SUBCOMPACT,3.0,6,AS8,8-speed automatic,Z,Premium petrol,yes,no,14.4,10.3,12.5,290,Medium
+192,BMW,M2 Coupe,2025–2026,2025,2026,SUBCOMPACT,3.0,6,M6,6-speed manual,Z,Premium petrol,yes,no,14.7,10.0,12.6,294,Medium
+193,BMW,M2 Coupe CS,2026,2026,2026,SUBCOMPACT,3.0,6,AS8,8-speed automatic,Z,Premium petrol,yes,no,14.7,10.2,12.7,295,Medium
+194,BMW,M235i,2014–2020,2014,2020,SUBCOMPACT,3.0,6,AS8,8-speed automatic,Z,Premium petrol,yes,no,11.6,7.7,9.9,232,Medium
+195,BMW,M235i,2014–2020,2014,2020,SUBCOMPACT,3.0,6,M6,6-speed manual,Z,Premium petrol,yes,no,11.9,8.6,10.4,245,Medium
+196,BMW,M235i CABRIOLET,2014–2020,2014,2020,SUBCOMPACT,3.0,6,AS8,8-speed automatic,Z,Premium petrol,yes,no,11.7,7.9,10.0,234,Medium
+197,BMW,M235i CABRIOLET,2014–2020,2014,2020,SUBCOMPACT,3.0,6,M6,6-speed manual,Z,Premium petrol,yes,no,12.2,8.7,10.6,247,Medium
+198,BMW,M235i COUPE,2014–2020,2014,2020,SUBCOMPACT,3.0,6,AS8,8-speed automatic,Z,Premium petrol,yes,no,11.8,8.1,10.2,235,Medium
+199,BMW,M235i COUPE,2014–2020,2014,2020,SUBCOMPACT,3.0,6,M6,6-speed manual,Z,Premium petrol,yes,no,11.9,8.5,10.4,239,Medium
+200,BMW,M235i xDRIVE,2014–2020,2014,2020,SUBCOMPACT,3.0,6,AS8,8-speed automatic,Z,Premium petrol,yes,yes,12.0,7.9,10.2,238,Medium
+201,BMW,M235i xDRIVE CABRIOLET,2014–2020,2014,2020,SUBCOMPACT,3.0,6,AS8,8-speed automatic,Z,Premium petrol,yes,yes,12.0,7.9,10.2,238,Medium
+202,BMW,M235i xDRIVE COUPE,2014–2020,2014,2020,SUBCOMPACT,3.0,6,AS8,8-speed automatic,Z,Premium petrol,yes,yes,11.9,7.8,10.0,230,Medium
+203,BMW,M235i xDrive Gran Coupe,2021,2021,2021,COMPACT,2.0,4,AS8,8-speed automatic,Z,Premium petrol,yes,yes,10.4,7.7,9.2,213,Low
+204,BMW,M235i xDrive Gran Coupe,2022,2022,2022,COMPACT,2.0,4,AS8,8-speed automatic,Z,Premium petrol,yes,yes,10.4,7.8,9.2,214,Low
+205,BMW,M235i xDrive Gran Coupe,2023,2023,2023,COMPACT,2.0,4,AS8,8-speed automatic,Z,Premium petrol,yes,yes,9.8,7.2,8.6,202,Low
+206,BMW,M240i CABRIOLET,2014–2020,2014,2020,SUBCOMPACT,3.0,6,AS8,8-speed automatic,Z,Premium petrol,yes,no,11.2,7.8,9.7,226,Medium
+207,BMW,M240i CABRIOLET,2014–2020,2014,2020,SUBCOMPACT,3.0,6,M6,6-speed manual,Z,Premium petrol,yes,no,12.6,8.6,10.8,252,Medium
+208,BMW,M240i COUPE,2014–2020,2014,2020,SUBCOMPACT,3.0,6,AS8,8-speed automatic,Z,Premium petrol,yes,no,11.2,7.8,9.7,226,Medium
+209,BMW,M240i COUPE,2014–2020,2014,2020,SUBCOMPACT,3.0,6,M6,6-speed manual,Z,Premium petrol,yes,no,12.6,8.6,10.8,252,Medium
+210,BMW,M240i Coupe M Performance,2014–2020,2014,2020,SUBCOMPACT,3.0,6,AS8,8-speed automatic,Z,Premium petrol,yes,no,11.3,8.0,9.8,229,Medium
+211,BMW,M240i Coupe M Performance,2014–2020,2014,2020,SUBCOMPACT,3.0,6,M6,6-speed manual,Z,Premium petrol,yes,no,12.8,8.8,11.0,256,Medium
+212,BMW,M240i xDrive Cabriolet,2014–2020,2014,2020,SUBCOMPACT,3.0,6,AS8,8-speed automatic,Z,Premium petrol,yes,yes,11.3,8.0,9.8,229,Medium
+213,BMW,M240i xDrive Cabriolet,2021,2021,2021,SUBCOMPACT,3.0,6,AS8,8-speed automatic,Z,Premium petrol,yes,yes,11.3,7.9,9.8,228,Medium
+214,BMW,M240i xDrive Coupe,2014–2020,2014,2020,SUBCOMPACT,3.0,6,AS8,8-speed automatic,Z,Premium petrol,yes,yes,11.3,8.0,9.8,229,Medium
+215,BMW,M240i xDrive Coupe,2021,2021,2021,SUBCOMPACT,3.0,6,AS8,8-speed automatic,Z,Premium petrol,yes,yes,11.3,7.9,9.8,228,Medium
+216,BMW,M240i xDrive Coupe,2022,2022,2022,SUBCOMPACT,3.0,6,AS8,8-speed automatic,Z,Premium petrol,yes,yes,10.4,7.5,9.1,212,Medium
+217,BMW,M240i xDrive Coupe,2023–2024,2023,2024,SUBCOMPACT,3.0,6,AS8,8-speed automatic,Z,Premium petrol,yes,yes,10.4,7.4,9.0,210,Medium
+218,BMW,M240i xDrive Coupe,2025–2026,2025,2026,SUBCOMPACT,3.0,6,AS8,8-speed automatic,Z,Premium petrol,yes,yes,10.3,7.3,9.0,209,Medium
+219,BMW,M240i xDrive Coupe M Performance,2014–2020,2014,2020,SUBCOMPACT,3.0,6,AS8,8-speed automatic,Z,Premium petrol,yes,yes,11.4,8.2,9.9,231,Medium
+220,BMW,M3,2014–2020,2014,2020,COMPACT,3.0,6,AM7,7-speed automated manual,Z,Premium petrol,yes,no,13.9,9.8,12.0,283,Medium
+221,BMW,M3,2014–2020,2014,2020,COMPACT,3.0,6,M6,6-speed manual,Z,Premium petrol,yes,no,13.6,9.1,11.6,272,Medium
+222,BMW,M3 CS Sedan,2024,2024,2024,COMPACT,3.0,6,AS8,8-speed automatic,Z,Premium petrol,yes,no,15.3,10.6,13.2,305,Medium
+223,BMW,M3 Competition M xDrive Sedan,2023–2024,2023,2024,COMPACT,3.0,6,AS8,8-speed automatic,Z,Premium petrol,yes,yes,14.6,10.5,12.7,296,Medium
+224,BMW,M3 Competition M xDrive Sedan,2025,2025,2025,COMPACT,3.0,6,AS8,8-speed automatic,Z,Premium petrol,yes,yes,14.9,10.3,12.8,296,Medium
+225,BMW,M3 Competition Sedan,2022–2025,2022,2025,COMPACT,3.0,6,AS8,8-speed automatic,Z,Premium petrol,yes,no,14.5,10.2,12.6,292,Medium
+226,BMW,M3 Competition Sedan,2026,2026,2026,COMPACT,3.0,6,AS8,8-speed automatic,Z,Premium petrol,yes,no,14.9,10.3,12.8,296,Medium
+227,BMW,M3 Competition Sedan M xDrive,2022,2022,2022,COMPACT,3.0,6,AS8,8-speed automatic,Z,Premium petrol,yes,yes,14.6,10.5,12.7,296,Medium
+228,BMW,M3 Sedan,2014–2020,2014,2020,COMPACT,3.0,6,AM7,7-speed automated manual,Z,Premium petrol,yes,no,14.2,9.6,12.1,278,Medium
+229,BMW,M3 Sedan,2014–2020,2014,2020,COMPACT,3.0,6,M6,6-speed manual,Z,Premium petrol,yes,no,13.7,9.0,11.6,267,Medium
+230,BMW,M3 Sedan,2022–2026,2022,2026,COMPACT,3.0,6,M6,6-speed manual,Z,Premium petrol,yes,no,14.7,10.1,12.6,293,Medium
+231,BMW,M340i xDrive Sedan,2014–2020,2014,2020,COMPACT,3.0,6,AS8,8-speed automatic,Z,Premium petrol,yes,yes,11.4,8.3,10.0,233,Medium
+232,BMW,M340i xDrive Sedan,2021,2021,2021,COMPACT,3.0,6,AS8,8-speed automatic,Z,Premium petrol,yes,yes,10.5,7.7,9.2,214,Medium
+233,BMW,M340i xDrive Sedan,2022,2022,2022,COMPACT,3.0,6,AS8,8-speed automatic,Z,Premium petrol,yes,yes,10.4,7.7,9.2,214,Medium
+234,BMW,M340i xDrive Sedan,2023,2023,2023,COMPACT,3.0,6,AS8,8-speed automatic,Z,Premium petrol,yes,yes,10.3,7.4,9.0,210,Medium
+235,BMW,M340i xDrive Sedan,2024,2024,2024,COMPACT,3.0,6,AS8,8-speed automatic,Z,Premium petrol,yes,yes,10.4,7.5,9.1,212,Medium
+236,BMW,M340i xDrive Sedan,2025–2026,2025,2026,COMPACT,3.0,6,AS8,8-speed automatic,Z,Premium petrol,yes,yes,9.0,7.1,8.2,189,Medium
+237,BMW,M4 CABRIOLET,2014–2020,2014,2020,SUBCOMPACT,3.0,6,AM7,7-speed automated manual,Z,Premium petrol,yes,no,14.3,10.1,12.4,290,Medium
+238,BMW,M4 CABRIOLET,2014–2020,2014,2020,SUBCOMPACT,3.0,6,M6,6-speed manual,Z,Premium petrol,yes,no,13.9,9.2,11.8,277,Medium
+239,BMW,M4 CS,2014–2020,2014,2020,COMPACT,3.0,6,AM7,7-speed automated manual,Z,Premium petrol,yes,no,14.2,10.4,12.5,292,Medium
+240,BMW,M4 CS Coupe,2025,2025,2025,SUBCOMPACT,3.0,6,AS8,8-speed automatic,Z,Premium petrol,yes,no,15.0,10.3,12.9,297,Medium
+241,BMW,M4 CSL Coupe,2023,2023,2023,SUBCOMPACT,3.0,6,AS8,8-speed automatic,Z,Premium petrol,yes,no,15.0,10.3,12.9,301,Medium
+242,BMW,M4 Cabriolet Competition,2014–2020,2014,2020,SUBCOMPACT,3.0,6,AM7,7-speed automated manual,Z,Premium petrol,yes,no,14.5,10.5,12.7,299,Medium
+243,BMW,M4 Cabriolet Competition,2014–2020,2014,2020,SUBCOMPACT,3.0,6,M6,6-speed manual,Z,Premium petrol,yes,no,13.8,9.4,11.9,280,Medium
+244,BMW,M4 Competition Cabriolet,2026,2026,2026,SUBCOMPACT,3.0,6,AS8,8-speed automatic,Z,Premium petrol,yes,no,14.9,10.5,12.9,297,Medium
+245,BMW,M4 Competition Cabriolet M xDrive,2022,2022,2022,SUBCOMPACT,3.0,6,AS8,8-speed automatic,Z,Premium petrol,yes,yes,15.1,10.4,12.9,301,Medium
+246,BMW,M4 Competition Coupe,2022–2025,2022,2025,SUBCOMPACT,3.0,6,AS8,8-speed automatic,Z,Premium petrol,yes,no,14.5,10.2,12.6,292,Medium
+247,BMW,M4 Competition Coupe,2026,2026,2026,SUBCOMPACT,3.0,6,AS8,8-speed automatic,Z,Premium petrol,yes,no,14.7,10.2,12.7,293,Medium
+248,BMW,M4 Competition Coupe M xDrive,2022,2022,2022,SUBCOMPACT,3.0,6,AS8,8-speed automatic,Z,Premium petrol,yes,yes,14.6,10.5,12.7,296,Medium
+249,BMW,M4 Competition M xDrive Cabriolet,2023–2024,2023,2024,SUBCOMPACT,3.0,6,AS8,8-speed automatic,Z,Premium petrol,yes,yes,15.1,10.4,12.9,301,Medium
+250,BMW,M4 Competition M xDrive Cabriolet,2025,2025,2025,SUBCOMPACT,3.0,6,AS8,8-speed automatic,Z,Premium petrol,yes,yes,14.9,10.5,12.9,297,Medium
+251,BMW,M4 Competition M xDrive Coupe,2023–2024,2023,2024,SUBCOMPACT,3.0,6,AS8,8-speed automatic,Z,Premium petrol,yes,yes,14.6,10.5,12.7,296,Medium
+252,BMW,M4 Competition M xDrive Coupe,2025,2025,2025,SUBCOMPACT,3.0,6,AS8,8-speed automatic,Z,Premium petrol,yes,yes,14.7,10.2,12.7,293,Medium
+253,BMW,M4 Coupe,2014–2020,2014,2020,COMPACT,3.0,6,AM7,7-speed automated manual,Z,Premium petrol,yes,no,14.0,10.0,12.2,285,Medium
+254,BMW,M4 Coupe,2014–2020,2014,2020,COMPACT,3.0,6,M6,6-speed manual,Z,Premium petrol,yes,no,13.6,9.3,11.6,272,Medium
+255,BMW,M4 Coupe,2022–2026,2022,2026,SUBCOMPACT,3.0,6,M6,6-speed manual,Z,Premium petrol,yes,no,14.7,10.1,12.6,293,Medium
+256,BMW,M4 Coupe Competition,2014–2020,2014,2020,COMPACT,3.0,6,AM7,7-speed automated manual,Z,Premium petrol,yes,no,14.2,10.4,12.5,292,Medium
+257,BMW,M4 Coupe Competition,2014–2020,2014,2020,COMPACT,3.0,6,M6,6-speed manual,Z,Premium petrol,yes,no,13.4,9.6,11.7,273,Medium
+258,BMW,M440i xDrive Cabriolet,2022,2022,2022,SUBCOMPACT,3.0,6,AS8,8-speed automatic,Z,Premium petrol,yes,yes,10.4,7.4,9.1,211,Medium
+259,BMW,M440i xDrive Cabriolet,2023,2023,2023,SUBCOMPACT,3.0,6,AS8,8-speed automatic,Z,Premium petrol,yes,yes,10.6,7.7,9.3,216,Medium
+260,BMW,M440i xDrive Cabriolet,2024,2024,2024,SUBCOMPACT,3.0,6,AS8,8-speed automatic,Z,Premium petrol,yes,yes,10.4,7.5,9.1,211,Medium
+261,BMW,M440i xDrive Cabriolet,2025–2026,2025,2026,SUBCOMPACT,3.0,6,AS8,8-speed automatic,Z,Premium petrol,yes,yes,9.2,7.3,8.4,194,Medium
+262,BMW,M440i xDrive Coupe,2021,2021,2021,SUBCOMPACT,3.0,6,AS8,8-speed automatic,Z,Premium petrol,yes,yes,10.5,7.7,9.2,214,Medium
+263,BMW,M440i xDrive Coupe,2022,2022,2022,SUBCOMPACT,3.0,6,AS8,8-speed automatic,Z,Premium petrol,yes,yes,10.4,7.7,9.2,214,Medium
+264,BMW,M440i xDrive Coupe,2023,2023,2023,SUBCOMPACT,3.0,6,AS8,8-speed automatic,Z,Premium petrol,yes,yes,10.7,7.6,9.3,216,Medium
+265,BMW,M440i xDrive Coupe,2024,2024,2024,SUBCOMPACT,3.0,6,AS8,8-speed automatic,Z,Premium petrol,yes,yes,10.7,7.5,9.3,216,Medium
+266,BMW,M440i xDrive Coupe,2025–2026,2025,2026,SUBCOMPACT,3.0,6,AS8,8-speed automatic,Z,Premium petrol,yes,yes,8.9,7.1,8.1,187,Medium
+267,BMW,M440i xDrive Gran Coupe,2022,2022,2022,COMPACT,3.0,6,AS8,8-speed automatic,Z,Premium petrol,yes,yes,10.9,8.0,9.6,224,Medium
+268,BMW,M440i xDrive Gran Coupe,2024,2024,2024,COMPACT,3.0,6,AS8,8-speed automatic,Z,Premium petrol,yes,yes,10.7,7.8,9.4,218,Medium
+269,BMW,M440i xDrive Gran Coupe,2025,2025,2025,COMPACT,3.0,6,AS8,8-speed automatic,Z,Premium petrol,yes,yes,9.4,7.6,8.6,199,Medium
+270,BMW,M5,2014–2020,2014,2020,MID-SIZE,4.4,8,AM7,7-speed automated manual,Z,Premium petrol,yes,no,17.3,11.5,14.7,341,High
+271,BMW,M5,2014–2020,2014,2020,MID-SIZE,4.4,8,AS8,8-speed automatic,Z,Premium petrol,yes,no,16.0,11.2,13.9,324,High
+272,BMW,M5,2014–2020,2014,2020,MID-SIZE,4.4,8,M6,6-speed manual,Z,Premium petrol,yes,no,16.2,10.9,13.8,319,High
+273,BMW,M5 CS,2022,2022,2022,MID-SIZE,4.4,8,AS8,8-speed automatic,Z,Premium petrol,yes,no,16.1,11.0,13.8,322,High
+274,BMW,M5 Competition,2014–2020,2014,2020,MID-SIZE,4.4,8,AS8,8-speed automatic,Z,Premium petrol,yes,no,16.0,11.1,13.8,323,High
+275,BMW,M5 Competition,2021,2021,2021,MID-SIZE,4.4,8,AS8,8-speed automatic,Z,Premium petrol,yes,no,16.0,11.0,13.8,323,High
+276,BMW,M5 Competition,2022,2022,2022,MID-SIZE,4.4,8,AS8,8-speed automatic,Z,Premium petrol,yes,no,16.1,11.0,13.8,322,High
+277,BMW,M5 Competition Sedan,2023,2023,2023,MID-SIZE,4.4,8,AS8,8-speed automatic,Z,Premium petrol,yes,no,16.1,11.1,13.8,324,High
+278,BMW,M5 Sedan,2014–2020,2014,2020,MID-SIZE,4.4,8,AM7,7-speed automated manual,Z,Premium petrol,yes,no,17.3,11.5,14.7,338,High
+279,BMW,M5 Sedan,2014–2020,2014,2020,MID-SIZE,4.4,8,AS8,8-speed automatic,Z,Premium petrol,yes,no,16.0,11.0,13.8,322,High
+280,BMW,M5 Sedan,2014–2020,2014,2020,MID-SIZE,4.4,8,M6,6-speed manual,Z,Premium petrol,yes,no,16.1,10.8,13.7,315,High
+281,BMW,M5 Sedan,2021,2021,2021,MID-SIZE,4.4,8,AS8,8-speed automatic,Z,Premium petrol,yes,no,16.0,11.0,13.8,323,High
+282,BMW,M5 Sedan,2022,2022,2022,MID-SIZE,4.4,8,AS8,8-speed automatic,Z,Premium petrol,yes,no,16.1,11.0,13.8,322,High
+283,BMW,M5 Sedan,2023,2023,2023,MID-SIZE,4.4,8,AS8,8-speed automatic,Z,Premium petrol,yes,no,16.1,11.1,13.8,324,High
+284,BMW,M550i xDRIVE,2014–2020,2014,2020,MID-SIZE,4.4,8,AS8,8-speed automatic,Z,Premium petrol,yes,yes,13.8,9.3,11.8,276,High
+285,BMW,M550i xDrive Sedan,2014–2020,2014,2020,MID-SIZE,4.4,8,AS8,8-speed automatic,Z,Premium petrol,yes,yes,13.6,9.3,11.7,273,High
+286,BMW,M550i xDrive Sedan,2021,2021,2021,MID-SIZE,4.4,8,AS8,8-speed automatic,Z,Premium petrol,yes,yes,13.5,9.5,11.7,272,High
+287,BMW,M550i xDrive Sedan,2022,2022,2022,MID-SIZE,4.4,8,AS8,8-speed automatic,Z,Premium petrol,yes,yes,13.5,9.3,11.6,271,High
+288,BMW,M550i xDrive Sedan,2023,2023,2023,MID-SIZE,4.4,8,AS8,8-speed automatic,Z,Premium petrol,yes,yes,14.0,9.5,12.0,277,High
+289,BMW,M6,2014–2020,2014,2020,COMPACT,4.4,8,AM7,7-speed automated manual,Z,Premium petrol,yes,no,17.3,11.5,14.7,342,High
+290,BMW,M6,2014–2020,2014,2020,COMPACT,4.4,8,M6,6-speed manual,Z,Premium petrol,yes,no,16.2,10.9,13.8,321,High
+291,BMW,M6 CABRIOLET,2014–2020,2014,2020,SUBCOMPACT,4.4,8,AM7,7-speed automated manual,Z,Premium petrol,yes,no,17.3,11.5,14.7,341,High
+292,BMW,M6 CABRIOLET,2014–2020,2014,2020,SUBCOMPACT,4.4,8,M6,6-speed manual,Z,Premium petrol,yes,no,16.2,10.9,13.8,320,High
+293,BMW,M6 COUPE,2014–2020,2014,2020,COMPACT,4.4,8,AM7,7-speed automated manual,Z,Premium petrol,yes,no,17.3,11.5,14.7,338,High
+294,BMW,M6 COUPE,2014–2020,2014,2020,SUBCOMPACT,4.4,8,AM7,7-speed automated manual,Z,Premium petrol,yes,no,17.3,11.6,14.7,344,High
+295,BMW,M6 COUPE,2014–2020,2014,2020,COMPACT,4.4,8,M6,6-speed manual,Z,Premium petrol,yes,no,16.1,10.8,13.7,315,High
+296,BMW,M6 COUPE,2014–2020,2014,2020,SUBCOMPACT,4.4,8,M6,6-speed manual,Z,Premium petrol,yes,no,16.2,10.9,13.8,324,High
+297,BMW,M6 GRAN COUPE,2014–2020,2014,2020,COMPACT,4.4,8,AM7,7-speed automated manual,Z,Premium petrol,yes,no,17.3,11.5,14.7,342,High
+298,BMW,M6 GRAN COUPE,2014–2020,2014,2020,COMPACT,4.4,8,M6,6-speed manual,Z,Premium petrol,yes,no,16.2,10.9,13.8,320,High
+299,BMW,M760Li xDrive,2014–2020,2014,2020,FULL-SIZE,6.6,12,AS8,8-speed automatic,Z,Premium petrol,yes,yes,17.7,11.9,15.1,355,High
+300,BMW,M760i xDRIVE,2014–2020,2014,2020,FULL-SIZE,6.6,12,AS8,8-speed automatic,Z,Premium petrol,yes,yes,17.7,11.9,15.1,355,High
+301,BMW,M760i xDrive Sedan,2014–2020,2014,2020,FULL-SIZE,6.6,12,AS8,8-speed automatic,Z,Premium petrol,yes,yes,17.8,11.9,15.1,354,High
+302,BMW,M760i xDrive Sedan,2021–2022,2021,2022,FULL-SIZE,6.6,12,AS8,8-speed automatic,Z,Premium petrol,yes,yes,17.8,11.9,15.1,354,High
+303,BMW,M8 Cabriolet,2014–2020,2014,2020,SUBCOMPACT,4.4,8,AS8,8-speed automatic,Z,Premium petrol,yes,no,16.0,11.0,13.8,322,High
+304,BMW,M8 Cabriolet,2021,2021,2021,SUBCOMPACT,4.4,8,AS8,8-speed automatic,Z,Premium petrol,yes,no,16.0,11.0,13.8,323,High
+305,BMW,M8 Cabriolet,2022,2022,2022,SUBCOMPACT,4.4,8,AS8,8-speed automatic,Z,Premium petrol,yes,no,16.1,11.0,13.8,322,High
+306,BMW,M8 Cabriolet Competition,2014–2020,2014,2020,SUBCOMPACT,4.4,8,AS8,8-speed automatic,Z,Premium petrol,yes,no,16.0,11.0,13.8,322,High
+307,BMW,M8 Cabriolet Competition,2021,2021,2021,SUBCOMPACT,4.4,8,AS8,8-speed automatic,Z,Premium petrol,yes,no,16.0,11.0,13.8,323,High
+308,BMW,M8 Cabriolet Competition,2022,2022,2022,SUBCOMPACT,4.4,8,AS8,8-speed automatic,Z,Premium petrol,yes,no,16.1,11.0,13.8,322,High
+309,BMW,M8 Competition Cabriolet,2023,2023,2023,SUBCOMPACT,4.4,8,AS8,8-speed automatic,Z,Premium petrol,yes,no,16.1,10.9,13.7,321,High
+310,BMW,M8 Competition Cabriolet,2024,2024,2024,SUBCOMPACT,4.4,8,AS8,8-speed automatic,Z,Premium petrol,yes,no,16.0,10.9,13.7,321,High
+311,BMW,M8 Competition Cabriolet,2025,2025,2025,SUBCOMPACT,4.4,8,AS8,8-speed automatic,Z,Premium petrol,yes,no,16.1,10.9,13.8,321,High
+312,BMW,M8 Competition Coupe,2023,2023,2023,SUBCOMPACT,4.4,8,AS8,8-speed automatic,Z,Premium petrol,yes,no,16.1,10.9,13.7,321,High
+313,BMW,M8 Competition Coupe,2024,2024,2024,SUBCOMPACT,4.4,8,AS8,8-speed automatic,Z,Premium petrol,yes,no,16.0,10.9,13.7,321,High
+314,BMW,M8 Competition Coupe,2025,2025,2025,SUBCOMPACT,4.4,8,AS8,8-speed automatic,Z,Premium petrol,yes,no,16.1,10.9,13.8,321,High
+315,BMW,M8 Competition Gran Coupe,2023,2023,2023,MID-SIZE,4.4,8,AS8,8-speed automatic,Z,Premium petrol,yes,no,16.1,10.9,13.7,321,High
+316,BMW,M8 Competition Gran Coupe,2024,2024,2024,MID-SIZE,4.4,8,AS8,8-speed automatic,Z,Premium petrol,yes,no,16.0,10.9,13.7,321,High
+317,BMW,M8 Competition Gran Coupe,2025,2025,2025,MID-SIZE,4.4,8,AS8,8-speed automatic,Z,Premium petrol,yes,no,16.1,10.9,13.8,321,High
+318,BMW,M8 Coupe,2014–2020,2014,2020,SUBCOMPACT,4.4,8,AS8,8-speed automatic,Z,Premium petrol,yes,no,16.0,11.0,13.8,322,High
+319,BMW,M8 Coupe,2021,2021,2021,SUBCOMPACT,4.4,8,AS8,8-speed automatic,Z,Premium petrol,yes,no,16.0,11.0,13.8,323,High
+320,BMW,M8 Coupe,2022,2022,2022,SUBCOMPACT,4.4,8,AS8,8-speed automatic,Z,Premium petrol,yes,no,16.1,11.0,13.8,322,High
+321,BMW,M8 Coupe Competition,2014–2020,2014,2020,SUBCOMPACT,4.4,8,AS8,8-speed automatic,Z,Premium petrol,yes,no,16.0,11.0,13.8,322,High
+322,BMW,M8 Coupe Competition,2021,2021,2021,SUBCOMPACT,4.4,8,AS8,8-speed automatic,Z,Premium petrol,yes,no,16.0,11.0,13.8,323,High
+323,BMW,M8 Coupe Competition,2022,2022,2022,SUBCOMPACT,4.4,8,AS8,8-speed automatic,Z,Premium petrol,yes,no,16.1,11.0,13.8,322,High
+324,BMW,M8 Gran Coupe,2014–2020,2014,2020,MID-SIZE,4.4,8,AS8,8-speed automatic,Z,Premium petrol,yes,no,16.0,11.0,13.8,322,High
+325,BMW,M8 Gran Coupe,2021,2021,2021,MID-SIZE,4.4,8,AS8,8-speed automatic,Z,Premium petrol,yes,no,16.0,11.0,13.8,323,High
+326,BMW,M8 Gran Coupe,2022,2022,2022,MID-SIZE,4.4,8,AS8,8-speed automatic,Z,Premium petrol,yes,no,16.1,11.0,13.8,322,High
+327,BMW,M8 Gran Coupe Competition,2014–2020,2014,2020,MID-SIZE,4.4,8,AS8,8-speed automatic,Z,Premium petrol,yes,no,16.0,11.0,13.8,322,High
+328,BMW,M8 Gran Coupe Competition,2021,2021,2021,MID-SIZE,4.4,8,AS8,8-speed automatic,Z,Premium petrol,yes,no,16.0,11.0,13.8,323,High
+329,BMW,M8 Gran Coupe Competition,2022,2022,2022,MID-SIZE,4.4,8,AS8,8-speed automatic,Z,Premium petrol,yes,no,16.1,11.0,13.8,322,High
+330,BMW,M850i xDrive Cabriolet,2014–2020,2014,2020,SUBCOMPACT,4.4,8,AS8,8-speed automatic,Z,Premium petrol,yes,yes,14.0,9.6,12.0,280,High
+331,BMW,M850i xDrive Cabriolet,2021,2021,2021,SUBCOMPACT,4.4,8,AS8,8-speed automatic,Z,Premium petrol,yes,yes,14.0,9.7,12.0,281,High
+332,BMW,M850i xDrive Cabriolet,2022,2022,2022,SUBCOMPACT,4.4,8,AS8,8-speed automatic,Z,Premium petrol,yes,yes,13.9,9.6,12.0,279,High
+333,BMW,M850i xDrive Cabriolet,2023–2026,2023,2026,SUBCOMPACT,4.4,8,AS8,8-speed automatic,Z,Premium petrol,yes,yes,14.1,9.9,12.2,284,High
+334,BMW,M850i xDrive Cabriolet,2025,2025,2025,SUBCOMPACT,4.4,8,AS8,8-speed automatic,Z,Premium petrol,yes,yes,14.2,9.9,12.2,285,High
+335,BMW,M850i xDrive Coupe,2014–2020,2014,2020,SUBCOMPACT,4.4,8,AS8,8-speed automatic,Z,Premium petrol,yes,yes,13.4,9.2,11.6,271,High
+336,BMW,M850i xDrive Coupe,2021,2021,2021,SUBCOMPACT,4.4,8,AS8,8-speed automatic,Z,Premium petrol,yes,yes,13.5,9.5,11.7,272,High
+337,BMW,M850i xDrive Coupe,2022,2022,2022,SUBCOMPACT,4.4,8,AS8,8-speed automatic,Z,Premium petrol,yes,yes,13.5,9.3,11.6,271,High
+338,BMW,M850i xDrive Coupe,2023–2026,2023,2026,SUBCOMPACT,4.4,8,AS8,8-speed automatic,Z,Premium petrol,yes,yes,14.1,9.9,12.2,284,High
+339,BMW,M850i xDrive Gran Coupe,2014–2020,2014,2020,MID-SIZE,4.4,8,AS8,8-speed automatic,Z,Premium petrol,yes,yes,14.5,9.9,12.4,290,High
+340,BMW,M850i xDrive Gran Coupe,2021,2021,2021,MID-SIZE,4.4,8,AS8,8-speed automatic,Z,Premium petrol,yes,yes,14.0,9.7,12.0,281,High
+341,BMW,M850i xDrive Gran Coupe,2022,2022,2022,MID-SIZE,4.4,8,AS8,8-speed automatic,Z,Premium petrol,yes,yes,13.9,9.6,12.0,279,High
+342,BMW,M850i xDrive Gran Coupe,2023–2026,2023,2026,MID-SIZE,4.4,8,AS8,8-speed automatic,Z,Premium petrol,yes,yes,14.1,9.9,12.2,284,High
+343,BMW,M850i xDrive Gran Coupe,2025,2025,2025,MID-SIZE,4.4,8,AS8,8-speed automatic,Z,Premium petrol,yes,yes,14.2,9.9,12.2,285,High
+344,BMW,X1 M35i,2025,2025,2025,SUV - SMALL,2.0,4,AM7,7-speed automated manual,Z,Premium petrol,yes,no,10.1,7.6,9.0,208,Low
+345,BMW,X1 M35i xDrive,2024,2024,2024,SUV - SMALL,2.0,4,AM7,7-speed automated manual,Z,Premium petrol,yes,yes,10.1,7.6,9.0,208,Low
+346,BMW,X1 M35i xDrive,2026,2026,2026,SUV - SMALL,2.0,4,AM7,7-speed automated manual,Z,Premium petrol,yes,yes,9.9,7.4,8.8,203,Low
+347,BMW,X1 xDRIVE35i,2014–2020,2014,2020,SUV - SMALL,3.0,6,A6,6-speed automatic,Z,Premium petrol,no,yes,13.2,8.9,11.3,260,Medium
+348,BMW,X1 xDRIVE35i,2014–2020,2014,2020,SUV - SMALL,3.0,6,AS8,8-speed automatic,Z,Premium petrol,no,yes,13.2,8.9,11.2,258,Medium
+349,BMW,X1 xDrive28i,2014–2020,2014,2020,SUV - SMALL,2.0,4,A8,8-speed automatic,Z,Premium petrol,no,yes,10.6,7.2,9.1,209,Low
+350,BMW,X1 xDrive28i,2014–2020,2014,2020,SUV - SMALL,2.0,4,AS8,8-speed automatic,Z,Premium petrol,no,yes,10.6,7.4,9.2,214,Low
+351,BMW,X1 xDrive28i,2021–2022,2021,2022,SUV - SMALL,2.0,4,AS8,8-speed automatic,Z,Premium petrol,no,yes,10.3,7.7,9.1,213,Low
+352,BMW,X1 xDrive28i,2023–2024,2023,2024,SUV - SMALL,2.0,4,AM7,7-speed automated manual,Z,Premium petrol,no,yes,9.6,7.0,8.4,195,Low
+353,BMW,X1 xDrive28i,2025,2025,2025,SUV - SMALL,2.0,4,AM7,7-speed automated manual,Z,Premium petrol,no,yes,9.7,7.1,8.5,198,Low
+354,BMW,X1 xDrive28i,2026,2026,2026,SUV - SMALL,2.0,4,AM7,7-speed automated manual,Z,Premium petrol,no,yes,9.5,6.9,8.3,193,Low
+355,BMW,X2 M35i,2014–2020,2014,2020,SUV - SMALL,2.0,4,AS8,8-speed automatic,Z,Premium petrol,yes,no,10.0,7.8,9.0,210,Low
+356,BMW,X2 M35i,2021,2021,2021,SUV - SMALL,2.0,4,AS8,8-speed automatic,Z,Premium petrol,yes,no,10.0,7.7,8.9,209,Low
+357,BMW,X2 M35i,2022,2022,2022,SUV - SMALL,2.0,4,AS8,8-speed automatic,Z,Premium petrol,yes,no,9.9,7.6,8.9,207,Low
+358,BMW,X2 M35i,2025,2025,2025,SUV - SMALL,2.0,4,AM7,7-speed automated manual,Z,Premium petrol,yes,no,10.3,7.3,8.9,206,Low
+359,BMW,X2 M35i xDrive,2024,2024,2024,SUV - SMALL,2.0,4,AM7,7-speed automated manual,Z,Premium petrol,yes,yes,10.3,7.3,8.9,207,Low
+360,BMW,X2 M35i xDrive,2026,2026,2026,SUV - SMALL,2.0,4,AM7,7-speed automated manual,Z,Premium petrol,yes,yes,10.3,7.5,9.1,210,Low
+361,BMW,X2 xDrive28i,2014–2020,2014,2020,SUV - SMALL,2.0,4,AS8,8-speed automatic,Z,Premium petrol,no,yes,10.6,7.7,9.3,217,Low
+362,BMW,X2 xDrive28i,2021,2021,2021,SUV - SMALL,2.0,4,AS8,8-speed automatic,Z,Premium petrol,no,yes,9.8,7.5,8.8,205,Low
+363,BMW,X2 xDrive28i,2022,2022,2022,SUV - SMALL,2.0,4,AS8,8-speed automatic,Z,Premium petrol,no,yes,9.9,7.6,8.8,207,Low
+364,BMW,X2 xDrive28i,2024–2025,2024,2025,SUV - SMALL,2.0,4,AM7,7-speed automated manual,Z,Premium petrol,no,yes,9.7,7.1,8.5,198,Low
+365,BMW,X2 xDrive28i,2026,2026,2026,SUV - SMALL,2.0,4,AM7,7-speed automated manual,Z,Premium petrol,no,yes,9.7,6.9,8.4,195,Low
+366,BMW,X3 30 xDrive,2026,2026,2026,SUV - SMALL,2.0,4,AS8,8-speed automatic,Z,Premium petrol,no,yes,8.8,7.1,8.1,186,Low
+367,BMW,X3 M,2014–2020,2014,2020,SUV - SMALL,3.0,6,AS8,8-speed automatic,Z,Premium petrol,yes,no,16.6,12.1,14.6,339,High
+368,BMW,X3 M,2021,2021,2021,SUV - SMALL,3.0,6,AS8,8-speed automatic,Z,Premium petrol,yes,no,16.6,12.1,14.6,339,High
+369,BMW,X3 M,2022–2024,2022,2024,SUV - SMALL,3.0,6,AS8,8-speed automatic,Z,Premium petrol,yes,no,15.7,11.7,13.9,323,High
+370,BMW,X3 M Competition,2014–2020,2014,2020,SUV - SMALL,3.0,6,AS8,8-speed automatic,Z,Premium petrol,yes,no,16.6,12.1,14.6,339,High
+371,BMW,X3 M Competition,2021,2021,2021,SUV - SMALL,3.0,6,AS8,8-speed automatic,Z,Premium petrol,yes,no,16.6,12.1,14.6,339,High
+372,BMW,X3 M Competition,2022–2024,2022,2024,SUV - SMALL,3.0,6,AS8,8-speed automatic,Z,Premium petrol,yes,no,15.7,11.7,13.9,323,High
+373,BMW,X3 M40i,2014–2020,2014,2020,SUV - SMALL,3.0,6,AS8,8-speed automatic,Z,Premium petrol,yes,no,11.6,8.7,10.3,240,Medium
+374,BMW,X3 M40i,2021,2021,2021,SUV - SMALL,3.0,6,AS8,8-speed automatic,Z,Premium petrol,yes,no,11.3,8.7,10.1,235,Medium
+375,BMW,X3 M40i,2022,2022,2022,SUV - SMALL,3.0,6,AS8,8-speed automatic,Z,Premium petrol,yes,no,11.2,9.1,10.3,241,Medium
+376,BMW,X3 M40i,2023–2024,2023,2024,SUV - SMALL,3.0,6,AS8,8-speed automatic,Z,Premium petrol,yes,no,10.9,9.0,10.1,235,Medium
+377,BMW,X3 M50 xDrive,2026,2026,2026,SUV - SMALL,3.0,6,AS8,8-speed automatic,Z,Premium petrol,yes,yes,9.3,7.7,8.6,199,Medium
+378,BMW,X3 M50i xDrive,2025,2025,2025,SUV - SMALL,3.0,6,AS8,8-speed automatic,Z,Premium petrol,yes,yes,9.3,7.7,8.6,199,Medium
+379,BMW,X3 xDRIVE28d,2014–2020,2014,2020,SUV - SMALL,2.0,4,AS8,8-speed automatic,D,Diesel,no,yes,8.6,7.0,7.9,212,Low
+380,BMW,X3 xDRIVE28i,2014–2020,2014,2020,SUV - SMALL,2.0,4,A8,8-speed automatic,Z,Premium petrol,no,yes,11.2,8.5,10.0,230,Low
+381,BMW,X3 xDRIVE28i,2014–2020,2014,2020,SUV - SMALL,2.0,4,AS8,8-speed automatic,Z,Premium petrol,no,yes,11.1,8.4,9.9,231,Low
+382,BMW,X3 xDRIVE35i,2014–2020,2014,2020,SUV - SMALL,3.0,6,A8,8-speed automatic,Z,Premium petrol,no,yes,12.6,9.1,11.0,253,Medium
+383,BMW,X3 xDRIVE35i,2014–2020,2014,2020,SUV - SMALL,3.0,6,AS8,8-speed automatic,Z,Premium petrol,no,yes,12.7,8.9,11.0,256,Medium
+384,BMW,X3 xDrive30i,2014–2020,2014,2020,SUV - SMALL,2.0,4,AS8,8-speed automatic,Z,Premium petrol,no,yes,10.5,8.1,9.4,220,Low
+385,BMW,X3 xDrive30i,2021,2021,2021,SUV - SMALL,2.0,4,AS8,8-speed automatic,Z,Premium petrol,no,yes,10.2,8.2,9.3,217,Low
+386,BMW,X3 xDrive30i,2022,2022,2022,SUV - SMALL,2.0,4,AS8,8-speed automatic,Z,Premium petrol,no,yes,11.0,8.5,9.9,230,Low
+387,BMW,X3 xDrive30i,2023–2024,2023,2024,SUV - SMALL,2.0,4,AS8,8-speed automatic,Z,Premium petrol,no,yes,11.0,8.4,9.9,229,Low
+388,BMW,X3 xDrive30i,2025,2025,2025,SUV - SMALL,2.0,4,AS8,8-speed automatic,Z,Premium petrol,no,yes,8.8,7.1,8.1,186,Low
+389,BMW,X4 M,2014–2020,2014,2020,SUV - SMALL,3.0,6,AS8,8-speed automatic,Z,Premium petrol,yes,no,16.6,12.1,14.6,339,High
+390,BMW,X4 M,2021,2021,2021,SUV - SMALL,3.0,6,AS8,8-speed automatic,Z,Premium petrol,yes,no,16.6,12.1,14.6,339,High
+391,BMW,X4 M,2022–2025,2022,2025,SUV - SMALL,3.0,6,AS8,8-speed automatic,Z,Premium petrol,yes,no,15.7,11.7,13.9,323,High
+392,BMW,X4 M Competition,2014–2020,2014,2020,SUV - SMALL,3.0,6,AS8,8-speed automatic,Z,Premium petrol,yes,no,16.6,12.1,14.6,339,High
+393,BMW,X4 M Competition,2021,2021,2021,SUV - SMALL,3.0,6,AS8,8-speed automatic,Z,Premium petrol,yes,no,16.6,12.1,14.6,339,High
+394,BMW,X4 M Competition,2022–2025,2022,2025,SUV - SMALL,3.0,6,AS8,8-speed automatic,Z,Premium petrol,yes,no,15.7,11.7,13.9,323,High
+395,BMW,X4 M40i,2014–2020,2014,2020,SUV - SMALL,3.0,6,AS8,8-speed automatic,Z,Premium petrol,yes,no,12.3,9.1,10.9,254,Medium
+396,BMW,X4 M40i,2021,2021,2021,SUV - SMALL,3.0,6,AS8,8-speed automatic,Z,Premium petrol,yes,no,11.3,8.7,10.1,235,Medium
+397,BMW,X4 M40i,2022,2022,2022,SUV - SMALL,3.0,6,AS8,8-speed automatic,Z,Premium petrol,yes,no,11.2,9.1,10.3,241,Medium
+398,BMW,X4 M40i,2023–2024,2023,2024,SUV - SMALL,3.0,6,AS8,8-speed automatic,Z,Premium petrol,yes,no,10.9,9.0,10.1,235,Medium
+399,BMW,X4 M40i xDrive,2025,2025,2025,SUV - SMALL,3.0,6,AS8,8-speed automatic,Z,Premium petrol,yes,yes,10.9,9.0,10.0,234,Medium
+400,BMW,X4 xDRIVE28i,2014–2020,2014,2020,SUV - SMALL,2.0,4,AS8,8-speed automatic,Z,Premium petrol,no,yes,11.8,8.5,10.2,238,Low
+401,BMW,X4 xDRIVE35i,2014–2020,2014,2020,SUV - SMALL,3.0,6,AS8,8-speed automatic,Z,Premium petrol,no,yes,12.7,8.8,10.9,254,Medium
+402,BMW,X4 xDrive30i,2014–2020,2014,2020,SUV - SMALL,2.0,4,AS8,8-speed automatic,Z,Premium petrol,no,yes,10.4,8.1,9.4,219,Low
+403,BMW,X4 xDrive30i,2021,2021,2021,SUV - SMALL,2.0,4,AS8,8-speed automatic,Z,Premium petrol,no,yes,10.2,8.2,9.3,217,Low
+404,BMW,X4 xDrive30i,2022,2022,2022,SUV - SMALL,2.0,4,AS8,8-speed automatic,Z,Premium petrol,no,yes,11.0,8.5,9.9,230,Low
+405,BMW,X4 xDrive30i,2023–2024,2023,2024,SUV - SMALL,2.0,4,AS8,8-speed automatic,Z,Premium petrol,no,yes,11.0,8.4,9.9,229,Low
+406,BMW,X4 xDrive30i,2025,2025,2025,SUV - SMALL,2.0,4,AS8,8-speed automatic,Z,Premium petrol,no,yes,11.1,8.6,9.9,231,Low
+407,BMW,X5 M,2014–2020,2014,2020,SUV - STANDARD,4.4,8,AS8,8-speed automatic,Z,Premium petrol,yes,no,16.6,12.1,14.6,340,High
+408,BMW,X5 M,2021–2023,2021,2023,SUV - STANDARD,4.4,8,AS8,8-speed automatic,Z,Premium petrol,yes,no,17.9,13.0,15.7,364,High
+409,BMW,X5 M Competition,2021–2023,2021,2023,SUV - STANDARD,4.4,8,AS8,8-speed automatic,Z,Premium petrol,yes,no,17.9,13.0,15.7,364,High
+410,BMW,X5 M Competition,2024–2026,2024,2026,SUV - STANDARD,4.4,8,AS8,8-speed automatic,Z,Premium petrol,yes,no,18.2,12.9,15.8,366,High
+411,BMW,X5 M50i,2014–2020,2014,2020,SUV - STANDARD,4.4,8,AS8,8-speed automatic,Z,Premium petrol,yes,no,14.5,10.7,12.8,302,High
+412,BMW,X5 M50i,2021–2022,2021,2022,SUV - STANDARD,4.4,8,AS8,8-speed automatic,Z,Premium petrol,yes,no,14.4,10.6,12.7,302,High
+413,BMW,X5 M50i,2023,2023,2023,SUV - STANDARD,4.4,8,AS8,8-speed automatic,Z,Premium petrol,yes,no,14.7,10.9,13.0,302,High
+414,BMW,X5 M60i,2024,2024,2024,SUV - STANDARD,4.4,8,AS8,8-speed automatic,Z,Premium petrol,yes,no,13.8,10.5,12.3,285,High
+415,BMW,X5 M60i xDrive,2025–2026,2025,2026,SUV - STANDARD,4.4,8,AS8,8-speed automatic,Z,Premium petrol,yes,yes,13.8,10.5,12.3,285,High
+416,BMW,X5 xDRIVE35d,2014–2020,2014,2020,SUV - STANDARD,3.0,6,AS8,8-speed automatic,D,Diesel,no,yes,10.1,7.7,9.0,241,Medium
+417,BMW,X5 xDRIVE35i,2014–2020,2014,2020,SUV - STANDARD,3.0,6,A8,8-speed automatic,Z,Premium petrol,no,yes,12.9,8.8,11.1,255,Medium
+418,BMW,X5 xDRIVE35i,2014–2020,2014,2020,SUV - STANDARD,3.0,6,AS8,8-speed automatic,Z,Premium petrol,no,yes,13.0,9.6,11.4,266,Medium
+419,BMW,X5 xDRIVE50i,2014–2020,2014,2020,SUV - STANDARD,4.4,8,A8,8-speed automatic,Z,Premium petrol,no,yes,16.3,10.9,13.9,320,High
+420,BMW,X5 xDRIVE50i,2014–2020,2014,2020,SUV - STANDARD,4.4,8,AS8,8-speed automatic,Z,Premium petrol,no,yes,15.4,11.1,13.5,315,High
+421,BMW,X5 xDrive40i,2014–2020,2014,2020,SUV - STANDARD,3.0,6,AS8,8-speed automatic,Z,Premium petrol,no,yes,11.7,9.1,10.5,245,Medium
+422,BMW,X5 xDrive40i,2021,2021,2021,SUV - STANDARD,3.0,6,AS8,8-speed automatic,Z,Premium petrol,no,yes,11.4,9.2,10.4,242,Medium
+423,BMW,X5 xDrive40i,2022,2022,2022,SUV - STANDARD,3.0,6,AS8,8-speed automatic,Z,Premium petrol,no,yes,11.3,9.2,10.4,241,Medium
+424,BMW,X5 xDrive40i,2023,2023,2023,SUV - STANDARD,3.0,6,AS8,8-speed automatic,Z,Premium petrol,no,yes,11.4,9.3,10.4,242,Medium
+425,BMW,X5 xDrive40i,2024–2026,2024,2026,SUV - STANDARD,3.0,6,AS8,8-speed automatic,Z,Premium petrol,no,yes,10.1,8.7,9.4,218,Medium
+426,BMW,X6 M,2014–2020,2014,2020,SUV - STANDARD,4.4,8,A6,6-speed automatic,Z,Premium petrol,yes,no,18.1,13.7,16.1,370,High
+427,BMW,X6 M,2014–2020,2014,2020,SUV - STANDARD,4.4,8,AS8,8-speed automatic,Z,Premium petrol,yes,no,16.6,12.1,14.6,340,High
+428,BMW,X6 M,2021–2023,2021,2023,SUV - STANDARD,4.4,8,AS8,8-speed automatic,Z,Premium petrol,yes,no,17.9,13.0,15.7,364,High
+429,BMW,X6 M Competition,2021–2023,2021,2023,SUV - STANDARD,4.4,8,AS8,8-speed automatic,Z,Premium petrol,yes,no,17.9,13.0,15.7,364,High
+430,BMW,X6 M Competition,2024–2026,2024,2026,SUV - STANDARD,4.4,8,AS8,8-speed automatic,Z,Premium petrol,yes,no,18.2,12.9,15.8,366,High
+431,BMW,X6 M50i,2014–2020,2014,2020,SUV - STANDARD,4.4,8,AS8,8-speed automatic,Z,Premium petrol,yes,no,14.5,10.7,12.8,302,High
+432,BMW,X6 M50i,2021–2022,2021,2022,SUV - STANDARD,4.4,8,AS8,8-speed automatic,Z,Premium petrol,yes,no,14.4,10.6,12.7,302,High
+433,BMW,X6 M50i,2023,2023,2023,SUV - STANDARD,4.4,8,AS8,8-speed automatic,Z,Premium petrol,yes,no,14.7,10.9,13.0,302,High
+434,BMW,X6 M60i,2024,2024,2024,SUV - STANDARD,4.4,8,AS8,8-speed automatic,Z,Premium petrol,yes,no,13.8,10.5,12.3,285,High
+435,BMW,X6 M60i xDrive,2025–2026,2025,2026,SUV - STANDARD,4.4,8,AS8,8-speed automatic,Z,Premium petrol,yes,yes,13.8,10.5,12.3,285,High
+436,BMW,X6 xDRIVE35i,2014–2020,2014,2020,SUV - STANDARD,3.0,6,A8,8-speed automatic,Z,Premium petrol,no,yes,13.6,9.8,11.9,274,Medium
+437,BMW,X6 xDRIVE35i,2014–2020,2014,2020,SUV - STANDARD,3.0,6,AS8,8-speed automatic,Z,Premium petrol,no,yes,13.0,9.6,11.4,267,Medium
+438,BMW,X6 xDRIVE50i,2014–2020,2014,2020,SUV - STANDARD,4.4,8,A8,8-speed automatic,Z,Premium petrol,no,yes,16.4,11.3,14.1,324,High
+439,BMW,X6 xDRIVE50i,2014–2020,2014,2020,SUV - STANDARD,4.4,8,AS8,8-speed automatic,Z,Premium petrol,no,yes,15.4,11.1,13.5,314,High
+440,BMW,X6 xDrive40i,2014–2020,2014,2020,SUV - STANDARD,3.0,6,AS8,8-speed automatic,Z,Premium petrol,no,yes,11.7,9.1,10.5,245,Medium
+441,BMW,X6 xDrive40i,2021,2021,2021,SUV - STANDARD,3.0,6,AS8,8-speed automatic,Z,Premium petrol,no,yes,11.4,9.2,10.4,242,Medium
+442,BMW,X6 xDrive40i,2022,2022,2022,SUV - STANDARD,3.0,6,AS8,8-speed automatic,Z,Premium petrol,no,yes,11.3,9.2,10.4,241,Medium
+443,BMW,X6 xDrive40i,2023,2023,2023,SUV - STANDARD,3.0,6,AS8,8-speed automatic,Z,Premium petrol,no,yes,11.4,9.3,10.4,242,Medium
+444,BMW,X6 xDrive40i,2024–2025,2024,2025,SUV - STANDARD,3.0,6,AS8,8-speed automatic,Z,Premium petrol,no,yes,10.3,8.9,9.6,223,Medium
+445,BMW,X6 xDrive40i,2026,2026,2026,SUV - STANDARD,3.0,6,AS8,8-speed automatic,Z,Premium petrol,no,yes,10.9,8.9,10.0,231,Medium
+446,BMW,X7 M50i,2014–2020,2014,2020,SUV - STANDARD,4.4,8,AS8,8-speed automatic,Z,Premium petrol,yes,no,15.5,11.4,13.6,318,High
+447,BMW,X7 M50i,2021–2022,2021,2022,SUV - STANDARD,4.4,8,AS8,8-speed automatic,Z,Premium petrol,yes,no,15.7,11.5,13.8,321,High
+448,BMW,X7 M60i,2024,2024,2024,SUV - STANDARD,4.4,8,AS8,8-speed automatic,Z,Premium petrol,yes,no,14.3,11.1,12.9,299,High
+449,BMW,X7 M60i xDrive,2023,2023,2023,SUV - STANDARD,4.4,8,AS8,8-speed automatic,Z,Premium petrol,yes,yes,14.3,11.1,12.9,299,High
+450,BMW,X7 M60i xDrive,2025–2026,2025,2026,SUV - STANDARD,4.4,8,AS8,8-speed automatic,Z,Premium petrol,yes,yes,14.7,11.6,13.3,310,High
+451,BMW,X7 xDrive40i,2014–2020,2014,2020,SUV - STANDARD,3.0,6,AS8,8-speed automatic,Z,Premium petrol,no,yes,12.0,9.4,10.8,254,Medium
+452,BMW,X7 xDrive40i,2021–2022,2021,2022,SUV - STANDARD,3.0,6,AS8,8-speed automatic,Z,Premium petrol,no,yes,12.1,9.8,11.1,256,Medium
+453,BMW,X7 xDrive40i,2023–2024,2023,2024,SUV - STANDARD,3.0,6,AS8,8-speed automatic,Z,Premium petrol,no,yes,11.3,9.5,10.5,243,Medium
+454,BMW,X7 xDrive40i,2025,2025,2025,SUV - STANDARD,3.0,6,AS8,8-speed automatic,Z,Premium petrol,no,yes,11.6,9.6,10.7,247,Medium
+455,BMW,X7 xDrive40i,2026,2026,2026,SUV - STANDARD,3.0,6,AS8,8-speed automatic,Z,Premium petrol,no,yes,11.3,9.3,10.4,240,Medium
+456,BMW,X7 xDrive50i,2014–2020,2014,2020,SUV - STANDARD,4.4,8,AS8,8-speed automatic,Z,Premium petrol,no,yes,14.9,11.0,13.1,306,High
+457,BMW,Z4 M40i,2014–2020,2014,2020,TWO-SEATER,3.0,6,AS8,8-speed automatic,Z,Premium petrol,yes,no,10.3,8.0,9.3,216,Medium
+458,BMW,Z4 M40i,2021,2021,2021,TWO-SEATER,3.0,6,AS8,8-speed automatic,Z,Premium petrol,yes,no,10.7,8.0,9.5,221,Medium
+459,BMW,Z4 M40i,2022,2022,2022,TWO-SEATER,3.0,6,AS8,8-speed automatic,Z,Premium petrol,yes,no,10.8,8.1,9.6,223,Medium
+460,BMW,Z4 M40i,2023–2024,2023,2024,TWO-SEATER,3.0,6,AS8,8-speed automatic,Z,Premium petrol,yes,no,10.4,7.5,9.1,210,Medium
+461,BMW,Z4 M40i,2025,2025,2025,TWO-SEATER,3.0,6,AS8,8-speed automatic,Z,Premium petrol,yes,no,10.4,8.0,9.3,215,Medium
+462,BMW,Z4 M40i,2025,2025,2025,TWO-SEATER,3.0,6,M6,6-speed manual,Z,Premium petrol,yes,no,12.6,8.9,10.9,253,Medium
+463,BMW,Z4 M40i Roadster,2026,2026,2026,TWO-SEATER,3.0,6,AS8,8-speed automatic,Z,Premium petrol,yes,no,10.4,8.0,9.3,215,Medium
+464,BMW,Z4 M40i Roadster,2026,2026,2026,TWO-SEATER,3.0,6,M6,6-speed manual,Z,Premium petrol,yes,no,12.6,8.9,10.9,253,Medium
+465,BMW,Z4 sDRIVE28i,2014–2020,2014,2020,TWO-SEATER,2.0,4,A8,8-speed automatic,Z,Premium petrol,no,no,10.8,7.1,9.1,209,Low
+466,BMW,Z4 sDRIVE28i,2014–2020,2014,2020,TWO-SEATER,2.0,4,AS8,8-speed automatic,Z,Premium petrol,no,no,10.7,7.1,9.1,210,Low
+467,BMW,Z4 sDRIVE28i,2014–2020,2014,2020,TWO-SEATER,2.0,4,M6,6-speed manual,Z,Premium petrol,no,no,10.6,6.9,8.9,206,Low
+468,BMW,Z4 sDRIVE35i,2014–2020,2014,2020,TWO-SEATER,3.0,6,AM7,7-speed automated manual,Z,Premium petrol,no,no,13.7,10.0,12.1,279,Medium
+469,BMW,Z4 sDRIVE35i,2014–2020,2014,2020,TWO-SEATER,3.0,6,M6,6-speed manual,Z,Premium petrol,no,no,12.7,9.0,11.0,253,Medium
+470,BMW,Z4 sDRIVE35is,2014–2020,2014,2020,TWO-SEATER,3.0,6,AM7,7-speed automated manual,Z,Premium petrol,no,no,13.7,10.0,12.1,279,Medium
+471,BMW,Z4 sDrive30i,2014–2020,2014,2020,TWO-SEATER,2.0,4,AS8,8-speed automatic,Z,Premium petrol,no,no,9.5,7.4,8.5,200,Low
+472,BMW,Z4 sDrive30i,2021,2021,2021,TWO-SEATER,2.0,4,AS8,8-speed automatic,Z,Premium petrol,no,no,9.4,7.3,8.4,197,Low
+473,BMW,Z4 sDrive30i,2022,2022,2022,TWO-SEATER,2.0,4,AS8,8-speed automatic,Z,Premium petrol,no,no,9.4,7.4,8.5,199,Low
+474,BMW,Z4 sDrive30i,2023–2025,2023,2025,TWO-SEATER,2.0,4,AS8,8-speed automatic,Z,Premium petrol,no,no,9.4,7.1,8.4,194,Low
+475,BMW,Z4 sDrive30i Roadster,2026,2026,2026,TWO-SEATER,2.0,4,AS8,8-speed automatic,Z,Premium petrol,no,no,9.4,7.1,8.4,194,Low
+476,Mercedes-Benz,A 220,2014–2020,2014,2020,SUBCOMPACT,2.0,4,AM7,7-speed automated manual,Z,Premium petrol,no,no,9.7,6.8,8.4,195,Low
+477,Mercedes-Benz,A 220 4MATIC,2014–2020,2014,2020,SUBCOMPACT,2.0,4,AM7,7-speed automated manual,Z,Premium petrol,no,yes,9.6,7.1,8.5,199,Low
+478,Mercedes-Benz,A 220 4MATIC Sedan,2021,2021,2021,SUBCOMPACT,2.0,4,AM7,7-speed automated manual,Z,Premium petrol,no,yes,9.6,6.9,8.4,197,Low
+479,Mercedes-Benz,A 220 4MATIC Sedan,2022,2022,2022,SUBCOMPACT,2.0,4,AM7,7-speed automated manual,Z,Premium petrol,no,yes,9.5,6.8,8.3,194,Low
+480,Mercedes-Benz,A 250,2014–2020,2014,2020,STATION WAGON - SMALL,2.0,4,AM7,7-speed automated manual,Z,Premium petrol,no,no,9.4,6.8,8.3,192,Low
+481,Mercedes-Benz,A 250 4MATIC,2014–2020,2014,2020,STATION WAGON - SMALL,2.0,4,AM7,7-speed automated manual,Z,Premium petrol,no,yes,9.9,7.0,8.6,201,Low
+482,Mercedes-Benz,A 250 4MATIC Hatch,2021,2021,2021,STATION WAGON - SMALL,2.0,4,AM7,7-speed automated manual,Z,Premium petrol,no,yes,9.4,6.8,8.2,193,Low
+483,Mercedes-Benz,A 250 4MATIC Hatch,2022,2022,2022,STATION WAGON - SMALL,2.0,4,AM7,7-speed automated manual,Z,Premium petrol,no,yes,10.0,7.0,8.7,202,Low
+484,Mercedes-Benz,AMG A 35 4MATIC Hatch,2021,2021,2021,STATION WAGON - SMALL,2.0,4,AM7,7-speed automated manual,Z,Premium petrol,yes,yes,10.6,8.2,9.5,224,Low
+485,Mercedes-Benz,AMG A 35 4MATIC Hatch,2022,2022,2022,STATION WAGON - SMALL,2.0,4,AM7,7-speed automated manual,Z,Premium petrol,yes,yes,10.8,7.8,9.4,221,Low
+486,Mercedes-Benz,AMG A 35 4MATIC Sedan,2021,2021,2021,SUBCOMPACT,2.0,4,AM7,7-speed automated manual,Z,Premium petrol,yes,yes,10.7,8.2,9.5,224,Low
+487,Mercedes-Benz,AMG A 35 4MATIC Sedan,2022,2022,2022,SUBCOMPACT,2.0,4,AM7,7-speed automated manual,Z,Premium petrol,yes,yes,10.8,7.9,9.5,221,Low
+488,Mercedes-Benz,AMG C 43 4MATIC,2014–2020,2014,2020,COMPACT,3.0,6,A9,9-speed automatic,Z,Premium petrol,yes,yes,12.2,8.7,10.6,250,Medium
+489,Mercedes-Benz,AMG C 43 4MATIC Cabriolet,2014–2020,2014,2020,SUBCOMPACT,3.0,6,A9,9-speed automatic,Z,Premium petrol,yes,yes,12.6,9.3,11.1,261,Medium
+490,Mercedes-Benz,AMG C 43 4MATIC Cabriolet,2021,2021,2021,SUBCOMPACT,3.0,6,A9,9-speed automatic,Z,Premium petrol,yes,yes,12.3,8.7,10.7,251,Medium
+491,Mercedes-Benz,AMG C 43 4MATIC Cabriolet,2022,2022,2022,SUBCOMPACT,3.0,6,A9,9-speed automatic,Z,Premium petrol,yes,yes,12.7,8.7,10.9,256,Medium
+492,Mercedes-Benz,AMG C 43 4MATIC Cabriolet,2023,2023,2023,SUBCOMPACT,3.0,6,A9,9-speed automatic,Z,Premium petrol,yes,yes,13.3,9.2,11.4,268,Medium
+493,Mercedes-Benz,AMG C 43 4MATIC Coupe,2014–2020,2014,2020,SUBCOMPACT,3.0,6,A9,9-speed automatic,Z,Premium petrol,yes,yes,12.5,8.8,10.9,252,Medium
+494,Mercedes-Benz,AMG C 43 4MATIC Coupe,2021,2021,2021,SUBCOMPACT,3.0,6,A9,9-speed automatic,Z,Premium petrol,yes,yes,12.5,8.8,10.8,254,Medium
+495,Mercedes-Benz,AMG C 43 4MATIC Coupe,2022,2022,2022,SUBCOMPACT,3.0,6,A9,9-speed automatic,Z,Premium petrol,yes,yes,12.6,8.5,10.8,252,Medium
+496,Mercedes-Benz,AMG C 43 4MATIC Coupe,2023,2023,2023,SUBCOMPACT,3.0,6,A9,9-speed automatic,Z,Premium petrol,yes,yes,12.9,8.7,11.0,257,Medium
+497,Mercedes-Benz,AMG C 43 4MATIC Sedan,2021,2021,2021,COMPACT,3.0,6,A9,9-speed automatic,Z,Premium petrol,yes,yes,13.4,8.7,11.3,266,Medium
+498,Mercedes-Benz,AMG C 43 4MATIC Sedan,2023,2023,2023,COMPACT,2.0,4,A9,9-speed automatic,Z,Premium petrol,yes,yes,12.1,9.0,10.7,251,Low
+499,Mercedes-Benz,AMG C 43 4MATIC Sedan,2024,2024,2024,COMPACT,2.0,4,A9,9-speed automatic,Z,Premium petrol,yes,yes,11.8,8.4,10.3,242,Low
+500,Mercedes-Benz,AMG C 43 4MATIC Sedan,2025–2026,2025,2026,COMPACT,2.0,4,A9,9-speed automatic,Z,Premium petrol,yes,yes,12.5,8.8,10.8,252,Low
+501,Mercedes-Benz,AMG C 43 4MATIC Wagon,2014–2020,2014,2020,STATION WAGON - SMALL,3.0,6,A9,9-speed automatic,Z,Premium petrol,yes,yes,12.4,8.9,10.8,255,Medium
+502,Mercedes-Benz,AMG C 43 4MATIC Wagon,2021,2021,2021,STATION WAGON - SMALL,3.0,6,A9,9-speed automatic,Z,Premium petrol,yes,yes,12.3,8.5,10.6,249,Medium
+503,Mercedes-Benz,AMG C 63,2014–2020,2014,2020,COMPACT,4.0,8,A7,7-speed automatic,Z,Premium petrol,yes,no,13.4,9.6,11.7,274,High
+504,Mercedes-Benz,AMG C 63,2014–2020,2014,2020,COMPACT,4.0,8,A9,9-speed automatic,Z,Premium petrol,yes,no,13.2,8.7,11.2,263,Medium
+505,Mercedes-Benz,AMG C 63,2014–2020,2014,2020,COMPACT,4.0,8,AS7,7-speed automatic,Z,Premium petrol,yes,no,13.4,9.6,11.7,270,High
+506,Mercedes-Benz,AMG C 63 CABRIOLET,2014–2020,2014,2020,SUBCOMPACT,4.0,8,A7,7-speed automatic,Z,Premium petrol,yes,no,14.0,10.4,12.4,291,High
+507,Mercedes-Benz,AMG C 63 CABRIOLET,2014–2020,2014,2020,SUBCOMPACT,4.0,8,AS7,7-speed automatic,Z,Premium petrol,yes,no,14.0,10.1,12.2,291,High
+508,Mercedes-Benz,AMG C 63 COUPE,2014–2020,2014,2020,SUBCOMPACT,4.0,8,A7,7-speed automatic,Z,Premium petrol,yes,no,13.8,10.1,12.1,285,High
+509,Mercedes-Benz,AMG C 63 COUPE,2014–2020,2014,2020,SUBCOMPACT,4.0,8,AS7,7-speed automatic,Z,Premium petrol,yes,no,13.8,10.1,12.1,285,High
+510,Mercedes-Benz,AMG C 63 S,2014–2020,2014,2020,COMPACT,4.0,8,A7,7-speed automatic,Z,Premium petrol,yes,no,13.4,9.6,11.7,274,High
+511,Mercedes-Benz,AMG C 63 S,2014–2020,2014,2020,COMPACT,4.0,8,A9,9-speed automatic,Z,Premium petrol,yes,no,13.2,8.7,11.2,263,Medium
+512,Mercedes-Benz,AMG C 63 S,2014–2020,2014,2020,COMPACT,4.0,8,AS7,7-speed automatic,Z,Premium petrol,yes,no,13.4,9.6,11.7,270,High
+513,Mercedes-Benz,AMG C 63 S Cabriolet,2014–2020,2014,2020,SUBCOMPACT,4.0,8,A7,7-speed automatic,Z,Premium petrol,yes,no,14.0,10.4,12.4,291,High
+514,Mercedes-Benz,AMG C 63 S Cabriolet,2014–2020,2014,2020,SUBCOMPACT,4.0,8,A9,9-speed automatic,Z,Premium petrol,yes,no,13.9,9.7,12.0,282,High
+515,Mercedes-Benz,AMG C 63 S Cabriolet,2014–2020,2014,2020,SUBCOMPACT,4.0,8,AS7,7-speed automatic,Z,Premium petrol,yes,no,14.0,10.1,12.2,291,High
+516,Mercedes-Benz,AMG C 63 S Cabriolet,2021,2021,2021,SUBCOMPACT,4.0,8,A9,9-speed automatic,Z,Premium petrol,yes,no,13.9,9.6,12.0,281,High
+517,Mercedes-Benz,AMG C 63 S Coupe,2014–2020,2014,2020,SUBCOMPACT,4.0,8,A7,7-speed automatic,Z,Premium petrol,yes,no,13.8,10.2,12.2,285,High
+518,Mercedes-Benz,AMG C 63 S Coupe,2014–2020,2014,2020,SUBCOMPACT,4.0,8,A9,9-speed automatic,Z,Premium petrol,yes,no,13.9,9.2,11.8,277,High
+519,Mercedes-Benz,AMG C 63 S Coupe,2014–2020,2014,2020,SUBCOMPACT,4.0,8,AS7,7-speed automatic,Z,Premium petrol,yes,no,13.8,10.1,12.1,285,High
+520,Mercedes-Benz,AMG C 63 S Coupe,2021,2021,2021,SUBCOMPACT,4.0,8,A9,9-speed automatic,Z,Premium petrol,yes,no,13.7,9.1,11.6,273,High
+521,Mercedes-Benz,AMG C 63 S Sedan,2021,2021,2021,COMPACT,4.0,8,A9,9-speed automatic,Z,Premium petrol,yes,no,13.5,8.9,11.4,269,Medium
+522,Mercedes-Benz,AMG C 63 Sedan,2021,2021,2021,COMPACT,4.0,8,A9,9-speed automatic,Z,Premium petrol,yes,no,13.5,8.9,11.4,269,Medium
+523,Mercedes-Benz,AMG CLA 35 4MATIC Coupe,2021,2021,2021,COMPACT,2.0,4,AM7,7-speed automated manual,Z,Premium petrol,yes,yes,10.7,8.2,9.5,224,Low
+524,Mercedes-Benz,AMG CLA 35 4MATIC Coupe,2022,2022,2022,COMPACT,2.0,4,AM7,7-speed automated manual,Z,Premium petrol,yes,yes,11.0,8.2,9.7,227,Low
+525,Mercedes-Benz,AMG CLA 35 4MATIC Coupe,2023,2023,2023,COMPACT,2.0,4,AM7,7-speed automated manual,Z,Premium petrol,yes,yes,11.4,8.1,9.9,232,Low
+526,Mercedes-Benz,AMG CLA 35 4MATIC Coupe,2024–2025,2024,2025,COMPACT,2.0,4,AM8,8-speed automated manual,Z,Premium petrol,yes,yes,10.8,8.0,9.6,225,Low
+527,Mercedes-Benz,AMG CLA 35 4MATIC Coupe,2026,2026,2026,COMPACT,2.0,4,AM8,8-speed automated manual,Z,Premium petrol,yes,yes,10.8,8.1,9.6,224,Low
+528,Mercedes-Benz,AMG CLA 45,2014–2020,2014,2020,COMPACT,2.0,4,AS7,7-speed automatic,Z,Premium petrol,yes,no,10.4,7.6,9.2,218,Low
+529,Mercedes-Benz,AMG CLA 45 4MATIC,2014–2020,2014,2020,COMPACT,2.0,4,AM7,7-speed automated manual,Z,Premium petrol,yes,yes,10.3,7.9,9.2,217,Low
+530,Mercedes-Benz,AMG CLA 45 4MATIC,2014–2020,2014,2020,MINICOMPACT,2.0,4,AM7,7-speed automated manual,Z,Premium petrol,yes,yes,10.3,7.9,9.2,217,Low
+531,Mercedes-Benz,AMG CLA 45 4MATIC Coupe,2021,2021,2021,COMPACT,2.0,4,AM8,8-speed automated manual,Z,Premium petrol,yes,yes,12.0,8.2,10.3,242,Low
+532,Mercedes-Benz,AMG CLA 45 4MATIC Coupe,2022,2022,2022,COMPACT,2.0,4,AM8,8-speed automated manual,Z,Premium petrol,yes,yes,12.0,8.5,10.4,243,Low
+533,Mercedes-Benz,AMG CLA 45 4MATIC Coupe,2023,2023,2023,COMPACT,2.0,4,AM8,8-speed automated manual,Z,Premium petrol,yes,yes,12.0,8.3,10.3,241,Low
+534,Mercedes-Benz,AMG CLA 45 S 4MATIC Coupe,2024,2024,2024,COMPACT,2.0,4,AM8,8-speed automated manual,Z,Premium petrol,yes,yes,11.9,8.3,10.3,242,Low
+535,Mercedes-Benz,AMG CLA 45 S 4MATIC Coupe,2025,2025,2025,COMPACT,2.0,4,AM8,8-speed automated manual,Z,Premium petrol,yes,yes,11.7,8.4,10.2,236,Low
+536,Mercedes-Benz,AMG CLA 45 S 4MATIC+ Coupe,2026,2026,2026,COMPACT,2.0,4,AM8,8-speed automated manual,Z,Premium petrol,yes,yes,11.7,8.4,10.2,236,Low
+537,Mercedes-Benz,AMG CLE 53 4MATIC Cabriolet,2026,2026,2026,SUBCOMPACT,3.0,6,A9,9-speed automatic,Z,Premium petrol,yes,yes,12.1,9.2,10.8,253,Medium
+538,Mercedes-Benz,AMG CLE 53 4MATIC Coupe,2026,2026,2026,SUBCOMPACT,3.0,6,A9,9-speed automatic,Z,Premium petrol,yes,yes,11.7,8.7,10.4,243,Medium
+539,Mercedes-Benz,AMG CLE 53 4MATIC+ Cabriolet,2025,2025,2025,SUBCOMPACT,3.0,6,A9,9-speed automatic,Z,Premium petrol,yes,yes,12.1,9.2,10.8,253,Medium
+540,Mercedes-Benz,AMG CLE 53 4MATIC+ Coupe,2024–2025,2024,2025,SUBCOMPACT,3.0,6,A9,9-speed automatic,Z,Premium petrol,yes,yes,11.7,8.7,10.4,243,Medium
+541,Mercedes-Benz,AMG CLS 53 4MATIC+,2014–2020,2014,2020,COMPACT,3.0,6,A9,9-speed automatic,Z,Premium petrol,yes,yes,12.4,8.7,10.7,235,Medium
+542,Mercedes-Benz,AMG CLS 53 4MATIC+ Coupe,2021,2021,2021,COMPACT,3.0,6,A9,9-speed automatic,Z,Premium petrol,yes,yes,11.3,9.0,10.3,242,Medium
+543,Mercedes-Benz,AMG CLS 53 4MATIC+ Coupe,2022–2023,2022,2023,COMPACT,3.0,6,A9,9-speed automatic,Z,Premium petrol,yes,yes,11.6,8.8,10.3,241,Medium
+544,Mercedes-Benz,AMG CLS 63 S 4MATIC,2014–2020,2014,2020,COMPACT,5.5,8,AS7,7-speed automatic,Z,Premium petrol,yes,yes,15.1,10.8,13.1,308,High
+545,Mercedes-Benz,AMG E 43 4MATIC,2014–2020,2014,2020,MID-SIZE,3.0,6,A9,9-speed automatic,Z,Premium petrol,yes,yes,12.4,9.4,11.1,258,Medium
+546,Mercedes-Benz,AMG E 53 4MATIC+,2014–2020,2014,2020,MID-SIZE,3.0,6,A9,9-speed automatic,Z,Premium petrol,yes,yes,11.2,8.3,9.9,232,Medium
+547,Mercedes-Benz,AMG E 53 4MATIC+ Cabriolet,2014–2020,2014,2020,SUBCOMPACT,3.0,6,A9,9-speed automatic,Z,Premium petrol,yes,yes,12.5,9.0,10.9,245,Medium
+548,Mercedes-Benz,AMG E 53 4MATIC+ Cabriolet,2021,2021,2021,SUBCOMPACT,3.0,6,A9,9-speed automatic,Z,Premium petrol,yes,yes,11.3,8.8,10.2,239,Medium
+549,Mercedes-Benz,AMG E 53 4MATIC+ Cabriolet,2022,2022,2022,SUBCOMPACT,3.0,6,A9,9-speed automatic,Z,Premium petrol,yes,yes,12.0,8.9,10.6,247,Medium
+550,Mercedes-Benz,AMG E 53 4MATIC+ Cabriolet,2023,2023,2023,SUBCOMPACT,3.0,6,A9,9-speed automatic,Z,Premium petrol,yes,yes,11.6,8.7,10.3,242,Medium
+551,Mercedes-Benz,AMG E 53 4MATIC+ Coupe,2014–2020,2014,2020,SUBCOMPACT,3.0,6,A9,9-speed automatic,Z,Premium petrol,yes,yes,12.3,8.5,10.6,237,Medium
+552,Mercedes-Benz,AMG E 53 4MATIC+ Coupe,2021,2021,2021,SUBCOMPACT,3.0,6,A9,9-speed automatic,Z,Premium petrol,yes,yes,11.2,8.5,10.0,235,Medium
+553,Mercedes-Benz,AMG E 53 4MATIC+ Coupe,2022,2022,2022,SUBCOMPACT,3.0,6,A9,9-speed automatic,Z,Premium petrol,yes,yes,11.7,8.4,10.2,239,Medium
+554,Mercedes-Benz,AMG E 53 4MATIC+ Coupe,2023,2023,2023,SUBCOMPACT,3.0,6,A9,9-speed automatic,Z,Premium petrol,yes,yes,11.5,8.5,10.2,238,Medium
+555,Mercedes-Benz,AMG E 53 4MATIC+ Sedan,2021,2021,2021,MID-SIZE,3.0,6,A9,9-speed automatic,Z,Premium petrol,yes,yes,10.7,8.2,9.5,225,Medium
+556,Mercedes-Benz,AMG E 53 4MATIC+ Sedan,2022,2022,2022,MID-SIZE,3.0,6,A9,9-speed automatic,Z,Premium petrol,yes,yes,11.3,8.3,9.9,232,Medium
+557,Mercedes-Benz,AMG E 53 4MATIC+ Sedan,2023,2023,2023,MID-SIZE,3.0,6,A9,9-speed automatic,Z,Premium petrol,yes,yes,11.0,8.1,9.7,227,Medium
+558,Mercedes-Benz,AMG E 53 4MATIC+ Wagon,2014–2020,2014,2020,STATION WAGON - MID-SIZE,3.0,6,A9,9-speed automatic,Z,Premium petrol,yes,yes,11.5,8.6,10.2,239,Medium
+559,Mercedes-Benz,AMG E 53 4MATIC+ Wagon,2021,2021,2021,STATION WAGON - MID-SIZE,3.0,6,A9,9-speed automatic,Z,Premium petrol,yes,yes,11.3,8.7,10.1,238,Medium
+560,Mercedes-Benz,AMG E 63 S 4MATIC,2014–2020,2014,2020,MID-SIZE,4.0,8,A9,9-speed automatic,Z,Premium petrol,yes,yes,15.5,10.6,13.3,313,High
+561,Mercedes-Benz,AMG E 63 S 4MATIC,2014–2020,2014,2020,MID-SIZE,5.5,8,AS7,7-speed automatic,Z,Premium petrol,yes,yes,15.3,10.8,13.3,310,High
+562,Mercedes-Benz,AMG E 63 S 4MATIC WAGON,2014–2020,2014,2020,STATION WAGON - MID-SIZE,4.0,8,A9,9-speed automatic,Z,Premium petrol,yes,yes,15.2,11.0,13.3,312,High
+563,Mercedes-Benz,AMG E 63 S 4MATIC WAGON,2014–2020,2014,2020,STATION WAGON - MID-SIZE,5.5,8,AS7,7-speed automatic,Z,Premium petrol,yes,yes,15.2,11.0,13.3,310,High
+564,Mercedes-Benz,AMG E 63 S 4MATIC+,2014–2020,2014,2020,MID-SIZE,4.0,8,A9,9-speed automatic,Z,Premium petrol,yes,yes,16.0,10.5,13.5,318,High
+565,Mercedes-Benz,AMG E 63 S 4MATIC+ Sedan,2021,2021,2021,MID-SIZE,4.0,8,A9,9-speed automatic,Z,Premium petrol,yes,yes,15.0,10.1,12.8,301,High
+566,Mercedes-Benz,AMG E 63 S 4MATIC+ Sedan,2023,2023,2023,MID-SIZE,4.0,8,A9,9-speed automatic,Z,Premium petrol,yes,yes,14.8,9.9,12.6,296,High
+567,Mercedes-Benz,AMG E 63 S 4MATIC+ Wagon,2014–2020,2014,2020,STATION WAGON - MID-SIZE,4.0,8,A9,9-speed automatic,Z,Premium petrol,yes,yes,14.6,10.4,12.7,299,High
+568,Mercedes-Benz,AMG E 63 S 4MATIC+ Wagon,2021,2021,2021,STATION WAGON - MID-SIZE,4.0,8,A9,9-speed automatic,Z,Premium petrol,yes,yes,14.7,10.4,12.8,300,High
+569,Mercedes-Benz,AMG G 63,2014–2020,2014,2020,SUV - STANDARD,5.5,8,A7,7-speed automatic,Z,Premium petrol,yes,no,19.9,15.5,17.9,419,High
+570,Mercedes-Benz,AMG G 63,2014–2020,2014,2020,SUV - STANDARD,4.0,8,A9,9-speed automatic,Z,Premium petrol,yes,no,18.1,15.6,17.0,396,High
+571,Mercedes-Benz,AMG G 63,2014–2020,2014,2020,SUV - STANDARD,5.5,8,AS7,7-speed automatic,Z,Premium petrol,yes,no,20.0,16.6,18.5,415,High
+572,Mercedes-Benz,AMG G 63 4x4 Squared,2022,2022,2022,SUV - STANDARD,4.0,8,A9,9-speed automatic,Z,Premium petrol,yes,yes,21.5,18.7,20.2,470,High
+573,Mercedes-Benz,AMG G 63 4x4 Squared SUV,2023–2024,2023,2024,SUV - STANDARD,4.0,8,A9,9-speed automatic,Z,Premium petrol,yes,yes,23.5,19.4,21.7,508,High
+574,Mercedes-Benz,AMG G 63 SUV,2021,2021,2021,SUV - STANDARD,4.0,8,A9,9-speed automatic,Z,Premium petrol,yes,no,18.6,15.5,17.2,396,High
+575,Mercedes-Benz,AMG G 63 SUV,2022,2022,2022,SUV - STANDARD,4.0,8,A9,9-speed automatic,Z,Premium petrol,yes,no,19.3,15.6,17.6,412,High
+576,Mercedes-Benz,AMG G 63 SUV,2023–2024,2023,2024,SUV - STANDARD,4.0,8,A9,9-speed automatic,Z,Premium petrol,yes,no,19.5,15.5,17.7,415,High
+577,Mercedes-Benz,AMG G 63 SUV,2025,2025,2025,SUV - STANDARD,4.0,8,A9,9-speed automatic,Z,Premium petrol,yes,no,17.4,14.7,16.2,378,High
+578,Mercedes-Benz,AMG G 63 SUV,2026,2026,2026,SUV - STANDARD,4.0,8,A9,9-speed automatic,Z,Premium petrol,yes,no,17.4,14.7,16.2,383,High
+579,Mercedes-Benz,AMG G 65,2014–2020,2014,2020,SUV - STANDARD,6.0,12,A7,7-speed automatic,Z,Premium petrol,yes,no,22.2,18.0,20.3,473,High
+580,Mercedes-Benz,AMG G 65,2014–2020,2014,2020,SUV - STANDARD,6.0,12,AS7,7-speed automatic,Z,Premium petrol,yes,no,23.2,18.0,20.8,472,High
+581,Mercedes-Benz,AMG GL 63 S,2014–2020,2014,2020,SUV - STANDARD,5.5,8,AS7,7-speed automatic,Z,Premium petrol,yes,no,18.2,14.0,16.3,369,High
+582,Mercedes-Benz,AMG GLA 35 4MATIC Coupe,2024,2024,2024,STATION WAGON - SMALL,2.0,4,AM8,8-speed automated manual,Z,Premium petrol,yes,yes,11.0,8.6,9.9,230,Low
+583,Mercedes-Benz,AMG GLA 35 4MATIC Coupe,2025,2025,2025,STATION WAGON - SMALL,2.0,4,AM8,8-speed automated manual,Z,Premium petrol,yes,yes,10.9,8.4,9.8,230,Low
+584,Mercedes-Benz,AMG GLA 35 4MATIC Coupe,2026,2026,2026,STATION WAGON - SMALL,2.0,4,AM8,8-speed automated manual,Z,Premium petrol,yes,yes,10.5,7.9,9.3,218,Low
+585,Mercedes-Benz,AMG GLA 35 4MATIC SUV,2021,2021,2021,SUV - SMALL,2.0,4,AM8,8-speed automated manual,Z,Premium petrol,yes,yes,10.4,8.1,9.4,219,Low
+586,Mercedes-Benz,AMG GLA 35 4MATIC SUV,2022,2022,2022,STATION WAGON - SMALL,2.0,4,AM8,8-speed automated manual,Z,Premium petrol,yes,yes,11.0,8.4,9.8,230,Low
+587,Mercedes-Benz,AMG GLA 35 4MATIC SUV,2023,2023,2023,STATION WAGON - SMALL,2.0,4,AM8,8-speed automated manual,Z,Premium petrol,yes,yes,10.7,8.0,9.5,222,Low
+588,Mercedes-Benz,AMG GLA 45,2014–2020,2014,2020,SUV - SMALL,2.0,4,AS7,7-speed automatic,Z,Premium petrol,yes,no,10.3,8.1,9.3,216,Low
+589,Mercedes-Benz,AMG GLA 45 4MATIC,2014–2020,2014,2020,STATION WAGON - MID-SIZE,2.0,4,AM7,7-speed automated manual,Z,Premium petrol,yes,yes,10.7,8.3,9.6,225,Low
+590,Mercedes-Benz,AMG GLA 45 4MATIC,2014–2020,2014,2020,SUV - SMALL,2.0,4,AS7,7-speed automatic,Z,Premium petrol,yes,yes,11.3,8.5,10.0,233,Low
+591,Mercedes-Benz,AMG GLA 45 4MATIC SUV,2021,2021,2021,SUV - SMALL,2.0,4,AM8,8-speed automated manual,Z,Premium petrol,yes,yes,11.6,8.8,10.4,243,Low
+592,Mercedes-Benz,AMG GLA 45 4MATIC SUV,2022,2022,2022,STATION WAGON - SMALL,2.0,4,AM8,8-speed automated manual,Z,Premium petrol,yes,yes,12.3,9.6,11.1,260,Low
+593,Mercedes-Benz,AMG GLA 45 4MATIC SUV,2023,2023,2023,STATION WAGON - SMALL,2.0,4,AM8,8-speed automated manual,Z,Premium petrol,yes,yes,12.2,9.3,10.9,256,Low
+594,Mercedes-Benz,AMG GLB 35 4MATIC Coupe,2024,2024,2024,STATION WAGON - SMALL,2.0,4,AM8,8-speed automated manual,Z,Premium petrol,yes,yes,11.5,9.0,10.4,238,Low
+595,Mercedes-Benz,AMG GLB 35 4MATIC Coupe,2025,2025,2025,STATION WAGON - SMALL,2.0,4,AM8,8-speed automated manual,Z,Premium petrol,yes,yes,11.5,8.9,10.3,242,Low
+596,Mercedes-Benz,AMG GLB 35 4MATIC SUV,2022,2022,2022,STATION WAGON - MID-SIZE,2.0,4,AM8,8-speed automated manual,Z,Premium petrol,yes,yes,12.7,9.4,11.2,262,Low
+597,Mercedes-Benz,AMG GLB 35 4MATIC SUV,2023,2023,2023,STATION WAGON - MID-SIZE,2.0,4,AM8,8-speed automated manual,Z,Premium petrol,yes,yes,11.3,8.7,10.2,238,Low
+598,Mercedes-Benz,AMG GLB 35 SUV,2021,2021,2021,SUV - SMALL,2.0,4,AM8,8-speed automated manual,Z,Premium petrol,yes,no,11.1,8.9,10.1,237,Low
+599,Mercedes-Benz,AMG GLC 43 4MATIC,2014–2020,2014,2020,SUV - SMALL,3.0,6,A9,9-speed automatic,Z,Premium petrol,yes,yes,12.8,9.8,11.5,270,Medium
+600,Mercedes-Benz,AMG GLC 43 4MATIC Coupe,2014–2020,2014,2020,SUV - SMALL,3.0,6,A9,9-speed automatic,Z,Premium petrol,yes,yes,14.3,10.2,12.5,297,Medium
+601,Mercedes-Benz,AMG GLC 43 4MATIC Coupe,2021,2021,2021,SUV - SMALL,3.0,6,A9,9-speed automatic,Z,Premium petrol,yes,yes,13.5,9.6,11.7,277,Medium
+602,Mercedes-Benz,AMG GLC 43 4MATIC Coupe,2022,2022,2022,SUV - SMALL,3.0,6,A9,9-speed automatic,Z,Premium petrol,yes,yes,14.0,10.1,12.3,287,Medium
+603,Mercedes-Benz,AMG GLC 43 4MATIC Coupe,2023,2023,2023,SUV - SMALL,3.0,6,A9,9-speed automatic,Z,Premium petrol,yes,yes,13.5,9.7,11.8,274,Medium
+604,Mercedes-Benz,AMG GLC 43 4MATIC Coupe,2024,2024,2024,SUV - SMALL,2.0,4,A9,9-speed automatic,Z,Premium petrol,yes,yes,12.7,9.8,11.4,269,Low
+605,Mercedes-Benz,AMG GLC 43 4MATIC Coupe,2025,2025,2025,STATION WAGON - SMALL,2.0,4,A9,9-speed automatic,Z,Premium petrol,yes,yes,12.7,9.8,11.4,269,Low
+606,Mercedes-Benz,AMG GLC 43 4MATIC Coupe,2026,2026,2026,STATION WAGON - SMALL,2.0,4,A9,9-speed automatic,Z,Premium petrol,yes,yes,12.3,9.2,10.9,256,Low
+607,Mercedes-Benz,AMG GLC 43 4MATIC SUV,2021,2021,2021,SUV - SMALL,3.0,6,A9,9-speed automatic,Z,Premium petrol,yes,yes,13.1,9.6,11.6,272,Medium
+608,Mercedes-Benz,AMG GLC 43 4MATIC SUV,2022,2022,2022,SUV - SMALL,3.0,6,A9,9-speed automatic,Z,Premium petrol,yes,yes,12.9,9.3,11.3,264,Medium
+609,Mercedes-Benz,AMG GLC 43 4MATIC+ SUV,2024,2024,2024,SUV - SMALL,2.0,4,A9,9-speed automatic,Z,Premium petrol,yes,yes,12.6,9.4,11.2,263,Low
+610,Mercedes-Benz,AMG GLC 43 4MATIC+ SUV,2025,2025,2025,STATION WAGON - SMALL,2.0,4,A9,9-speed automatic,Z,Premium petrol,yes,yes,12.6,9.4,11.2,263,Low
+611,Mercedes-Benz,AMG GLC 43 4MATIC+ SUV,2026,2026,2026,STATION WAGON - SMALL,2.0,4,A9,9-speed automatic,Z,Premium petrol,yes,yes,12.1,9.0,10.8,252,Low
+612,Mercedes-Benz,AMG GLC 63 S 4MATIC+,2014–2020,2014,2020,SUV - SMALL,4.0,8,A9,9-speed automatic,Z,Premium petrol,yes,yes,15.0,10.9,13.2,309,High
+613,Mercedes-Benz,AMG GLC 63 S 4MATIC+ Coupe,2014–2020,2014,2020,SUV - SMALL,4.0,8,A9,9-speed automatic,Z,Premium petrol,yes,yes,15.0,10.9,13.2,309,High
+614,Mercedes-Benz,AMG GLC 63 S 4MATIC+ Coupe,2021,2021,2021,SUV - SMALL,4.0,8,A9,9-speed automatic,Z,Premium petrol,yes,yes,15.2,10.8,13.2,311,High
+615,Mercedes-Benz,AMG GLC 63 S 4MATIC+ SUV,2021,2021,2021,SUV - SMALL,4.0,8,A9,9-speed automatic,Z,Premium petrol,yes,yes,15.7,10.9,13.5,319,High
+616,Mercedes-Benz,AMG GLE 43 4MATIC,2014–2020,2014,2020,SUV - STANDARD,3.0,6,A9,9-speed automatic,Z,Premium petrol,yes,yes,13.7,10.3,12.2,285,Medium
+617,Mercedes-Benz,AMG GLE 43 4MATIC COUPE,2014–2020,2014,2020,SUV - STANDARD,3.0,6,A9,9-speed automatic,Z,Premium petrol,yes,yes,13.7,10.6,12.3,288,Medium
+618,Mercedes-Benz,AMG GLE 53 4MATIC+ Coupe,2021,2021,2021,SUV - STANDARD,3.0,6,A9,9-speed automatic,Z,Premium petrol,yes,yes,12.7,10.4,11.7,273,Medium
+619,Mercedes-Benz,AMG GLE 53 4MATIC+ Coupe,2022,2022,2022,SUV - STANDARD,3.0,6,A9,9-speed automatic,Z,Premium petrol,yes,yes,13.6,11.1,12.5,292,Medium
+620,Mercedes-Benz,AMG GLE 53 4MATIC+ Coupe,2023,2023,2023,SUV - STANDARD,3.0,6,A9,9-speed automatic,Z,Premium petrol,yes,yes,13.1,10.4,11.9,277,Medium
+621,Mercedes-Benz,AMG GLE 53 4MATIC+ Coupe,2024,2024,2024,SUV - STANDARD,3.0,6,A9,9-speed automatic,Z,Premium petrol,yes,yes,12.8,10.1,11.6,273,Medium
+622,Mercedes-Benz,AMG GLE 53 4MATIC+ Coupe,2025–2026,2025,2026,SUV - STANDARD,3.0,6,A9,9-speed automatic,Z,Premium petrol,yes,yes,13.2,10.7,12.1,282,Medium
+623,Mercedes-Benz,AMG GLE 53 4MATIC+ SUV,2021,2021,2021,SUV - STANDARD,3.0,6,A9,9-speed automatic,Z,Premium petrol,yes,yes,13.2,10.8,12.1,285,Medium
+624,Mercedes-Benz,AMG GLE 53 4MATIC+ SUV,2022,2022,2022,SUV - STANDARD,3.0,6,A9,9-speed automatic,Z,Premium petrol,yes,yes,13.4,10.6,12.1,283,Medium
+625,Mercedes-Benz,AMG GLE 53 4MATIC+ SUV,2023,2023,2023,SUV - STANDARD,3.0,6,A9,9-speed automatic,Z,Premium petrol,yes,yes,13.4,10.7,12.2,284,Medium
+626,Mercedes-Benz,AMG GLE 53 4MATIC+ SUV,2024–2026,2024,2026,SUV - STANDARD,3.0,6,A9,9-speed automatic,Z,Premium petrol,yes,yes,12.9,10.2,11.7,273,Medium
+627,Mercedes-Benz,AMG GLE 63 S 4MATIC,2014–2020,2014,2020,SUV - STANDARD,4.7,8,A7,7-speed automatic,Z,Premium petrol,yes,yes,17.7,13.4,15.8,370,High
+628,Mercedes-Benz,AMG GLE 63 S 4MATIC,2014–2020,2014,2020,SUV - STANDARD,5.5,8,A7,7-speed automatic,Z,Premium petrol,yes,yes,17.2,13.4,15.5,364,High
+629,Mercedes-Benz,AMG GLE 63 S 4MATIC,2014–2020,2014,2020,SUV - STANDARD,5.5,8,AS7,7-speed automatic,Z,Premium petrol,yes,yes,17.3,13.5,15.6,364,High
+630,Mercedes-Benz,AMG GLE 63 S 4MATIC COUPE,2014–2020,2014,2020,SUV - STANDARD,4.7,8,A7,7-speed automatic,Z,Premium petrol,yes,yes,17.2,12.8,15.2,357,High
+631,Mercedes-Benz,AMG GLE 63 S 4MATIC COUPE,2014–2020,2014,2020,SUV - STANDARD,5.5,8,A7,7-speed automatic,Z,Premium petrol,yes,yes,17.2,12.8,15.2,357,High
+632,Mercedes-Benz,AMG GLE 63 S 4MATIC COUPE,2014–2020,2014,2020,SUV - STANDARD,5.5,8,AS7,7-speed automatic,Z,Premium petrol,yes,yes,17.2,12.8,15.2,363,High
+633,Mercedes-Benz,AMG GLE 63 S 4MATIC+ Coupe,2021,2021,2021,SUV - STANDARD,4.0,8,A9,9-speed automatic,Z,Premium petrol,yes,yes,16.3,12.8,14.7,347,High
+634,Mercedes-Benz,AMG GLE 63 S 4MATIC+ Coupe,2022,2022,2022,SUV - STANDARD,4.0,8,A9,9-speed automatic,Z,Premium petrol,yes,yes,16.4,12.8,14.8,346,High
+635,Mercedes-Benz,AMG GLE 63 S 4MATIC+ Coupe,2023,2023,2023,SUV - STANDARD,4.0,8,A9,9-speed automatic,Z,Premium petrol,yes,yes,16.5,12.8,14.8,347,High
+636,Mercedes-Benz,AMG GLE 63 S 4MATIC+ Coupe,2024,2024,2024,SUV - STANDARD,4.0,8,A9,9-speed automatic,Z,Premium petrol,yes,yes,16.6,12.3,14.7,343,High
+637,Mercedes-Benz,AMG GLE 63 S 4MATIC+ Coupe,2025,2025,2025,SUV - STANDARD,4.0,8,A9,9-speed automatic,Z,Premium petrol,yes,yes,17.2,12.8,15.2,355,High
+638,Mercedes-Benz,AMG GLE 63 S 4MATIC+ Coupe,2026,2026,2026,SUV - STANDARD,4.0,8,A9,9-speed automatic,Z,Premium petrol,yes,yes,15.8,11.4,13.8,325,High
+639,Mercedes-Benz,AMG GLE 63 S 4MATIC+ SUV,2021,2021,2021,SUV - STANDARD,4.0,8,A9,9-speed automatic,Z,Premium petrol,yes,yes,16.2,12.5,14.5,340,High
+640,Mercedes-Benz,AMG GLE 63 S 4MATIC+ SUV,2022,2022,2022,SUV - STANDARD,4.0,8,A9,9-speed automatic,Z,Premium petrol,yes,yes,16.2,12.6,14.6,341,High
+641,Mercedes-Benz,AMG GLE 63 S 4MATIC+ SUV,2023,2023,2023,SUV - STANDARD,4.0,8,A9,9-speed automatic,Z,Premium petrol,yes,yes,16.3,12.6,14.7,343,High
+642,Mercedes-Benz,AMG GLE 63 S 4MATIC+ SUV,2024,2024,2024,SUV - STANDARD,4.0,8,A9,9-speed automatic,Z,Premium petrol,yes,yes,16.6,12.3,14.7,343,High
+643,Mercedes-Benz,AMG GLE 63 S 4MATIC+ SUV,2025,2025,2025,SUV - STANDARD,4.0,8,A9,9-speed automatic,Z,Premium petrol,yes,yes,17.2,12.8,15.2,355,High
+644,Mercedes-Benz,AMG GLE 63 S 4MATIC+ SUV,2026,2026,2026,SUV - STANDARD,4.0,8,A9,9-speed automatic,Z,Premium petrol,yes,yes,16.1,11.5,14.0,328,High
+645,Mercedes-Benz,AMG GLE 63 S COUPE 4MATIC,2014–2020,2014,2020,SUV - STANDARD,5.5,8,AS7,7-speed automatic,Z,Premium petrol,yes,yes,17.2,12.8,15.2,363,High
+646,Mercedes-Benz,AMG GLS 63,2014–2020,2014,2020,SUV - STANDARD,5.5,8,AS7,7-speed automatic,Z,Premium petrol,yes,no,18.2,14.0,16.3,369,High
+647,Mercedes-Benz,AMG GLS 63 4MATIC,2014–2020,2014,2020,SUV - STANDARD,4.7,8,A7,7-speed automatic,Z,Premium petrol,yes,yes,17.8,13.2,15.7,370,High
+648,Mercedes-Benz,AMG GLS 63 4MATIC,2014–2020,2014,2020,SUV - STANDARD,5.5,8,A7,7-speed automatic,Z,Premium petrol,yes,yes,17.6,13.3,15.7,367,High
+649,Mercedes-Benz,AMG GLS 63 4MATIC+ SUV,2021,2021,2021,SUV - STANDARD,4.0,8,A9,9-speed automatic,Z,Premium petrol,yes,yes,16.3,12.9,14.8,347,High
+650,Mercedes-Benz,AMG GLS 63 4MATIC+ SUV,2022,2022,2022,SUV - STANDARD,4.0,8,A9,9-speed automatic,Z,Premium petrol,yes,yes,17.1,13.2,15.3,360,High
+651,Mercedes-Benz,AMG GLS 63 4MATIC+ SUV,2023,2023,2023,SUV - STANDARD,4.0,8,A9,9-speed automatic,Z,Premium petrol,yes,yes,16.6,13.2,15.1,354,High
+652,Mercedes-Benz,AMG GLS 63 4MATIC+ SUV,2024,2024,2024,SUV - STANDARD,4.0,8,A9,9-speed automatic,Z,Premium petrol,yes,yes,16.8,13.2,15.2,357,High
+653,Mercedes-Benz,AMG GLS 63 4MATIC+ SUV,2025,2025,2025,SUV - STANDARD,4.0,8,A9,9-speed automatic,Z,Premium petrol,yes,yes,17.2,13.1,15.3,359,High
+654,Mercedes-Benz,AMG GLS 63 4MATIC+ SUV,2026,2026,2026,SUV - STANDARD,4.0,8,A9,9-speed automatic,Z,Premium petrol,yes,yes,16.2,11.7,14.2,334,High
+655,Mercedes-Benz,AMG GT 43 Coupe,2026,2026,2026,SUBCOMPACT,2.0,4,A9,9-speed automatic,Z,Premium petrol,yes,no,12.4,8.8,10.8,252,Low
+656,Mercedes-Benz,AMG GT 53 4MATIC+,2024,2024,2024,COMPACT,3.0,6,A9,9-speed automatic,Z,Premium petrol,yes,yes,12.3,9.8,11.2,262,Medium
+657,Mercedes-Benz,AMG GT 53 4MATIC+,2025,2025,2025,COMPACT,3.0,6,A9,9-speed automatic,Z,Premium petrol,yes,yes,12.3,10.0,11.3,263,Medium
+658,Mercedes-Benz,AMG GT 53 4MATIC+ 4-Door Coupe,2026,2026,2026,STATION WAGON - SMALL,3.0,6,A9,9-speed automatic,Z,Premium petrol,yes,yes,12.3,10.0,11.3,263,Medium
+659,Mercedes-Benz,AMG GT 53 4MATIC+ Coupe,2014–2020,2014,2020,COMPACT,3.0,6,A9,9-speed automatic,Z,Premium petrol,yes,yes,12.4,9.8,11.2,264,Medium
+660,Mercedes-Benz,AMG GT 53 4MATIC+ Coupe,2021,2021,2021,COMPACT,3.0,6,A9,9-speed automatic,Z,Premium petrol,yes,yes,11.9,9.6,10.9,255,Medium
+661,Mercedes-Benz,AMG GT 53 4MATIC+ Coupe,2022,2022,2022,COMPACT,3.0,6,A9,9-speed automatic,Z,Premium petrol,yes,yes,12.3,9.4,11.0,258,Medium
+662,Mercedes-Benz,AMG GT 53 4MATIC+ Coupe,2023,2023,2023,COMPACT,3.0,6,A9,9-speed automatic,Z,Premium petrol,yes,yes,12.3,9.8,11.2,262,Medium
+663,Mercedes-Benz,AMG GT 55 4MATIC+ Coupe,2024,2024,2024,SUBCOMPACT,4.0,8,A9,9-speed automatic,Z,Premium petrol,yes,yes,17.8,11.6,15.0,353,High
+664,Mercedes-Benz,AMG GT 55 4MATIC+ Coupe,2025,2025,2025,SUBCOMPACT,4.0,8,A9,9-speed automatic,Z,Premium petrol,yes,yes,19.7,12.6,16.5,387,High
+665,Mercedes-Benz,AMG GT 55 4MATIC+ Coupe,2026,2026,2026,SUBCOMPACT,4.0,8,A9,9-speed automatic,Z,Premium petrol,yes,yes,17.4,11.5,14.8,346,High
+666,Mercedes-Benz,AMG GT 63 4MATIC+,2024–2025,2024,2025,COMPACT,4.0,8,A9,9-speed automatic,Z,Premium petrol,yes,yes,15.3,11.3,13.5,318,High
+667,Mercedes-Benz,AMG GT 63 4MATIC+ 4-Door Coupe,2026,2026,2026,STATION WAGON - SMALL,4.0,8,A9,9-speed automatic,Z,Premium petrol,yes,yes,15.3,11.3,13.5,318,High
+668,Mercedes-Benz,AMG GT 63 4MATIC+ Coupe,2014–2020,2014,2020,COMPACT,4.0,8,A9,9-speed automatic,Z,Premium petrol,yes,yes,15.5,11.5,13.7,323,High
+669,Mercedes-Benz,AMG GT 63 4MATIC+ Coupe,2021,2021,2021,COMPACT,4.0,8,A9,9-speed automatic,Z,Premium petrol,yes,yes,15.6,11.5,13.7,322,High
+670,Mercedes-Benz,AMG GT 63 4MATIC+ Coupe,2023,2023,2023,COMPACT,4.0,8,A9,9-speed automatic,Z,Premium petrol,yes,yes,16.1,11.4,14.0,329,High
+671,Mercedes-Benz,AMG GT 63 4MATIC+ Coupe,2024,2024,2024,SUBCOMPACT,4.0,8,A9,9-speed automatic,Z,Premium petrol,yes,yes,17.8,11.6,15.0,353,High
+672,Mercedes-Benz,AMG GT 63 4MATIC+ Coupe,2025,2025,2025,SUBCOMPACT,4.0,8,A9,9-speed automatic,Z,Premium petrol,yes,yes,19.7,12.6,16.5,387,High
+673,Mercedes-Benz,AMG GT 63 4MATIC+ Coupe,2026,2026,2026,SUBCOMPACT,4.0,8,A9,9-speed automatic,Z,Premium petrol,yes,yes,18.0,11.5,15.1,346,High
+674,Mercedes-Benz,AMG GT 63 PRO 4MATIC+ Coupe,2025,2025,2025,SUBCOMPACT,4.0,8,A9,9-speed automatic,Z,Premium petrol,yes,yes,19.7,12.6,16.5,387,High
+675,Mercedes-Benz,AMG GT 63 PRO 4MATIC+ Coupe,2026,2026,2026,SUBCOMPACT,4.0,8,A9,9-speed automatic,Z,Premium petrol,yes,yes,17.4,11.5,14.8,346,High
+676,Mercedes-Benz,AMG GT 63 S 4MATIC+ Coupe,2014–2020,2014,2020,COMPACT,4.0,8,A9,9-speed automatic,Z,Premium petrol,yes,yes,15.6,11.5,13.7,324,High
+677,Mercedes-Benz,AMG GT 63 S 4MATIC+ Coupe,2021,2021,2021,COMPACT,4.0,8,A9,9-speed automatic,Z,Premium petrol,yes,yes,15.1,11.1,13.3,312,High
+678,Mercedes-Benz,AMG GT 63 S 4MATIC+ Coupe,2023,2023,2023,COMPACT,4.0,8,A9,9-speed automatic,Z,Premium petrol,yes,yes,16.1,11.4,14.0,329,High
+679,Mercedes-Benz,AMG GT Black Series Coupe,2021,2021,2021,TWO-SEATER,4.0,8,AM7,7-speed automated manual,Z,Premium petrol,yes,no,15.6,12.0,13.9,328,High
+680,Mercedes-Benz,AMG GT C Coupe,2014–2020,2014,2020,TWO-SEATER,4.0,8,AM7,7-speed automated manual,Z,Premium petrol,yes,no,15.4,11.6,13.6,318,High
+681,Mercedes-Benz,AMG GT C Coupe,2021,2021,2021,TWO-SEATER,4.0,8,AM7,7-speed automated manual,Z,Premium petrol,yes,no,15.9,12.1,14.2,332,High
+682,Mercedes-Benz,AMG GT C Roadster,2014–2020,2014,2020,TWO-SEATER,4.0,8,AM7,7-speed automated manual,Z,Premium petrol,yes,no,15.4,11.6,13.6,318,High
+683,Mercedes-Benz,AMG GT C Roadster,2021,2021,2021,TWO-SEATER,4.0,8,AM7,7-speed automated manual,Z,Premium petrol,yes,no,15.8,12.0,14.1,330,High
+684,Mercedes-Benz,AMG GT COUPE,2014–2020,2014,2020,TWO-SEATER,4.0,8,AM7,7-speed automated manual,Z,Premium petrol,yes,no,14.5,10.8,12.8,302,High
+685,Mercedes-Benz,AMG GT COUPE,2014–2020,2014,2020,TWO-SEATER,4.0,8,AS7,7-speed automatic,Z,Premium petrol,yes,no,14.5,10.8,12.8,303,High
+686,Mercedes-Benz,AMG GT R Coupe,2014–2020,2014,2020,TWO-SEATER,4.0,8,AM7,7-speed automated manual,Z,Premium petrol,yes,no,15.8,11.8,14.0,326,High
+687,Mercedes-Benz,AMG GT R Coupe,2021,2021,2021,TWO-SEATER,4.0,8,AM7,7-speed automated manual,Z,Premium petrol,yes,no,16.4,12.0,14.4,339,High
+688,Mercedes-Benz,AMG GT ROADSTER,2014–2020,2014,2020,TWO-SEATER,4.0,8,AM7,7-speed automated manual,Z,Premium petrol,yes,no,14.7,11.0,13.0,304,High
+689,Mercedes-Benz,AMG GT S,2014–2020,2014,2020,TWO-SEATER,4.0,8,AM7,7-speed automated manual,Z,Premium petrol,yes,no,14.5,10.8,12.8,303,High
+690,Mercedes-Benz,AMG GT S COUPE,2014–2020,2014,2020,TWO-SEATER,4.0,8,AM7,7-speed automated manual,Z,Premium petrol,yes,no,14.5,10.8,12.8,302,High
+691,Mercedes-Benz,AMG GT S COUPE,2014–2020,2014,2020,TWO-SEATER,4.0,8,AS7,7-speed automatic,Z,Premium petrol,yes,no,14.5,10.8,12.8,303,High
+692,Mercedes-Benz,AMG S 63,2014–2020,2014,2020,FULL-SIZE,5.5,8,AS7,7-speed automatic,Z,Premium petrol,yes,no,15.7,10.1,13.2,313,High
+693,Mercedes-Benz,AMG S 63 4MATIC,2014–2020,2014,2020,FULL-SIZE,4.0,8,A9,9-speed automatic,Z,Premium petrol,yes,yes,14.1,8.9,11.8,275,High
+694,Mercedes-Benz,AMG S 63 4MATIC,2014–2020,2014,2020,FULL-SIZE,5.5,8,AS7,7-speed automatic,Z,Premium petrol,yes,yes,15.7,10.1,13.2,313,High
+695,Mercedes-Benz,AMG S 63 4MATIC CABRIOLET,2014–2020,2014,2020,SUBCOMPACT,4.0,8,A9,9-speed automatic,Z,Premium petrol,yes,yes,15.8,9.8,13.1,306,High
+696,Mercedes-Benz,AMG S 63 4MATIC COUPE,2014–2020,2014,2020,COMPACT,4.0,8,A9,9-speed automatic,Z,Premium petrol,yes,yes,14.0,8.7,11.6,271,High
+697,Mercedes-Benz,AMG S 63 4MATIC+,2014–2020,2014,2020,FULL-SIZE,4.0,8,A9,9-speed automatic,Z,Premium petrol,yes,yes,14.1,8.9,11.8,275,High
+698,Mercedes-Benz,AMG S 63 4MATIC+ Cabriolet,2014–2020,2014,2020,SUBCOMPACT,4.0,8,A9,9-speed automatic,Z,Premium petrol,yes,yes,15.8,9.8,13.1,306,High
+699,Mercedes-Benz,AMG S 63 4MATIC+ Cabriolet,2021,2021,2021,SUBCOMPACT,4.0,8,A9,9-speed automatic,Z,Premium petrol,yes,yes,16.3,10.0,13.5,317,High
+700,Mercedes-Benz,AMG S 63 4MATIC+ Coupe,2014–2020,2014,2020,COMPACT,4.0,8,A9,9-speed automatic,Z,Premium petrol,yes,yes,14.0,8.7,11.6,271,High
+701,Mercedes-Benz,AMG S 63 4MATIC+ Coupe,2021,2021,2021,COMPACT,4.0,8,A9,9-speed automatic,Z,Premium petrol,yes,yes,15.1,9.2,12.4,293,High
+702,Mercedes-Benz,AMG S 63 CABRIOLET,2014–2020,2014,2020,COMPACT,5.5,8,AS7,7-speed automatic,Z,Premium petrol,yes,no,16.4,10.6,13.8,322,High
+703,Mercedes-Benz,AMG S 63 COUPE,2014–2020,2014,2020,COMPACT,5.5,8,AS7,7-speed automatic,Z,Premium petrol,yes,no,15.3,10.2,13.0,309,High
+704,Mercedes-Benz,AMG S 65,2014–2020,2014,2020,FULL-SIZE,6.0,12,A7,7-speed automatic,Z,Premium petrol,yes,no,18.6,10.9,15.1,356,High
+705,Mercedes-Benz,AMG S 65,2014–2020,2014,2020,FULL-SIZE,6.0,12,AS7,7-speed automatic,Z,Premium petrol,yes,no,18.0,11.4,15.0,355,High
+706,Mercedes-Benz,AMG S 65 CABRIOLET,2014–2020,2014,2020,SUBCOMPACT,6.0,12,A9,9-speed automatic,Z,Premium petrol,yes,no,17.1,11.0,14.3,337,High
+707,Mercedes-Benz,AMG S 65 CABRIOLET,2014–2020,2014,2020,COMPACT,6.0,12,AS7,7-speed automatic,Z,Premium petrol,yes,no,17.1,11.0,14.3,348,High
+708,Mercedes-Benz,AMG S 65 COUPE,2014–2020,2014,2020,COMPACT,6.0,12,A9,9-speed automatic,Z,Premium petrol,yes,no,17.6,11.0,14.6,343,High
+709,Mercedes-Benz,AMG S 65 COUPE,2014–2020,2014,2020,COMPACT,6.0,12,AS7,7-speed automatic,Z,Premium petrol,yes,no,18.4,11.4,15.2,360,High
+710,Mercedes-Benz,AMG SL 43 4MATIC Roadster,2025–2026,2025,2026,MINICOMPACT,2.0,4,A9,9-speed automatic,Z,Premium petrol,yes,yes,12.2,8.8,10.7,249,Low
+711,Mercedes-Benz,AMG SL 55 4MATIC+ Roadster,2024,2024,2024,MINICOMPACT,4.0,8,A9,9-speed automatic,Z,Premium petrol,yes,yes,17.0,11.3,14.5,340,High
+712,Mercedes-Benz,AMG SL 55 4MATIC+ Roadster,2025,2025,2025,MINICOMPACT,4.0,8,A9,9-speed automatic,Z,Premium petrol,yes,yes,18.2,11.3,15.1,347,High
+713,Mercedes-Benz,AMG SL 55 4MATIC+ Roadster,2026,2026,2026,MINICOMPACT,4.0,8,A9,9-speed automatic,Z,Premium petrol,yes,yes,17.3,11.4,14.7,343,High
+714,Mercedes-Benz,AMG SL 63,2014–2020,2014,2020,TWO-SEATER,5.5,8,A7,7-speed automatic,Z,Premium petrol,yes,no,15.0,9.8,12.7,297,High
+715,Mercedes-Benz,AMG SL 63,2014–2020,2014,2020,TWO-SEATER,5.5,8,AS7,7-speed automatic,Z,Premium petrol,yes,no,14.7,9.5,12.4,298,High
+716,Mercedes-Benz,AMG SL 63 4MATIC+ Roadster,2022,2022,2022,MINICOMPACT,4.0,8,A9,9-speed automatic,Z,Premium petrol,yes,yes,17.1,11.3,14.5,339,High
+717,Mercedes-Benz,AMG SL 63 4MATIC+ Roadster,2023,2023,2023,MINICOMPACT,4.0,8,A9,9-speed automatic,Z,Premium petrol,yes,yes,18.2,11.8,15.3,360,High
+718,Mercedes-Benz,AMG SL 63 4MATIC+ Roadster,2024,2024,2024,MINICOMPACT,4.0,8,A9,9-speed automatic,Z,Premium petrol,yes,yes,17.0,11.3,14.5,340,High
+719,Mercedes-Benz,AMG SL 63 4MATIC+ Roadster,2025,2025,2025,MINICOMPACT,4.0,8,A9,9-speed automatic,Z,Premium petrol,yes,yes,18.2,11.3,15.1,347,High
+720,Mercedes-Benz,AMG SL 63 4MATIC+ Roadster,2026,2026,2026,MINICOMPACT,4.0,8,A9,9-speed automatic,Z,Premium petrol,yes,yes,17.3,11.4,14.7,347,High
+721,Mercedes-Benz,AMG SL 65,2014–2020,2014,2020,TWO-SEATER,6.0,12,A7,7-speed automatic,Z,Premium petrol,yes,no,17.6,10.8,14.5,339,High
+722,Mercedes-Benz,AMG SL 65,2014–2020,2014,2020,TWO-SEATER,6.0,12,AS7,7-speed automatic,Z,Premium petrol,yes,no,17.2,11.0,14.4,338,High
+723,Mercedes-Benz,AMG SLC 43,2014–2020,2014,2020,TWO-SEATER,3.0,6,A9,9-speed automatic,Z,Premium petrol,yes,no,11.7,8.2,10.1,236,Medium
+724,Mercedes-Benz,AMG SLK 55,2014–2020,2014,2020,TWO-SEATER,5.5,8,AS7,7-speed automatic,Z,Premium petrol,yes,no,12.4,8.5,10.6,252,High
+725,Mercedes-Benz,B 250,2014–2020,2014,2020,MID-SIZE,2.0,4,AM7,7-speed automated manual,Z,Premium petrol,no,no,9.8,6.8,8.4,196,Low
+726,Mercedes-Benz,B 250,2014–2020,2014,2020,STATION WAGON - SMALL,2.0,4,AM7,7-speed automated manual,Z,Premium petrol,no,no,9.8,6.8,8.4,196,Low
+727,Mercedes-Benz,B 250,2014–2020,2014,2020,MID-SIZE,2.0,4,AS7,7-speed automatic,Z,Premium petrol,no,no,9.4,6.6,8.2,184,Low
+728,Mercedes-Benz,B 250,2014–2020,2014,2020,STATION WAGON - SMALL,2.0,4,AS7,7-speed automatic,Z,Premium petrol,no,no,9.2,6.6,8.0,184,Low
+729,Mercedes-Benz,B 250 4MATIC,2014–2020,2014,2020,MID-SIZE,2.0,4,AM7,7-speed automated manual,Z,Premium petrol,no,yes,10.3,7.8,9.1,215,Low
+730,Mercedes-Benz,B 250 4MATIC,2014–2020,2014,2020,STATION WAGON - SMALL,2.0,4,AM7,7-speed automated manual,Z,Premium petrol,no,yes,10.3,7.8,9.1,215,Low
+731,Mercedes-Benz,B 250 4MATIC,2014–2020,2014,2020,MID-SIZE,2.0,4,AS7,7-speed automatic,Z,Premium petrol,no,yes,10.0,7.5,8.9,206,Low
+732,Mercedes-Benz,B 250 4MATIC,2014–2020,2014,2020,STATION WAGON - SMALL,2.0,4,AS7,7-speed automatic,Z,Premium petrol,no,yes,10.0,7.5,8.9,205,Low
+733,Mercedes-Benz,C 250,2014–2020,2014,2020,COMPACT,1.8,4,AS7,7-speed automatic,Z,Premium petrol,no,no,10.9,7.5,9.4,216,Low
+734,Mercedes-Benz,C 250 COUPE,2014–2020,2014,2020,SUBCOMPACT,1.8,4,AS7,7-speed automatic,Z,Premium petrol,no,no,11.0,7.4,9.4,216,Low
+735,Mercedes-Benz,C 300 4MATIC,2014–2020,2014,2020,COMPACT,2.0,4,A9,9-speed automatic,Z,Premium petrol,no,yes,10.8,7.4,9.3,217,Low
+736,Mercedes-Benz,C 300 4MATIC,2014–2020,2014,2020,COMPACT,2.0,4,AS7,7-speed automatic,Z,Premium petrol,no,yes,10.1,7.8,9.0,210,Low
+737,Mercedes-Benz,C 300 4MATIC Cabriolet,2014–2020,2014,2020,SUBCOMPACT,2.0,4,A9,9-speed automatic,Z,Premium petrol,no,yes,11.0,8.0,9.7,227,Low
+738,Mercedes-Benz,C 300 4MATIC Cabriolet,2021,2021,2021,SUBCOMPACT,2.0,4,A9,9-speed automatic,Z,Premium petrol,no,yes,10.8,7.9,9.5,223,Low
+739,Mercedes-Benz,C 300 4MATIC Cabriolet,2022,2022,2022,SUBCOMPACT,2.0,4,A9,9-speed automatic,Z,Premium petrol,no,yes,11.0,8.0,9.6,224,Low
+740,Mercedes-Benz,C 300 4MATIC Cabriolet,2023,2023,2023,SUBCOMPACT,2.0,4,A9,9-speed automatic,Z,Premium petrol,no,yes,11.0,7.8,9.5,223,Low
+741,Mercedes-Benz,C 300 4MATIC Coupe,2014–2020,2014,2020,SUBCOMPACT,2.0,4,A9,9-speed automatic,Z,Premium petrol,no,yes,10.8,7.7,9.4,220,Low
+742,Mercedes-Benz,C 300 4MATIC Coupe,2014–2020,2014,2020,SUBCOMPACT,2.0,4,AS7,7-speed automatic,Z,Premium petrol,no,yes,10.4,8.0,9.3,218,Low
+743,Mercedes-Benz,C 300 4MATIC Coupe,2021,2021,2021,SUBCOMPACT,2.0,4,A9,9-speed automatic,Z,Premium petrol,no,yes,10.2,7.4,9.0,210,Low
+744,Mercedes-Benz,C 300 4MATIC Coupe,2022,2022,2022,SUBCOMPACT,2.0,4,A9,9-speed automatic,Z,Premium petrol,no,yes,10.7,7.5,9.3,217,Low
+745,Mercedes-Benz,C 300 4MATIC Coupe,2023,2023,2023,SUBCOMPACT,2.0,4,A9,9-speed automatic,Z,Premium petrol,no,yes,10.7,7.6,9.3,218,Low
+746,Mercedes-Benz,C 300 4MATIC FFV,2014–2020,2014,2020,COMPACT,3.5,6,AS7,7-speed automatic,E,Ethanol (E85),no,yes,16.4,11.1,14.0,224,Medium
+747,Mercedes-Benz,C 300 4MATIC FFV,2014–2020,2014,2020,COMPACT,3.5,6,AS7,7-speed automatic,Z,Premium petrol,no,yes,12.2,8.5,10.5,242,Medium
+748,Mercedes-Benz,C 300 4MATIC Sedan,2021,2021,2021,COMPACT,2.0,4,A9,9-speed automatic,Z,Premium petrol,no,yes,10.1,7.1,8.7,204,Low
+749,Mercedes-Benz,C 300 4MATIC Sedan,2022,2022,2022,COMPACT,2.0,4,A9,9-speed automatic,Z,Premium petrol,no,yes,9.9,7.1,8.6,202,Low
+750,Mercedes-Benz,C 300 4MATIC Sedan,2023,2023,2023,COMPACT,2.0,4,A9,9-speed automatic,Z,Premium petrol,no,yes,9.8,7.1,8.6,201,Low
+751,Mercedes-Benz,C 300 4MATIC Sedan,2024,2024,2024,COMPACT,2.0,4,A9,9-speed automatic,Z,Premium petrol,no,yes,10.1,7.1,8.8,206,Low
+752,Mercedes-Benz,C 300 4MATIC Sedan,2025–2026,2025,2026,COMPACT,2.0,4,A9,9-speed automatic,Z,Premium petrol,no,yes,10.0,7.1,8.7,204,Low
+753,Mercedes-Benz,C 300 4MATIC Wagon,2014–2020,2014,2020,STATION WAGON - MID-SIZE,2.0,4,A9,9-speed automatic,Z,Premium petrol,no,yes,10.7,8.0,9.5,222,Low
+754,Mercedes-Benz,C 300 4MATIC Wagon,2014–2020,2014,2020,STATION WAGON - SMALL,2.0,4,A9,9-speed automatic,Z,Premium petrol,no,yes,10.9,7.7,9.5,221,Low
+755,Mercedes-Benz,C 300 4MATIC Wagon,2021,2021,2021,STATION WAGON - SMALL,2.0,4,A9,9-speed automatic,Z,Premium petrol,no,yes,10.5,7.5,9.1,214,Low
+756,Mercedes-Benz,C 300 Sedan,2026,2026,2026,COMPACT,2.0,4,A9,9-speed automatic,Z,Premium petrol,no,no,9.3,6.7,8.1,191,Low
+757,Mercedes-Benz,C 350,2014–2020,2014,2020,COMPACT,3.5,6,AS7,7-speed automatic,Z,Premium petrol,no,no,12.0,8.6,10.5,242,Medium
+758,Mercedes-Benz,C 350 4MATIC,2014–2020,2014,2020,COMPACT,3.5,6,AS7,7-speed automatic,Z,Premium petrol,no,yes,11.9,8.6,10.4,239,Medium
+759,Mercedes-Benz,C 350 4MATIC COUPE,2014–2020,2014,2020,SUBCOMPACT,3.5,6,AS7,7-speed automatic,Z,Premium petrol,no,yes,12.1,8.7,10.6,244,Medium
+760,Mercedes-Benz,C 350 COUPE,2014–2020,2014,2020,SUBCOMPACT,3.5,6,AS7,7-speed automatic,Z,Premium petrol,no,no,12.1,8.6,10.5,242,Medium
+761,Mercedes-Benz,C 400 4MATIC,2014–2020,2014,2020,COMPACT,3.0,6,AS7,7-speed automatic,Z,Premium petrol,no,yes,11.1,8.4,9.9,228,Medium
+762,Mercedes-Benz,C 450 AMG SPORT 4MATIC,2014–2020,2014,2020,COMPACT,3.0,6,AS7,7-speed automatic,Z,Premium petrol,yes,yes,11.1,9.6,10.4,231,Medium
+763,Mercedes-Benz,C 63 AMG,2014–2020,2014,2020,COMPACT,6.2,8,AS7,7-speed automatic,Z,Premium petrol,yes,no,17.7,11.9,15.1,347,High
+764,Mercedes-Benz,C 63 AMG COUPE,2014–2020,2014,2020,SUBCOMPACT,6.2,8,AS7,7-speed automatic,Z,Premium petrol,yes,no,17.9,12.2,15.4,353,High
+765,Mercedes-Benz,CL 550 4MATIC,2014–2020,2014,2020,COMPACT,4.7,8,AS7,7-speed automatic,Z,Premium petrol,no,yes,15.4,10.4,13.2,304,High
+766,Mercedes-Benz,CL 63 AMG,2014–2020,2014,2020,COMPACT,5.5,8,AS7,7-speed automatic,Z,Premium petrol,yes,no,15.4,11.0,13.4,308,High
+767,Mercedes-Benz,CLA 250,2014–2020,2014,2020,COMPACT,2.0,4,AM7,7-speed automated manual,Z,Premium petrol,no,no,9.6,6.6,8.2,193,Low
+768,Mercedes-Benz,CLA 250,2014–2020,2014,2020,MINICOMPACT,2.0,4,AM7,7-speed automated manual,Z,Premium petrol,no,no,9.6,6.6,8.2,193,Low
+769,Mercedes-Benz,CLA 250,2014–2020,2014,2020,COMPACT,2.0,4,AS7,7-speed automatic,Z,Premium petrol,no,no,9.4,6.3,8.0,186,Low
+770,Mercedes-Benz,CLA 250,2014–2020,2014,2020,SUBCOMPACT,2.0,4,AS7,7-speed automatic,Z,Premium petrol,no,no,9.4,6.4,8.1,186,Low
+771,Mercedes-Benz,CLA 250 4MATIC,2014–2020,2014,2020,COMPACT,2.0,4,AM7,7-speed automated manual,Z,Premium petrol,no,yes,9.9,7.3,8.7,204,Low
+772,Mercedes-Benz,CLA 250 4MATIC,2014–2020,2014,2020,MINICOMPACT,2.0,4,AM7,7-speed automated manual,Z,Premium petrol,no,yes,9.9,7.3,8.7,204,Low
+773,Mercedes-Benz,CLA 250 4MATIC,2014–2020,2014,2020,SUBCOMPACT,2.0,4,AS7,7-speed automatic,Z,Premium petrol,no,yes,9.9,7.4,8.8,202,Low
+774,Mercedes-Benz,CLA 250 4MATIC Coupe,2021,2021,2021,COMPACT,2.0,4,AM7,7-speed automated manual,Z,Premium petrol,no,yes,9.8,7.1,8.6,201,Low
+775,Mercedes-Benz,CLA 250 4MATIC Coupe,2022–2023,2022,2023,COMPACT,2.0,4,AM7,7-speed automated manual,Z,Premium petrol,no,yes,9.8,7.0,8.6,200,Low
+776,Mercedes-Benz,CLA 250 4MATIC Coupe,2024,2024,2024,COMPACT,2.0,4,AM8,8-speed automated manual,Z,Premium petrol,no,yes,9.5,6.8,8.3,194,Low
+777,Mercedes-Benz,CLA 250 4MATIC Coupe,2025–2026,2025,2026,COMPACT,2.0,4,AM8,8-speed automated manual,Z,Premium petrol,no,yes,9.3,6.9,8.2,193,Low
+778,Mercedes-Benz,CLA 250 4MATIC FFV,2014–2020,2014,2020,COMPACT,2.0,4,AS7,7-speed automatic,E,Ethanol (E85),no,yes,13.1,9.8,11.6,198,Low
+779,Mercedes-Benz,CLA 250 4MATIC FFV,2014–2020,2014,2020,COMPACT,2.0,4,AS7,7-speed automatic,Z,Premium petrol,no,yes,9.8,7.1,8.6,198,Low
+780,Mercedes-Benz,CLA 250 Coupe,2026,2026,2026,COMPACT,2.0,4,AM8,8-speed automated manual,Z,Premium petrol,no,no,9.0,6.5,7.9,185,Low
+781,Mercedes-Benz,CLA 45 AMG,2014–2020,2014,2020,COMPACT,2.0,4,AS7,7-speed automatic,Z,Premium petrol,yes,no,10.2,7.7,9.1,209,Low
+782,Mercedes-Benz,CLA 45 AMG 4MATIC,2014–2020,2014,2020,COMPACT,2.0,4,AS7,7-speed automatic,Z,Premium petrol,yes,yes,10.3,7.8,9.2,212,Low
+783,Mercedes-Benz,CLE 300 4MATIC Cabriolet,2024,2024,2024,SUBCOMPACT,2.0,4,A9,9-speed automatic,Z,Premium petrol,no,yes,10.1,7.3,8.9,209,Low
+784,Mercedes-Benz,CLE 300 4MATIC Cabriolet,2025,2025,2025,SUBCOMPACT,2.0,4,A9,9-speed automatic,Z,Premium petrol,no,yes,10.4,7.4,9.1,211,Low
+785,Mercedes-Benz,CLE 300 4MATIC Cabriolet,2026,2026,2026,SUBCOMPACT,2.0,4,A9,9-speed automatic,Z,Premium petrol,no,yes,9.9,7.1,8.6,202,Low
+786,Mercedes-Benz,CLE 300 4MATIC Coupe,2024,2024,2024,SUBCOMPACT,2.0,4,A9,9-speed automatic,Z,Premium petrol,no,yes,9.9,7.0,8.6,201,Low
+787,Mercedes-Benz,CLE 300 4MATIC Coupe,2025,2025,2025,SUBCOMPACT,2.0,4,A9,9-speed automatic,Z,Premium petrol,no,yes,9.8,7.1,8.6,201,Low
+788,Mercedes-Benz,CLE 300 4MATIC Coupe,2026,2026,2026,SUBCOMPACT,2.0,4,A9,9-speed automatic,Z,Premium petrol,no,yes,9.9,7.2,8.7,203,Low
+789,Mercedes-Benz,CLE 450 4MATIC Cabriolet,2025–2026,2025,2026,SUBCOMPACT,3.0,6,A9,9-speed automatic,Z,Premium petrol,no,yes,10.2,7.4,8.9,210,Medium
+790,Mercedes-Benz,CLE 450 4MATIC Coupe,2025,2025,2025,SUBCOMPACT,3.0,6,A9,9-speed automatic,Z,Premium petrol,no,yes,10.4,7.1,9.0,211,Medium
+791,Mercedes-Benz,CLE 450 4MATIC Coupe,2026,2026,2026,SUBCOMPACT,3.0,6,A9,9-speed automatic,Z,Premium petrol,no,yes,10.4,7.3,9.0,211,Medium
+792,Mercedes-Benz,CLS 400 4MATIC,2014–2020,2014,2020,COMPACT,3.0,6,AS7,7-speed automatic,Z,Premium petrol,no,yes,12.1,8.6,10.6,247,Medium
+793,Mercedes-Benz,CLS 450 4MATIC,2014–2020,2014,2020,COMPACT,3.0,6,A9,9-speed automatic,Z,Premium petrol,no,yes,11.3,7.9,9.8,213,Medium
+794,Mercedes-Benz,CLS 450 4MATIC Coupe,2021,2021,2021,COMPACT,3.0,6,A9,9-speed automatic,Z,Premium petrol,no,yes,10.5,8.1,9.4,222,Medium
+795,Mercedes-Benz,CLS 450 4MATIC Coupe,2022,2022,2022,COMPACT,3.0,6,A9,9-speed automatic,Z,Premium petrol,no,yes,11.1,8.2,9.8,229,Medium
+796,Mercedes-Benz,CLS 450 4MATIC Coupe,2023,2023,2023,COMPACT,3.0,6,A9,9-speed automatic,Z,Premium petrol,no,yes,11.0,8.2,9.7,229,Medium
+797,Mercedes-Benz,CLS 550 4MATIC,2014–2020,2014,2020,COMPACT,4.7,8,A9,9-speed automatic,Z,Premium petrol,no,yes,13.6,9.4,11.7,275,High
+798,Mercedes-Benz,CLS 550 4MATIC,2014–2020,2014,2020,COMPACT,4.7,8,AS7,7-speed automatic,Z,Premium petrol,no,yes,13.8,9.6,11.9,276,High
+799,Mercedes-Benz,CLS 63 AMG 4MATIC,2014–2020,2014,2020,COMPACT,5.5,8,AS7,7-speed automatic,Z,Premium petrol,yes,yes,15.1,10.8,13.1,301,High
+800,Mercedes-Benz,CLS 63 AMG S 4MATIC,2014–2020,2014,2020,COMPACT,5.5,8,AS7,7-speed automatic,Z,Premium petrol,yes,yes,15.1,10.7,13.1,301,High
+801,Mercedes-Benz,E 250 BLUETEC 4MATIC,2014–2020,2014,2020,MID-SIZE,2.1,4,AS7,7-speed automatic,D,Diesel,no,yes,8.6,5.9,7.3,198,Low
+802,Mercedes-Benz,E 300 4MATIC,2014–2020,2014,2020,MID-SIZE,2.0,4,A9,9-speed automatic,Z,Premium petrol,no,yes,11.0,8.1,9.7,228,Low
+803,Mercedes-Benz,E 300 4MATIC,2014–2020,2014,2020,MID-SIZE,3.5,6,AS7,7-speed automatic,Z,Premium petrol,no,yes,11.9,8.2,10.2,237,Medium
+804,Mercedes-Benz,E 350 4MATIC,2014–2020,2014,2020,MID-SIZE,3.5,6,AS7,7-speed automatic,Z,Premium petrol,no,yes,11.6,8.1,10.0,230,Medium
+805,Mercedes-Benz,E 350 4MATIC COUPE,2014–2020,2014,2020,SUBCOMPACT,3.5,6,AS7,7-speed automatic,Z,Premium petrol,no,yes,11.9,8.5,10.4,239,Medium
+806,Mercedes-Benz,E 350 4MATIC Sedan,2021,2021,2021,MID-SIZE,2.0,4,A9,9-speed automatic,Z,Premium petrol,no,yes,10.7,7.8,9.4,221,Low
+807,Mercedes-Benz,E 350 4MATIC Sedan,2022,2022,2022,MID-SIZE,2.0,4,A9,9-speed automatic,Z,Premium petrol,no,yes,11.2,8.2,9.8,229,Low
+808,Mercedes-Benz,E 350 4MATIC Sedan,2023,2023,2023,MID-SIZE,2.0,4,A9,9-speed automatic,Z,Premium petrol,no,yes,11.2,8.0,9.7,228,Low
+809,Mercedes-Benz,E 350 4MATIC Sedan,2024,2024,2024,MID-SIZE,2.0,4,A9,9-speed automatic,Z,Premium petrol,no,yes,9.9,7.1,8.6,203,Low
+810,Mercedes-Benz,E 350 4MATIC Sedan,2025–2026,2025,2026,MID-SIZE,2.0,4,A9,9-speed automatic,Z,Premium petrol,no,yes,10.0,7.2,8.7,203,Low
+811,Mercedes-Benz,E 350 4MATIC WAGON,2014–2020,2014,2020,STATION WAGON - MID-SIZE,3.5,6,AS7,7-speed automatic,Z,Premium petrol,no,yes,12.1,8.6,10.5,242,Medium
+812,Mercedes-Benz,E 350 CABRIOLET,2014–2020,2014,2020,SUBCOMPACT,3.5,6,AS7,7-speed automatic,Z,Premium petrol,no,no,12.0,8.5,10.4,239,Medium
+813,Mercedes-Benz,E 350 COUPE,2014–2020,2014,2020,SUBCOMPACT,3.5,6,AS7,7-speed automatic,Z,Premium petrol,no,no,11.9,8.2,10.2,235,Medium
+814,Mercedes-Benz,E 400 4MATIC,2014–2020,2014,2020,MID-SIZE,3.0,6,A9,9-speed automatic,Z,Premium petrol,no,yes,11.8,8.6,10.4,246,Medium
+815,Mercedes-Benz,E 400 4MATIC,2014–2020,2014,2020,MID-SIZE,3.0,6,AS7,7-speed automatic,Z,Premium petrol,no,yes,12.0,8.5,10.4,242,Medium
+816,Mercedes-Benz,E 400 4MATIC CABRIOLET,2014–2020,2014,2020,SUBCOMPACT,3.0,6,A9,9-speed automatic,Z,Premium petrol,no,yes,12.0,9.2,10.8,251,Medium
+817,Mercedes-Benz,E 400 4MATIC COUPE,2014–2020,2014,2020,SUBCOMPACT,3.0,6,A9,9-speed automatic,Z,Premium petrol,no,yes,11.9,9.0,10.6,248,Medium
+818,Mercedes-Benz,E 400 4MATIC COUPE,2014–2020,2014,2020,SUBCOMPACT,3.0,6,AS7,7-speed automatic,Z,Premium petrol,no,yes,11.8,8.4,10.2,239,Medium
+819,Mercedes-Benz,E 400 4MATIC WAGON,2014–2020,2014,2020,STATION WAGON - MID-SIZE,3.0,6,A9,9-speed automatic,Z,Premium petrol,no,yes,12.4,9.4,11.0,260,Medium
+820,Mercedes-Benz,E 400 4MATIC WAGON,2014–2020,2014,2020,STATION WAGON - MID-SIZE,3.0,6,AS7,7-speed automatic,Z,Premium petrol,no,yes,12.4,8.9,10.8,253,Medium
+821,Mercedes-Benz,E 400 4MATIC WAGON,2014–2020,2014,2020,STATION WAGON - MID-SIZE,3.5,6,AS7,7-speed automatic,Z,Premium petrol,no,yes,12.4,8.8,10.8,248,Medium
+822,Mercedes-Benz,E 400 CABRIOLET,2014–2020,2014,2020,SUBCOMPACT,3.0,6,AS7,7-speed automatic,Z,Premium petrol,no,no,11.5,8.1,10.0,233,Medium
+823,Mercedes-Benz,E 400 CABRIOLET,2014–2020,2014,2020,SUBCOMPACT,3.5,6,AS7,7-speed automatic,Z,Premium petrol,no,no,11.5,8.1,10.0,230,Medium
+824,Mercedes-Benz,E 400 COUPE,2014–2020,2014,2020,SUBCOMPACT,3.0,6,AS7,7-speed automatic,Z,Premium petrol,no,no,11.8,8.4,10.2,239,Medium
+825,Mercedes-Benz,E 400 COUPE,2014–2020,2014,2020,SUBCOMPACT,3.5,6,AS7,7-speed automatic,Z,Premium petrol,no,no,11.8,8.3,10.2,235,Medium
+826,Mercedes-Benz,E 400 HYBRID,2014–2020,2014,2020,MID-SIZE,3.5,6,AS7,7-speed automatic,Z,Premium petrol,no,no,9.6,7.9,8.8,202,Medium
+827,Mercedes-Benz,E 450 4MATIC,2014–2020,2014,2020,MID-SIZE,3.0,6,A9,9-speed automatic,Z,Premium petrol,no,yes,11.8,8.5,10.3,244,Medium
+828,Mercedes-Benz,E 450 4MATIC All-Terrain Wagon,2021,2021,2021,STATION WAGON - MID-SIZE,3.0,6,A9,9-speed automatic,Z,Premium petrol,no,yes,10.6,8.4,9.6,226,Medium
+829,Mercedes-Benz,E 450 4MATIC All-Terrain Wagon,2022,2022,2022,STATION WAGON - MID-SIZE,3.0,6,A9,9-speed automatic,Z,Premium petrol,no,yes,11.0,8.3,9.8,229,Medium
+830,Mercedes-Benz,E 450 4MATIC All-Terrain Wagon,2023,2023,2023,STATION WAGON - MID-SIZE,3.0,6,A9,9-speed automatic,Z,Premium petrol,no,yes,11.4,8.3,10.0,233,Medium
+831,Mercedes-Benz,E 450 4MATIC All-Terrain Wagon,2026,2026,2026,STATION WAGON - MID-SIZE,3.0,6,A9,9-speed automatic,Z,Premium petrol,no,yes,10.6,7.6,9.3,218,Medium
+832,Mercedes-Benz,E 450 4MATIC Cabriolet,2014–2020,2014,2020,SUBCOMPACT,3.0,6,A9,9-speed automatic,Z,Premium petrol,no,yes,12.7,10.1,11.6,271,Medium
+833,Mercedes-Benz,E 450 4MATIC Cabriolet,2021,2021,2021,SUBCOMPACT,3.0,6,A9,9-speed automatic,Z,Premium petrol,no,yes,10.4,8.0,9.3,219,Medium
+834,Mercedes-Benz,E 450 4MATIC Cabriolet,2022–2023,2022,2023,SUBCOMPACT,3.0,6,A9,9-speed automatic,Z,Premium petrol,no,yes,11.2,8.4,9.9,233,Medium
+835,Mercedes-Benz,E 450 4MATIC Coupe,2014–2020,2014,2020,SUBCOMPACT,3.0,6,A9,9-speed automatic,Z,Premium petrol,no,yes,12.5,9.1,11.0,257,Medium
+836,Mercedes-Benz,E 450 4MATIC Coupe,2021,2021,2021,SUBCOMPACT,3.0,6,A9,9-speed automatic,Z,Premium petrol,no,yes,10.3,7.9,9.3,218,Medium
+837,Mercedes-Benz,E 450 4MATIC Coupe,2022–2023,2022,2023,SUBCOMPACT,3.0,6,A9,9-speed automatic,Z,Premium petrol,no,yes,11.0,8.0,9.6,225,Medium
+838,Mercedes-Benz,E 450 4MATIC Sedan,2021,2021,2021,MID-SIZE,3.0,6,A9,9-speed automatic,Z,Premium petrol,no,yes,10.4,7.8,9.2,217,Medium
+839,Mercedes-Benz,E 450 4MATIC Sedan,2022,2022,2022,MID-SIZE,3.0,6,A9,9-speed automatic,Z,Premium petrol,no,yes,10.5,7.9,9.3,218,Medium
+840,Mercedes-Benz,E 450 4MATIC Sedan,2023,2023,2023,MID-SIZE,3.0,6,A9,9-speed automatic,Z,Premium petrol,no,yes,10.6,7.8,9.3,219,Medium
+841,Mercedes-Benz,E 450 4MATIC Sedan,2024–2026,2024,2026,MID-SIZE,3.0,6,A9,9-speed automatic,Z,Premium petrol,no,yes,10.8,7.7,9.4,221,Medium
+842,Mercedes-Benz,E 450 4MATIC Wagon,2014–2020,2014,2020,STATION WAGON - MID-SIZE,3.0,6,A9,9-speed automatic,Z,Premium petrol,no,yes,12.3,8.9,10.8,254,Medium
+843,Mercedes-Benz,E 550 4MATIC,2014–2020,2014,2020,MID-SIZE,4.7,8,AS7,7-speed automatic,Z,Premium petrol,no,yes,13.1,9.4,11.5,266,High
+844,Mercedes-Benz,E 550 CABRIOLET,2014–2020,2014,2020,SUBCOMPACT,4.7,8,AS7,7-speed automatic,Z,Premium petrol,no,no,13.7,9.2,11.7,272,High
+845,Mercedes-Benz,E 550 COUPE,2014–2020,2014,2020,SUBCOMPACT,4.7,8,AS7,7-speed automatic,Z,Premium petrol,no,no,13.4,8.9,11.4,265,High
+846,Mercedes-Benz,E 63 AMG 4MATIC,2014–2020,2014,2020,MID-SIZE,5.5,8,AS7,7-speed automatic,Z,Premium petrol,yes,yes,15.0,10.3,12.9,297,High
+847,Mercedes-Benz,E 63 AMG 4MATIC WAGON,2014–2020,2014,2020,STATION WAGON - MID-SIZE,5.5,8,AS7,7-speed automatic,Z,Premium petrol,yes,yes,15.5,11.0,13.5,310,High
+848,Mercedes-Benz,E 63 AMG S 4MATIC,2014–2020,2014,2020,MID-SIZE,5.5,8,AS7,7-speed automatic,Z,Premium petrol,yes,yes,15.2,10.6,13.1,302,High
+849,Mercedes-Benz,E 63 AMG S 4MATIC WAGON,2014–2020,2014,2020,STATION WAGON - MID-SIZE,5.5,8,AS7,7-speed automatic,Z,Premium petrol,yes,yes,15.4,11.0,13.4,308,High
+850,Mercedes-Benz,G 550,2014–2020,2014,2020,SUV - STANDARD,4.0,8,A7,7-speed automatic,Z,Premium petrol,no,no,18.2,16.5,17.5,410,High
+851,Mercedes-Benz,G 550,2014–2020,2014,2020,SUV - STANDARD,4.0,8,A9,9-speed automatic,Z,Premium petrol,no,no,18.0,14.1,16.3,378,High
+852,Mercedes-Benz,G 550,2014–2020,2014,2020,SUV - STANDARD,4.0,8,AS7,7-speed automatic,Z,Premium petrol,no,no,19.0,16.6,17.9,401,High
+853,Mercedes-Benz,G 550,2014–2020,2014,2020,SUV - STANDARD,5.5,8,AS7,7-speed automatic,Z,Premium petrol,no,no,19.6,16.2,18.1,413,High
+854,Mercedes-Benz,G 550 SUV,2021,2021,2021,SUV - STANDARD,4.0,8,A9,9-speed automatic,Z,Premium petrol,no,no,13.6,12.4,13.1,307,High
+855,Mercedes-Benz,G 550 SUV,2022,2022,2022,SUV - STANDARD,4.0,8,A9,9-speed automatic,Z,Premium petrol,no,no,16.3,13.7,15.1,354,High
+856,Mercedes-Benz,G 550 SUV,2023–2024,2023,2024,SUV - STANDARD,4.0,8,A9,9-speed automatic,Z,Premium petrol,no,no,17.9,14.4,16.3,383,High
+857,Mercedes-Benz,G 550 SUV,2025–2026,2025,2026,SUV - STANDARD,3.0,6,A9,9-speed automatic,Z,Premium petrol,no,no,13.6,12.4,13.1,305,Medium
+858,Mercedes-Benz,G 63 AMG,2014–2020,2014,2020,SUV - STANDARD,5.5,8,AS7,7-speed automatic,Z,Premium petrol,yes,no,19.7,16.2,18.1,416,High
+859,Mercedes-Benz,GL 350 BLUETEC 4MATIC,2014–2020,2014,2020,SUV - STANDARD,3.0,6,AS7,7-speed automatic,D,Diesel,no,yes,13.5,10.1,12.0,323,Medium
+860,Mercedes-Benz,GL 450 4MATIC,2014–2020,2014,2020,SUV - STANDARD,3.0,6,AS7,7-speed automatic,Z,Premium petrol,no,yes,15.2,12.6,14.0,322,High
+861,Mercedes-Benz,GL 450 4MATIC,2014–2020,2014,2020,SUV - STANDARD,4.7,8,AS7,7-speed automatic,Z,Premium petrol,no,yes,17.1,12.8,15.2,350,High
+862,Mercedes-Benz,GL 550 4MATIC,2014–2020,2014,2020,SUV - STANDARD,4.7,8,AS7,7-speed automatic,Z,Premium petrol,no,yes,17.5,13.1,15.6,361,High
+863,Mercedes-Benz,GL 63 AMG,2014–2020,2014,2020,SUV - STANDARD,5.5,8,AS7,7-speed automatic,Z,Premium petrol,yes,no,18.0,13.7,16.0,369,High
+864,Mercedes-Benz,GLA 250 4MATIC,2014–2020,2014,2020,SUV - SMALL,2.0,4,AM7,7-speed automated manual,Z,Premium petrol,no,yes,10.1,7.6,9.0,209,Low
+865,Mercedes-Benz,GLA 250 4MATIC,2014–2020,2014,2020,SUV - SMALL,2.0,4,AS7,7-speed automatic,Z,Premium petrol,no,yes,10.0,7.5,8.8,205,Low
+866,Mercedes-Benz,GLA 250 4MATIC SUV,2021,2021,2021,SUV - SMALL,2.0,4,AM8,8-speed automated manual,Z,Premium petrol,no,yes,9.8,7.2,8.7,203,Low
+867,Mercedes-Benz,GLA 250 4MATIC SUV,2022–2023,2022,2023,SUV - SMALL,2.0,4,AM8,8-speed automated manual,Z,Premium petrol,no,yes,10.3,7.3,9.0,210,Low
+868,Mercedes-Benz,GLA 250 4MATIC SUV,2024,2024,2024,SUV - SMALL,2.0,4,AM8,8-speed automated manual,Z,Premium petrol,no,yes,9.7,7.3,8.6,202,Low
+869,Mercedes-Benz,GLA 250 4MATIC SUV,2025–2026,2025,2026,SUV - SMALL,2.0,4,AM8,8-speed automated manual,Z,Premium petrol,no,yes,9.4,7.1,8.4,196,Low
+870,Mercedes-Benz,GLA 250 SUV,2026,2026,2026,STATION WAGON - SMALL,2.0,4,AM8,8-speed automated manual,Z,Premium petrol,no,no,9.2,6.9,8.2,190,Low
+871,Mercedes-Benz,GLA 45 AMG 4MATIC,2014–2020,2014,2020,STATION WAGON - MID-SIZE,2.0,4,AS7,7-speed automatic,Z,Premium petrol,yes,yes,10.5,8.1,9.4,216,Low
+872,Mercedes-Benz,GLB 250 4MATIC SUV,2021,2021,2021,SUV - SMALL,2.0,4,AM8,8-speed automated manual,Z,Premium petrol,no,yes,10.3,7.8,9.2,216,Low
+873,Mercedes-Benz,GLB 250 4MATIC SUV,2022,2022,2022,SUV - SMALL,2.0,4,AM8,8-speed automated manual,Z,Premium petrol,no,yes,10.9,7.9,9.5,224,Low
+874,Mercedes-Benz,GLB 250 4MATIC SUV,2023,2023,2023,SUV - SMALL,2.0,4,AM8,8-speed automated manual,Z,Premium petrol,no,yes,10.7,7.9,9.4,221,Low
+875,Mercedes-Benz,GLB 250 4MATIC SUV,2024,2024,2024,SUV - SMALL,2.0,4,AM8,8-speed automated manual,Z,Premium petrol,no,yes,9.9,7.4,8.7,205,Low
+876,Mercedes-Benz,GLB 250 4MATIC SUV,2025–2026,2025,2026,SUV - SMALL,2.0,4,AM8,8-speed automated manual,Z,Premium petrol,no,yes,9.8,7.2,8.6,201,Low
+877,Mercedes-Benz,GLB 250 SUV,2026,2026,2026,STATION WAGON - SMALL,2.0,4,AM8,8-speed automated manual,Z,Premium petrol,no,no,9.3,7.0,8.3,193,Low
+878,Mercedes-Benz,GLC 300 4MATIC,2014–2020,2014,2020,SUV - SMALL,2.0,4,A9,9-speed automatic,Z,Premium petrol,no,yes,11.1,8.6,10.0,236,Low
+879,Mercedes-Benz,GLC 300 4MATIC Coupe,2014–2020,2014,2020,SUV - SMALL,2.0,4,A9,9-speed automatic,Z,Premium petrol,no,yes,10.9,8.8,10.0,234,Low
+880,Mercedes-Benz,GLC 300 4MATIC Coupe,2021,2021,2021,SUV - SMALL,2.0,4,A9,9-speed automatic,Z,Premium petrol,no,yes,10.6,8.4,9.6,226,Low
+881,Mercedes-Benz,GLC 300 4MATIC Coupe,2022,2022,2022,SUV - SMALL,2.0,4,A9,9-speed automatic,Z,Premium petrol,no,yes,11.5,8.5,10.1,237,Low
+882,Mercedes-Benz,GLC 300 4MATIC Coupe,2023,2023,2023,SUV - SMALL,2.0,4,A9,9-speed automatic,Z,Premium petrol,no,yes,12.2,9.2,10.9,253,Low
+883,Mercedes-Benz,GLC 300 4MATIC Coupe,2024,2024,2024,SUV - SMALL,2.0,4,A9,9-speed automatic,Z,Premium petrol,no,yes,10.0,7.8,9.0,212,Low
+884,Mercedes-Benz,GLC 300 4MATIC Coupe,2025–2026,2025,2026,SUV - SMALL,2.0,4,A9,9-speed automatic,Z,Premium petrol,no,yes,10.1,7.7,9.0,210,Low
+885,Mercedes-Benz,GLC 300 4MATIC SUV,2021,2021,2021,SUV - SMALL,2.0,4,A9,9-speed automatic,Z,Premium petrol,no,yes,11.3,8.5,10.0,235,Low
+886,Mercedes-Benz,GLC 300 4MATIC SUV,2022,2022,2022,SUV - SMALL,2.0,4,A9,9-speed automatic,Z,Premium petrol,no,yes,11.5,9.1,10.4,242,Low
+887,Mercedes-Benz,GLC 300 4MATIC SUV,2023,2023,2023,SUV - SMALL,2.0,4,A9,9-speed automatic,Z,Premium petrol,no,yes,10.4,9.1,9.8,229,Low
+888,Mercedes-Benz,GLC 300 4MATIC SUV,2024,2024,2024,SUV - SMALL,2.0,4,A9,9-speed automatic,Z,Premium petrol,no,yes,10.0,7.8,9.0,212,Low
+889,Mercedes-Benz,GLC 300 4MATIC SUV,2025,2025,2025,SUV - SMALL,2.0,4,A9,9-speed automatic,Z,Premium petrol,no,yes,10.0,7.6,8.9,210,Low
+890,Mercedes-Benz,GLC 300 4MATIC SUV,2026,2026,2026,SUV - SMALL,2.0,4,A9,9-speed automatic,Z,Premium petrol,no,yes,9.9,7.7,8.9,208,Low
+891,Mercedes-Benz,GLE 350 4MATIC SUV,2021,2021,2021,SUV - STANDARD,2.0,4,A9,9-speed automatic,Z,Premium petrol,no,yes,12.4,9.0,10.8,254,Low
+892,Mercedes-Benz,GLE 350 4MATIC SUV,2022,2022,2022,SUV - STANDARD,2.0,4,A9,9-speed automatic,Z,Premium petrol,no,yes,12.1,8.9,10.7,250,Low
+893,Mercedes-Benz,GLE 350 4MATIC SUV,2023,2023,2023,SUV - STANDARD,2.0,4,A9,9-speed automatic,Z,Premium petrol,no,yes,12.1,9.6,11.0,257,Low
+894,Mercedes-Benz,GLE 350 4MATIC SUV,2024,2024,2024,SUV - STANDARD,2.0,4,A9,9-speed automatic,Z,Premium petrol,no,yes,11.5,8.6,10.2,238,Low
+895,Mercedes-Benz,GLE 350 4MATIC SUV,2025–2026,2025,2026,SUV - STANDARD,2.0,4,A9,9-speed automatic,Z,Premium petrol,no,yes,12.2,9.2,10.8,255,Low
+896,Mercedes-Benz,GLE 350d 4MATIC,2014–2020,2014,2020,SUV - STANDARD,3.0,6,A9,9-speed automatic,D,Diesel,no,yes,10.1,8.0,9.2,246,Medium
+897,Mercedes-Benz,GLE 350d 4MATIC COUPE,2014–2020,2014,2020,SUV - STANDARD,3.0,6,A9,9-speed automatic,D,Diesel,no,yes,10.4,8.2,9.4,253,Medium
+898,Mercedes-Benz,GLE 400 4MATIC,2014–2020,2014,2020,SUV - STANDARD,3.0,6,A9,9-speed automatic,Z,Premium petrol,no,yes,13.4,10.2,12.0,280,Medium
+899,Mercedes-Benz,GLE 400 4MATIC,2014–2020,2014,2020,SUV - STANDARD,3.0,6,AS7,7-speed automatic,Z,Premium petrol,no,yes,13.3,10.4,12.0,282,Medium
+900,Mercedes-Benz,GLE 450 4MATIC Coupe,2022–2023,2022,2023,SUV - STANDARD,3.0,6,A9,9-speed automatic,Z,Premium petrol,no,yes,11.7,9.2,10.5,247,Medium
+901,Mercedes-Benz,GLE 450 4MATIC Coupe,2024,2024,2024,SUV - STANDARD,3.0,6,A9,9-speed automatic,Z,Premium petrol,no,yes,12.2,9.0,10.8,252,Medium
+902,Mercedes-Benz,GLE 450 4MATIC Coupe,2025–2026,2025,2026,SUV - STANDARD,3.0,6,A9,9-speed automatic,Z,Premium petrol,no,yes,12.5,9.6,11.2,264,Medium
+903,Mercedes-Benz,GLE 450 4MATIC SUV,2021,2021,2021,SUV - STANDARD,3.0,6,A9,9-speed automatic,Z,Premium petrol,no,yes,11.4,9.2,10.4,244,Medium
+904,Mercedes-Benz,GLE 450 4MATIC SUV,2022,2022,2022,SUV - STANDARD,3.0,6,A9,9-speed automatic,Z,Premium petrol,no,yes,11.4,9.3,10.4,244,Medium
+905,Mercedes-Benz,GLE 450 4MATIC SUV,2023,2023,2023,SUV - STANDARD,3.0,6,A9,9-speed automatic,Z,Premium petrol,no,yes,11.5,9.3,10.5,245,Medium
+906,Mercedes-Benz,GLE 450 4MATIC SUV,2024,2024,2024,SUV - STANDARD,3.0,6,A9,9-speed automatic,Z,Premium petrol,no,yes,12.1,9.2,10.8,252,Medium
+907,Mercedes-Benz,GLE 450 4MATIC SUV,2025–2026,2025,2026,SUV - STANDARD,3.0,6,A9,9-speed automatic,Z,Premium petrol,no,yes,12.5,9.6,11.2,264,Medium
+908,Mercedes-Benz,GLE 450 AMG SPORT 4MATIC COUPE,2014–2020,2014,2020,SUV - STANDARD,3.0,6,A9,9-speed automatic,Z,Premium petrol,yes,yes,13.6,10.2,12.0,281,Medium
+909,Mercedes-Benz,GLE 550 4MATIC,2014–2020,2014,2020,SUV - STANDARD,4.7,8,A9,9-speed automatic,Z,Premium petrol,no,yes,15.2,11.4,13.5,318,High
+910,Mercedes-Benz,GLE 550 4MATIC,2014–2020,2014,2020,SUV - STANDARD,4.7,8,AS7,7-speed automatic,Z,Premium petrol,no,yes,16.2,11.8,14.2,335,High
+911,Mercedes-Benz,GLE 580 4MATIC SUV,2026,2026,2026,SUV - STANDARD,4.0,8,A9,9-speed automatic,Z,Premium petrol,no,yes,15.2,11.2,13.4,314,High
+912,Mercedes-Benz,GLK 250 BLUETEC 4MATIC,2014–2020,2014,2020,SUV - SMALL,2.1,4,AS7,7-speed automatic,D,Diesel,no,yes,9.6,7.0,8.5,230,Low
+913,Mercedes-Benz,GLK 350 4MATIC,2014–2020,2014,2020,SUV - SMALL,3.5,6,AS7,7-speed automatic,Z,Premium petrol,no,yes,12.6,9.6,11.2,259,Medium
+914,Mercedes-Benz,GLS 450 4MATIC,2014–2020,2014,2020,SUV - STANDARD,3.0,6,A9,9-speed automatic,Z,Premium petrol,no,yes,14.5,11.3,13.1,308,Medium
+915,Mercedes-Benz,GLS 450 4MATIC SUV,2021,2021,2021,SUV - STANDARD,3.0,6,A9,9-speed automatic,Z,Premium petrol,no,yes,12.0,9.8,11.0,257,Medium
+916,Mercedes-Benz,GLS 450 4MATIC SUV,2022,2022,2022,SUV - STANDARD,3.0,6,A9,9-speed automatic,Z,Premium petrol,no,yes,12.8,10.0,11.5,269,Medium
+917,Mercedes-Benz,GLS 450 4MATIC SUV,2023,2023,2023,SUV - STANDARD,3.0,6,A9,9-speed automatic,Z,Premium petrol,no,yes,12.7,10.1,11.6,270,Medium
+918,Mercedes-Benz,GLS 450 4MATIC SUV,2024–2026,2024,2026,SUV - STANDARD,3.0,6,A9,9-speed automatic,Z,Premium petrol,no,yes,12.7,9.6,11.3,266,Medium
+919,Mercedes-Benz,GLS 550 4MATIC,2014–2020,2014,2020,SUV - STANDARD,4.7,8,A9,9-speed automatic,Z,Premium petrol,no,yes,16.8,12.7,14.9,349,High
+920,Mercedes-Benz,GLS 580 4MATIC SUV,2021,2021,2021,SUV - STANDARD,4.0,8,A9,9-speed automatic,Z,Premium petrol,no,yes,14.5,11.2,13.0,305,High
+921,Mercedes-Benz,GLS 580 4MATIC SUV,2023,2023,2023,SUV - STANDARD,4.0,8,A9,9-speed automatic,Z,Premium petrol,no,yes,14.9,11.2,13.2,310,High
+922,Mercedes-Benz,GLS 580 4MATIC SUV,2024,2024,2024,SUV - STANDARD,4.0,8,A9,9-speed automatic,Z,Premium petrol,no,yes,16.8,11.9,14.6,344,High
+923,Mercedes-Benz,GLS 580 4MATIC SUV,2025,2025,2025,SUV - STANDARD,4.0,8,A9,9-speed automatic,Z,Premium petrol,no,yes,16.6,12.1,14.6,340,High
+924,Mercedes-Benz,GLS 580 4MATIC SUV,2026,2026,2026,SUV - STANDARD,4.0,8,A9,9-speed automatic,Z,Premium petrol,no,yes,16.6,11.5,14.3,335,High
+925,Mercedes-Benz,GLS 600 4MATIC Maybach SUV,2022,2022,2022,SUV - STANDARD,4.0,8,A9,9-speed automatic,Z,Premium petrol,yes,yes,16.3,12.2,14.4,338,High
+926,Mercedes-Benz,GLS 600 4MATIC Maybach SUV,2023,2023,2023,SUV - STANDARD,4.0,8,A9,9-speed automatic,Z,Premium petrol,yes,yes,16.8,12.4,14.8,346,High
+927,Mercedes-Benz,GLS 600 4MATIC Maybach SUV,2024,2024,2024,SUV - STANDARD,4.0,8,A9,9-speed automatic,Z,Premium petrol,yes,yes,17.8,12.8,15.6,364,High
+928,Mercedes-Benz,GLS 600 4MATIC Maybach SUV,2025,2025,2025,SUV - STANDARD,4.0,8,A9,9-speed automatic,Z,Premium petrol,yes,yes,17.9,12.9,15.6,365,High
+929,Mercedes-Benz,MAYBACH S 600,2014–2020,2014,2020,FULL-SIZE,6.0,12,AS7,7-speed automatic,Z,Premium petrol,yes,no,18.2,11.4,15.2,359,High
+930,Mercedes-Benz,METRIS CARGO,2014–2020,2014,2020,SPECIAL PURPOSE VEHICLE,2.0,4,A7,7-speed automatic,Z,Premium petrol,no,no,11.5,9.8,10.7,251,Low
+931,Mercedes-Benz,METRIS CARGO,2014–2020,2014,2020,SPECIAL PURPOSE VEHICLE,2.0,4,AS7,7-speed automatic,Z,Premium petrol,no,no,11.0,9.3,10.2,236,Low
+932,Mercedes-Benz,METRIS PASSENGER,2014–2020,2014,2020,SPECIAL PURPOSE VEHICLE,2.0,4,A7,7-speed automatic,Z,Premium petrol,no,no,12.3,10.3,11.4,268,Low
+933,Mercedes-Benz,METRIS PASSENGER,2014–2020,2014,2020,SPECIAL PURPOSE VEHICLE,2.0,4,AS7,7-speed automatic,Z,Premium petrol,no,no,11.5,9.8,10.7,248,Low
+934,Mercedes-Benz,ML 350 4MATIC FFV,2014–2020,2014,2020,SUV - STANDARD,3.5,6,AS7,7-speed automatic,E,Ethanol (E85),no,yes,17.8,13.8,16.0,256,High
+935,Mercedes-Benz,ML 350 4MATIC FFV,2014–2020,2014,2020,SUV - STANDARD,3.5,6,AS7,7-speed automatic,Z,Premium petrol,no,yes,13.4,10.5,12.1,278,Medium
+936,Mercedes-Benz,ML 350 BLUETEC 4MATIC,2014–2020,2014,2020,SUV - STANDARD,3.0,6,AS7,7-speed automatic,D,Diesel,no,yes,11.8,8.5,10.3,278,Medium
+937,Mercedes-Benz,ML 400 4MATIC,2014–2020,2014,2020,SUV - STANDARD,3.0,6,AS7,7-speed automatic,Z,Premium petrol,no,yes,13.3,10.4,12.0,276,Medium
+938,Mercedes-Benz,ML 550 4MATIC,2014–2020,2014,2020,SUV - STANDARD,4.7,8,AS7,7-speed automatic,Z,Premium petrol,no,yes,16.2,11.8,14.2,327,High
+939,Mercedes-Benz,ML 63 AMG 4MATIC,2014–2020,2014,2020,SUV - STANDARD,5.5,8,AS7,7-speed automatic,Z,Premium petrol,yes,yes,17.2,13.5,15.6,358,High
+940,Mercedes-Benz,Maybach AMG SL 680 4MATIC Roadster,2026,2026,2026,TWO-SEATER,4.0,8,A9,9-speed automatic,Z,Premium petrol,yes,yes,17.0,11.3,14.5,347,High
+941,Mercedes-Benz,Maybach GLS 600 4MATIC SUV,2021,2021,2021,SUV - STANDARD,4.0,8,A9,9-speed automatic,Z,Premium petrol,yes,yes,16.6,12.5,14.8,346,High
+942,Mercedes-Benz,Maybach GLS 600 4MATIC SUV,2026,2026,2026,SUV - STANDARD,4.0,8,A9,9-speed automatic,Z,Premium petrol,yes,yes,17.7,12.9,15.6,364,High
+943,Mercedes-Benz,Maybach S 560 4MATIC,2014–2020,2014,2020,FULL-SIZE,4.0,8,A9,9-speed automatic,Z,Premium petrol,yes,yes,14.4,9.5,12.2,286,High
+944,Mercedes-Benz,Maybach S 580 4MATIC Sedan,2021,2021,2021,FULL-SIZE,4.0,8,A9,9-speed automatic,Z,Premium petrol,yes,yes,15.5,9.8,12.9,301,High
+945,Mercedes-Benz,Maybach S 580 4MATIC Sedan,2022,2022,2022,FULL-SIZE,4.0,8,A9,9-speed automatic,Z,Premium petrol,yes,yes,15.2,9.9,12.9,301,High
+946,Mercedes-Benz,Maybach S 580 4MATIC Sedan,2023,2023,2023,FULL-SIZE,4.0,8,A9,9-speed automatic,Z,Premium petrol,yes,yes,15.9,9.6,13.0,305,High
+947,Mercedes-Benz,Maybach S 580 4MATIC Sedan,2024,2024,2024,FULL-SIZE,4.0,8,A9,9-speed automatic,Z,Premium petrol,yes,yes,13.3,8.9,11.3,266,Medium
+948,Mercedes-Benz,Maybach S 580 4MATIC Sedan,2025–2026,2025,2026,FULL-SIZE,4.0,8,A9,9-speed automatic,Z,Premium petrol,yes,yes,14.6,8.8,12.0,280,High
+949,Mercedes-Benz,Maybach S 650,2014–2020,2014,2020,FULL-SIZE,6.0,12,A7,7-speed automatic,Z,Premium petrol,yes,no,18.4,11.1,15.1,355,High
+950,Mercedes-Benz,Maybach S 650,2014–2020,2014,2020,FULL-SIZE,6.0,12,A9,9-speed automatic,Z,Premium petrol,yes,no,18.4,11.1,15.1,355,High
+951,Mercedes-Benz,Maybach S 680 4MATIC Sedan,2022,2022,2022,FULL-SIZE,6.0,12,A9,9-speed automatic,Z,Premium petrol,yes,yes,19.4,11.2,15.7,369,High
+952,Mercedes-Benz,Maybach S 680 4MATIC Sedan,2023,2023,2023,FULL-SIZE,6.0,12,A9,9-speed automatic,Z,Premium petrol,yes,yes,20.5,11.5,16.4,384,High
+953,Mercedes-Benz,Maybach S 680 4MATIC Sedan,2024,2024,2024,FULL-SIZE,6.0,12,A9,9-speed automatic,Z,Premium petrol,yes,yes,19.8,11.7,16.1,379,High
+954,Mercedes-Benz,Maybach S 680 4MATIC Sedan,2025–2026,2025,2026,FULL-SIZE,6.0,12,A9,9-speed automatic,Z,Premium petrol,yes,yes,19.8,11.6,16.1,375,High
+955,Mercedes-Benz,Metris Cargo LWB,2014–2020,2014,2020,SPECIAL PURPOSE VEHICLE,2.0,4,A7,7-speed automatic,Z,Premium petrol,no,no,11.3,9.6,10.5,248,Low
+956,Mercedes-Benz,Metris Cargo Van,2021,2021,2021,SPECIAL PURPOSE VEHICLE,2.0,4,A9,9-speed automatic,Z,Premium petrol,no,no,12.6,10.0,11.5,268,Low
+957,Mercedes-Benz,Metris Cargo Van,2022,2022,2022,SPECIAL PURPOSE VEHICLE,2.0,4,A9,9-speed automatic,Z,Premium petrol,no,no,12.6,10.1,11.5,267,Low
+958,Mercedes-Benz,Metris Cargo Van,2023,2023,2023,SPECIAL PURPOSE VEHICLE,2.0,4,A9,9-speed automatic,Z,Premium petrol,no,no,12.6,10.4,11.6,271,Low
+959,Mercedes-Benz,Metris Cargo Van LWB,2021,2021,2021,SPECIAL PURPOSE VEHICLE,2.0,4,A9,9-speed automatic,Z,Premium petrol,no,no,12.6,10.0,11.5,268,Low
+960,Mercedes-Benz,Metris Cargo Van LWB,2022,2022,2022,SPECIAL PURPOSE VEHICLE,2.0,4,A9,9-speed automatic,Z,Premium petrol,no,no,12.6,10.1,11.5,267,Low
+961,Mercedes-Benz,Metris Cargo Van LWB,2023,2023,2023,SPECIAL PURPOSE VEHICLE,2.0,4,A9,9-speed automatic,Z,Premium petrol,no,no,12.6,10.4,11.6,271,Low
+962,Mercedes-Benz,Metris Passenger Van,2021,2021,2021,SPECIAL PURPOSE VEHICLE,2.0,4,A9,9-speed automatic,Z,Premium petrol,no,no,13.3,10.8,12.2,284,Medium
+963,Mercedes-Benz,Metris Passenger Van,2022,2022,2022,SPECIAL PURPOSE VEHICLE,2.0,4,A9,9-speed automatic,Z,Premium petrol,no,no,13.3,10.6,12.1,282,Medium
+964,Mercedes-Benz,Metris Passenger Van,2023,2023,2023,SPECIAL PURPOSE VEHICLE,2.0,4,A9,9-speed automatic,Z,Premium petrol,no,no,13.4,10.8,12.3,285,Medium
+965,Mercedes-Benz,S 400 4MATIC,2014–2020,2014,2020,MID-SIZE,4.7,6,AS7,7-speed automatic,Z,Premium petrol,no,yes,12.6,8.6,10.8,248,Medium
+966,Mercedes-Benz,S 400 4MATIC SWB,2014–2020,2014,2020,MID-SIZE,3.0,6,AS7,7-speed automatic,Z,Premium petrol,no,yes,12.6,8.6,10.8,253,Medium
+967,Mercedes-Benz,S 450 4MATIC SWB,2014–2020,2014,2020,MID-SIZE,3.0,6,A9,9-speed automatic,Z,Premium petrol,no,yes,12.8,8.5,10.8,254,Medium
+968,Mercedes-Benz,S 500 4MATIC SWB Sedan,2021,2021,2021,FULL-SIZE,3.0,6,A9,9-speed automatic,Z,Premium petrol,no,yes,11.3,8.0,9.8,230,Medium
+969,Mercedes-Benz,S 500 4MATIC SWB Sedan,2022,2022,2022,FULL-SIZE,3.0,6,A9,9-speed automatic,Z,Premium petrol,no,yes,11.4,8.0,9.9,231,Medium
+970,Mercedes-Benz,S 500 4MATIC Sedan,2023,2023,2023,FULL-SIZE,3.0,6,A9,9-speed automatic,Z,Premium petrol,no,yes,12.0,8.4,10.4,242,Medium
+971,Mercedes-Benz,S 500 4MATIC Sedan,2024,2024,2024,FULL-SIZE,3.0,6,A9,9-speed automatic,Z,Premium petrol,no,yes,11.3,7.7,9.7,226,Medium
+972,Mercedes-Benz,S 500 4MATIC Sedan,2025,2025,2025,FULL-SIZE,3.0,6,A9,9-speed automatic,Z,Premium petrol,no,yes,11.2,7.7,9.6,226,Medium
+973,Mercedes-Benz,S 500 4MATIC Sedan,2026,2026,2026,FULL-SIZE,3.0,6,A9,9-speed automatic,Z,Premium petrol,no,yes,11.6,8.2,10.1,236,Medium
+974,Mercedes-Benz,S 550 4MATIC CABRIOLET,2014–2020,2014,2020,COMPACT,4.7,8,A9,9-speed automatic,Z,Premium petrol,no,yes,13.9,9.3,11.8,276,High
+975,Mercedes-Benz,S 550 4MATIC COUPE,2014–2020,2014,2020,COMPACT,4.7,8,A9,9-speed automatic,Z,Premium petrol,no,yes,14.1,9.3,11.9,278,High
+976,Mercedes-Benz,S 550 4MATIC COUPE,2014–2020,2014,2020,COMPACT,4.7,8,AS7,7-speed automatic,Z,Premium petrol,no,yes,14.4,9.8,12.3,286,High
+977,Mercedes-Benz,S 550 4MATIC LWB,2014–2020,2014,2020,FULL-SIZE,4.7,8,A9,9-speed automatic,Z,Premium petrol,no,yes,14.3,9.2,12.0,280,High
+978,Mercedes-Benz,S 550 4MATIC LWB,2014–2020,2014,2020,FULL-SIZE,4.7,8,AS7,7-speed automatic,Z,Premium petrol,no,yes,14.6,9.7,12.4,284,High
+979,Mercedes-Benz,S 550 4MATIC SWB,2014–2020,2014,2020,MID-SIZE,4.7,8,A9,9-speed automatic,Z,Premium petrol,no,yes,14.3,9.2,12.0,280,High
+980,Mercedes-Benz,S 550 4MATIC SWB,2014–2020,2014,2020,FULL-SIZE,4.7,8,AS7,7-speed automatic,Z,Premium petrol,no,yes,14.2,9.4,12.0,276,High
+981,Mercedes-Benz,S 550 4MATIC SWB,2014–2020,2014,2020,MID-SIZE,4.7,8,AS7,7-speed automatic,Z,Premium petrol,no,yes,14.7,9.1,12.2,288,High
+982,Mercedes-Benz,S 560 4MATIC,2014–2020,2014,2020,FULL-SIZE,4.0,8,A9,9-speed automatic,Z,Premium petrol,no,yes,13.5,8.6,11.3,265,Medium
+983,Mercedes-Benz,S 560 4MATIC COUPE,2014–2020,2014,2020,COMPACT,4.0,8,A9,9-speed automatic,Z,Premium petrol,no,yes,13.6,8.8,11.4,269,Medium
+984,Mercedes-Benz,S 560 4MATIC COUPE,2021,2021,2021,COMPACT,4.0,8,A9,9-speed automatic,Z,Premium petrol,no,yes,14.5,9.0,12.0,282,High
+985,Mercedes-Benz,S 560 4MATIC SWB,2014–2020,2014,2020,MID-SIZE,4.0,8,A9,9-speed automatic,Z,Premium petrol,no,yes,13.4,8.7,11.3,264,Medium
+986,Mercedes-Benz,S 560 Cabriolet,2014–2020,2014,2020,SUBCOMPACT,4.0,8,A9,9-speed automatic,Z,Premium petrol,no,no,13.8,9.2,11.8,276,High
+987,Mercedes-Benz,S 560 Cabriolet,2021,2021,2021,SUBCOMPACT,4.0,8,A9,9-speed automatic,Z,Premium petrol,no,no,14.5,9.0,12.0,282,High
+988,Mercedes-Benz,S 580 4MATIC LWB Sedan,2021,2021,2021,FULL-SIZE,4.0,8,A9,9-speed automatic,Z,Premium petrol,no,yes,14.4,9.4,12.2,285,High
+989,Mercedes-Benz,S 580 4MATIC LWB Sedan,2022,2022,2022,FULL-SIZE,4.0,8,A9,9-speed automatic,Z,Premium petrol,no,yes,14.3,9.5,12.2,285,High
+990,Mercedes-Benz,S 580 4MATIC Sedan,2023,2023,2023,FULL-SIZE,4.0,8,A9,9-speed automatic,Z,Premium petrol,no,yes,14.3,9.5,12.2,285,High
+991,Mercedes-Benz,S 580 4MATIC Sedan,2024,2024,2024,FULL-SIZE,4.0,8,A9,9-speed automatic,Z,Premium petrol,no,yes,13.0,8.6,11.0,260,Medium
+992,Mercedes-Benz,S 580 4MATIC Sedan,2025,2025,2025,FULL-SIZE,4.0,8,A9,9-speed automatic,Z,Premium petrol,no,yes,14.1,9.4,12.0,278,High
+993,Mercedes-Benz,S 600,2014–2020,2014,2020,FULL-SIZE,6.0,12,AS7,7-speed automatic,Z,Premium petrol,no,no,17.6,10.9,14.6,344,High
+994,Mercedes-Benz,S 63 AMG 4MATIC,2014–2020,2014,2020,FULL-SIZE,5.5,8,AS7,7-speed automatic,Z,Premium petrol,yes,yes,15.6,10.2,13.2,304,High
+995,Mercedes-Benz,S 63 AMG COUPE,2014–2020,2014,2020,COMPACT,5.5,8,AS7,7-speed automatic,Z,Premium petrol,yes,no,15.7,10.1,13.2,304,High
+996,Mercedes-Benz,S 65 AMG,2014–2020,2014,2020,FULL-SIZE,6.0,12,AS7,7-speed automatic,Z,Premium petrol,yes,no,18.5,11.8,15.5,357,High
+997,Mercedes-Benz,S 65 AMG COUPE,2014–2020,2014,2020,COMPACT,6.0,12,AS7,7-speed automatic,Z,Premium petrol,yes,no,18.0,11.3,15.0,345,High
+998,Mercedes-Benz,SL 450,2014–2020,2014,2020,TWO-SEATER,3.0,6,A9,9-speed automatic,Z,Premium petrol,no,no,11.6,8.5,10.2,239,Medium
+999,Mercedes-Benz,SL 550,2014–2020,2014,2020,TWO-SEATER,4.7,8,A9,9-speed automatic,Z,Premium petrol,no,no,13.5,9.4,11.7,272,High
+1000,Mercedes-Benz,SL 550,2014–2020,2014,2020,TWO-SEATER,4.7,8,AS7,7-speed automatic,Z,Premium petrol,no,no,13.9,9.6,12.0,277,High
+1001,Mercedes-Benz,SL 63 AMG,2014–2020,2014,2020,TWO-SEATER,5.5,8,AS7,7-speed automatic,Z,Premium petrol,yes,no,14.8,9.8,12.6,288,High
+1002,Mercedes-Benz,SL 65 AMG,2014–2020,2014,2020,TWO-SEATER,6.0,8,AS7,7-speed automatic,Z,Premium petrol,yes,no,16.7,11.2,14.2,327,High
+1003,Mercedes-Benz,SL 65 AMG,2014–2020,2014,2020,TWO-SEATER,6.0,12,AS7,7-speed automatic,Z,Premium petrol,yes,no,16.7,11.2,14.2,327,High
+1004,Mercedes-Benz,SLC 300,2014–2020,2014,2020,TWO-SEATER,2.0,4,A9,9-speed automatic,Z,Premium petrol,no,no,9.8,7.3,8.7,203,Low
+1005,Mercedes-Benz,SLK 250,2014–2020,2014,2020,TWO-SEATER,1.8,4,AS7,7-speed automatic,Z,Premium petrol,no,no,10.4,7.2,9.0,206,Low
+1006,Mercedes-Benz,SLK 250,2014–2020,2014,2020,TWO-SEATER,1.8,4,M6,6-speed manual,Z,Premium petrol,no,no,10.4,7.2,9.0,207,Low
+1007,Mercedes-Benz,SLK 300,2014–2020,2014,2020,TWO-SEATER,2.0,4,A9,9-speed automatic,Z,Premium petrol,no,no,9.6,7.3,8.5,199,Low
+1008,Mercedes-Benz,SLK 350,2014–2020,2014,2020,TWO-SEATER,3.5,6,AS7,7-speed automatic,Z,Premium petrol,no,no,11.1,8.1,9.8,226,Medium
+1009,Mercedes-Benz,SLK 55 AMG,2014–2020,2014,2020,TWO-SEATER,5.5,8,AS7,7-speed automatic,Z,Premium petrol,yes,no,12.4,8.6,10.6,245,High
+1010,Mercedes-Benz,SLS AMG BLACK SERIES COUPE,2014–2020,2014,2020,TWO-SEATER,6.2,8,AS7,7-speed automatic,Z,Premium petrol,yes,no,18.7,13.9,16.5,380,High
+1011,Mercedes-Benz,SLS AMG GT COUPE,2014–2020,2014,2020,TWO-SEATER,6.2,8,AM7,7-speed automated manual,Z,Premium petrol,yes,no,18.1,12.6,15.6,359,High
+1012,Mercedes-Benz,SLS AMG GT COUPE,2014–2020,2014,2020,TWO-SEATER,6.2,8,AS7,7-speed automatic,Z,Premium petrol,yes,no,18.2,12.6,15.7,361,High
+1013,Mercedes-Benz,SLS AMG GT ROADSTER,2014–2020,2014,2020,TWO-SEATER,6.2,8,AM7,7-speed automated manual,Z,Premium petrol,yes,no,18.1,12.6,15.6,359,High
+1014,Mercedes-Benz,SLS AMG ROADSTER,2014–2020,2014,2020,TWO-SEATER,6.2,8,AS7,7-speed automatic,Z,Premium petrol,yes,no,18.2,12.6,15.7,361,High

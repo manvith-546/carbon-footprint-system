@@ -1,0 +1,7 @@
+key,value,unit,source
+grid_india,0.727,kg CO2 per kWh,"Central Electricity Authority (CEA), CO2 Baseline Database for the Indian Power Sector v20.0: weighted average emission factor including renewable energy, FY 2023-24 (0.727 tCO2/MWh)"
+bus,0.10,kg CO2e per passenger-km,"Approximate - order of UK DEFRA conversion factors for local bus. Used only for the 'move some trips to bus or metro' tip."
+eco_driving,0.10,share of fuel saved,"Approximate - smooth driving, correct tyre pressure and no idling"
+tree_per_year,22,kg CO2 absorbed by one mature tree in a year,"Arbor Day Foundation (via USDA): a mature tree absorbs more than 48 lb (about 22 kg) of CO2 a year; real trees range from about 10 to 40 kg"
+india_per_capita,2200,kg CO2 per person per year,"Global Carbon Budget via Our World in Data: CO2 emissions per person in India were about 2.2 tonnes (2.19 t in 2025, territorial emissions)"
+lpg_cylinder,42.4,kg CO2 per 14.2 kg domestic LPG cylinder,"IPCC 2006 Guidelines default for LPG: 63.1 t CO2 per TJ x 47.3 TJ per thousand tonnes = 2.985 kg CO2 per kg, x 14.2 kg"

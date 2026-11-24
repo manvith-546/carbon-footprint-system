@@ -1,0 +1,11 @@
+{
+  "java.project.sourcePaths": ["java"],
+  "java.project.outputPath": "java/out",
+  "java.project.referencedLibraries": [],
+  "python.terminal.activateEnvironment": true,
+  "liveServer.settings.root": "/web",
+  "files.exclude": {
+    "**/__pycache__": true,
+    "java/out": true
+  }
+}

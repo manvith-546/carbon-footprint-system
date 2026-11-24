@@ -1,0 +1,627 @@
+Model year,Make,Model,Vehicle class,Engine size (L),Cylinders,Transmission,Fuel type,City (L/100 km),Highway (L/100 km),Combined (L/100 km),Combined (mpg),CO2 emissions (g/km),CO2 rating,Smog rating
+2021,BMW,228i xDrive Gran Coupe,Compact,2.0,4,AS8,Z,10.2,7.2,8.8,32,206,6,7
+2021,BMW,230i xDrive Cabriolet,Subcompact,2.0,4,AS8,Z,11.2,7.7,9.6,29,225,5,7
+2021,BMW,230i xDrive Coupe,Subcompact,2.0,4,AS8,Z,11.2,7.7,9.6,29,225,5,7
+2021,BMW,330i xDrive Sedan,Compact,2.0,4,AS8,Z,9.5,6.9,8.3,34,195,6,7
+2021,BMW,430i xDrive Coupe,Subcompact,2.0,4,AS8,Z,10.0,7.1,8.7,32,202,6,7
+2021,BMW,530i xDrive Sedan,Mid-size,2.0,4,AS8,Z,10.1,7.5,8.9,32,206,6,7
+2021,BMW,540i xDrive Sedan,Full-size,3.0,6,AS8,Z,10.3,7.6,9.1,31,211,5,5
+2021,BMW,750i xDrive Sedan,Full-size,4.4,8,AS8,Z,14.0,9.7,12.0,24,281,4,3
+2021,BMW,750Li xDrive Sedan,Full-size,4.4,8,AS8,Z,14.0,9.7,12.0,24,281,4,3
+2021,BMW,Alpina B7 xDrive,Full-size,4.4,8,AS8,Z,14.0,9.7,12.0,24,281,4,3
+2021,BMW,Alpina XB7,Sport utility vehicle: Standard,4.4,8,AS8,Z,15.7,11.5,13.8,20,321,3,3
+2021,BMW,M2 Competition,Subcompact,3.0,6,AM7,Z,14.3,10.4,12.6,22,293,3,3
+2021,BMW,M2 Competition,Subcompact,3.0,6,M6,Z,13.4,9.6,11.7,24,273,4,3
+2021,BMW,M235i xDrive Gran Coupe,Compact,2.0,4,AS8,Z,10.4,7.7,9.2,31,213,5,7
+2021,BMW,M240i xDrive Cabriolet,Subcompact,3.0,6,AS8,Z,11.3,7.9,9.8,29,228,5,3
+2021,BMW,M240i xDrive Coupe,Subcompact,3.0,6,AS8,Z,11.3,7.9,9.8,29,228,5,3
+2021,BMW,M340i xDrive Sedan,Compact,3.0,6,AS8,Z,10.5,7.7,9.2,31,214,5,5
+2021,BMW,M440i xDrive Coupe,Subcompact,3.0,6,AS8,Z,10.5,7.7,9.2,31,214,5,5
+2021,BMW,M5 Sedan,Mid-size,4.4,8,AS8,Z,16.0,11.0,13.8,20,323,3,3
+2021,BMW,M5 Competition,Mid-size,4.4,8,AS8,Z,16.0,11.0,13.8,20,323,3,3
+2021,BMW,M550i xDrive Sedan,Mid-size,4.4,8,AS8,Z,13.5,9.5,11.7,24,272,4,3
+2021,BMW,M760i xDrive Sedan,Full-size,6.6,12,AS8,Z,17.8,11.9,15.1,19,354,2,3
+2021,BMW,M8 Cabriolet,Subcompact,4.4,8,AS8,Z,16.0,11.0,13.8,20,323,3,3
+2021,BMW,M8 Cabriolet Competition,Subcompact,4.4,8,AS8,Z,16.0,11.0,13.8,20,323,3,3
+2021,BMW,M8 Coupe,Subcompact,4.4,8,AS8,Z,16.0,11.0,13.8,20,323,3,3
+2021,BMW,M8 Coupe Competition,Subcompact,4.4,8,AS8,Z,16.0,11.0,13.8,20,323,3,3
+2021,BMW,M8 Gran Coupe,Mid-size,4.4,8,AS8,Z,16.0,11.0,13.8,20,323,3,3
+2021,BMW,M8 Gran Coupe Competition,Mid-size,4.4,8,AS8,Z,16.0,11.0,13.8,20,323,3,3
+2021,BMW,M850i xDrive Cabriolet,Subcompact,4.4,8,AS8,Z,14.0,9.7,12.0,24,281,4,3
+2021,BMW,M850i xDrive Coupe,Subcompact,4.4,8,AS8,Z,13.5,9.5,11.7,24,272,4,3
+2021,BMW,M850i xDrive Gran Coupe,Mid-size,4.4,8,AS8,Z,14.0,9.7,12.0,24,281,4,3
+2021,BMW,X1 xDrive28i,Sport utility vehicle: Small,2.0,4,AS8,Z,10.3,7.7,9.1,31,213,5,7
+2021,BMW,X2 xDrive28i,Sport utility vehicle: Small,2.0,4,AS8,Z,9.8,7.5,8.8,32,205,6,7
+2021,BMW,X2 M35i,Sport utility vehicle: Small,2.0,4,AS8,Z,10.0,7.7,8.9,32,209,5,7
+2021,BMW,X3 xDrive30i,Sport utility vehicle: Small,2.0,4,AS8,Z,10.2,8.2,9.3,30,217,5,7
+2021,BMW,X3 M,Sport utility vehicle: Small,3.0,6,AS8,Z,16.6,12.1,14.6,19,339,2,3
+2021,BMW,X3 M Competition,Sport utility vehicle: Small,3.0,6,AS8,Z,16.6,12.1,14.6,19,339,2,3
+2021,BMW,X3 M40i,Sport utility vehicle: Small,3.0,6,AS8,Z,11.3,8.7,10.1,28,235,5,5
+2021,BMW,X4 xDrive30i,Sport utility vehicle: Small,2.0,4,AS8,Z,10.2,8.2,9.3,30,217,5,7
+2021,BMW,X4 M,Sport utility vehicle: Small,3.0,6,AS8,Z,16.6,12.1,14.6,19,339,2,3
+2021,BMW,X4 M Competition,Sport utility vehicle: Small,3.0,6,AS8,Z,16.6,12.1,14.6,19,339,2,3
+2021,BMW,X4 M40i,Sport utility vehicle: Small,3.0,6,AS8,Z,11.3,8.7,10.1,28,235,5,5
+2021,BMW,X5 xDrive40i,Sport utility vehicle: Standard,3.0,6,AS8,Z,11.4,9.2,10.4,27,242,5,3
+2021,BMW,X5 M,Sport utility vehicle: Standard,4.4,8,AS8,Z,17.9,13.0,15.7,18,364,2,3
+2021,BMW,X5 M Competition,Sport utility vehicle: Standard,4.4,8,AS8,Z,17.9,13.0,15.7,18,364,2,3
+2021,BMW,X5 M50i,Sport utility vehicle: Standard,4.4,8,AS8,Z,14.4,10.6,12.7,22,302,3,3
+2021,BMW,X6 xDrive40i,Sport utility vehicle: Standard,3.0,6,AS8,Z,11.4,9.2,10.4,27,242,5,3
+2021,BMW,X6 M,Sport utility vehicle: Standard,4.4,8,AS8,Z,17.9,13.0,15.7,18,364,2,3
+2021,BMW,X6 M Competition,Sport utility vehicle: Standard,4.4,8,AS8,Z,17.9,13.0,15.7,18,364,2,3
+2021,BMW,X6 M50i,Sport utility vehicle: Standard,4.4,8,AS8,Z,14.4,10.6,12.7,22,302,3,3
+2021,BMW,X7 xDrive40i,Sport utility vehicle: Standard,3.0,6,AS8,Z,12.1,9.8,11.1,25,256,4,3
+2021,BMW,X7 M50i,Sport utility vehicle: Standard,4.4,8,AS8,Z,15.7,11.5,13.8,20,321,3,3
+2021,BMW,Z4 sDrive30i,Two-seater,2.0,4,AS8,Z,9.4,7.3,8.4,34,197,6,7
+2021,BMW,Z4 M40i,Two-seater,3.0,6,AS8,Z,10.7,8.0,9.5,30,221,5,5
+2021,Mercedes-Benz,A 220 4MATIC Sedan,Subcompact,2.0,4,AM7,Z,9.6,6.9,8.4,34,197,6,5
+2021,Mercedes-Benz,A 250 4MATIC Hatch,Station wagon: Small,2.0,4,AM7,Z,9.4,6.8,8.2,34,193,6,5
+2021,Mercedes-Benz,AMG A 35 4MATIC Sedan,Subcompact,2.0,4,AM7,Z,10.7,8.2,9.5,30,224,5,5
+2021,Mercedes-Benz,AMG A 35 4MATIC Hatch,Station wagon: Small,2.0,4,AM7,Z,10.6,8.2,9.5,30,224,5,5
+2021,Mercedes-Benz,AMG C 43 4MATIC Sedan,Compact,3.0,6,A9,Z,13.4,8.7,11.3,25,266,4,5
+2021,Mercedes-Benz,AMG C 43 4MATIC Cabriolet,Subcompact,3.0,6,A9,Z,12.3,8.7,10.7,26,251,4,5
+2021,Mercedes-Benz,AMG C 43 4MATIC Coupe,Subcompact,3.0,6,A9,Z,12.5,8.8,10.8,26,254,4,5
+2021,Mercedes-Benz,AMG C 43 4MATIC Wagon,Station wagon: Small,3.0,6,A9,Z,12.3,8.5,10.6,27,249,4,5
+2021,Mercedes-Benz,AMG C 63 Sedan,Compact,4.0,8,A9,Z,13.5,8.9,11.4,25,269,4,3
+2021,Mercedes-Benz,AMG C 63 S Sedan,Compact,4.0,8,A9,Z,13.5,8.9,11.4,25,269,4,3
+2021,Mercedes-Benz,AMG C 63 S Cabriolet,Subcompact,4.0,8,A9,Z,13.9,9.6,12.0,24,281,4,3
+2021,Mercedes-Benz,AMG C 63 S Coupe,Subcompact,4.0,8,A9,Z,13.7,9.1,11.6,24,273,4,3
+2021,Mercedes-Benz,AMG CLA 35 4MATIC Coupe,Compact,2.0,4,AM7,Z,10.7,8.2,9.5,30,224,5,5
+2021,Mercedes-Benz,AMG CLA 45 4MATIC Coupe,Compact,2.0,4,AM8,Z,12.0,8.2,10.3,27,242,5,3
+2021,Mercedes-Benz,AMG CLS 53 4MATIC+ Coupe,Compact,3.0,6,A9,Z,11.3,9.0,10.3,27,242,5,6
+2021,Mercedes-Benz,AMG E 53 4MATIC+ Sedan,Mid-size,3.0,6,A9,Z,10.7,8.2,9.5,30,225,5,6
+2021,Mercedes-Benz,AMG E 53 4MATIC+ Cabriolet,Subcompact,3.0,6,A9,Z,11.3,8.8,10.2,28,239,5,6
+2021,Mercedes-Benz,AMG E 53 4MATIC+ Coupe,Subcompact,3.0,6,A9,Z,11.2,8.5,10.0,28,235,5,6
+2021,Mercedes-Benz,AMG E 53 4MATIC+ Wagon,Station wagon: Mid-size,3.0,6,A9,Z,11.3,8.7,10.1,28,238,5,6
+2021,Mercedes-Benz,AMG E 63 S 4MATIC+ Sedan,Mid-size,4.0,8,A9,Z,15.0,10.1,12.8,22,301,3,3
+2021,Mercedes-Benz,AMG E 63 S 4MATIC+ Wagon,Station wagon: Mid-size,4.0,8,A9,Z,14.7,10.4,12.8,22,300,3,3
+2021,Mercedes-Benz,AMG G 63 SUV,Sport utility vehicle: Standard,4.0,8,A9,Z,18.6,15.5,17.2,16,396,1,3
+2021,Mercedes-Benz,AMG GLA 35 4MATIC SUV,Sport utility vehicle: Small,2.0,4,AM8,Z,10.4,8.1,9.4,30,219,5,5
+2021,Mercedes-Benz,AMG GLA 45 4MATIC SUV,Sport utility vehicle: Small,2.0,4,AM8,Z,11.6,8.8,10.4,27,243,5,3
+2021,Mercedes-Benz,AMG GLB 35 SUV,Sport utility vehicle: Small,2.0,4,AM8,Z,11.1,8.9,10.1,28,237,5,5
+2021,Mercedes-Benz,AMG GLC 43 4MATIC SUV,Sport utility vehicle: Small,3.0,6,A9,Z,13.1,9.6,11.6,24,272,4,5
+2021,Mercedes-Benz,AMG GLC 43 4MATIC Coupe,Sport utility vehicle: Small,3.0,6,A9,Z,13.5,9.6,11.7,24,277,4,5
+2021,Mercedes-Benz,AMG GLC 63 S 4MATIC+ SUV,Sport utility vehicle: Small,4.0,8,A9,Z,15.7,10.9,13.5,21,319,3,5
+2021,Mercedes-Benz,AMG GLC 63 S 4MATIC+ Coupe,Sport utility vehicle: Small,4.0,8,A9,Z,15.2,10.8,13.2,21,311,3,5
+2021,Mercedes-Benz,AMG GLE 53 4MATIC+ SUV,Sport utility vehicle: Standard,3.0,6,A9,Z,13.2,10.8,12.1,23,285,3,6
+2021,Mercedes-Benz,AMG GLE 53 4MATIC+ Coupe,Sport utility vehicle: Standard,3.0,6,A9,Z,12.7,10.4,11.7,24,273,4,6
+2021,Mercedes-Benz,AMG GLE 63 S 4MATIC+ SUV,Sport utility vehicle: Standard,4.0,8,A9,Z,16.2,12.5,14.5,19,340,2,3
+2021,Mercedes-Benz,AMG GLE 63 S 4MATIC+ Coupe,Sport utility vehicle: Standard,4.0,8,A9,Z,16.3,12.8,14.7,19,347,2,3
+2021,Mercedes-Benz,AMG GLS 63 4MATIC+ SUV,Sport utility vehicle: Standard,4.0,8,A9,Z,16.3,12.9,14.8,19,347,2,3
+2021,Mercedes-Benz,AMG GT 53 4MATIC+ Coupe,Compact,3.0,6,A9,Z,11.9,9.6,10.9,26,255,4,6
+2021,Mercedes-Benz,AMG GT 63 4MATIC+ Coupe,Compact,4.0,8,A9,Z,15.6,11.5,13.7,21,322,3,5
+2021,Mercedes-Benz,AMG GT 63 S 4MATIC+ Coupe,Compact,4.0,8,A9,Z,15.1,11.1,13.3,21,312,3,5
+2021,Mercedes-Benz,AMG GT Black Series Coupe,Two-seater,4.0,8,AM7,Z,15.6,12.0,13.9,20,328,3,3
+2021,Mercedes-Benz,AMG GT C Coupe,Two-seater,4.0,8,AM7,Z,15.9,12.1,14.2,20,332,3,3
+2021,Mercedes-Benz,AMG GT C Roadster,Two-seater,4.0,8,AM7,Z,15.8,12.0,14.1,20,330,3,3
+2021,Mercedes-Benz,AMG GT R Coupe,Two-seater,4.0,8,AM7,Z,16.4,12.0,14.4,20,339,2,3
+2021,Mercedes-Benz,AMG S 63 4MATIC+ Cabriolet,Subcompact,4.0,8,A9,Z,16.3,10.0,13.5,21,317,3,5
+2021,Mercedes-Benz,AMG S 63 4MATIC+ Coupe,Compact,4.0,8,A9,Z,15.1,9.2,12.4,23,293,3,5
+2021,Mercedes-Benz,C 300 4MATIC Sedan,Compact,2.0,4,A9,Z,10.1,7.1,8.7,32,204,6,6
+2021,Mercedes-Benz,C 300 4MATIC Cabriolet,Subcompact,2.0,4,A9,Z,10.8,7.9,9.5,30,223,5,6
+2021,Mercedes-Benz,C 300 4MATIC Coupe,Subcompact,2.0,4,A9,Z,10.2,7.4,9.0,31,210,5,6
+2021,Mercedes-Benz,C 300 4MATIC Wagon,Station wagon: Small,2.0,4,A9,Z,10.5,7.5,9.1,31,214,5,6
+2021,Mercedes-Benz,CLA 250 4MATIC Coupe,Compact,2.0,4,AM7,Z,9.8,7.1,8.6,33,201,6,5
+2021,Mercedes-Benz,CLS 450 4MATIC Coupe,Compact,3.0,6,A9,Z,10.5,8.1,9.4,30,222,5,6
+2021,Mercedes-Benz,E 350 4MATIC Sedan,Mid-size,2.0,4,A9,Z,10.7,7.8,9.4,30,221,5,6
+2021,Mercedes-Benz,E 450 4MATIC Sedan,Mid-size,3.0,6,A9,Z,10.4,7.8,9.2,31,217,5,6
+2021,Mercedes-Benz,E 450 4MATIC Cabriolet,Subcompact,3.0,6,A9,Z,10.4,8.0,9.3,30,219,5,6
+2021,Mercedes-Benz,E 450 4MATIC Coupe,Subcompact,3.0,6,A9,Z,10.3,7.9,9.3,30,218,5,6
+2021,Mercedes-Benz,E 450 4MATIC All-Terrain Wagon,Station wagon: Mid-size,3.0,6,A9,Z,10.6,8.4,9.6,29,226,5,6
+2021,Mercedes-Benz,G 550 SUV,Sport utility vehicle: Standard,4.0,8,A9,Z,13.6,12.4,13.1,22,307,3,3
+2021,Mercedes-Benz,GLA 250 4MATIC SUV,Sport utility vehicle: Small,2.0,4,AM8,Z,9.8,7.2,8.7,32,203,6,5
+2021,Mercedes-Benz,GLB 250 4MATIC SUV,Sport utility vehicle: Small,2.0,4,AM8,Z,10.3,7.8,9.2,31,216,5,5
+2021,Mercedes-Benz,GLC 300 4MATIC SUV,Sport utility vehicle: Small,2.0,4,A9,Z,11.3,8.5,10.0,28,235,5,6
+2021,Mercedes-Benz,GLC 300 4MATIC Coupe,Sport utility vehicle: Small,2.0,4,A9,Z,10.6,8.4,9.6,29,226,5,6
+2021,Mercedes-Benz,GLE 350 4MATIC SUV,Sport utility vehicle: Standard,2.0,4,A9,Z,12.4,9.0,10.8,26,254,4,5
+2021,Mercedes-Benz,GLE 450 4MATIC SUV,Sport utility vehicle: Standard,3.0,6,A9,Z,11.4,9.2,10.4,27,244,5,6
+2021,Mercedes-Benz,GLS 450 4MATIC SUV,Sport utility vehicle: Standard,3.0,6,A9,Z,12.0,9.8,11.0,26,257,4,6
+2021,Mercedes-Benz,GLS 580 4MATIC SUV,Sport utility vehicle: Standard,4.0,8,A9,Z,14.5,11.2,13.0,22,305,3,5
+2021,Mercedes-Benz,Maybach GLS 600 4MATIC SUV,Sport utility vehicle: Standard,4.0,8,A9,Z,16.6,12.5,14.8,19,346,2,3
+2021,Mercedes-Benz,Maybach S 580 4MATIC Sedan,Full-size,4.0,8,A9,Z,15.5,9.8,12.9,22,301,3,5
+2021,Mercedes-Benz,Metris Cargo Van,Special purpose vehicle,2.0,4,A9,Z,12.6,10.0,11.5,25,268,4,5
+2021,Mercedes-Benz,Metris Cargo Van LWB,Special purpose vehicle,2.0,4,A9,Z,12.6,10.0,11.5,25,268,4,5
+2021,Mercedes-Benz,Metris Passenger Van,Special purpose vehicle,2.0,4,A9,Z,13.3,10.8,12.2,23,284,3,5
+2021,Mercedes-Benz,S 500 4MATIC SWB Sedan,Full-size,3.0,6,A9,Z,11.3,8.0,9.8,29,230,5,6
+2021,Mercedes-Benz,S 560 Cabriolet,Subcompact,4.0,8,A9,Z,14.5,9.0,12.0,24,282,4,5
+2021,Mercedes-Benz,S 560 4MATIC Coupe,Compact,4.0,8,A9,Z,14.5,9.0,12.0,24,282,4,5
+2021,Mercedes-Benz,S 580 4MATIC LWB Sedan,Full-size,4.0,8,A9,Z,14.4,9.4,12.2,23,285,3,5
+2022,BMW,330i xDrive Sedan,Compact,2.0,4,AS8,Z,9.5,6.9,8.3,34,195,6,7
+2022,BMW,430i xDrive Cabriolet,Subcompact,2.0,4,AS8,Z,10.0,7.1,8.7,32,202,6,7
+2022,BMW,430i xDrive Coupe,Subcompact,2.0,4,AS8,Z,10.0,7.1,8.7,32,202,6,7
+2022,BMW,530i xDrive Sedan,Mid-size,2.0,4,AS8,Z,10.1,7.4,8.9,32,206,6,7
+2022,BMW,540i xDrive Sedan,Full-size,3.0,6,AS8,Z,10.5,8.1,9.4,30,219,5,5
+2022,BMW,750i xDrive Sedan,Full-size,4.4,8,AS8,Z,13.9,9.6,12.0,24,279,4,3
+2022,BMW,750Li xDrive Sedan,Full-size,4.4,8,AS8,Z,13.9,9.6,12.0,24,279,4,3
+2022,BMW,Alpina B7,Full-size,4.4,8,AS8,Z,13.9,9.6,12.0,24,279,4,3
+2022,BMW,Alpina B8 Gran Coupe,Mid-size,4.4,8,AS8,Z,13.9,9.6,12.0,24,279,4,3
+2022,BMW,Alpina XB7,Sport utility vehicle: Standard,4.4,8,AS8,Z,15.7,11.5,13.8,20,321,3,3
+2022,BMW,M235i xDrive Gran Coupe,Compact,2.0,4,AS8,Z,10.4,7.8,9.2,31,214,5,3
+2022,BMW,M240i xDrive Coupe,Subcompact,3.0,6,AS8,Z,10.4,7.5,9.1,31,212,5,5
+2022,BMW,M3 Sedan,Compact,3.0,6,M6,Z,14.7,10.1,12.6,22,293,4,5
+2022,BMW,M3 Competition Sedan,Compact,3.0,6,AS8,Z,14.5,10.2,12.6,22,292,4,5
+2022,BMW,M3 Competition Sedan M xDrive,Compact,3.0,6,AS8,Z,14.6,10.5,12.7,22,296,4,5
+2022,BMW,M340i xDrive Sedan,Compact,3.0,6,AS8,Z,10.4,7.7,9.2,31,214,5,5
+2022,BMW,M4 Competition Cabriolet M xDrive,Subcompact,3.0,6,AS8,Z,15.1,10.4,12.9,22,301,3,5
+2022,BMW,M4 Coupe,Subcompact,3.0,6,M6,Z,14.7,10.1,12.6,22,293,4,5
+2022,BMW,M4 Competition Coupe,Subcompact,3.0,6,AS8,Z,14.5,10.2,12.6,22,292,4,5
+2022,BMW,M4 Competition Coupe M xDrive,Subcompact,3.0,6,AS8,Z,14.6,10.5,12.7,22,296,4,5
+2022,BMW,M440i xDrive Cabriolet,Subcompact,3.0,6,AS8,Z,10.4,7.4,9.1,31,211,5,5
+2022,BMW,M440i xDrive Coupe,Subcompact,3.0,6,AS8,Z,10.4,7.7,9.2,31,214,5,5
+2022,BMW,M440i xDrive Gran Coupe,Compact,3.0,6,AS8,Z,10.9,8.0,9.6,29,224,5,5
+2022,BMW,M5 Sedan,Mid-size,4.4,8,AS8,Z,16.1,11.0,13.8,20,322,3,3
+2022,BMW,M5 Competition,Mid-size,4.4,8,AS8,Z,16.1,11.0,13.8,20,322,3,3
+2022,BMW,M5 CS,Mid-size,4.4,8,AS8,Z,16.1,11.0,13.8,20,322,3,3
+2022,BMW,M550i xDrive Sedan,Mid-size,4.4,8,AS8,Z,13.5,9.3,11.6,24,271,4,3
+2022,BMW,M760i xDrive Sedan,Full-size,6.6,12,AS8,Z,17.8,11.9,15.1,19,354,3,3
+2022,BMW,M8 Cabriolet,Subcompact,4.4,8,AS8,Z,16.1,11.0,13.8,20,322,3,3
+2022,BMW,M8 Cabriolet Competition,Subcompact,4.4,8,AS8,Z,16.1,11.0,13.8,20,322,3,3
+2022,BMW,M8 Coupe,Subcompact,4.4,8,AS8,Z,16.1,11.0,13.8,20,322,3,3
+2022,BMW,M8 Coupe Competition,Subcompact,4.4,8,AS8,Z,16.1,11.0,13.8,20,322,3,3
+2022,BMW,M8 Gran Coupe,Mid-size,4.4,8,AS8,Z,16.1,11.0,13.8,20,322,3,3
+2022,BMW,M8 Gran Coupe Competition,Mid-size,4.4,8,AS8,Z,16.1,11.0,13.8,20,322,3,3
+2022,BMW,M850i xDrive Cabriolet,Subcompact,4.4,8,AS8,Z,13.9,9.6,12.0,24,279,4,3
+2022,BMW,M850i xDrive Coupe,Subcompact,4.4,8,AS8,Z,13.5,9.3,11.6,24,271,4,3
+2022,BMW,M850i xDrive Gran Coupe,Mid-size,4.4,8,AS8,Z,13.9,9.6,12.0,24,279,4,3
+2022,BMW,X1 xDrive28i,Sport utility vehicle: Small,2.0,4,AS8,Z,10.3,7.7,9.1,31,213,5,7
+2022,BMW,X2 xDrive28i,Sport utility vehicle: Small,2.0,4,AS8,Z,9.9,7.6,8.8,32,207,6,7
+2022,BMW,X2 M35i,Sport utility vehicle: Small,2.0,4,AS8,Z,9.9,7.6,8.9,32,207,6,3
+2022,BMW,X3 xDrive30i,Sport utility vehicle: Small,2.0,4,AS8,Z,11.0,8.5,9.9,29,230,5,7
+2022,BMW,X3 M,Sport utility vehicle: Small,3.0,6,AS8,Z,15.7,11.7,13.9,20,323,3,3
+2022,BMW,X3 M Competition,Sport utility vehicle: Small,3.0,6,AS8,Z,15.7,11.7,13.9,20,323,3,3
+2022,BMW,X3 M40i,Sport utility vehicle: Small,3.0,6,AS8,Z,11.2,9.1,10.3,27,241,5,5
+2022,BMW,X4 xDrive30i,Sport utility vehicle: Small,2.0,4,AS8,Z,11.0,8.5,9.9,29,230,5,7
+2022,BMW,X4 M,Sport utility vehicle: Small,3.0,6,AS8,Z,15.7,11.7,13.9,20,323,3,3
+2022,BMW,X4 M Competition,Sport utility vehicle: Small,3.0,6,AS8,Z,15.7,11.7,13.9,20,323,3,3
+2022,BMW,X4 M40i,Sport utility vehicle: Small,3.0,6,AS8,Z,11.2,9.1,10.3,27,241,5,5
+2022,BMW,X5 xDrive40i,Sport utility vehicle: Standard,3.0,6,AS8,Z,11.3,9.2,10.4,27,241,5,3
+2022,BMW,X5 M,Sport utility vehicle: Standard,4.4,8,AS8,Z,17.9,13.0,15.7,18,364,2,3
+2022,BMW,X5 M Competition,Sport utility vehicle: Standard,4.4,8,AS8,Z,17.9,13.0,15.7,18,364,2,3
+2022,BMW,X5 M50i,Sport utility vehicle: Standard,4.4,8,AS8,Z,14.4,10.6,12.7,22,302,3,3
+2022,BMW,X6 xDrive40i,Sport utility vehicle: Standard,3.0,6,AS8,Z,11.3,9.2,10.4,27,241,5,3
+2022,BMW,X6 M,Sport utility vehicle: Standard,4.4,8,AS8,Z,17.9,13.0,15.7,18,364,2,3
+2022,BMW,X6 M Competition,Sport utility vehicle: Standard,4.4,8,AS8,Z,17.9,13.0,15.7,18,364,2,3
+2022,BMW,X6 M50i,Sport utility vehicle: Standard,4.4,8,AS8,Z,14.4,10.6,12.7,22,302,3,3
+2022,BMW,X7 xDrive40i,Sport utility vehicle: Standard,3.0,6,AS8,Z,12.1,9.8,11.1,25,256,5,3
+2022,BMW,X7 M50i,Sport utility vehicle: Standard,4.4,8,AS8,Z,15.7,11.5,13.8,20,321,3,3
+2022,BMW,Z4 sDrive30i,Two-seater,2.0,4,AS8,Z,9.4,7.4,8.5,33,199,6,7
+2022,BMW,Z4 M40i,Two-seater,3.0,6,AS8,Z,10.8,8.1,9.6,29,223,5,5
+2022,Mercedes-Benz,A 220 4MATIC Sedan,Subcompact,2.0,4,AM7,Z,9.5,6.8,8.3,34,194,6,5
+2022,Mercedes-Benz,A 250 4MATIC Hatch,Station wagon: Small,2.0,4,AM7,Z,10.0,7.0,8.7,32,202,6,5
+2022,Mercedes-Benz,AMG A 35 4MATIC Sedan,Subcompact,2.0,4,AM7,Z,10.8,7.9,9.5,30,221,5,5
+2022,Mercedes-Benz,AMG A 35 4MATIC Hatch,Station wagon: Small,2.0,4,AM7,Z,10.8,7.8,9.4,30,221,5,5
+2022,Mercedes-Benz,AMG C 43 4MATIC Cabriolet,Subcompact,3.0,6,A9,Z,12.7,8.7,10.9,26,256,5,5
+2022,Mercedes-Benz,AMG C 43 4MATIC Coupe,Subcompact,3.0,6,A9,Z,12.6,8.5,10.8,26,252,5,5
+2022,Mercedes-Benz,AMG CLA 35 4MATIC Coupe,Compact,2.0,4,AM7,Z,11.0,8.2,9.7,29,227,5,5
+2022,Mercedes-Benz,AMG CLA 45 4MATIC Coupe,Compact,2.0,4,AM8,Z,12.0,8.5,10.4,27,243,5,3
+2022,Mercedes-Benz,AMG CLS 53 4MATIC+ Coupe,Compact,3.0,6,A9,Z,11.6,8.8,10.3,27,241,5,6
+2022,Mercedes-Benz,AMG E 53 4MATIC+ Sedan,Mid-size,3.0,6,A9,Z,11.3,8.3,9.9,29,232,5,6
+2022,Mercedes-Benz,AMG E 53 4MATIC+ Cabriolet,Subcompact,3.0,6,A9,Z,12.0,8.9,10.6,27,247,5,6
+2022,Mercedes-Benz,AMG E 53 4MATIC+ Coupe,Subcompact,3.0,6,A9,Z,11.7,8.4,10.2,28,239,5,6
+2022,Mercedes-Benz,AMG G 63 SUV,Sport utility vehicle: Standard,4.0,8,A9,Z,19.3,15.6,17.6,16,412,1,3
+2022,Mercedes-Benz,AMG G 63 4x4 Squared,Sport utility vehicle: Standard,4.0,8,A9,Z,21.5,18.7,20.2,14,470,1,3
+2022,Mercedes-Benz,AMG GLA 35 4MATIC SUV,Station wagon: Small,2.0,4,AM8,Z,11.0,8.4,9.8,29,230,5,5
+2022,Mercedes-Benz,AMG GLA 45 4MATIC SUV,Station wagon: Small,2.0,4,AM8,Z,12.3,9.6,11.1,25,260,4,3
+2022,Mercedes-Benz,AMG GLB 35 4MATIC SUV,Station wagon: Mid-size,2.0,4,AM8,Z,12.7,9.4,11.2,25,262,4,5
+2022,Mercedes-Benz,AMG GLC 43 4MATIC SUV,Sport utility vehicle: Small,3.0,6,A9,Z,12.9,9.3,11.3,25,264,4,5
+2022,Mercedes-Benz,AMG GLC 43 4MATIC Coupe,Sport utility vehicle: Small,3.0,6,A9,Z,14.0,10.1,12.3,23,287,4,5
+2022,Mercedes-Benz,AMG GLE 53 4MATIC+ SUV,Sport utility vehicle: Standard,3.0,6,A9,Z,13.4,10.6,12.1,23,283,4,6
+2022,Mercedes-Benz,AMG GLE 53 4MATIC+ Coupe,Sport utility vehicle: Standard,3.0,6,A9,Z,13.6,11.1,12.5,23,292,4,6
+2022,Mercedes-Benz,AMG GLE 63 S 4MATIC+ SUV,Sport utility vehicle: Standard,4.0,8,A9,Z,16.2,12.6,14.6,19,341,3,5
+2022,Mercedes-Benz,AMG GLE 63 S 4MATIC+ Coupe,Sport utility vehicle: Standard,4.0,8,A9,Z,16.4,12.8,14.8,19,346,3,5
+2022,Mercedes-Benz,AMG GLS 63 4MATIC+ SUV,Sport utility vehicle: Standard,4.0,8,A9,Z,17.1,13.2,15.3,18,360,2,5
+2022,Mercedes-Benz,AMG GT 53 4MATIC+ Coupe,Compact,3.0,6,A9,Z,12.3,9.4,11.0,26,258,4,6
+2022,Mercedes-Benz,AMG SL 63 4MATIC+ Roadster,Minicompact,4.0,8,A9,Z,17.1,11.3,14.5,19,339,3,5
+2022,Mercedes-Benz,C 300 4MATIC Sedan,Compact,2.0,4,A9,Z,9.9,7.1,8.6,33,202,6,7
+2022,Mercedes-Benz,C 300 4MATIC Cabriolet,Subcompact,2.0,4,A9,Z,11.0,8.0,9.6,29,224,5,6
+2022,Mercedes-Benz,C 300 4MATIC Coupe,Subcompact,2.0,4,A9,Z,10.7,7.5,9.3,30,217,5,6
+2022,Mercedes-Benz,CLA 250 4MATIC Coupe,Compact,2.0,4,AM7,Z,9.8,7.0,8.6,33,200,6,5
+2022,Mercedes-Benz,CLS 450 4MATIC Coupe,Compact,3.0,6,A9,Z,11.1,8.2,9.8,29,229,5,6
+2022,Mercedes-Benz,E 350 4MATIC Sedan,Mid-size,2.0,4,A9,Z,11.2,8.2,9.8,29,229,5,6
+2022,Mercedes-Benz,E 450 4MATIC Sedan,Mid-size,3.0,6,A9,Z,10.5,7.9,9.3,30,218,5,6
+2022,Mercedes-Benz,E 450 4MATIC Cabriolet,Subcompact,3.0,6,A9,Z,11.2,8.4,9.9,29,233,5,6
+2022,Mercedes-Benz,E 450 4MATIC Coupe,Subcompact,3.0,6,A9,Z,11.0,8.0,9.6,29,225,5,6
+2022,Mercedes-Benz,E 450 4MATIC All-Terrain Wagon,Station wagon: Mid-size,3.0,6,A9,Z,11.0,8.3,9.8,29,229,5,6
+2022,Mercedes-Benz,G 550 SUV,Sport utility vehicle: Standard,4.0,8,A9,Z,16.3,13.7,15.1,19,354,3,3
+2022,Mercedes-Benz,GLA 250 4MATIC SUV,Sport utility vehicle: Small,2.0,4,AM8,Z,10.3,7.3,9.0,31,210,5,5
+2022,Mercedes-Benz,GLB 250 4MATIC SUV,Sport utility vehicle: Small,2.0,4,AM8,Z,10.9,7.9,9.5,30,224,5,5
+2022,Mercedes-Benz,GLC 300 4MATIC SUV,Sport utility vehicle: Small,2.0,4,A9,Z,11.5,9.1,10.4,27,242,5,6
+2022,Mercedes-Benz,GLC 300 4MATIC Coupe,Sport utility vehicle: Small,2.0,4,A9,Z,11.5,8.5,10.1,28,237,5,6
+2022,Mercedes-Benz,GLE 350 4MATIC SUV,Sport utility vehicle: Standard,2.0,4,A9,Z,12.1,8.9,10.7,26,250,5,5
+2022,Mercedes-Benz,GLE 450 4MATIC SUV,Sport utility vehicle: Standard,3.0,6,A9,Z,11.4,9.3,10.4,27,244,5,6
+2022,Mercedes-Benz,GLE 450 4MATIC Coupe,Sport utility vehicle: Standard,3.0,6,A9,Z,11.7,9.2,10.5,27,247,5,6
+2022,Mercedes-Benz,GLS 450 4MATIC SUV,Sport utility vehicle: Standard,3.0,6,A9,Z,12.8,10.0,11.5,25,269,4,6
+2022,Mercedes-Benz,GLS 600 4MATIC Maybach SUV,Sport utility vehicle: Standard,4.0,8,A9,Z,16.3,12.2,14.4,20,338,3,5
+2022,Mercedes-Benz,Maybach S 580 4MATIC Sedan,Full-size,4.0,8,A9,Z,15.2,9.9,12.9,22,301,3,5
+2022,Mercedes-Benz,Maybach S 680 4MATIC Sedan,Full-size,6.0,12,A9,Z,19.4,11.2,15.7,18,369,2,3
+2022,Mercedes-Benz,Metris Cargo Van,Special purpose vehicle,2.0,4,A9,Z,12.6,10.1,11.5,25,267,4,6
+2022,Mercedes-Benz,Metris Cargo Van LWB,Special purpose vehicle,2.0,4,A9,Z,12.6,10.1,11.5,25,267,4,6
+2022,Mercedes-Benz,Metris Passenger Van,Special purpose vehicle,2.0,4,A9,Z,13.3,10.6,12.1,23,282,4,6
+2022,Mercedes-Benz,S 500 4MATIC SWB Sedan,Full-size,3.0,6,A9,Z,11.4,8.0,9.9,29,231,5,6
+2022,Mercedes-Benz,S 580 4MATIC LWB Sedan,Full-size,4.0,8,A9,Z,14.3,9.5,12.2,23,285,4,5
+2023,BMW,230i xDrive Coupe,Subcompact,2.0,4,AS8,Z,9.6,6.9,8.4,34,195,6,3
+2023,BMW,330i xDrive Sedan,Compact,2.0,4,AS8,Z,9.8,7.0,8.6,33,200,6,7
+2023,BMW,430i xDrive Cabriolet,Subcompact,2.0,4,AS8,Z,10.1,7.1,8.7,32,203,5,7
+2023,BMW,430i xDrive Coupe,Subcompact,2.0,4,AS8,Z,10.1,7.1,8.7,32,203,5,7
+2023,BMW,530i xDrive Sedan,Mid-size,2.0,4,AS8,Z,10.1,7.5,8.9,32,206,5,7
+2023,BMW,540i xDrive Sedan,Mid-size,3.0,6,AS8,Z,10.5,8.1,9.4,30,219,5,5
+2023,BMW,760i xDrive Sedan,Full-size,4.4,8,AS8,Z,13.0,9.1,11.3,25,261,4,5
+2023,BMW,ALPINA B8 Gran Coupe,Mid-size,4.4,8,AS8,Z,14.1,9.9,12.2,23,284,4,3
+2023,BMW,ALPINA XB7,Sport utility vehicle: Standard,4.4,8,AS8,Z,15.2,11.6,13.6,21,314,4,5
+2023,BMW,M2 Coupe,Subcompact,3.0,6,AS8,Z,14.6,10.3,12.7,22,294,4,5
+2023,BMW,M2 Coupe,Subcompact,3.0,6,M6,Z,14.3,10.0,12.4,23,287,4,5
+2023,BMW,M235i xDrive Gran Coupe,Compact,2.0,4,AS8,Z,9.8,7.2,8.6,33,202,5,3
+2023,BMW,M240i xDrive Coupe,Subcompact,3.0,6,AS8,Z,10.4,7.4,9.0,31,210,5,5
+2023,BMW,M3 Sedan,Compact,3.0,6,M6,Z,14.7,10.1,12.6,22,293,4,5
+2023,BMW,M3 Competition M xDrive Sedan,Compact,3.0,6,AS8,Z,14.6,10.5,12.7,22,296,4,5
+2023,BMW,M340i xDrive Sedan,Compact,3.0,6,AS8,Z,10.3,7.4,9.0,31,210,5,5
+2023,BMW,M4 Competition M xDrive Cabriolet,Subcompact,3.0,6,AS8,Z,15.1,10.4,12.9,22,301,4,5
+2023,BMW,M4 Coupe,Subcompact,3.0,6,M6,Z,14.7,10.1,12.6,22,293,4,5
+2023,BMW,M4 Competition M xDrive Coupe,Subcompact,3.0,6,AS8,Z,14.6,10.5,12.7,22,296,4,5
+2023,BMW,M4 CSL Coupe,Subcompact,3.0,6,AS8,Z,15.0,10.3,12.9,22,301,4,5
+2023,BMW,M440i xDrive Cabriolet,Subcompact,3.0,6,AS8,Z,10.6,7.7,9.3,30,216,5,5
+2023,BMW,M440i xDrive Coupe,Subcompact,3.0,6,AS8,Z,10.7,7.6,9.3,30,216,5,5
+2023,BMW,M5 Sedan,Mid-size,4.4,8,AS8,Z,16.1,11.1,13.8,20,324,3,3
+2023,BMW,M5 Competition Sedan,Mid-size,4.4,8,AS8,Z,16.1,11.1,13.8,20,324,3,3
+2023,BMW,M550i xDrive Sedan,Mid-size,4.4,8,AS8,Z,14.0,9.5,12.0,24,277,4,3
+2023,BMW,M8 Competition Cabriolet,Subcompact,4.4,8,AS8,Z,16.1,10.9,13.7,21,321,3,3
+2023,BMW,M8 Competition Coupe,Subcompact,4.4,8,AS8,Z,16.1,10.9,13.7,21,321,3,3
+2023,BMW,M8 Competition Gran Coupe,Mid-size,4.4,8,AS8,Z,16.1,10.9,13.7,21,321,3,3
+2023,BMW,M850i xDrive Cabriolet,Subcompact,4.4,8,AS8,Z,14.1,9.9,12.2,23,284,4,3
+2023,BMW,M850i xDrive Coupe,Subcompact,4.4,8,AS8,Z,14.1,9.9,12.2,23,284,4,3
+2023,BMW,M850i xDrive Gran Coupe,Mid-size,4.4,8,AS8,Z,14.1,9.9,12.2,23,284,4,3
+2023,BMW,X1 xDrive28i,Sport utility vehicle: Small,2.0,4,AM7,Z,9.6,7.0,8.4,34,195,6,8
+2023,BMW,X3 xDrive30i,Sport utility vehicle: Small,2.0,4,AS8,Z,11.0,8.4,9.9,29,229,5,7
+2023,BMW,X3 M,Sport utility vehicle: Small,3.0,6,AS8,Z,15.7,11.7,13.9,20,323,3,3
+2023,BMW,X3 M Competition,Sport utility vehicle: Small,3.0,6,AS8,Z,15.7,11.7,13.9,20,323,3,3
+2023,BMW,X3 M40i,Sport utility vehicle: Small,3.0,6,AS8,Z,10.9,9.0,10.1,28,235,5,5
+2023,BMW,X4 xDrive30i,Sport utility vehicle: Small,2.0,4,AS8,Z,11.0,8.4,9.9,29,229,5,7
+2023,BMW,X4 M,Sport utility vehicle: Small,3.0,6,AS8,Z,15.7,11.7,13.9,20,323,3,3
+2023,BMW,X4 M Competition,Sport utility vehicle: Small,3.0,6,AS8,Z,15.7,11.7,13.9,20,323,3,3
+2023,BMW,X4 M40i,Sport utility vehicle: Small,3.0,6,AS8,Z,10.9,9.0,10.1,28,235,5,5
+2023,BMW,X5 xDrive40i,Sport utility vehicle: Standard,3.0,6,AS8,Z,11.4,9.3,10.4,27,242,5,3
+2023,BMW,X5 M,Sport utility vehicle: Standard,4.4,8,AS8,Z,17.9,13.0,15.7,18,364,2,3
+2023,BMW,X5 M Competition,Sport utility vehicle: Standard,4.4,8,AS8,Z,17.9,13.0,15.7,18,364,2,3
+2023,BMW,X5 M50i,Sport utility vehicle: Standard,4.4,8,AS8,Z,14.7,10.9,13.0,22,302,4,3
+2023,BMW,X6 xDrive40i,Sport utility vehicle: Standard,3.0,6,AS8,Z,11.4,9.3,10.4,27,242,5,3
+2023,BMW,X6 M,Sport utility vehicle: Standard,4.4,8,AS8,Z,17.9,13.0,15.7,18,364,2,3
+2023,BMW,X6 M Competition,Sport utility vehicle: Standard,4.4,8,AS8,Z,17.9,13.0,15.7,18,364,2,3
+2023,BMW,X6 M50i,Sport utility vehicle: Standard,4.4,8,AS8,Z,14.7,10.9,13.0,22,302,4,3
+2023,BMW,X7 xDrive40i,Sport utility vehicle: Standard,3.0,6,AS8,Z,11.3,9.5,10.5,27,243,5,7
+2023,BMW,X7 M60i xDrive,Sport utility vehicle: Standard,4.4,8,AS8,Z,14.3,11.1,12.9,22,299,4,5
+2023,BMW,Z4 sDrive30i,Two-seater,2.0,4,AS8,Z,9.4,7.1,8.4,34,194,6,7
+2023,BMW,Z4 M40i,Two-seater,3.0,6,AS8,Z,10.4,7.5,9.1,31,210,5,5
+2023,Mercedes-Benz,AMG C 43 4MATIC Cabriolet,Subcompact,3.0,6,A9,Z,13.3,9.2,11.4,25,268,4,5
+2023,Mercedes-Benz,AMG C 43 4MATIC Coupe,Subcompact,3.0,6,A9,Z,12.9,8.7,11.0,26,257,5,5
+2023,Mercedes-Benz,AMG C 43 4MATIC Sedan,Compact,2.0,4,A9,Z,12.1,9.0,10.7,26,251,5,6
+2023,Mercedes-Benz,AMG CLA 35 4MATIC Coupe,Compact,2.0,4,AM7,Z,11.4,8.1,9.9,29,232,5,5
+2023,Mercedes-Benz,AMG CLA 45 4MATIC Coupe,Compact,2.0,4,AM8,Z,12.0,8.3,10.3,27,241,5,3
+2023,Mercedes-Benz,AMG CLS 53 4MATIC+ Coupe,Compact,3.0,6,A9,Z,11.6,8.8,10.3,27,241,5,6
+2023,Mercedes-Benz,AMG E 53 4MATIC+ Sedan,Mid-size,3.0,6,A9,Z,11.0,8.1,9.7,29,227,5,6
+2023,Mercedes-Benz,AMG E 53 4MATIC+ Cabriolet,Subcompact,3.0,6,A9,Z,11.6,8.7,10.3,27,242,5,6
+2023,Mercedes-Benz,AMG E 53 4MATIC+ Coupe,Subcompact,3.0,6,A9,Z,11.5,8.5,10.2,28,238,5,6
+2023,Mercedes-Benz,AMG E 63 4MATIC+ All-Terrain Wagon,Station wagon: Mid-size,4.0,8,A9,Z,15.6,8.4,12.3,23,312,4,5
+2023,Mercedes-Benz,AMG E 63 S 4MATIC+ Sedan,Mid-size,4.0,8,A9,Z,14.8,9.9,12.6,22,296,4,5
+2023,Mercedes-Benz,AMG G 63 SUV,Sport utility vehicle: Standard,4.0,8,A9,Z,19.5,15.5,17.7,16,415,1,3
+2023,Mercedes-Benz,AMG G 63 4x4 Squared SUV,Sport utility vehicle: Standard,4.0,8,A9,Z,23.5,19.4,21.7,13,508,1,3
+2023,Mercedes-Benz,AMG GLA 35 4MATIC SUV,Station wagon: Small,2.0,4,AM8,Z,10.7,8.0,9.5,30,222,5,5
+2023,Mercedes-Benz,AMG GLA 45 4MATIC SUV,Station wagon: Small,2.0,4,AM8,Z,12.2,9.3,10.9,26,256,5,3
+2023,Mercedes-Benz,AMG GLB 35 4MATIC SUV,Station wagon: Mid-size,2.0,4,AM8,Z,11.3,8.7,10.2,28,238,5,5
+2023,Mercedes-Benz,AMG GLC 43 4MATIC Coupe,Sport utility vehicle: Small,3.0,6,A9,Z,13.5,9.7,11.8,24,274,4,5
+2023,Mercedes-Benz,AMG GLE 53 4MATIC+ SUV,Sport utility vehicle: Standard,3.0,6,A9,Z,13.4,10.7,12.2,23,284,4,6
+2023,Mercedes-Benz,AMG GLE 53 4MATIC+ Coupe,Sport utility vehicle: Standard,3.0,6,A9,Z,13.1,10.4,11.9,24,277,4,6
+2023,Mercedes-Benz,AMG GLE 63 S 4MATIC+ SUV,Sport utility vehicle: Standard,4.0,8,A9,Z,16.3,12.6,14.7,19,343,3,5
+2023,Mercedes-Benz,AMG GLE 63 S 4MATIC+ Coupe,Sport utility vehicle: Standard,4.0,8,A9,Z,16.5,12.8,14.8,19,347,3,5
+2023,Mercedes-Benz,AMG GLS 63 4MATIC+ SUV,Sport utility vehicle: Standard,4.0,8,A9,Z,16.6,13.2,15.1,19,354,3,5
+2023,Mercedes-Benz,AMG GT 53 4MATIC+ Coupe,Compact,3.0,6,A9,Z,12.3,9.8,11.2,25,262,4,6
+2023,Mercedes-Benz,AMG GT 63 4MATIC+ Coupe,Compact,4.0,8,A9,Z,16.1,11.4,14.0,20,329,3,5
+2023,Mercedes-Benz,AMG GT 63 S 4MATIC+ Coupe,Compact,4.0,8,A9,Z,16.1,11.4,14.0,20,329,3,5
+2023,Mercedes-Benz,AMG SL 63 4MATIC+ Roadster,Minicompact,4.0,8,A9,Z,18.2,11.8,15.3,18,360,2,5
+2023,Mercedes-Benz,C 300 4MATIC Cabriolet,Subcompact,2.0,4,A9,Z,11.0,7.8,9.5,30,223,5,6
+2023,Mercedes-Benz,C 300 4MATIC Coupe,Subcompact,2.0,4,A9,Z,10.7,7.6,9.3,30,218,5,6
+2023,Mercedes-Benz,C 300 4MATIC Sedan,Compact,2.0,4,A9,Z,9.8,7.1,8.6,33,201,6,7
+2023,Mercedes-Benz,CLA 250 4MATIC Coupe,Compact,2.0,4,AM7,Z,9.8,7.0,8.6,33,200,6,5
+2023,Mercedes-Benz,CLS 450 4MATIC Coupe,Compact,3.0,6,A9,Z,11.0,8.2,9.7,29,229,5,6
+2023,Mercedes-Benz,E 350 4MATIC Sedan,Mid-size,2.0,4,A9,Z,11.2,8.0,9.7,29,228,5,6
+2023,Mercedes-Benz,E 450 4MATIC Cabriolet,Subcompact,3.0,6,A9,Z,11.2,8.4,9.9,29,233,5,6
+2023,Mercedes-Benz,E 450 4MATIC Coupe,Subcompact,3.0,6,A9,Z,11.0,8.0,9.6,29,225,5,6
+2023,Mercedes-Benz,E 450 4MATIC Sedan,Mid-size,3.0,6,A9,Z,10.6,7.8,9.3,30,219,5,6
+2023,Mercedes-Benz,E 450 4MATIC All-Terrain Wagon,Station wagon: Mid-size,3.0,6,A9,Z,11.4,8.3,10.0,28,233,5,6
+2023,Mercedes-Benz,G 550 SUV,Sport utility vehicle: Standard,4.0,8,A9,Z,17.9,14.4,16.3,17,383,2,3
+2023,Mercedes-Benz,GLA 250 4MATIC SUV,Sport utility vehicle: Small,2.0,4,AM8,Z,10.3,7.3,9.0,31,210,5,5
+2023,Mercedes-Benz,GLB 250 4MATIC SUV,Sport utility vehicle: Small,2.0,4,AM8,Z,10.7,7.9,9.4,30,221,5,5
+2023,Mercedes-Benz,GLC 300 4MATIC SUV,Sport utility vehicle: Small,2.0,4,A9,Z,10.4,9.1,9.8,29,229,5,7
+2023,Mercedes-Benz,GLC 300 4MATIC Coupe,Sport utility vehicle: Small,2.0,4,A9,Z,12.2,9.2,10.9,26,253,5,6
+2023,Mercedes-Benz,GLE 350 4MATIC SUV,Sport utility vehicle: Standard,2.0,4,A9,Z,12.1,9.6,11.0,26,257,5,5
+2023,Mercedes-Benz,GLE 450 4MATIC SUV,Sport utility vehicle: Standard,3.0,6,A9,Z,11.5,9.3,10.5,27,245,5,6
+2023,Mercedes-Benz,GLE 450 4MATIC Coupe,Sport utility vehicle: Standard,3.0,6,A9,Z,11.7,9.2,10.5,27,247,5,6
+2023,Mercedes-Benz,GLS 450 4MATIC SUV,Sport utility vehicle: Standard,3.0,6,A9,Z,12.7,10.1,11.6,24,270,4,6
+2023,Mercedes-Benz,GLS 580 4MATIC SUV,Sport utility vehicle: Standard,4.0,8,A9,Z,14.9,11.2,13.2,21,310,4,5
+2023,Mercedes-Benz,GLS 600 4MATIC Maybach SUV,Sport utility vehicle: Standard,4.0,8,A9,Z,16.8,12.4,14.8,19,346,3,5
+2023,Mercedes-Benz,Maybach S 580 4MATIC Sedan,Full-size,4.0,8,A9,Z,15.9,9.6,13.0,22,305,4,5
+2023,Mercedes-Benz,Maybach S 680 4MATIC Sedan,Full-size,6.0,12,A9,Z,20.5,11.5,16.4,17,384,2,3
+2023,Mercedes-Benz,Metris Cargo Van,Special purpose vehicle,2.0,4,A9,Z,12.6,10.4,11.6,24,271,4,6
+2023,Mercedes-Benz,Metris Cargo Van LWB,Special purpose vehicle,2.0,4,A9,Z,12.6,10.4,11.6,24,271,4,6
+2023,Mercedes-Benz,Metris Passenger Van,Special purpose vehicle,2.0,4,A9,Z,13.4,10.8,12.3,23,285,4,6
+2023,Mercedes-Benz,S 500 4MATIC Sedan,Full-size,3.0,6,A9,Z,12.0,8.4,10.4,27,242,5,6
+2023,Mercedes-Benz,S 580 4MATIC Sedan,Full-size,4.0,8,A9,Z,14.3,9.5,12.2,23,285,4,5
+2024,BMW,228i xDrive Gran Coupe,Compact,2.0,4,AS8,Z,10.2,7.2,8.8,32,205,5,7
+2024,BMW,230i xDrive Coupe,Subcompact,2.0,4,AS8,Z,9.6,7.1,8.4,34,195,6,3
+2024,BMW,330i xDrive Sedan,Compact,2.0,4,AS8,Z,9.8,7.0,8.6,33,200,6,7
+2024,BMW,430i xDrive Cabriolet,Subcompact,2.0,4,AS8,Z,10.0,7.1,8.7,32,203,5,7
+2024,BMW,430i xDrive Coupe,Subcompact,2.0,4,AS8,Z,10.0,7.1,8.7,32,203,5,7
+2024,BMW,530i xDrive Sedan,Mid-size,2.0,4,AS8,Z,8.7,6.8,7.9,36,182,6,7
+2024,BMW,760i xDrive Sedan,Full-size,4.4,8,AS8,Z,13.3,9.3,11.5,25,265,4,5
+2024,BMW,ALPINA B8 Gran Coupe,Mid-size,4.4,8,AS8,Z,14.1,9.9,12.2,23,284,4,3
+2024,BMW,ALPINA XB7,Sport utility vehicle: Standard,4.4,8,AS8,Z,15.2,11.6,13.6,21,314,4,5
+2024,BMW,M2 Coupe,Subcompact,3.0,6,AS8,Z,14.6,10.3,12.7,22,294,4,5
+2024,BMW,M2 Coupe,Subcompact,3.0,6,M6,Z,14.3,10.0,12.4,23,287,4,5
+2024,BMW,M240i xDrive Coupe,Subcompact,3.0,6,AS8,Z,10.4,7.4,9.0,31,210,5,5
+2024,BMW,M3 Sedan,Compact,3.0,6,M6,Z,14.7,10.1,12.6,22,293,4,5
+2024,BMW,M3 Competition M xDrive Sedan,Compact,3.0,6,AS8,Z,14.6,10.5,12.7,22,296,4,5
+2024,BMW,M3 CS Sedan,Compact,3.0,6,AS8,Z,15.3,10.6,13.2,21,305,4,5
+2024,BMW,M340i xDrive Sedan,Compact,3.0,6,AS8,Z,10.4,7.5,9.1,31,212,5,5
+2024,BMW,M4 Competition M xDrive Cabriolet,Subcompact,3.0,6,AS8,Z,15.1,10.4,12.9,22,301,4,5
+2024,BMW,M4 Competition M xDrive Coupe,Subcompact,3.0,6,AS8,Z,14.6,10.5,12.7,22,296,4,5
+2024,BMW,M4 Coupe,Subcompact,3.0,6,M6,Z,14.7,10.1,12.6,22,293,4,5
+2024,BMW,M440i xDrive Cabriolet,Subcompact,3.0,6,AS8,Z,10.4,7.5,9.1,31,211,5,5
+2024,BMW,M440i xDrive Coupe,Subcompact,3.0,6,AS8,Z,10.7,7.5,9.3,30,216,5,5
+2024,BMW,M440i xDrive Gran Coupe,Compact,3.0,6,AS8,Z,10.7,7.8,9.4,30,218,5,5
+2024,BMW,M8 Competition Cabriolet,Subcompact,4.4,8,AS8,Z,16.0,10.9,13.7,21,321,3,3
+2024,BMW,M8 Competition Coupe,Subcompact,4.4,8,AS8,Z,16.0,10.9,13.7,21,321,3,3
+2024,BMW,M8 Competition Gran Coupe,Mid-size,4.4,8,AS8,Z,16.0,10.9,13.7,21,321,3,3
+2024,BMW,M850i xDrive Cabriolet,Subcompact,4.4,8,AS8,Z,14.1,9.9,12.2,23,284,4,3
+2024,BMW,M850i xDrive Coupe,Subcompact,4.4,8,AS8,Z,14.1,9.9,12.2,23,284,4,3
+2024,BMW,M850i xDrive Gran Coupe,Mid-size,4.4,8,AS8,Z,14.1,9.9,12.2,23,284,4,3
+2024,BMW,X1 xDrive28i,Sport utility vehicle: Small,2.0,4,AM7,Z,9.6,7.0,8.4,34,195,6,8
+2024,BMW,X1 M35i xDrive,Sport utility vehicle: Small,2.0,4,AM7,Z,10.1,7.6,9.0,31,208,5,6
+2024,BMW,X2 xDrive28i,Sport utility vehicle: Small,2.0,4,AM7,Z,9.7,7.1,8.5,33,198,6,8
+2024,BMW,X2 M35i xDrive,Sport utility vehicle: Small,2.0,4,AM7,Z,10.3,7.3,8.9,32,207,5,6
+2024,BMW,X3 xDrive30i,Sport utility vehicle: Small,2.0,4,AS8,Z,11.0,8.4,9.9,29,229,5,7
+2024,BMW,X3 M,Sport utility vehicle: Small,3.0,6,AS8,Z,15.7,11.7,13.9,20,323,3,3
+2024,BMW,X3 M Competition,Sport utility vehicle: Small,3.0,6,AS8,Z,15.7,11.7,13.9,20,323,3,3
+2024,BMW,X3 M40i,Sport utility vehicle: Small,3.0,6,AS8,Z,10.9,9.0,10.1,28,235,5,5
+2024,BMW,X4 xDrive30i,Sport utility vehicle: Small,2.0,4,AS8,Z,11.0,8.4,9.9,29,229,5,7
+2024,BMW,X4 M,Sport utility vehicle: Small,3.0,6,AS8,Z,15.7,11.7,13.9,20,323,3,3
+2024,BMW,X4 M Competition,Sport utility vehicle: Small,3.0,6,AS8,Z,15.7,11.7,13.9,20,323,3,3
+2024,BMW,X4 M40i,Sport utility vehicle: Small,3.0,6,AS8,Z,10.9,9.0,10.1,28,235,5,5
+2024,BMW,X5 xDrive40i,Sport utility vehicle: Standard,3.0,6,AS8,Z,10.1,8.7,9.4,30,218,5,7
+2024,BMW,X5 M Competition,Sport utility vehicle: Standard,4.4,8,AS8,Z,18.2,12.9,15.8,18,366,2,5
+2024,BMW,X5 M60i,Sport utility vehicle: Standard,4.4,8,AS8,Z,13.8,10.5,12.3,23,285,4,5
+2024,BMW,X6 xDrive40i,Sport utility vehicle: Standard,3.0,6,AS8,Z,10.3,8.9,9.6,29,223,5,7
+2024,BMW,X6 M Competition,Sport utility vehicle: Standard,4.4,8,AS8,Z,18.2,12.9,15.8,18,366,2,5
+2024,BMW,X6 M60i,Sport utility vehicle: Standard,4.4,8,AS8,Z,13.8,10.5,12.3,23,285,4,5
+2024,BMW,X7 xDrive40i,Sport utility vehicle: Standard,3.0,6,AS8,Z,11.3,9.5,10.5,27,243,5,7
+2024,BMW,X7 M60i,Sport utility vehicle: Standard,4.4,8,AS8,Z,14.3,11.1,12.9,22,299,4,5
+2024,BMW,Z4 sDrive30i,Two-seater,2.0,4,AS8,Z,9.4,7.1,8.4,34,194,6,7
+2024,BMW,Z4 M40i,Two-seater,3.0,6,AS8,Z,10.4,7.5,9.1,31,210,5,5
+2024,Mercedes-Benz,AMG C 43 4MATIC Sedan,Compact,2.0,4,A9,Z,11.8,8.4,10.3,27,242,5,5
+2024,Mercedes-Benz,AMG CLA 35 4MATIC Coupe,Compact,2.0,4,AM8,Z,10.8,8.0,9.6,29,225,5,6
+2024,Mercedes-Benz,AMG CLA 45 S 4MATIC Coupe,Compact,2.0,4,AM8,Z,11.9,8.3,10.3,27,242,5,3
+2024,Mercedes-Benz,AMG CLE 53 4MATIC+ Coupe,Subcompact,3.0,6,A9,Z,11.7,8.7,10.4,27,243,5,7
+2024,Mercedes-Benz,AMG G 63 SUV,Sport utility vehicle: Standard,4.0,8,A9,Z,19.5,15.5,17.7,16,415,1,3
+2024,Mercedes-Benz,AMG G 63 4x4 Squared SUV,Sport utility vehicle: Standard,4.0,8,A9,Z,23.5,19.4,21.7,13,508,1,3
+2024,Mercedes-Benz,AMG GLA 35 4MATIC Coupe,Station wagon: Small,2.0,4,AM8,Z,11.0,8.6,9.9,29,230,5,6
+2024,Mercedes-Benz,AMG GLB 35 4MATIC Coupe,Station wagon: Small,2.0,4,AM8,Z,11.5,9.0,10.4,27,238,5,6
+2024,Mercedes-Benz,AMG GLC 43 4MATIC Coupe,Sport utility vehicle: Small,2.0,4,A9,Z,12.7,9.8,11.4,25,269,4,5
+2024,Mercedes-Benz,AMG GLC 43 4MATIC+ SUV,Sport utility vehicle: Small,2.0,4,A9,Z,12.6,9.4,11.2,25,263,4,5
+2024,Mercedes-Benz,AMG GLE 53 4MATIC+ SUV,Sport utility vehicle: Standard,3.0,6,A9,Z,12.9,10.2,11.7,24,273,4,7
+2024,Mercedes-Benz,AMG GLE 53 4MATIC+ Coupe,Sport utility vehicle: Standard,3.0,6,A9,Z,12.8,10.1,11.6,24,273,4,7
+2024,Mercedes-Benz,AMG GLE 63 S 4MATIC+ SUV,Sport utility vehicle: Standard,4.0,8,A9,Z,16.6,12.3,14.7,19,343,3,5
+2024,Mercedes-Benz,AMG GLE 63 S 4MATIC+ Coupe,Sport utility vehicle: Standard,4.0,8,A9,Z,16.6,12.3,14.7,19,343,3,5
+2024,Mercedes-Benz,AMG GLS 63 4MATIC+ SUV,Sport utility vehicle: Standard,4.0,8,A9,Z,16.8,13.2,15.2,19,357,2,5
+2024,Mercedes-Benz,AMG GT 53 4MATIC+ ,Compact,3.0,6,A9,Z,12.3,9.8,11.2,25,262,4,6
+2024,Mercedes-Benz,AMG GT 55 4MATIC+ Coupe,Subcompact,4.0,8,A9,Z,17.8,11.6,15.0,19,353,3,5
+2024,Mercedes-Benz,AMG GT 63 4MATIC+ ,Compact,4.0,8,A9,Z,15.3,11.3,13.5,21,318,3,5
+2024,Mercedes-Benz,AMG GT 63 4MATIC+ Coupe,Subcompact,4.0,8,A9,Z,17.8,11.6,15.0,19,353,3,5
+2024,Mercedes-Benz,AMG SL 55 4MATIC+ Roadster,Minicompact,4.0,8,A9,Z,17.0,11.3,14.5,19,340,3,5
+2024,Mercedes-Benz,AMG SL 63 4MATIC+ Roadster,Minicompact,4.0,8,A9,Z,17.0,11.3,14.5,19,340,3,5
+2024,Mercedes-Benz,C 300 4MATIC Sedan,Compact,2.0,4,A9,Z,10.1,7.1,8.8,32,206,5,8
+2024,Mercedes-Benz,CLA 250 4MATIC Coupe,Compact,2.0,4,AM8,Z,9.5,6.8,8.3,34,194,6,6
+2024,Mercedes-Benz,CLE 300 4MATIC Cabriolet,Subcompact,2.0,4,A9,Z,10.1,7.3,8.9,32,209,5,8
+2024,Mercedes-Benz,CLE 300 4MATIC Coupe,Subcompact,2.0,4,A9,Z,9.9,7.0,8.6,33,201,5,8
+2024,Mercedes-Benz,E 350 4MATIC Sedan,Mid-size,2.0,4,A9,Z,9.9,7.1,8.6,33,203,5,8
+2024,Mercedes-Benz,E 450 4MATIC Sedan,Mid-size,3.0,6,A9,Z,10.8,7.7,9.4,30,221,5,7
+2024,Mercedes-Benz,G 550 SUV,Sport utility vehicle: Standard,4.0,8,A9,Z,17.9,14.4,16.3,17,383,2,3
+2024,Mercedes-Benz,GLA 250 4MATIC SUV,Sport utility vehicle: Small,2.0,4,AM8,Z,9.7,7.3,8.6,33,202,5,6
+2024,Mercedes-Benz,GLB 250 4MATIC SUV,Sport utility vehicle: Small,2.0,4,AM8,Z,9.9,7.4,8.7,32,205,5,6
+2024,Mercedes-Benz,GLC 300 4MATIC SUV,Sport utility vehicle: Small,2.0,4,A9,Z,10.0,7.8,9.0,31,212,5,7
+2024,Mercedes-Benz,GLC 300 4MATIC Coupe,Sport utility vehicle: Small,2.0,4,A9,Z,10.0,7.8,9.0,31,212,5,7
+2024,Mercedes-Benz,GLE 350 4MATIC SUV,Sport utility vehicle: Standard,2.0,4,A9,Z,11.5,8.6,10.2,28,238,5,7
+2024,Mercedes-Benz,GLE 450 4MATIC SUV,Sport utility vehicle: Standard,3.0,6,A9,Z,12.1,9.2,10.8,26,252,5,7
+2024,Mercedes-Benz,GLE 450 4MATIC Coupe,Sport utility vehicle: Standard,3.0,6,A9,Z,12.2,9.0,10.8,26,252,5,7
+2024,Mercedes-Benz,GLS 450 4MATIC SUV,Sport utility vehicle: Standard,3.0,6,A9,Z,12.7,9.6,11.3,25,266,4,7
+2024,Mercedes-Benz,GLS 580 4MATIC SUV,Sport utility vehicle: Standard,4.0,8,A9,Z,16.8,11.9,14.6,19,344,3,5
+2024,Mercedes-Benz,GLS 600 4MATIC Maybach SUV,Sport utility vehicle: Standard,4.0,8,A9,Z,17.8,12.8,15.6,18,364,2,5
+2024,Mercedes-Benz,S 500 4MATIC Sedan,Full-size,3.0,6,A9,Z,11.3,7.7,9.7,29,226,5,7
+2024,Mercedes-Benz,S 580 4MATIC Sedan,Full-size,4.0,8,A9,Z,13.0,8.6,11.0,26,260,4,5
+2024,Mercedes-Benz,Maybach S 580 4MATIC Sedan,Full-size,4.0,8,A9,Z,13.3,8.9,11.3,25,266,4,5
+2024,Mercedes-Benz,Maybach S 680 4MATIC Sedan,Full-size,6.0,12,A9,Z,19.8,11.7,16.1,18,379,2,3
+2025,BMW,228 xDrive Gran Coupe,Compact,2.0,4,AM7,Z,9.0,6.3,7.7,37,179,6,7
+2025,BMW,230i xDrive Coupe,Subcompact,2.0,4,AS8,Z,9.5,7.1,8.4,34,194,6,2
+2025,BMW,330i xDrive Sedan,Compact,2.0,4,AS8,Z,8.9,6.9,8.0,35,185,6,7
+2025,BMW,430i xDrive Cabriolet,Subcompact,2.0,4,AS8,Z,9.6,7.1,8.5,33,196,6,7
+2025,BMW,430i xDrive Coupe,Subcompact,2.0,4,AS8,Z,8.7,6.9,7.9,36,183,6,7
+2025,BMW,430i xDrive Gran Coupe,Compact,2.0,4,AS8,Z,9.3,6.9,8.2,34,190,6,7
+2025,BMW,530i xDrive Sedan,Mid-size,2.0,4,AS8,Z,8.7,6.8,7.9,36,182,6,6
+2025,BMW,760i xDrive Sedan,Full-size,4.4,8,AS8,Z,13.3,9.3,11.5,25,265,4,4
+2025,BMW,ALPINA XB7,Sport utility vehicle: Standard,4.4,8,AS8,Z,15.2,11.6,13.6,21,314,4,4
+2025,BMW,M2 Coupe,Subcompact,3.0,6,AS8,Z,14.4,10.3,12.5,23,290,4,4
+2025,BMW,M2 Coupe,Subcompact,3.0,6,M6,Z,14.7,10.0,12.6,22,294,4,4
+2025,BMW,M240i xDrive Coupe,Subcompact,3.0,6,AS8,Z,10.3,7.3,9.0,31,209,5,4
+2025,BMW,M3 Sedan,Compact,3.0,6,M6,Z,14.7,10.1,12.6,22,293,4,4
+2025,BMW,M3 Competition Sedan,Compact,3.0,6,AS8,Z,14.5,10.2,12.6,22,292,4,4
+2025,BMW,M3 Competition M xDrive Sedan,Compact,3.0,6,AS8,Z,14.9,10.3,12.8,22,296,4,4
+2025,BMW,M340i xDrive Sedan,Compact,3.0,6,AS8,Z,9.0,7.1,8.2,34,189,6,6
+2025,BMW,M4 Coupe,Subcompact,3.0,6,M6,Z,14.7,10.1,12.6,22,293,4,4
+2025,BMW,M4 Competition Coupe,Subcompact,3.0,6,AS8,Z,14.5,10.2,12.6,22,292,4,4
+2025,BMW,M4 Competition M xDrive Cabriolet,Subcompact,3.0,6,AS8,Z,14.9,10.5,12.9,22,297,4,4
+2025,BMW,M4 Competition M xDrive Coupe,Subcompact,3.0,6,AS8,Z,14.7,10.2,12.7,22,293,4,4
+2025,BMW,M4 CS Coupe,Subcompact,3.0,6,AS8,Z,15.0,10.3,12.9,22,297,4,4
+2025,BMW,M440i xDrive Cabriolet,Subcompact,3.0,6,AS8,Z,9.2,7.3,8.4,34,194,6,6
+2025,BMW,M440i xDrive Coupe,Subcompact,3.0,6,AS8,Z,8.9,7.1,8.1,35,187,6,6
+2025,BMW,M440i xDrive Gran Coupe,Compact,3.0,6,AS8,Z,9.4,7.6,8.6,33,199,6,6
+2025,BMW,M8 Competition Cabriolet,Subcompact,4.4,8,AS8,Z,16.1,10.9,13.8,20,321,3,2
+2025,BMW,M8 Competition Coupe,Subcompact,4.4,8,AS8,Z,16.1,10.9,13.8,20,321,3,2
+2025,BMW,M8 Competition Gran Coupe,Mid-size,4.4,8,AS8,Z,16.1,10.9,13.8,20,321,3,2
+2025,BMW,M850i xDrive Cabriolet,Subcompact,4.4,8,AS8,Z,14.2,9.9,12.2,23,285,4,2
+2025,BMW,M850i xDrive Coupe,Subcompact,4.4,8,AS8,Z,14.1,9.9,12.2,23,284,4,2
+2025,BMW,M850i xDrive Gran Coupe,Mid-size,4.4,8,AS8,Z,14.2,9.9,12.2,23,285,4,2
+2025,BMW,X1 xDrive28i,Sport utility vehicle: Small,2.0,4,AM7,Z,9.7,7.1,8.5,33,198,6,7
+2025,BMW,X1 M35i,Sport utility vehicle: Small,2.0,4,AM7,Z,10.1,7.6,9.0,31,208,5,5
+2025,BMW,X2 xDrive28i,Sport utility vehicle: Small,2.0,4,AM7,Z,9.7,7.1,8.5,33,198,6,7
+2025,BMW,X2 M35i,Sport utility vehicle: Small,2.0,4,AM7,Z,10.3,7.3,8.9,32,206,5,5
+2025,BMW,X3 xDrive30i,Sport utility vehicle: Small,2.0,4,AS8,Z,8.8,7.1,8.1,35,186,6,7
+2025,BMW,X3 M50i xDrive,Sport utility vehicle: Small,3.0,6,AS8,Z,9.3,7.7,8.6,33,199,6,6
+2025,BMW,X4 xDrive30i,Sport utility vehicle: Small,2.0,4,AS8,Z,11.1,8.6,9.9,29,231,5,6
+2025,BMW,X4 M,Sport utility vehicle: Small,3.0,6,AS8,Z,15.7,11.7,13.9,20,323,3,2
+2025,BMW,X4 M Competition,Sport utility vehicle: Small,3.0,6,AS8,Z,15.7,11.7,13.9,20,323,3,2
+2025,BMW,X4 M40i xDrive,Sport utility vehicle: Small,3.0,6,AS8,Z,10.9,9.0,10.0,28,234,5,4
+2025,BMW,X5 xDrive40i,Sport utility vehicle: Standard,3.0,6,AS8,Z,10.1,8.7,9.4,30,218,5,6
+2025,BMW,X5 M Competition,Sport utility vehicle: Standard,4.4,8,AS8,Z,18.2,12.9,15.8,18,366,2,4
+2025,BMW,X5 M60i xDrive,Sport utility vehicle: Standard,4.4,8,AS8,Z,13.8,10.5,12.3,23,285,4,4
+2025,BMW,X6 xDrive40i,Sport utility vehicle: Standard,3.0,6,AS8,Z,10.3,8.9,9.6,29,223,5,6
+2025,BMW,X6 M Competition,Sport utility vehicle: Standard,4.4,8,AS8,Z,18.2,12.9,15.8,18,366,2,4
+2025,BMW,X6 M60i xDrive,Sport utility vehicle: Standard,4.4,8,AS8,Z,13.8,10.5,12.3,23,285,4,4
+2025,BMW,X7 xDrive40i,Sport utility vehicle: Standard,3.0,6,AS8,Z,11.6,9.6,10.7,26,247,5,6
+2025,BMW,X7 M60i xDrive,Sport utility vehicle: Standard,4.4,8,AS8,Z,14.7,11.6,13.3,21,310,4,4
+2025,BMW,Z4 sDrive30i,Two-seater,2.0,4,AS8,Z,9.4,7.1,8.4,34,194,6,6
+2025,BMW,Z4 M40i,Two-seater,3.0,6,AS8,Z,10.4,8.0,9.3,30,215,5,4
+2025,BMW,Z4 M40i,Two-seater,3.0,6,M6,Z,12.6,8.9,10.9,26,253,5,4
+2025,Mercedes-Benz,AMG C 43 4MATIC Sedan,Compact,2.0,4,A9,Z,12.5,8.8,10.8,26,252,5,4
+2025,Mercedes-Benz,AMG CLA 35 4MATIC Coupe,Compact,2.0,4,AM8,Z,10.8,8.0,9.6,29,225,5,5
+2025,Mercedes-Benz,AMG CLA 45 S 4MATIC Coupe,Compact,2.0,4,AM8,Z,11.7,8.4,10.2,28,236,5,2
+2025,Mercedes-Benz,AMG CLE 53 4MATIC+ Cabriolet,Subcompact,3.0,6,A9,Z,12.1,9.2,10.8,26,253,5,6
+2025,Mercedes-Benz,AMG CLE 53 4MATIC+ Coupe,Subcompact,3.0,6,A9,Z,11.7,8.7,10.4,27,243,5,6
+2025,Mercedes-Benz,AMG G 63 SUV,Sport utility vehicle: Standard,4.0,8,A9,Z,17.4,14.7,16.2,17,378,2,4
+2025,Mercedes-Benz,AMG GLA 35 4MATIC Coupe,Station wagon: Small,2.0,4,AM8,Z,10.9,8.4,9.8,29,230,5,5
+2025,Mercedes-Benz,AMG GLB 35 4MATIC Coupe,Station wagon: Small,2.0,4,AM8,Z,11.5,8.9,10.3,27,242,5,5
+2025,Mercedes-Benz,AMG GLC 43 4MATIC+ SUV,Station wagon: Small,2.0,4,A9,Z,12.6,9.4,11.2,25,263,4,4
+2025,Mercedes-Benz,AMG GLC 43 4MATIC Coupe,Station wagon: Small,2.0,4,A9,Z,12.7,9.8,11.4,25,269,4,4
+2025,Mercedes-Benz,AMG GLE 53 4MATIC+ SUV,Sport utility vehicle: Standard,3.0,6,A9,Z,12.9,10.2,11.7,24,273,4,6
+2025,Mercedes-Benz,AMG GLE 53 4MATIC+ Coupe,Sport utility vehicle: Standard,3.0,6,A9,Z,13.2,10.7,12.1,23,282,4,6
+2025,Mercedes-Benz,AMG GLE 63 S 4MATIC+ SUV,Sport utility vehicle: Standard,4.0,8,A9,Z,17.2,12.8,15.2,19,355,3,4
+2025,Mercedes-Benz,AMG GLE 63 S 4MATIC+ Coupe,Sport utility vehicle: Standard,4.0,8,A9,Z,17.2,12.8,15.2,19,355,3,4
+2025,Mercedes-Benz,AMG GLS 63 4MATIC+ SUV,Sport utility vehicle: Standard,4.0,8,A9,Z,17.2,13.1,15.3,18,359,2,4
+2025,Mercedes-Benz,AMG GT 53 4MATIC+ ,Compact,3.0,6,A9,Z,12.3,10.0,11.3,25,263,4,5
+2025,Mercedes-Benz,AMG GT 55 4MATIC+ Coupe,Subcompact,4.0,8,A9,Z,19.7,12.6,16.5,17,387,2,4
+2025,Mercedes-Benz,AMG GT 63 4MATIC+,Compact,4.0,8,A9,Z,15.3,11.3,13.5,21,318,3,4
+2025,Mercedes-Benz,AMG GT 63 4MATIC+ Coupe,Subcompact,4.0,8,A9,Z,19.7,12.6,16.5,17,387,2,4
+2025,Mercedes-Benz,AMG GT 63 PRO 4MATIC+ Coupe,Subcompact,4.0,8,A9,Z,19.7,12.6,16.5,17,387,2,4
+2025,Mercedes-Benz,AMG SL 43 4MATIC Roadster,Minicompact,2.0,4,A9,Z,12.2,8.8,10.7,26,249,5,4
+2025,Mercedes-Benz,AMG SL 55 4MATIC+ Roadster,Minicompact,4.0,8,A9,Z,18.2,11.3,15.1,19,347,3,4
+2025,Mercedes-Benz,AMG SL 63 4MATIC+ Roadster,Minicompact,4.0,8,A9,Z,18.2,11.3,15.1,19,347,3,4
+2025,Mercedes-Benz,C 300 4MATIC Sedan,Compact,2.0,4,A9,Z,10.0,7.1,8.7,32,204,5,7
+2025,Mercedes-Benz,CLA 250 4MATIC Coupe,Compact,2.0,4,AM8,Z,9.3,6.9,8.2,34,193,6,6
+2025,Mercedes-Benz,CLE 300 4MATIC Cabriolet,Subcompact,2.0,4,A9,Z,10.4,7.4,9.1,31,211,5,7
+2025,Mercedes-Benz,CLE 300 4MATIC Coupe,Subcompact,2.0,4,A9,Z,9.8,7.1,8.6,33,201,6,7
+2025,Mercedes-Benz,CLE 450 4MATIC Cabriolet,Subcompact,3.0,6,A9,Z,10.2,7.4,8.9,32,210,5,6
+2025,Mercedes-Benz,CLE 450 4MATIC Coupe,Subcompact,3.0,6,A9,Z,10.4,7.1,9.0,31,211,5,6
+2025,Mercedes-Benz,E 350 4MATIC Sedan,Mid-size,2.0,4,A9,Z,10.0,7.2,8.7,32,203,5,7
+2025,Mercedes-Benz,E 450 4MATIC Sedan,Mid-size,3.0,6,A9,Z,10.8,7.7,9.4,30,221,5,6
+2025,Mercedes-Benz,G 550 SUV,Sport utility vehicle: Standard,3.0,6,A9,Z,13.6,12.4,13.1,22,305,4,6
+2025,Mercedes-Benz,GLA 250 4MATIC SUV,Sport utility vehicle: Small,2.0,4,AM8,Z,9.4,7.1,8.4,34,196,6,6
+2025,Mercedes-Benz,GLB 250 4MATIC SUV,Sport utility vehicle: Small,2.0,4,AM8,Z,9.8,7.2,8.6,33,201,5,6
+2025,Mercedes-Benz,GLC 300 4MATIC SUV,Sport utility vehicle: Small,2.0,4,A9,Z,10.0,7.6,8.9,32,210,5,6
+2025,Mercedes-Benz,GLC 300 4MATIC Coupe,Sport utility vehicle: Small,2.0,4,A9,Z,10.1,7.7,9.0,31,210,5,6
+2025,Mercedes-Benz,GLE 350 4MATIC SUV,Sport utility vehicle: Standard,2.0,4,A9,Z,12.2,9.2,10.8,26,255,5,6
+2025,Mercedes-Benz,GLE 450 4MATIC SUV,Sport utility vehicle: Standard,3.0,6,A9,Z,12.5,9.6,11.2,25,264,4,6
+2025,Mercedes-Benz,GLE 450 4MATIC Coupe,Sport utility vehicle: Standard,3.0,6,A9,Z,12.5,9.6,11.2,25,264,4,6
+2025,Mercedes-Benz,GLS 450 4MATIC SUV,Sport utility vehicle: Standard,3.0,6,A9,Z,12.7,9.6,11.3,25,266,4,6
+2025,Mercedes-Benz,GLS 580 4MATIC SUV,Sport utility vehicle: Standard,4.0,8,A9,Z,16.6,12.1,14.6,19,340,3,4
+2025,Mercedes-Benz,GLS 600 4MATIC Maybach SUV,Sport utility vehicle: Standard,4.0,8,A9,Z,17.9,12.9,15.6,18,365,2,4
+2025,Mercedes-Benz,Maybach S 580 4MATIC Sedan,Full-size,4.0,8,A9,Z,14.6,8.8,12.0,24,280,4,4
+2025,Mercedes-Benz,Maybach S 680 4MATIC Sedan,Full-size,6.0,12,A9,Z,19.8,11.6,16.1,18,375,2,2
+2025,Mercedes-Benz,S 500 4MATIC Sedan,Full-size,3.0,6,A9,Z,11.2,7.7,9.6,29,226,5,6
+2025,Mercedes-Benz,S 580 4MATIC Sedan,Full-size,4.0,8,A9,Z,14.1,9.4,12.0,24,278,4,4
+2026,BMW,230i xDrive Coupe,Subcompact,2.0,4,AS8,Z,9.5,7.1,8.4,34,194,5,2
+2026,BMW,330i xDrive Sedan,Compact,2.0,4,AS8,Z,8.9,6.9,8.0,35,185,6,7
+2026,BMW,430i xDrive Cabriolet,Subcompact,2.0,4,AS8,Z,9.6,7.1,8.5,33,196,5,7
+2026,BMW,430i xDrive Coupe,Subcompact,2.0,4,AS8,Z,8.7,6.9,7.9,36,183,6,7
+2026,BMW,530i xDrive Sedan,Mid-size,2.0,4,AS8,Z,8.7,6.8,7.9,36,182,6,6
+2026,BMW,760i xDrive Sedan,Full-size,4.4,8,AS8,Z,13.3,9.3,11.5,25,265,4,4
+2026,BMW,ALPINA XB7,Sport utility vehicle: Standard,4.4,8,AS8,Z,15.2,11.6,13.6,21,314,3,4
+2026,BMW,M2 Coupe,Subcompact,3.0,6,AS8,Z,14.4,10.3,12.5,23,290,4,4
+2026,BMW,M2 Coupe,Subcompact,3.0,6,M6,Z,14.7,10.0,12.6,22,294,4,4
+2026,BMW,M2 Coupe CS,Subcompact,3.0,6,AS8,Z,14.7,10.2,12.7,22,295,4,4
+2026,BMW,M240i xDrive Coupe,Subcompact,3.0,6,AS8,Z,10.3,7.3,9.0,31,209,5,4
+2026,BMW,M3 Sedan,Compact,3.0,6,M6,Z,14.7,10.1,12.6,22,293,4,4
+2026,BMW,M3 Competition Sedan,Compact,3.0,6,AS8,Z,14.9,10.3,12.8,22,296,4,4
+2026,BMW,M340i xDrive Sedan,Compact,3.0,6,AS8,Z,9.0,7.1,8.2,34,189,6,6
+2026,BMW,M4 Coupe,Subcompact,3.0,6,M6,Z,14.7,10.1,12.6,22,293,4,4
+2026,BMW,M4 Competition Coupe,Subcompact,3.0,6,AS8,Z,14.7,10.2,12.7,22,293,4,4
+2026,BMW,M4 Competition Cabriolet,Subcompact,3.0,6,AS8,Z,14.9,10.5,12.9,22,297,4,4
+2026,BMW,M440i xDrive Cabriolet,Subcompact,3.0,6,AS8,Z,9.2,7.3,8.4,34,194,6,6
+2026,BMW,M440i xDrive Coupe,Subcompact,3.0,6,AS8,Z,8.9,7.1,8.1,35,187,6,6
+2026,BMW,M850i xDrive Cabriolet,Subcompact,4.4,8,AS8,Z,14.1,9.9,12.2,23,284,4,2
+2026,BMW,M850i xDrive Coupe,Subcompact,4.4,8,AS8,Z,14.1,9.9,12.2,23,284,4,2
+2026,BMW,M850i xDrive Gran Coupe,Mid-size,4.4,8,AS8,Z,14.1,9.9,12.2,23,284,4,2
+2026,BMW,X1 xDrive28i,Sport utility vehicle: Small,2.0,4,AM7,Z,9.5,6.9,8.3,34,193,6,7
+2026,BMW,X1 M35i xDrive,Sport utility vehicle: Small,2.0,4,AM7,Z,9.9,7.4,8.8,32,203,5,5
+2026,BMW,X2 xDrive28i,Sport utility vehicle: Small,2.0,4,AM7,Z,9.7,6.9,8.4,34,195,5,7
+2026,BMW,X2 M35i xDrive,Sport utility vehicle: Small,2.0,4,AM7,Z,10.3,7.5,9.1,31,210,5,5
+2026,BMW,X3 30 xDrive,Sport utility vehicle: Small,2.0,4,AS8,Z,8.8,7.1,8.1,35,186,6,7
+2026,BMW,X3 M50 xDrive,Sport utility vehicle: Small,3.0,6,AS8,Z,9.3,7.7,8.6,33,199,5,6
+2026,BMW,X5 xDrive40i,Sport utility vehicle: Standard,3.0,6,AS8,Z,10.1,8.7,9.4,30,218,5,6
+2026,BMW,X5 M60i xDrive,Sport utility vehicle: Standard,4.4,8,AS8,Z,13.8,10.5,12.3,23,285,4,4
+2026,BMW,X5 M Competition,Sport utility vehicle: Standard,4.4,8,AS8,Z,18.2,12.9,15.8,18,366,2,4
+2026,BMW,X6 xDrive40i,Sport utility vehicle: Standard,3.0,6,AS8,Z,10.9,8.9,10.0,28,231,5,6
+2026,BMW,X6 M60i xDrive,Sport utility vehicle: Standard,4.4,8,AS8,Z,13.8,10.5,12.3,23,285,4,4
+2026,BMW,X6 M Competition,Sport utility vehicle: Standard,4.4,8,AS8,Z,18.2,12.9,15.8,18,366,2,4
+2026,BMW,X7 xDrive40i,Sport utility vehicle: Standard,3.0,6,AS8,Z,11.3,9.3,10.4,27,240,5,6
+2026,BMW,X7 M60i xDrive,Sport utility vehicle: Standard,4.4,8,AS8,Z,14.7,11.6,13.3,21,310,3,4
+2026,BMW,Z4 sDrive30i Roadster,Two-seater,2.0,4,AS8,Z,9.4,7.1,8.4,34,194,6,6
+2026,BMW,Z4 M40i Roadster,Two-seater,3.0,6,AS8,Z,10.4,8.0,9.3,30,215,5,4
+2026,BMW,Z4 M40i Roadster,Two-seater,3.0,6,M6,Z,12.6,8.9,10.9,26,253,4,4
+2026,Mercedes-Benz,AMG C 43 4MATIC Sedan,Compact,2.0,4,A9,Z,12.5,8.8,10.8,26,252,4,4
+2026,Mercedes-Benz,AMG CLA 35 4MATIC Coupe,Compact,2.0,4,AM8,Z,10.8,8.1,9.6,29,224,5,5
+2026,Mercedes-Benz,AMG CLA 45 S 4MATIC+ Coupe,Compact,2.0,4,AM8,Z,11.7,8.4,10.2,28,236,5,2
+2026,Mercedes-Benz,AMG CLE 53 4MATIC Cabriolet,Subcompact,3.0,6,A9,Z,12.1,9.2,10.8,26,253,4,6
+2026,Mercedes-Benz,AMG CLE 53 4MATIC Coupe,Subcompact,3.0,6,A9,Z,11.7,8.7,10.4,27,243,5,6
+2026,Mercedes-Benz,AMG G 63 SUV ,Sport utility vehicle: Standard,4.0,8,A9,Z,17.4,14.7,16.2,17,383,2,4
+2026,Mercedes-Benz,AMG GLA 35 4MATIC Coupe,Station wagon: Small,2.0,4,AM8,Z,10.5,7.9,9.3,30,218,5,5
+2026,Mercedes-Benz,AMG GLC 43 4MATIC Coupe,Station wagon: Small,2.0,4,A9,Z,12.3,9.2,10.9,26,256,4,4
+2026,Mercedes-Benz,AMG GLC 43 4MATIC+ SUV,Station wagon: Small,2.0,4,A9,Z,12.1,9.0,10.8,26,252,4,4
+2026,Mercedes-Benz,AMG GLE 53 4MATIC+ Coupe,Sport utility vehicle: Standard,3.0,6,A9,Z,13.2,10.7,12.1,23,282,4,6
+2026,Mercedes-Benz,AMG GLE 53 4MATIC+ SUV,Sport utility vehicle: Standard,3.0,6,A9,Z,12.9,10.2,11.7,24,273,4,6
+2026,Mercedes-Benz,AMG GLE 63 S 4MATIC+ Coupe,Sport utility vehicle: Standard,4.0,8,A9,Z,15.8,11.4,13.8,20,325,3,4
+2026,Mercedes-Benz,AMG GLE 63 S 4MATIC+ SUV,Sport utility vehicle: Standard,4.0,8,A9,Z,16.1,11.5,14.0,20,328,3,4
+2026,Mercedes-Benz,AMG GLS 63 4MATIC+ SUV,Sport utility vehicle: Standard,4.0,8,A9,Z,16.2,11.7,14.2,20,334,3,4
+2026,Mercedes-Benz,AMG GT 43 Coupe,Subcompact,2.0,4,A9,Z,12.4,8.8,10.8,26,252,4,4
+2026,Mercedes-Benz,AMG GT 53 4MATIC+ 4-Door Coupe,Station wagon: Small,3.0,6,A9,Z,12.3,10.0,11.3,25,263,4,5
+2026,Mercedes-Benz,AMG GT 55 4MATIC+ Coupe,Subcompact,4.0,8,A9,Z,17.4,11.5,14.8,19,346,3,4
+2026,Mercedes-Benz,AMG GT 63 4MATIC+ 4-Door Coupe,Station wagon: Small,4.0,8,A9,Z,15.3,11.3,13.5,21,318,3,4
+2026,Mercedes-Benz,AMG GT 63 4MATIC+ Coupe,Subcompact,4.0,8,A9,Z,18.0,11.5,15.1,19,346,3,4
+2026,Mercedes-Benz,AMG GT 63 PRO 4MATIC+ Coupe,Subcompact,4.0,8,A9,Z,17.4,11.5,14.8,19,346,3,4
+2026,Mercedes-Benz,AMG SL 43 4MATIC Roadster,Minicompact,2.0,4,A9,Z,12.2,8.8,10.7,26,249,4,4
+2026,Mercedes-Benz,AMG SL 55 4MATIC+ Roadster,Minicompact,4.0,8,A9,Z,17.3,11.4,14.7,19,343,3,4
+2026,Mercedes-Benz,AMG SL 63 4MATIC+ Roadster,Minicompact,4.0,8,A9,Z,17.3,11.4,14.7,19,347,3,4
+2026,Mercedes-Benz,Maybach AMG SL 680 4MATIC Roadster,Two-seater,4.0,8,A9,Z,17.0,11.3,14.5,19,347,3,4
+2026,Mercedes-Benz,C 300 Sedan,Compact,2.0,4,A9,Z,9.3,6.7,8.1,35,191,6,7
+2026,Mercedes-Benz,C 300 4MATIC Sedan,Compact,2.0,4,A9,Z,10.0,7.1,8.7,32,204,5,7
+2026,Mercedes-Benz,CLA 250 Coupe,Compact,2.0,4,AM8,Z,9.0,6.5,7.9,36,185,6,6
+2026,Mercedes-Benz,CLA 250 4MATIC Coupe,Compact,2.0,4,AM8,Z,9.3,6.9,8.2,34,193,6,6
+2026,Mercedes-Benz,CLE 300 4MATIC Cabriolet,Subcompact,2.0,4,A9,Z,9.9,7.1,8.6,33,202,5,7
+2026,Mercedes-Benz,CLE 300 4MATIC Coupe,Subcompact,2.0,4,A9,Z,9.9,7.2,8.7,32,203,5,7
+2026,Mercedes-Benz,CLE 450 4MATIC Cabriolet,Subcompact,3.0,6,A9,Z,10.2,7.4,8.9,32,210,5,6
+2026,Mercedes-Benz,CLE 450 4MATIC Coupe,Subcompact,3.0,6,A9,Z,10.4,7.3,9.0,31,211,5,6
+2026,Mercedes-Benz,E 350 4MATIC Sedan,Mid-size,2.0,4,A9,Z,10.0,7.2,8.7,32,203,5,7
+2026,Mercedes-Benz,E 450 4MATIC Sedan,Mid-size,3.0,6,A9,Z,10.8,7.7,9.4,30,221,5,6
+2026,Mercedes-Benz,E 450 4MATIC All-Terrain Wagon,Station wagon: Mid-size,3.0,6,A9,Z,10.6,7.6,9.3,30,218,5,6
+2026,Mercedes-Benz,G 550 SUV,Sport utility vehicle: Standard,3.0,6,A9,Z,13.6,12.4,13.1,22,305,3,6
+2026,Mercedes-Benz,GLA 250 SUV,Station wagon: Small,2.0,4,AM8,Z,9.2,6.9,8.2,34,190,6,6
+2026,Mercedes-Benz,GLA 250 4MATIC SUV,Sport utility vehicle: Small,2.0,4,AM8,Z,9.4,7.1,8.4,34,196,5,6
+2026,Mercedes-Benz,GLB 250 SUV,Station wagon: Small,2.0,4,AM8,Z,9.3,7.0,8.3,34,193,6,6
+2026,Mercedes-Benz,GLB 250 4MATIC SUV,Sport utility vehicle: Small,2.0,4,AM8,Z,9.8,7.2,8.6,33,201,5,6
+2026,Mercedes-Benz,GLC 300 4MATIC Coupe,Sport utility vehicle: Small,2.0,4,A9,Z,10.1,7.7,9.0,31,210,5,6
+2026,Mercedes-Benz,GLC 300 4MATIC SUV,Sport utility vehicle: Small,2.0,4,A9,Z,9.9,7.7,8.9,32,208,5,6
+2026,Mercedes-Benz,GLE 350 4MATIC SUV,Sport utility vehicle: Standard,2.0,4,A9,Z,12.2,9.2,10.8,26,255,4,6
+2026,Mercedes-Benz,GLE 450 4MATIC Coupe,Sport utility vehicle: Standard,3.0,6,A9,Z,12.5,9.6,11.2,25,264,4,6
+2026,Mercedes-Benz,GLE 450 4MATIC SUV,Sport utility vehicle: Standard,3.0,6,A9,Z,12.5,9.6,11.2,25,264,4,6
+2026,Mercedes-Benz,GLE 580 4MATIC SUV,Sport utility vehicle: Standard,4.0,8,A9,Z,15.2,11.2,13.4,21,314,3,4
+2026,Mercedes-Benz,GLS 450 4MATIC SUV,Sport utility vehicle: Standard,3.0,6,A9,Z,12.7,9.6,11.3,25,266,4,6
+2026,Mercedes-Benz,GLS 580 4MATIC SUV,Sport utility vehicle: Standard,4.0,8,A9,Z,16.6,11.5,14.3,20,335,3,4
+2026,Mercedes-Benz,Maybach GLS 600 4MATIC SUV,Sport utility vehicle: Standard,4.0,8,A9,Z,17.7,12.9,15.6,18,364,2,4
+2026,Mercedes-Benz,S 500 4MATIC Sedan,Full-size,3.0,6,A9,Z,11.6,8.2,10.1,28,236,5,6
+2026,Mercedes-Benz,S 580 4MATIC Sedan,Full-size,4.0,8,A9,Z,14.1,9.4,12.0,24,208,5,4
+2026,Mercedes-Benz,Maybach S 580 4MATIC Sedan,Full-size,4.0,8,A9,Z,14.6,8.8,12.0,24,280,4,4
+2026,Mercedes-Benz,Maybach S 680 4MATIC Sedan,Full-size,6.0,12,A9,Z,19.8,11.6,16.1,18,375,2,2

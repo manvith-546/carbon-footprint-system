@@ -1,0 +1,194 @@
+{
+  "rows_used": 1341,
+  "rows_by_source": {
+    "Kaggle 2014-2020": 852,
+    "Canada 2021-2026": 489
+  },
+  "model_variants": 1014,
+  "spec": {
+    "best": "Gradient Boosting",
+    "results": [
+      {
+        "model": "Linear Regression",
+        "cv_r2": 0.7999,
+        "test_r2": 0.7523,
+        "test_mae": 18.72,
+        "test_rmse": 25.64
+      },
+      {
+        "model": "Random Forest",
+        "cv_r2": 0.8391,
+        "test_r2": 0.727,
+        "test_mae": 17.77,
+        "test_rmse": 26.91
+      },
+      {
+        "model": "Gradient Boosting",
+        "cv_r2": 0.8548,
+        "test_r2": 0.796,
+        "test_mae": 15.71,
+        "test_rmse": 23.27
+      }
+    ]
+  },
+  "full": {
+    "best": "Linear Regression",
+    "results": [
+      {
+        "model": "Linear Regression",
+        "cv_r2": 0.9946,
+        "test_r2": 0.9922,
+        "test_mae": 2.34,
+        "test_rmse": 4.55
+      },
+      {
+        "model": "Random Forest",
+        "cv_r2": 0.99,
+        "test_r2": 0.9485,
+        "test_mae": 4.07,
+        "test_rmse": 11.69
+      },
+      {
+        "model": "Gradient Boosting",
+        "cv_r2": 0.9889,
+        "test_r2": 0.9737,
+        "test_mae": 3.01,
+        "test_rmse": 8.35
+      }
+    ]
+  },
+  "feature_importance": {
+    "cylinders": 0.5758,
+    "engine_l": 0.1875,
+    "vehicle_class_SUV - STANDARD": 0.0685,
+    "performance_no": 0.0182,
+    "performance_yes": 0.0163,
+    "transmission_AM7": 0.0159,
+    "awd_yes": 0.0125,
+    "awd_no": 0.0116,
+    "transmission_AS8": 0.0112,
+    "vehicle_class_SPECIAL PURPOSE VEHICLE": 0.011
+  },
+  "kmeans": {
+    "k": 3,
+    "silhouette_by_k": {
+      "2": 0.582,
+      "3": 0.531,
+      "4": 0.534,
+      "5": 0.54,
+      "6": 0.558
+    },
+    "tiers": [
+      {
+        "tier": "Low",
+        "cars": 292,
+        "engine_l": 2.0,
+        "fuel_comb": 9.2,
+        "co2_g_km": 214.2
+      },
+      {
+        "tier": "Medium",
+        "cars": 348,
+        "engine_l": 3.0,
+        "fuel_comb": 10.6,
+        "co2_g_km": 247.3
+      },
+      {
+        "tier": "High",
+        "cars": 374,
+        "engine_l": 4.5,
+        "fuel_comb": 13.8,
+        "co2_g_km": 322.0
+      }
+    ]
+  },
+  "classifier": {
+    "best": "Random Forest",
+    "results": [
+      {
+        "model": "Logistic Regression",
+        "cv_f1": 0.9835,
+        "test_accuracy": 0.929,
+        "test_f1": 0.9375
+      },
+      {
+        "model": "Random Forest",
+        "cv_f1": 0.987,
+        "test_accuracy": 0.929,
+        "test_f1": 0.9373
+      },
+      {
+        "model": "Gradient Boosting",
+        "cv_f1": 0.9844,
+        "test_accuracy": 0.9349,
+        "test_f1": 0.9427
+      }
+    ],
+    "labels": [
+      "Low",
+      "Medium",
+      "High"
+    ],
+    "confusion_matrix": [
+      [
+        40,
+        0,
+        0
+      ],
+      [
+        0,
+        52,
+        11
+      ],
+      [
+        0,
+        1,
+        65
+      ]
+    ],
+    "test_cars": 169
+  },
+  "categories": {
+    "make": [
+      "BMW",
+      "Mercedes-Benz"
+    ],
+    "vehicle_class": [
+      "COMPACT",
+      "FULL-SIZE",
+      "MID-SIZE",
+      "MINICOMPACT",
+      "SPECIAL PURPOSE VEHICLE",
+      "STATION WAGON - MID-SIZE",
+      "STATION WAGON - SMALL",
+      "SUBCOMPACT",
+      "SUV - SMALL",
+      "SUV - STANDARD",
+      "TWO-SEATER"
+    ],
+    "transmission": [
+      "A6",
+      "A7",
+      "A8",
+      "A9",
+      "AM7",
+      "AM8",
+      "AS7",
+      "AS8",
+      "M6"
+    ],
+    "fuel_type": [
+      "D",
+      "E",
+      "Z"
+    ],
+    "performance": [
+      "no",
+      "yes"
+    ],
+    "awd": [
+      "no",
+      "yes"
+    ]
+  }
+}

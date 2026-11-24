@@ -1,0 +1,96 @@
+/* Printable report: a light A4 sheet in the same type as the website (Bodoni Moda + Manrope). */
+:root {
+  --ink: #15191d;
+  --muted: #5d676e;
+  --line: #dfe3e6;
+  --gold: #a8792a;        /* darker than the website's gold so it reads on paper */
+  --city: #c9973f;
+  --hwy: #3d7fb8;
+  --green: #1d7a52;
+  --display: "Bodoni Moda", Didot, "Bodoni 72", Georgia, serif;
+  --ui: Manrope, "Segoe UI", Arial, Helvetica, sans-serif;
+}
+* { box-sizing: border-box; }
+html { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+body { margin: 0; background: #e9ecee; color: var(--ink); font: 13px/1.45 var(--ui); font-variant-numeric: tabular-nums; }
+h1, h2, h3, p, ul, dl, dd { margin: 0; padding: 0; }
+
+.toolbar { position: sticky; top: 0; z-index: 2; display: flex; align-items: center; gap: 18px; padding: 12px max(16px, calc((100vw - 210mm) / 2)); background: #10161b; color: #e8e6e1; }
+.toolbar p { flex: 1; font-size: 13.5px; color: #aab3b9; }
+.toolbar b { color: #e8e6e1; }
+.toolbar .back { color: #e3b866; font-weight: 600; text-decoration: none; }
+.toolbar .back:hover { text-decoration: underline; }
+.toolbar button { height: 40px; padding: 0 18px; border: 0; border-radius: 999px; background: #e3b866; color: #17130b; font: 700 14px var(--ui); cursor: pointer; }
+.toolbar button:focus-visible, .toolbar a:focus-visible { outline: 2px solid #e3b866; outline-offset: 3px; }
+
+.sheet { width: 210mm; min-height: 297mm; margin: 24px auto 48px; padding: 13mm 15mm 11mm; background: #fff; box-shadow: 0 10px 40px rgba(0, 0, 0, .15); display: flex; flex-direction: column; gap: 5mm; }
+
+.head { display: flex; justify-content: space-between; align-items: flex-end; gap: 12px; padding-bottom: 4mm; border-bottom: 2px solid var(--ink); }
+.head h1 { font: 400 30px/1 var(--display); }
+.head p { color: var(--muted); font-size: 12px; margin-top: 4px; }
+.head .date { font-weight: 600; color: var(--ink); }
+
+.car .make { color: var(--gold); font-weight: 700; font-size: 13px; }
+.car h2 { font: 400 34px/1.05 var(--display); margin-top: 2px; }
+.car .specline { color: var(--muted); margin-top: 5px; font-size: 12.5px; }
+
+.inputs { display: grid; grid-template-columns: repeat(4, 1fr); border: 1px solid var(--line); border-radius: 8px; }
+.inputs div { padding: 8px 12px; border-left: 1px solid var(--line); display: flex; flex-direction: column; }
+.inputs div:first-child { border-left: 0; }
+.inputs span { color: var(--muted); font-size: 11.5px; font-weight: 600; }
+.inputs b { font-size: 14px; }
+.inputs small { color: var(--muted); font-size: 11.5px; }
+
+.result { display: grid; grid-template-columns: 1fr 1.25fr; gap: 8mm; align-items: center; }
+.total b { font: 400 58px/1 var(--display); letter-spacing: -.02em; }
+.total > span { display: block; color: var(--muted); font-size: 14px; }
+.total .band { margin-top: 8px; display: inline-block; white-space: nowrap; padding: 4px 10px; border-radius: 999px; background: #f3efe6; font-weight: 600; font-size: 12.5px; }
+.stats { display: grid; grid-template-columns: 1fr 1fr; gap: 10px 18px; }
+.stats dt { color: var(--muted); font-size: 11.5px; font-weight: 600; }
+.stats dd { font: 400 20px/1.2 var(--display); }
+
+h3 { font: 400 19px/1.2 var(--display); margin-bottom: 8px; }
+.split .bar { display: flex; gap: 2px; height: 12px; }
+.split .bar i { display: block; min-width: 3px; }
+.split .bar i:first-child { border-radius: 6px 2px 2px 6px; }
+.split .bar i:last-child { border-radius: 2px 6px 6px 2px; }
+.city { background: var(--city); }
+.hwy { background: var(--hwy); }
+.split .legend { display: flex; gap: 24px; margin-top: 7px; font-weight: 600; font-size: 12.5px; }
+.split .legend i { display: inline-block; width: 10px; height: 10px; border-radius: 2px; margin-right: 7px; vertical-align: -1px; }
+
+.likes ul { list-style: none; display: grid; grid-template-columns: repeat(3, 1fr); gap: 14px; }
+.likes li { padding-left: 12px; border-left: 3px solid var(--green); }
+.likes b { display: block; font: 400 22px/1.15 var(--display); }
+.likes span { color: var(--muted); font-size: 12px; }
+
+.tips table { width: 100%; border-collapse: collapse; }
+.tips th { text-align: left; color: var(--muted); font-size: 11.5px; font-weight: 600; padding: 0 8px 6px; border-bottom: 1px solid var(--ink); }
+.tips td { padding: 7px 8px; border-bottom: 1px solid var(--line); vertical-align: top; }
+.tips td b { display: block; font-weight: 700; }
+.tips td span { display: block; color: var(--muted); font-size: 11.5px; line-height: 1.4; }
+.tips .num { text-align: right; white-space: nowrap; font-weight: 700; }
+.tips td.num:nth-child(3) { color: var(--green); }
+.tips .n { width: 22px; color: var(--muted); }
+.tips .note { color: var(--muted); font-size: 11.5px; margin-top: 5px; }
+
+.foot { margin-top: auto; padding-top: 4mm; border-top: 1px solid var(--line); color: var(--muted); font-size: 10.5px; line-height: 1.45; display: flex; flex-direction: column; gap: 3px; }
+
+@media screen and (max-width: 230mm) {
+  .sheet { width: auto; min-height: 0; margin: 12px; padding: 22px 18px; }
+  .toolbar { flex-wrap: wrap; padding: 12px 16px; }
+  .toolbar p { order: 3; flex-basis: 100%; }
+  .inputs { grid-template-columns: 1fr 1fr; }
+  .inputs div:nth-child(3) { border-left: 0; }
+  .inputs div:nth-child(n+3) { border-top: 1px solid var(--line); }
+  .result, .likes ul { grid-template-columns: 1fr; }
+  .total b { font-size: 52px; }
+}
+
+@page { size: A4; margin: 0; }
+@media print {
+  body { background: #fff; }
+  .toolbar { display: none; }
+  .sheet { width: 210mm; height: 297mm; min-height: 0; margin: 0; box-shadow: none; overflow: hidden; }
+  /* report.js shrinks the sheet (zoom) when a long list of tips would not fit on one page */
+}

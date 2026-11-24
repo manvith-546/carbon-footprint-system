@@ -1,0 +1,304 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Car Carbon Footprint | BMW &amp; Mercedes-Benz</title>
+<meta name="description" content="Estimate the yearly CO2, fuel use and fuel cost of a BMW or Mercedes-Benz car, compare it with electric models and get personalised recommendations to reduce it. Student mini project.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Ccircle cx='16' cy='16' r='14' fill='%2307090c' stroke='%23e3b866' stroke-width='2'/%3E%3Cpath d='M16 7l2.6 6.4L25 16l-6.4 2.6L16 25l-2.6-6.4L7 16l6.4-2.6z' fill='%23e3b866'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="fonts/fonts.css">
+<link rel="stylesheet" href="app.css">
+</head>
+<body>
+<a class="skip" href="#estimate">Skip to the estimator</a>
+
+<header class="topbar">
+  <a class="brand" href="#top" aria-label="Back to the top">
+    <span class="mark" aria-hidden="true">✦</span>
+    <span class="brand-text"><b>Car Carbon Footprint</b><small>BMW &amp; Mercedes-Benz</small></span>
+  </a>
+  <nav class="nav" aria-label="Sections">
+    <a href="#estimate">Estimate</a>
+    <a href="#tips">How to cut it</a>
+    <a href="#electric">Go electric</a>
+    <a href="#compare">Compare</a>
+    <a href="#history">History</a>
+    <a href="#database">All models</a>
+    <a href="details.html">Details</a>
+  </nav>
+  <label class="top-search">
+    <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="6.5"/><path d="M16 16l4 4"/></svg>
+    <span class="sr">Search all models</span>
+    <input id="quickSearch" type="search" placeholder="Search a model" autocomplete="off">
+  </label>
+</header>
+
+<main id="top">
+  <section class="intro">
+    <p class="kicker">Carbon Footprint Estimation and Recommendation System</p>
+    <h1>What does your car put into the air each year?</h1>
+    <p class="lede">Pick your BMW or Mercedes-Benz, tell us how far you drive or what you spend on fuel, and see your yearly CO₂, what it compares to and the changes that would cut it most.</p>
+  </section>
+
+  <!-- Configurator: inputs on the left, the car on stage on the right -->
+  <section class="studio" id="estimate">
+    <form class="config" id="config" autocomplete="off" onsubmit="return false">
+      <div class="brand-switch" role="radiogroup" aria-label="Brand">
+        <label><input type="radio" name="brand" value="BMW"><span><b>BMW</b><small id="nBMW"></small></span></label>
+        <label><input type="radio" name="brand" value="Mercedes-Benz"><span><b>Mercedes-Benz</b><small id="nMerc"></small></span></label>
+      </div>
+
+      <div class="combo">
+        <label for="modelInput">Model</label>
+        <div class="combo-box">
+          <input id="modelInput" role="combobox" aria-autocomplete="list" aria-expanded="false" aria-controls="modelList" spellcheck="false">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 10l5 5 5-5"/></svg>
+        </div>
+        <ul id="modelList" class="combo-list" role="listbox" aria-label="Models" hidden></ul>
+      </div>
+
+      <fieldset class="mode">
+        <legend>What do you know?</legend>
+        <div class="mode-switch">
+          <label><input type="radio" name="mode" value="distance"><span>How far I drive</span></label>
+          <label><input type="radio" name="mode" value="fuel"><span>My fuel bill</span></label>
+        </div>
+      </fieldset>
+
+      <div class="slider" id="kmBlock">
+        <div class="slider-head"><label for="km_month">Distance you drive</label><output id="o_km" for="km_month"></output></div>
+        <input type="range" id="km_month" min="100" max="5000" step="50">
+        <div class="ends"><span>100 km</span><span>5,000 km a month</span></div>
+      </div>
+
+      <div class="slider" id="spendBlock" hidden>
+        <div class="slider-head"><label for="fuel_spend_month">Fuel you buy</label><output id="o_spend" for="fuel_spend_month"></output></div>
+        <input type="range" id="fuel_spend_month" min="1000" max="50000" step="500">
+        <div class="ends"><span>₹1,000</span><span>₹50,000 a month</span></div>
+        <p class="derived" id="o_derived"></p>
+      </div>
+
+      <div class="slider">
+        <div class="slider-head"><label for="city_share">Where you drive</label><output id="o_city" for="city_share"></output></div>
+        <input type="range" id="city_share" min="0" max="100" step="5">
+        <div class="ends"><span>All highway</span><span>All city</span></div>
+      </div>
+
+      <div class="price">
+        <label for="fuel_price">Fuel price</label>
+        <div class="stepper">
+          <button type="button" data-for="fuel_price" data-step="-1" aria-label="One rupee less">−</button>
+          <span class="rs" aria-hidden="true">₹</span><input type="number" id="fuel_price" min="50" max="200" step="1" inputmode="numeric">
+          <button type="button" data-for="fuel_price" data-step="1" aria-label="One rupee more">+</button>
+        </div>
+        <span class="per">per litre</span>
+      </div>
+
+      <button type="button" class="text-btn" id="resetBtn">Reset to the sample car</button>
+    </form>
+
+    <div class="stage" aria-live="polite">
+      <div class="stage-top">
+        <span id="tierTag" class="tag"></span>
+        <span id="stageClass" class="stage-class"></span>
+      </div>
+      <div class="showcase">
+        <div class="car-image hero-car" id="heroCar"></div>
+        <div class="car-image reflection" id="heroReflect" aria-hidden="true"></div>
+      </div>
+      <div class="stage-info">
+        <div class="stage-name"><p id="stageMake"></p><h2 id="stageModel"></h2></div>
+        <dl class="specs" id="specs"></dl>
+      </div>
+    </div>
+  </section>
+
+  <!-- Result -->
+  <section class="results" aria-live="polite" aria-label="Your result">
+    <article class="card gauge-card">
+      <h2 class="card-h">Your yearly CO₂</h2>
+      <svg id="gauge" viewBox="0 0 240 142" role="img" aria-labelledby="gTotal gUnit"></svg>
+      <div class="gauge-read"><b id="gTotal">0</b><span id="gUnit">tonnes of CO₂ a year</span></div>
+      <p class="gauge-band" id="gBand"></p>
+      <div class="gauge-actions">
+        <button type="button" class="btn small" id="saveBtn">Save to my history</button>
+        <a class="outline small" id="reportLink" href="report.html" target="_blank" rel="noopener">Printable report</a>
+      </div>
+      <p class="saved-note" id="savedNote" role="status"></p>
+    </article>
+
+    <div class="tiles">
+      <article class="card tile"><span class="t-label">Fuel burned</span><b id="tLitres"></b><span class="t-sub" id="tLitresSub">litres a year</span></article>
+      <article class="card tile"><span class="t-label">Spent on fuel</span><b id="tCost"></b><span class="t-sub">a year at your fuel price</span></article>
+      <article class="card tile"><span class="t-label">With your driving</span><b id="tCo2"></b><span class="t-sub" id="tCo2Sub"></span></article>
+      <article class="card tile"><span class="t-label">Compared with all models</span><b id="tRank"></b><span class="t-sub" id="tRankSub"></span>
+        <div class="rank-bar" aria-hidden="true"><i id="rankMark"></i></div></article>
+    </div>
+
+    <article class="card split-card">
+      <div class="split-head"><h2 class="card-h">Where it comes from</h2><p class="muted" id="splitNote"></p></div>
+      <div class="split-bar" id="splitBar" aria-hidden="true"></div>
+      <div class="split-legend" id="splitLegend"></div>
+    </article>
+
+    <article class="card likes-card">
+      <h2 class="card-h">That is about the same as</h2>
+      <div class="likes" id="likes"></div>
+    </article>
+  </section>
+
+  <!-- Recommendations -->
+  <section class="section" id="tips">
+    <div class="section-head">
+      <h2>How to cut it</h2>
+      <p>Ranked by the CO₂ each change would save you in a year. The savings overlap, so they do not simply add up.</p>
+    </div>
+    <div class="tips" id="tipList"></div>
+  </section>
+
+  <!-- Electric cars -->
+  <section class="section" id="electric">
+    <div class="section-head with-actions">
+      <div>
+        <h2>Go electric</h2>
+        <p id="evLead">Electric BMW and Mercedes-Benz models in your class, charged from India's grid.</p>
+      </div>
+      <div class="price compact">
+        <label for="elec_price">Electricity price</label>
+        <div class="stepper">
+          <button type="button" data-for="elec_price" data-step="-0.5" aria-label="Fifty paise less">−</button>
+          <span class="rs" aria-hidden="true">₹</span><input type="number" id="elec_price" min="2" max="30" step="0.5" inputmode="decimal">
+          <button type="button" data-for="elec_price" data-step="0.5" aria-label="Fifty paise more">+</button>
+        </div>
+        <span class="per">per kWh</span>
+      </div>
+    </div>
+    <div class="alt-row" id="evCards"></div>
+    <p class="fine" id="evNote"></p>
+  </section>
+
+  <!-- Cleaner cars in the same class -->
+  <section class="section" id="alternatives">
+    <div class="section-head">
+      <h2>Cleaner petrol and diesel cars in your class</h2>
+      <p id="altLead"></p>
+    </div>
+    <div class="alt-row" id="altCards"></div>
+  </section>
+
+  <!-- Compare two cars -->
+  <section class="section" id="compare">
+    <div class="section-head">
+      <h2>Compare two cars</h2>
+      <p id="cmpLead">Any two models, petrol, diesel or electric, driven the way you drive.</p>
+    </div>
+    <div class="card cmp-card">
+      <div class="cmp-pick">
+        <div class="combo" data-side="a">
+          <label for="cmpA">First car</label>
+          <div class="combo-box"><input id="cmpA" role="combobox" aria-autocomplete="list" aria-expanded="false" aria-controls="cmpListA" spellcheck="false">
+            <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 10l5 5 5-5"/></svg></div>
+          <ul id="cmpListA" class="combo-list" role="listbox" aria-label="First car" hidden></ul>
+        </div>
+        <button type="button" class="swap" id="cmpSwap" aria-label="Swap the two cars" title="Swap">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 7h12l-3.5-3.5M17 17H5l3.5 3.5"/></svg></button>
+        <div class="combo" data-side="b">
+          <label for="cmpB">Second car</label>
+          <div class="combo-box"><input id="cmpB" role="combobox" aria-autocomplete="list" aria-expanded="false" aria-controls="cmpListB" spellcheck="false">
+            <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 10l5 5 5-5"/></svg></div>
+          <ul id="cmpListB" class="combo-list" role="listbox" aria-label="Second car" hidden></ul>
+        </div>
+      </div>
+      <div class="cmp-cars" id="cmpCars"></div>
+      <p class="cmp-verdict" id="cmpVerdict"></p>
+      <div class="cmp-bars" id="cmpBars"></div>
+      <div class="table-wrap"><table class="cmp-table" id="cmpTable"></table></div>
+    </div>
+  </section>
+
+  <!-- History -->
+  <section class="section" id="history">
+    <div class="section-head with-actions">
+      <div><h2>My history</h2><p id="histLead">Save an estimate now and again to see whether your footprint is going down.</p></div>
+      <div class="actions">
+        <button class="btn small" id="saveBtn2" type="button">Save this estimate</button>
+        <button class="outline small" id="clearHist" type="button">Delete all</button>
+      </div>
+    </div>
+    <div class="hist-grid">
+      <article class="card hist-chart-card">
+        <div class="hist-head"><h3 class="card-h">Yearly CO₂ at each save</h3><p class="muted" id="histChange"></p></div>
+        <div class="hist-chart" id="histChart"></div>
+      </article>
+      <article class="card hist-list-card">
+        <ol class="hist-list" id="histList"></ol>
+      </article>
+    </div>
+    <p class="fine" id="histWhere"></p>
+  </section>
+
+  <!-- Database -->
+  <section class="section" id="database">
+    <div class="section-head with-actions">
+      <div><h2>All models</h2><p>Every BMW and Mercedes-Benz petrol and diesel variant in the data, lowest CO₂ first.</p></div>
+      <div class="actions">
+        <button class="outline" id="exportCsv" type="button">Export filtered CSV</button>
+        <button class="outline" id="exportAll" type="button">Export all</button>
+      </div>
+    </div>
+    <div class="card db-card">
+      <div class="filters">
+        <label class="field grow"><span>Search</span><input id="searchBox" type="search" placeholder="Model name, for example X5 or C 300"></label>
+        <label class="field"><span>Brand</span><select id="brandFilter"><option value="">Both brands</option><option>BMW</option><option>Mercedes-Benz</option></select></label>
+        <label class="field"><span>Model years</span><select id="yearFilter"><option value="">All years</option><option value="2024">2024 to 2026</option><option value="2021">2021 to 2023</option><option value="2014">2014 to 2020</option></select></label>
+        <label class="field"><span>Vehicle class</span><select id="classFilter"><option value="">All classes</option></select></label>
+        <label class="field"><span>Emission group</span><select id="tierFilter"><option value="">All groups</option><option>Low</option><option>Medium</option><option>High</option></select></label>
+        <button class="text-btn" id="clearFilters" type="button">Clear</button>
+      </div>
+      <p id="status" class="status" role="status"></p>
+      <div class="table-wrap">
+        <table id="dataTable">
+          <thead><tr>
+            <th><button data-sort="model">Model</button></th>
+            <th><button data-sort="year_to">Years</button></th>
+            <th>Class</th>
+            <th class="num"><button data-sort="engine_l">Engine</button></th>
+            <th>Fuel</th>
+            <th class="num">City L/100 km</th>
+            <th class="num">Highway L/100 km</th>
+            <th class="co2col"><button data-sort="co2_g_km" aria-sort="ascending">CO₂ g/km</button></th>
+            <th>Group</th>
+            <th><span class="sr">Actions</span></th>
+          </tr></thead>
+          <tbody id="tableBody"></tbody>
+        </table>
+      </div>
+      <button class="outline more" id="more" type="button">Show more models</button>
+    </div>
+  </section>
+</main>
+
+<footer class="footer">
+  <span>Carbon Footprint Estimation and Recommendation System · Student mini project</span>
+  <span>Ratings: CO2_Emissions_Canada.csv (2014–2020) and Government of Canada Fuel Consumption Ratings (2021–2026) · <a href="details.html">Data, models and method</a></span>
+  <span class="disclaimer">Not affiliated with, endorsed or sponsored by BMW AG or Mercedes-Benz Group AG. Brand names are used only to identify the cars analysed. Car pictures are generic illustrations.</span>
+</footer>
+
+<div class="modal" id="detailModal" role="dialog" aria-modal="true" aria-labelledby="modalTitle">
+  <div class="modal-box">
+    <button class="modal-close" id="modalClose" aria-label="Close">×</button>
+    <div class="car-image modal-car" id="modalCar"></div>
+    <p class="modal-make" id="modalMake"></p>
+    <h2 id="modalTitle"></h2>
+    <dl class="modal-specs" id="modalBody"></dl>
+    <div class="modal-actions"><button class="btn" id="modalUse" type="button">Use this car</button><button class="outline" id="modalDone" type="button">Close</button></div>
+  </div>
+</div>
+
+<div id="tooltip" class="tooltip" role="tooltip" hidden></div>
+
+<script src="data.js"></script>
+<script src="footprint.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

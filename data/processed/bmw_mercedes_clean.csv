@@ -1,0 +1,1342 @@
+make,model,vehicle_class,engine_l,cylinders,transmission,fuel_type,fuel_city,fuel_hwy,fuel_comb,co2_g_km,model_year,source,fuel_name,transmission_name,performance,awd
+BMW,320i,COMPACT,2.0,4,A8,Z,10.0,6.5,8.4,193,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,no
+BMW,320i,COMPACT,2.0,4,M6,Z,10.4,6.7,8.7,200,,Kaggle 2014-2020,Premium petrol,6-speed manual,no,no
+BMW,320i xDRIVE,COMPACT,2.0,4,A8,Z,10.2,7.0,8.8,202,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,328d xDRIVE,COMPACT,2.0,4,A8,D,7.6,5.5,6.7,181,,Kaggle 2014-2020,Diesel,8-speed automatic,no,yes
+BMW,328d xDRIVE TOURING,STATION WAGON - SMALL,2.0,4,A8,D,7.6,5.5,6.7,181,,Kaggle 2014-2020,Diesel,8-speed automatic,no,yes
+BMW,328i,COMPACT,2.0,4,A8,Z,10.0,6.5,8.4,193,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,no
+BMW,328i,COMPACT,2.0,4,M6,Z,10.4,6.7,8.7,200,,Kaggle 2014-2020,Premium petrol,6-speed manual,no,no
+BMW,328i xDRIVE,COMPACT,2.0,4,A8,Z,10.6,7.2,9.1,209,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,328i xDRIVE GRAN TURISMO,FULL-SIZE,2.0,4,A8,Z,10.6,7.2,9.1,209,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,328i xDRIVE TOURING,STATION WAGON - SMALL,2.0,4,A8,Z,10.6,7.2,9.1,209,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,335i,COMPACT,3.0,6,A8,Z,11.4,7.3,9.6,221,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,no
+BMW,335i,COMPACT,3.0,6,M6,Z,11.8,7.9,10.0,230,,Kaggle 2014-2020,Premium petrol,6-speed manual,no,no
+BMW,335i xDRIVE,COMPACT,3.0,6,A8,Z,11.7,7.8,9.9,228,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,335i xDRIVE,COMPACT,3.0,6,M6,Z,11.9,8.3,10.3,237,,Kaggle 2014-2020,Premium petrol,6-speed manual,no,yes
+BMW,335i xDRIVE GRAN TURISMO,FULL-SIZE,3.0,6,A8,Z,11.9,8.0,10.1,232,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,428i COUPE,COMPACT,2.0,4,A8,Z,10.0,6.5,8.4,193,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,no
+BMW,428i COUPE,COMPACT,2.0,4,M6,Z,10.4,6.7,8.7,200,,Kaggle 2014-2020,Premium petrol,6-speed manual,no,no
+BMW,428i xDRIVE COUPE,COMPACT,2.0,4,A8,Z,10.6,7.2,9.1,209,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,435i COUPE,COMPACT,3.0,6,A8,Z,11.4,7.3,9.6,221,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,no
+BMW,435i COUPE,COMPACT,3.0,6,M6,Z,11.8,7.9,10.0,230,,Kaggle 2014-2020,Premium petrol,6-speed manual,no,no
+BMW,435i xDRIVE COUPE,COMPACT,3.0,6,A8,Z,11.7,7.8,9.9,228,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,435i xDRIVE COUPE,COMPACT,3.0,6,M6,Z,11.9,8.3,10.3,237,,Kaggle 2014-2020,Premium petrol,6-speed manual,no,yes
+BMW,528i,MID-SIZE,2.0,4,A8,Z,10.2,7.0,8.8,202,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,no
+BMW,528i xDRIVE,MID-SIZE,2.0,4,A8,Z,10.6,7.2,9.1,209,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,535d xDRIVE,MID-SIZE,3.0,6,A8,D,9.2,6.4,7.9,213,,Kaggle 2014-2020,Diesel,8-speed automatic,no,yes
+BMW,535i xDRIVE,MID-SIZE,3.0,6,A8,Z,11.9,8.0,10.1,232,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,535i xDRIVE GRAN TURISMO,FULL-SIZE,3.0,6,A8,Z,12.5,8.6,10.7,246,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,550i xDRIVE,MID-SIZE,4.4,8,A8,Z,14.4,9.6,12.2,281,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,550i xDRIVE GRAN TURISMO,FULL-SIZE,4.4,8,A8,Z,15.0,9.8,12.7,292,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,640i xDRIVE GRAN COUPE,COMPACT,3.0,6,A8,Z,11.9,8.0,10.1,232,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,650i xDRIVE CABRIOLET,SUBCOMPACT,4.4,8,A8,Z,15.0,9.8,12.7,292,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,650i xDRIVE COUPE,COMPACT,4.4,8,A8,Z,14.4,9.6,12.2,281,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,650i xDRIVE GRAN COUPE,COMPACT,4.4,8,A8,Z,15.0,9.8,12.7,292,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,740Li xDRIVE,FULL-SIZE,3.0,6,A8,Z,12.5,8.6,10.7,246,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,750i xDRIVE,FULL-SIZE,4.4,8,A8,Z,15.0,9.8,12.7,292,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,750Li xDRIVE,FULL-SIZE,4.4,8,A8,Z,15.0,9.8,12.7,292,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,760Li,FULL-SIZE,6.0,12,A8,Z,18.7,11.5,15.5,356,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,no
+BMW,ACTIVEHYBRID 3,COMPACT,3.0,6,A8,Z,9.2,7.1,8.3,191,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,no
+BMW,ACTIVEHYBRID 5,MID-SIZE,3.0,6,A8,Z,10.5,7.9,9.3,214,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,no
+BMW,ACTIVEHYBRID 7L,FULL-SIZE,3.0,6,A8,Z,10.5,7.6,9.2,212,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,no
+BMW,ALPINA B7 xDRIVE LWB,FULL-SIZE,4.4,8,A8,Z,15.0,9.8,12.7,292,,Kaggle 2014-2020,Premium petrol,8-speed automatic,yes,yes
+BMW,ALPINA B7 xDRIVE SWB,FULL-SIZE,4.4,8,A8,Z,15.0,9.8,12.7,292,,Kaggle 2014-2020,Premium petrol,8-speed automatic,yes,yes
+BMW,M5,MID-SIZE,4.4,8,AM7,Z,17.3,11.5,14.7,338,,Kaggle 2014-2020,Premium petrol,7-speed automated manual,yes,no
+BMW,M5,MID-SIZE,4.4,8,M6,Z,16.2,10.9,13.8,317,,Kaggle 2014-2020,Premium petrol,6-speed manual,yes,no
+BMW,M6,COMPACT,4.4,8,AM7,Z,17.3,11.5,14.7,338,,Kaggle 2014-2020,Premium petrol,7-speed automated manual,yes,no
+BMW,M6,COMPACT,4.4,8,M6,Z,16.2,10.9,13.8,317,,Kaggle 2014-2020,Premium petrol,6-speed manual,yes,no
+BMW,M6 CABRIOLET,SUBCOMPACT,4.4,8,AM7,Z,17.3,11.5,14.7,338,,Kaggle 2014-2020,Premium petrol,7-speed automated manual,yes,no
+BMW,M6 CABRIOLET,SUBCOMPACT,4.4,8,M6,Z,16.2,10.9,13.8,317,,Kaggle 2014-2020,Premium petrol,6-speed manual,yes,no
+BMW,M6 GRAN COUPE,COMPACT,4.4,8,AM7,Z,17.3,11.5,14.7,338,,Kaggle 2014-2020,Premium petrol,7-speed automated manual,yes,no
+BMW,M6 GRAN COUPE,COMPACT,4.4,8,M6,Z,16.2,10.9,13.8,317,,Kaggle 2014-2020,Premium petrol,6-speed manual,yes,no
+BMW,X1 xDrive28i,SUV - SMALL,2.0,4,A8,Z,10.6,7.2,9.1,209,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,X1 xDRIVE35i,SUV - SMALL,3.0,6,A6,Z,13.2,8.9,11.3,260,,Kaggle 2014-2020,Premium petrol,6-speed automatic,no,yes
+BMW,X3 xDRIVE28i,SUV - SMALL,2.0,4,A8,Z,11.2,8.5,10.0,230,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,X3 xDRIVE35i,SUV - SMALL,3.0,6,A8,Z,12.6,9.1,11.0,253,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,X5 xDRIVE35i,SUV - STANDARD,3.0,6,A8,Z,12.9,8.8,11.1,255,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,X5 xDRIVE50i,SUV - STANDARD,4.4,8,A8,Z,16.3,10.9,13.9,320,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,X6 M,SUV - STANDARD,4.4,8,A6,Z,18.1,13.7,16.1,370,,Kaggle 2014-2020,Premium petrol,6-speed automatic,yes,no
+BMW,X6 xDRIVE35i,SUV - STANDARD,3.0,6,A8,Z,13.6,9.8,11.9,274,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,X6 xDRIVE50i,SUV - STANDARD,4.4,8,A8,Z,16.4,11.3,14.1,324,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,Z4 sDRIVE28i,TWO-SEATER,2.0,4,A8,Z,10.8,7.1,9.1,209,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,no
+BMW,Z4 sDRIVE28i,TWO-SEATER,2.0,4,M6,Z,10.4,6.7,8.7,200,,Kaggle 2014-2020,Premium petrol,6-speed manual,no,no
+BMW,Z4 sDRIVE35i,TWO-SEATER,3.0,6,AM7,Z,13.7,10.1,12.1,278,,Kaggle 2014-2020,Premium petrol,7-speed automated manual,no,no
+BMW,Z4 sDRIVE35i,TWO-SEATER,3.0,6,M6,Z,12.7,9.0,11.0,253,,Kaggle 2014-2020,Premium petrol,6-speed manual,no,no
+BMW,Z4 sDRIVE35is,TWO-SEATER,3.0,6,AM7,Z,13.7,10.1,12.1,278,,Kaggle 2014-2020,Premium petrol,7-speed automated manual,no,no
+Mercedes-Benz,B 250,STATION WAGON - SMALL,2.0,4,AS7,Z,9.2,6.6,8.0,184,,Kaggle 2014-2020,Premium petrol,7-speed automatic,no,no
+Mercedes-Benz,C 250,COMPACT,1.8,4,AS7,Z,10.9,7.5,9.4,216,,Kaggle 2014-2020,Premium petrol,7-speed automatic,no,no
+Mercedes-Benz,C 250 COUPE,SUBCOMPACT,1.8,4,AS7,Z,11.0,7.4,9.4,216,,Kaggle 2014-2020,Premium petrol,7-speed automatic,no,no
+Mercedes-Benz,C 300 4MATIC FFV,COMPACT,3.5,6,AS7,Z,12.2,8.5,10.5,242,,Kaggle 2014-2020,Premium petrol,7-speed automatic,no,yes
+Mercedes-Benz,C 300 4MATIC FFV,COMPACT,3.5,6,AS7,E,16.4,11.1,14.0,224,,Kaggle 2014-2020,Ethanol (E85),7-speed automatic,no,yes
+Mercedes-Benz,C 350,COMPACT,3.5,6,AS7,Z,12.0,8.6,10.5,242,,Kaggle 2014-2020,Premium petrol,7-speed automatic,no,no
+Mercedes-Benz,C 350 4MATIC,COMPACT,3.5,6,AS7,Z,11.9,8.6,10.4,239,,Kaggle 2014-2020,Premium petrol,7-speed automatic,no,yes
+Mercedes-Benz,C 350 4MATIC COUPE,SUBCOMPACT,3.5,6,AS7,Z,12.1,8.7,10.6,244,,Kaggle 2014-2020,Premium petrol,7-speed automatic,no,yes
+Mercedes-Benz,C 350 COUPE,SUBCOMPACT,3.5,6,AS7,Z,12.1,8.6,10.5,242,,Kaggle 2014-2020,Premium petrol,7-speed automatic,no,no
+Mercedes-Benz,C 63 AMG,COMPACT,6.2,8,AS7,Z,17.7,11.9,15.1,347,,Kaggle 2014-2020,Premium petrol,7-speed automatic,yes,no
+Mercedes-Benz,C 63 AMG COUPE,SUBCOMPACT,6.2,8,AS7,Z,17.9,12.2,15.3,352,,Kaggle 2014-2020,Premium petrol,7-speed automatic,yes,no
+Mercedes-Benz,CL 550 4MATIC,COMPACT,4.7,8,AS7,Z,15.4,10.4,13.2,304,,Kaggle 2014-2020,Premium petrol,7-speed automatic,no,yes
+Mercedes-Benz,CL 63 AMG,COMPACT,5.5,8,AS7,Z,15.4,11.0,13.4,308,,Kaggle 2014-2020,Premium petrol,7-speed automatic,yes,no
+Mercedes-Benz,CLA 250,COMPACT,2.0,4,AS7,Z,9.1,6.2,7.8,179,,Kaggle 2014-2020,Premium petrol,7-speed automatic,no,no
+Mercedes-Benz,CLA 45 AMG 4MATIC,COMPACT,2.0,4,AS7,Z,10.3,7.8,9.2,212,,Kaggle 2014-2020,Premium petrol,7-speed automatic,yes,yes
+Mercedes-Benz,CLS 550 4MATIC,COMPACT,4.7,8,AS7,Z,13.3,9.4,11.5,264,,Kaggle 2014-2020,Premium petrol,7-speed automatic,no,yes
+Mercedes-Benz,CLS 63 AMG 4MATIC,COMPACT,5.5,8,AS7,Z,15.1,10.7,13.1,301,,Kaggle 2014-2020,Premium petrol,7-speed automatic,yes,yes
+Mercedes-Benz,CLS 63 AMG S 4MATIC,COMPACT,5.5,8,AS7,Z,15.1,10.7,13.1,301,,Kaggle 2014-2020,Premium petrol,7-speed automatic,yes,yes
+Mercedes-Benz,E 250 BLUETEC 4MATIC,MID-SIZE,2.1,4,AS7,D,8.5,5.7,7.2,194,,Kaggle 2014-2020,Diesel,7-speed automatic,no,yes
+Mercedes-Benz,E 300 4MATIC,MID-SIZE,3.5,6,AS7,Z,11.8,8.2,10.2,235,,Kaggle 2014-2020,Premium petrol,7-speed automatic,no,yes
+Mercedes-Benz,E 350 4MATIC,MID-SIZE,3.5,6,AS7,Z,11.6,8.1,10.0,230,,Kaggle 2014-2020,Premium petrol,7-speed automatic,no,yes
+Mercedes-Benz,E 350 4MATIC COUPE,SUBCOMPACT,3.5,6,AS7,Z,11.9,8.5,10.4,239,,Kaggle 2014-2020,Premium petrol,7-speed automatic,no,yes
+Mercedes-Benz,E 350 4MATIC WAGON,STATION WAGON - MID-SIZE,3.5,6,AS7,Z,12.1,8.6,10.5,242,,Kaggle 2014-2020,Premium petrol,7-speed automatic,no,yes
+Mercedes-Benz,E 350 CABRIOLET,SUBCOMPACT,3.5,6,AS7,Z,12.0,8.5,10.4,239,,Kaggle 2014-2020,Premium petrol,7-speed automatic,no,no
+Mercedes-Benz,E 350 COUPE,SUBCOMPACT,3.5,6,AS7,Z,11.9,8.2,10.2,235,,Kaggle 2014-2020,Premium petrol,7-speed automatic,no,no
+Mercedes-Benz,E 400 HYBRID,MID-SIZE,3.5,6,AS7,Z,9.6,7.9,8.8,202,,Kaggle 2014-2020,Premium petrol,7-speed automatic,no,no
+Mercedes-Benz,E 550 4MATIC,MID-SIZE,4.7,8,AS7,Z,13.6,9.1,11.6,267,,Kaggle 2014-2020,Premium petrol,7-speed automatic,no,yes
+Mercedes-Benz,E 550 CABRIOLET,SUBCOMPACT,4.7,8,AS7,Z,13.7,9.3,11.7,269,,Kaggle 2014-2020,Premium petrol,7-speed automatic,no,no
+Mercedes-Benz,E 550 COUPE,SUBCOMPACT,4.7,8,AS7,Z,13.4,8.9,11.4,262,,Kaggle 2014-2020,Premium petrol,7-speed automatic,no,no
+Mercedes-Benz,E 63 AMG 4MATIC,MID-SIZE,5.5,8,AS7,Z,15.0,10.3,12.9,297,,Kaggle 2014-2020,Premium petrol,7-speed automatic,yes,yes
+Mercedes-Benz,E 63 AMG 4MATIC WAGON,STATION WAGON - MID-SIZE,5.5,8,AS7,Z,15.5,11.0,13.5,310,,Kaggle 2014-2020,Premium petrol,7-speed automatic,yes,yes
+Mercedes-Benz,E 63 AMG S 4MATIC,MID-SIZE,5.5,8,AS7,Z,15.0,10.3,12.9,297,,Kaggle 2014-2020,Premium petrol,7-speed automatic,yes,yes
+Mercedes-Benz,E 63 AMG S 4MATIC WAGON,STATION WAGON - MID-SIZE,5.5,8,AS7,Z,15.5,11.0,13.5,310,,Kaggle 2014-2020,Premium petrol,7-speed automatic,yes,yes
+Mercedes-Benz,G 550,SUV - STANDARD,5.5,8,AS7,Z,20.0,15.9,18.2,419,,Kaggle 2014-2020,Premium petrol,7-speed automatic,no,no
+Mercedes-Benz,G 63 AMG,SUV - STANDARD,5.5,8,AS7,Z,19.4,15.7,17.7,407,,Kaggle 2014-2020,Premium petrol,7-speed automatic,yes,no
+Mercedes-Benz,GL 350 BLUETEC 4MATIC,SUV - STANDARD,3.0,6,AS7,D,13.4,10.2,12.0,324,,Kaggle 2014-2020,Diesel,7-speed automatic,no,yes
+Mercedes-Benz,GL 450 4MATIC,SUV - STANDARD,4.7,8,AS7,Z,17.1,12.8,15.2,350,,Kaggle 2014-2020,Premium petrol,7-speed automatic,no,yes
+Mercedes-Benz,GL 550 4MATIC,SUV - STANDARD,4.7,8,AS7,Z,17.6,13.1,15.6,359,,Kaggle 2014-2020,Premium petrol,7-speed automatic,no,yes
+Mercedes-Benz,GL 63 AMG,SUV - STANDARD,5.5,8,AS7,Z,17.7,13.4,15.8,363,,Kaggle 2014-2020,Premium petrol,7-speed automatic,yes,no
+Mercedes-Benz,GLK 250 BLUETEC 4MATIC,SUV - SMALL,2.1,4,AS7,D,9.6,7.1,8.5,230,,Kaggle 2014-2020,Diesel,7-speed automatic,no,yes
+Mercedes-Benz,GLK 350 4MATIC,SUV - SMALL,3.5,6,AS7,Z,12.6,9.6,11.3,260,,Kaggle 2014-2020,Premium petrol,7-speed automatic,no,yes
+Mercedes-Benz,ML 350 4MATIC FFV,SUV - STANDARD,3.5,6,AS7,Z,13.4,10.5,12.1,278,,Kaggle 2014-2020,Premium petrol,7-speed automatic,no,yes
+Mercedes-Benz,ML 350 4MATIC FFV,SUV - STANDARD,3.5,6,AS7,E,17.8,13.8,16.0,256,,Kaggle 2014-2020,Ethanol (E85),7-speed automatic,no,yes
+Mercedes-Benz,ML 350 BLUETEC 4MATIC,SUV - STANDARD,3.0,6,AS7,D,11.8,8.5,10.3,278,,Kaggle 2014-2020,Diesel,7-speed automatic,no,yes
+Mercedes-Benz,ML 550 4MATIC,SUV - STANDARD,4.7,8,AS7,Z,16.2,11.8,14.2,327,,Kaggle 2014-2020,Premium petrol,7-speed automatic,no,yes
+Mercedes-Benz,ML 63 AMG 4MATIC,SUV - STANDARD,5.5,8,AS7,Z,17.2,13.5,15.5,356,,Kaggle 2014-2020,Premium petrol,7-speed automatic,yes,yes
+Mercedes-Benz,S 550 4MATIC LWB,FULL-SIZE,4.7,8,AS7,Z,14.3,9.5,12.1,278,,Kaggle 2014-2020,Premium petrol,7-speed automatic,no,yes
+Mercedes-Benz,S 550 4MATIC SWB,FULL-SIZE,4.7,8,AS7,Z,14.2,9.4,12.0,276,,Kaggle 2014-2020,Premium petrol,7-speed automatic,no,yes
+Mercedes-Benz,S 63 AMG 4MATIC,FULL-SIZE,5.5,8,AS7,Z,15.6,10.3,13.2,304,,Kaggle 2014-2020,Premium petrol,7-speed automatic,yes,yes
+Mercedes-Benz,SL 550,TWO-SEATER,4.7,8,AS7,Z,13.4,9.6,11.7,269,,Kaggle 2014-2020,Premium petrol,7-speed automatic,no,no
+Mercedes-Benz,SL 63 AMG,TWO-SEATER,5.5,8,AS7,Z,14.8,10.2,12.7,292,,Kaggle 2014-2020,Premium petrol,7-speed automatic,yes,no
+Mercedes-Benz,SL 65 AMG,TWO-SEATER,6.0,8,AS7,Z,16.7,11.2,14.2,327,,Kaggle 2014-2020,Premium petrol,7-speed automatic,yes,no
+Mercedes-Benz,SLK 250,TWO-SEATER,1.8,4,AS7,Z,10.3,7.2,8.9,205,,Kaggle 2014-2020,Premium petrol,7-speed automatic,no,no
+Mercedes-Benz,SLK 250,TWO-SEATER,1.8,4,M6,Z,10.4,7.3,9.0,207,,Kaggle 2014-2020,Premium petrol,6-speed manual,no,no
+Mercedes-Benz,SLK 350,TWO-SEATER,3.5,6,AS7,Z,11.1,8.1,9.8,225,,Kaggle 2014-2020,Premium petrol,7-speed automatic,no,no
+Mercedes-Benz,SLK 55 AMG,TWO-SEATER,5.5,8,AS7,Z,12.3,8.7,10.7,246,,Kaggle 2014-2020,Premium petrol,7-speed automatic,yes,no
+Mercedes-Benz,SLS AMG BLACK SERIES COUPE,TWO-SEATER,6.2,8,AS7,Z,18.7,13.9,16.5,380,,Kaggle 2014-2020,Premium petrol,7-speed automatic,yes,no
+Mercedes-Benz,SLS AMG GT COUPE,TWO-SEATER,6.2,8,AS7,Z,18.2,12.6,15.7,361,,Kaggle 2014-2020,Premium petrol,7-speed automatic,yes,no
+Mercedes-Benz,SLS AMG ROADSTER,TWO-SEATER,6.2,8,AS7,Z,18.2,12.6,15.7,361,,Kaggle 2014-2020,Premium petrol,7-speed automatic,yes,no
+BMW,228i CABRIOLET,SUBCOMPACT,2.0,4,AS8,Z,10.4,7.1,8.9,205,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,no
+BMW,228i COUPE,SUBCOMPACT,2.0,4,AS8,Z,10.0,6.5,8.4,193,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,no
+BMW,228i COUPE,SUBCOMPACT,2.0,4,M6,Z,10.7,6.9,9.0,207,,Kaggle 2014-2020,Premium petrol,6-speed manual,no,no
+BMW,228i xDRIVE CABRIOLET,SUBCOMPACT,2.0,4,AS8,Z,10.6,7.2,9.1,209,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,228i xDRIVE COUPE,SUBCOMPACT,2.0,4,AS8,Z,10.3,6.7,8.7,200,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,320i SEDAN,COMPACT,2.0,4,AS8,Z,10.0,6.5,8.4,193,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,no
+BMW,320i SEDAN,COMPACT,2.0,4,M6,Z,10.7,6.9,9.0,207,,Kaggle 2014-2020,Premium petrol,6-speed manual,no,no
+BMW,320i xDRIVE SEDAN,COMPACT,2.0,4,AS8,Z,10.3,6.7,8.7,200,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,328d xDRIVE SEDAN,COMPACT,2.0,4,AS8,D,7.6,5.5,6.7,181,,Kaggle 2014-2020,Diesel,8-speed automatic,no,yes
+BMW,328d xDRIVE TOURING,STATION WAGON - SMALL,2.0,4,AS8,D,7.6,5.5,6.7,181,,Kaggle 2014-2020,Diesel,8-speed automatic,no,yes
+BMW,328i SEDAN,COMPACT,2.0,4,AS8,Z,10.0,6.5,8.4,193,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,no
+BMW,328i SEDAN,COMPACT,2.0,4,M6,Z,10.7,6.9,9.0,207,,Kaggle 2014-2020,Premium petrol,6-speed manual,no,no
+BMW,328i xDRIVE SEDAN,COMPACT,2.0,4,AS8,Z,10.6,7.2,9.1,209,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,328i xDRIVE GRAN TURISMO,FULL-SIZE,2.0,4,AS8,Z,10.6,7.2,9.1,209,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,328i xDRIVE TOURING,STATION WAGON - SMALL,2.0,4,AS8,Z,10.6,7.2,9.1,209,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,335i SEDAN,COMPACT,3.0,6,AS8,Z,11.4,7.4,9.6,221,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,no
+BMW,335i SEDAN,COMPACT,3.0,6,M6,Z,11.5,7.8,9.8,225,,Kaggle 2014-2020,Premium petrol,6-speed manual,no,no
+BMW,335i xDRIVE SEDAN,COMPACT,3.0,6,AS8,Z,11.9,7.8,10.0,230,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,335i xDRIVE SEDAN,COMPACT,3.0,6,M6,Z,12.0,8.3,10.3,237,,Kaggle 2014-2020,Premium petrol,6-speed manual,no,yes
+BMW,335i xDRIVE GRAN TURISMO,FULL-SIZE,3.0,6,AS8,Z,11.9,7.8,10.0,230,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,428i CABRIOLET,SUBCOMPACT,2.0,4,AS8,Z,10.4,7.1,8.9,205,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,no
+BMW,428i COUPE,COMPACT,2.0,4,AS8,Z,10.0,6.5,8.4,193,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,no
+BMW,428i COUPE,COMPACT,2.0,4,M6,Z,10.7,6.9,9.0,207,,Kaggle 2014-2020,Premium petrol,6-speed manual,no,no
+BMW,428i GRAN COUPE,COMPACT,2.0,4,AS8,Z,10.4,7.1,8.9,205,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,no
+BMW,428i GRAN COUPE,COMPACT,2.0,4,M6,Z,10.9,6.8,9.0,207,,Kaggle 2014-2020,Premium petrol,6-speed manual,no,no
+BMW,428i xDRIVE CABRIOLET,SUBCOMPACT,2.0,4,AS8,Z,11.2,7.5,9.6,221,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,428i xDRIVE COUPE,COMPACT,2.0,4,AS8,Z,10.6,7.2,9.1,209,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,428i xDRIVE GRAN COUPE,COMPACT,2.0,4,AS8,Z,10.6,7.2,9.1,209,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,435i CABRIOLET,SUBCOMPACT,3.0,6,AS8,Z,11.8,7.6,9.9,228,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,no
+BMW,435i COUPE,COMPACT,3.0,6,AS8,Z,11.4,7.4,9.6,221,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,no
+BMW,435i COUPE,COMPACT,3.0,6,M6,Z,11.5,7.8,9.8,225,,Kaggle 2014-2020,Premium petrol,6-speed manual,no,no
+BMW,435i GRAN COUPE,COMPACT,3.0,6,AS8,Z,11.4,7.4,9.6,221,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,no
+BMW,435i xDRIVE CABRIOLET,SUBCOMPACT,3.0,6,AS8,Z,12.1,8.1,10.3,237,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,435i xDRIVE COUPE,COMPACT,3.0,6,AS8,Z,11.9,7.8,10.0,230,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,435i xDRIVE COUPE,COMPACT,3.0,6,M6,Z,12.0,8.3,10.3,237,,Kaggle 2014-2020,Premium petrol,6-speed manual,no,yes
+BMW,435i xDRIVE GRAN COUPE,COMPACT,3.0,6,AS8,Z,11.9,7.8,10.0,230,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,528i SEDAN,MID-SIZE,2.0,4,AS8,Z,10.4,7.1,8.9,205,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,no
+BMW,528i xDRIVE SEDAN,MID-SIZE,2.0,4,AS8,Z,10.6,7.2,9.1,209,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,535d xDRIVE SEDAN,MID-SIZE,3.0,6,AS8,D,9.2,6.3,7.9,213,,Kaggle 2014-2020,Diesel,8-speed automatic,no,yes
+BMW,535i xDRIVE SEDAN,MID-SIZE,3.0,6,AS8,Z,12.1,8.1,10.3,237,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,535i xDRIVE GRAN TURISMO,FULL-SIZE,3.0,6,AS8,Z,12.8,8.9,11.0,253,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,550i xDRIVE SEDAN,MID-SIZE,4.4,8,AS8,Z,14.4,9.7,12.3,283,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,550i xDRIVE GRAN TURISMO,FULL-SIZE,4.4,8,AS8,Z,15.2,9.8,12.8,294,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,640i xDRIVE CABRIOLET,SUBCOMPACT,3.0,6,AS8,Z,12.1,8.1,10.3,237,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,640i xDRIVE GRAN COUPE,COMPACT,3.0,6,AS8,Z,12.1,8.1,10.3,237,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,650i xDRIVE CABRIOLET,SUBCOMPACT,4.4,8,AS8,Z,15.2,9.8,12.8,294,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,650i xDRIVE COUPE,COMPACT,4.4,8,AS8,Z,14.4,9.7,12.3,283,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,650i xDRIVE GRAN COUPE,COMPACT,4.4,8,AS8,Z,15.2,9.8,12.8,294,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,740Ld xDRIVE SEDAN,FULL-SIZE,3.0,6,AS8,D,10.2,7.1,8.8,238,,Kaggle 2014-2020,Diesel,8-speed automatic,no,yes
+BMW,740Li xDRIVE SEDAN,FULL-SIZE,3.0,6,AS8,Z,12.1,8.1,10.3,237,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,750i xDrive Sedan,FULL-SIZE,4.4,8,AS8,Z,15.2,9.8,12.8,294,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,750Li xDrive Sedan,FULL-SIZE,4.4,8,AS8,Z,15.2,9.8,12.8,294,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,760Li SEDAN,FULL-SIZE,6.0,12,AS8,Z,18.7,11.6,15.5,356,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,no
+BMW,ACTIVEHYBRID 3,COMPACT,3.0,6,AS8,Z,9.7,7.5,8.7,200,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,no
+BMW,ACTIVEHYBRID 5,MID-SIZE,3.0,6,AS8,Z,10.6,7.9,9.4,216,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,no
+BMW,ACTIVEHYBRID 7L,FULL-SIZE,3.0,6,AS8,Z,10.6,7.7,9.3,214,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,no
+BMW,ALPINA B6 xDRIVE GRAN COUPE,COMPACT,4.4,8,AS8,Z,15.2,9.8,12.8,294,,Kaggle 2014-2020,Premium petrol,8-speed automatic,yes,yes
+BMW,ALPINA B7 xDRIVE LWB,FULL-SIZE,4.4,8,AS8,Z,15.2,9.8,12.8,294,,Kaggle 2014-2020,Premium petrol,8-speed automatic,yes,yes
+BMW,ALPINA B7 xDRIVE SWB,FULL-SIZE,4.4,8,AS8,Z,15.2,9.8,12.8,294,,Kaggle 2014-2020,Premium petrol,8-speed automatic,yes,yes
+BMW,M235i CABRIOLET,SUBCOMPACT,3.0,6,AS8,Z,11.8,8.1,10.2,235,,Kaggle 2014-2020,Premium petrol,8-speed automatic,yes,no
+BMW,M235i CABRIOLET,SUBCOMPACT,3.0,6,M6,Z,12.3,9.0,10.8,248,,Kaggle 2014-2020,Premium petrol,6-speed manual,yes,no
+BMW,M235i COUPE,SUBCOMPACT,3.0,6,AS8,Z,11.8,8.1,10.2,235,,Kaggle 2014-2020,Premium petrol,8-speed automatic,yes,no
+BMW,M235i COUPE,SUBCOMPACT,3.0,6,M6,Z,11.9,8.5,10.4,239,,Kaggle 2014-2020,Premium petrol,6-speed manual,yes,no
+BMW,M235i xDRIVE COUPE,SUBCOMPACT,3.0,6,AS8,Z,11.9,7.8,10.0,230,,Kaggle 2014-2020,Premium petrol,8-speed automatic,yes,yes
+BMW,M3 Sedan,COMPACT,3.0,6,AM7,Z,14.2,9.6,12.1,278,,Kaggle 2014-2020,Premium petrol,7-speed automated manual,yes,no
+BMW,M3 Sedan,COMPACT,3.0,6,M6,Z,13.7,9.0,11.6,267,,Kaggle 2014-2020,Premium petrol,6-speed manual,yes,no
+BMW,M4 CABRIOLET,SUBCOMPACT,3.0,6,AM7,Z,14.1,9.7,12.1,278,,Kaggle 2014-2020,Premium petrol,7-speed automated manual,yes,no
+BMW,M4 CABRIOLET,SUBCOMPACT,3.0,6,M6,Z,14.1,9.0,11.8,271,,Kaggle 2014-2020,Premium petrol,6-speed manual,yes,no
+BMW,M4 Coupe,COMPACT,3.0,6,AM7,Z,14.1,9.7,12.1,278,,Kaggle 2014-2020,Premium petrol,7-speed automated manual,yes,no
+BMW,M4 Coupe,COMPACT,3.0,6,M6,Z,13.7,9.0,11.6,267,,Kaggle 2014-2020,Premium petrol,6-speed manual,yes,no
+BMW,M5 Sedan,MID-SIZE,4.4,8,AM7,Z,17.3,11.5,14.7,338,,Kaggle 2014-2020,Premium petrol,7-speed automated manual,yes,no
+BMW,M5 Sedan,MID-SIZE,4.4,8,M6,Z,16.1,10.8,13.7,315,,Kaggle 2014-2020,Premium petrol,6-speed manual,yes,no
+BMW,M6 CABRIOLET,SUBCOMPACT,4.4,8,M6,Z,16.1,10.8,13.7,315,,Kaggle 2014-2020,Premium petrol,6-speed manual,yes,no
+BMW,M6 COUPE,COMPACT,4.4,8,AM7,Z,17.3,11.5,14.7,338,,Kaggle 2014-2020,Premium petrol,7-speed automated manual,yes,no
+BMW,M6 COUPE,COMPACT,4.4,8,M6,Z,16.1,10.8,13.7,315,,Kaggle 2014-2020,Premium petrol,6-speed manual,yes,no
+BMW,M6 GRAN COUPE,COMPACT,4.4,8,M6,Z,16.1,10.8,13.7,315,,Kaggle 2014-2020,Premium petrol,6-speed manual,yes,no
+BMW,X1 xDrive28i,SUV - SMALL,2.0,4,AS8,Z,10.6,7.2,9.1,209,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,X1 xDRIVE35i,SUV - SMALL,3.0,6,AS8,Z,13.2,8.9,11.2,258,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,X3 xDRIVE28d,SUV - SMALL,2.0,4,AS8,D,8.6,6.9,7.9,213,,Kaggle 2014-2020,Diesel,8-speed automatic,no,yes
+BMW,X3 xDRIVE28i,SUV - SMALL,2.0,4,AS8,Z,11.1,8.4,9.9,228,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,X3 xDRIVE35i,SUV - SMALL,3.0,6,AS8,Z,12.7,8.8,10.9,251,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,X4 xDRIVE28i,SUV - SMALL,2.0,4,AS8,Z,11.7,8.4,10.2,235,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,X4 xDRIVE35i,SUV - SMALL,3.0,6,AS8,Z,12.7,8.8,10.9,251,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,X5 M,SUV - STANDARD,4.4,8,AS8,Z,16.6,12.1,14.6,336,,Kaggle 2014-2020,Premium petrol,8-speed automatic,yes,no
+BMW,X5 xDRIVE35d,SUV - STANDARD,3.0,6,AS8,D,9.9,7.2,8.7,235,,Kaggle 2014-2020,Diesel,8-speed automatic,no,yes
+BMW,X5 xDRIVE35i,SUV - STANDARD,3.0,6,AS8,Z,13.0,8.9,11.1,255,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,X5 xDRIVE50i,SUV - STANDARD,4.4,8,AS8,Z,16.1,10.9,13.8,317,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,X6 M,SUV - STANDARD,4.4,8,AS8,Z,16.6,12.1,14.6,336,,Kaggle 2014-2020,Premium petrol,8-speed automatic,yes,no
+BMW,X6 xDRIVE35i,SUV - STANDARD,3.0,6,AS8,Z,13.0,8.9,11.1,255,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,X6 xDRIVE50i,SUV - STANDARD,4.4,8,AS8,Z,16.1,10.9,13.8,317,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,Z4 sDRIVE28i,TWO-SEATER,2.0,4,AS8,Z,10.7,7.1,9.1,209,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,no
+BMW,Z4 sDRIVE28i,TWO-SEATER,2.0,4,M6,Z,10.7,6.9,9.0,207,,Kaggle 2014-2020,Premium petrol,6-speed manual,no,no
+BMW,Z4 sDRIVE35i,TWO-SEATER,3.0,6,AM7,Z,13.7,10.0,12.1,278,,Kaggle 2014-2020,Premium petrol,7-speed automated manual,no,no
+BMW,Z4 sDRIVE35is,TWO-SEATER,3.0,6,AM7,Z,13.7,10.0,12.1,278,,Kaggle 2014-2020,Premium petrol,7-speed automated manual,no,no
+Mercedes-Benz,B 250 4MATIC,STATION WAGON - SMALL,2.0,4,AS7,Z,10.0,7.5,8.9,205,,Kaggle 2014-2020,Premium petrol,7-speed automatic,no,yes
+Mercedes-Benz,C 250 COUPE,SUBCOMPACT,1.8,4,AS7,Z,10.9,7.5,9.4,216,,Kaggle 2014-2020,Premium petrol,7-speed automatic,no,no
+Mercedes-Benz,C 300 4MATIC,COMPACT,2.0,4,AS7,Z,10.1,7.8,9.0,207,,Kaggle 2014-2020,Premium petrol,7-speed automatic,no,yes
+Mercedes-Benz,C 400 4MATIC,COMPACT,3.0,6,AS7,Z,11.1,8.4,9.9,228,,Kaggle 2014-2020,Premium petrol,7-speed automatic,no,yes
+Mercedes-Benz,C 63 AMG COUPE,SUBCOMPACT,6.2,8,AS7,Z,17.9,12.3,15.4,354,,Kaggle 2014-2020,Premium petrol,7-speed automatic,yes,no
+Mercedes-Benz,CLA 250,SUBCOMPACT,2.0,4,AS7,Z,9.4,6.4,8.1,186,,Kaggle 2014-2020,Premium petrol,7-speed automatic,no,no
+Mercedes-Benz,CLA 250 4MATIC,SUBCOMPACT,2.0,4,AS7,Z,9.9,7.4,8.8,202,,Kaggle 2014-2020,Premium petrol,7-speed automatic,no,yes
+Mercedes-Benz,CLA 45 AMG,COMPACT,2.0,4,AS7,Z,10.2,7.7,9.1,209,,Kaggle 2014-2020,Premium petrol,7-speed automatic,yes,no
+Mercedes-Benz,CLS 400 4MATIC,COMPACT,3.0,6,AS7,Z,12.1,8.5,10.5,242,,Kaggle 2014-2020,Premium petrol,7-speed automatic,no,yes
+Mercedes-Benz,CLS 550 4MATIC,COMPACT,4.7,8,AS7,Z,14.5,10.1,12.5,288,,Kaggle 2014-2020,Premium petrol,7-speed automatic,no,yes
+Mercedes-Benz,CLS 63 AMG 4MATIC,COMPACT,5.5,8,AS7,Z,15.1,10.8,13.1,301,,Kaggle 2014-2020,Premium petrol,7-speed automatic,yes,yes
+Mercedes-Benz,E 250 BLUETEC 4MATIC,MID-SIZE,2.1,4,AS7,D,8.6,5.9,7.4,200,,Kaggle 2014-2020,Diesel,7-speed automatic,no,yes
+Mercedes-Benz,E 300 4MATIC,MID-SIZE,3.5,6,AS7,Z,11.9,8.2,10.2,235,,Kaggle 2014-2020,Premium petrol,7-speed automatic,no,yes
+Mercedes-Benz,E 400 4MATIC,MID-SIZE,3.0,6,AS7,Z,12.0,8.5,10.4,239,,Kaggle 2014-2020,Premium petrol,7-speed automatic,no,yes
+Mercedes-Benz,E 400 4MATIC WAGON,STATION WAGON - MID-SIZE,3.5,6,AS7,Z,12.4,8.8,10.8,248,,Kaggle 2014-2020,Premium petrol,7-speed automatic,no,yes
+Mercedes-Benz,E 400 CABRIOLET,SUBCOMPACT,3.5,6,AS7,Z,11.5,8.1,10.0,230,,Kaggle 2014-2020,Premium petrol,7-speed automatic,no,no
+Mercedes-Benz,E 400 COUPE,SUBCOMPACT,3.5,6,AS7,Z,11.8,8.3,10.2,235,,Kaggle 2014-2020,Premium petrol,7-speed automatic,no,no
+Mercedes-Benz,E 550 4MATIC,MID-SIZE,4.7,8,AS7,Z,12.9,9.6,11.4,262,,Kaggle 2014-2020,Premium petrol,7-speed automatic,no,yes
+Mercedes-Benz,E 550 CABRIOLET,SUBCOMPACT,4.7,8,AS7,Z,13.7,9.2,11.7,269,,Kaggle 2014-2020,Premium petrol,7-speed automatic,no,no
+Mercedes-Benz,E 550 COUPE,SUBCOMPACT,4.7,8,AS7,Z,13.3,8.9,11.4,262,,Kaggle 2014-2020,Premium petrol,7-speed automatic,no,no
+Mercedes-Benz,E 63 AMG S 4MATIC,MID-SIZE,5.5,8,AS7,Z,15.3,10.8,13.3,306,,Kaggle 2014-2020,Premium petrol,7-speed automatic,yes,yes
+Mercedes-Benz,E 63 AMG S 4MATIC WAGON,STATION WAGON - MID-SIZE,5.5,8,AS7,Z,15.2,11.0,13.3,306,,Kaggle 2014-2020,Premium petrol,7-speed automatic,yes,yes
+Mercedes-Benz,G 550,SUV - STANDARD,5.5,8,AS7,Z,19.9,16.1,18.2,419,,Kaggle 2014-2020,Premium petrol,7-speed automatic,no,no
+Mercedes-Benz,G 63 AMG,SUV - STANDARD,5.5,8,AS7,Z,20.0,16.6,18.5,426,,Kaggle 2014-2020,Premium petrol,7-speed automatic,yes,no
+Mercedes-Benz,GL 350 BLUETEC 4MATIC,SUV - STANDARD,3.0,6,AS7,D,13.6,10.0,12.0,324,,Kaggle 2014-2020,Diesel,7-speed automatic,no,yes
+Mercedes-Benz,GL 450 4MATIC,SUV - STANDARD,3.0,6,AS7,Z,15.2,12.6,14.0,322,,Kaggle 2014-2020,Premium petrol,7-speed automatic,no,yes
+Mercedes-Benz,GL 550 4MATIC,SUV - STANDARD,4.7,8,AS7,Z,17.5,13.2,15.6,359,,Kaggle 2014-2020,Premium petrol,7-speed automatic,no,yes
+Mercedes-Benz,GL 63 AMG,SUV - STANDARD,5.5,8,AS7,Z,18.2,14.0,16.3,375,,Kaggle 2014-2020,Premium petrol,7-speed automatic,yes,no
+Mercedes-Benz,GLA 250 4MATIC,SUV - SMALL,2.0,4,AS7,Z,9.8,7.4,8.7,200,,Kaggle 2014-2020,Premium petrol,7-speed automatic,no,yes
+Mercedes-Benz,GLA 45 AMG 4MATIC,STATION WAGON - MID-SIZE,2.0,4,AS7,Z,10.5,8.1,9.4,216,,Kaggle 2014-2020,Premium petrol,7-speed automatic,yes,yes
+Mercedes-Benz,GLK 250 BLUETEC 4MATIC,SUV - SMALL,2.1,4,AS7,D,9.6,7.0,8.5,230,,Kaggle 2014-2020,Diesel,7-speed automatic,no,yes
+Mercedes-Benz,GLK 350 4MATIC,SUV - SMALL,3.5,6,AS7,Z,12.6,9.6,11.2,258,,Kaggle 2014-2020,Premium petrol,7-speed automatic,no,yes
+Mercedes-Benz,ML 400 4MATIC,SUV - STANDARD,3.0,6,AS7,Z,13.3,10.4,12.0,276,,Kaggle 2014-2020,Premium petrol,7-speed automatic,no,yes
+Mercedes-Benz,ML 550 4MATIC,SUV - STANDARD,4.7,8,AS7,Z,16.3,11.8,14.2,327,,Kaggle 2014-2020,Premium petrol,7-speed automatic,no,yes
+Mercedes-Benz,ML 63 AMG 4MATIC,SUV - STANDARD,5.5,8,AS7,Z,17.3,13.5,15.6,359,,Kaggle 2014-2020,Premium petrol,7-speed automatic,yes,yes
+Mercedes-Benz,S 400 4MATIC,MID-SIZE,4.7,6,AS7,Z,12.6,8.6,10.8,248,,Kaggle 2014-2020,Premium petrol,7-speed automatic,no,yes
+Mercedes-Benz,S 550 4MATIC COUPE,COMPACT,4.7,8,AS7,Z,14.4,9.8,12.3,283,,Kaggle 2014-2020,Premium petrol,7-speed automatic,no,yes
+Mercedes-Benz,S 550 4MATIC LWB,FULL-SIZE,4.7,8,AS7,Z,14.8,9.8,12.5,288,,Kaggle 2014-2020,Premium petrol,7-speed automatic,no,yes
+Mercedes-Benz,S 550 4MATIC SWB,MID-SIZE,4.7,8,AS7,Z,14.7,9.1,12.2,281,,Kaggle 2014-2020,Premium petrol,7-speed automatic,no,yes
+Mercedes-Benz,S 600,FULL-SIZE,6.0,12,AS7,Z,18.1,11.0,14.9,343,,Kaggle 2014-2020,Premium petrol,7-speed automatic,no,no
+Mercedes-Benz,S 63 AMG 4MATIC,FULL-SIZE,5.5,8,AS7,Z,15.7,10.1,13.2,304,,Kaggle 2014-2020,Premium petrol,7-speed automatic,yes,yes
+Mercedes-Benz,S 63 AMG COUPE,COMPACT,5.5,8,AS7,Z,15.7,10.1,13.2,304,,Kaggle 2014-2020,Premium petrol,7-speed automatic,yes,no
+Mercedes-Benz,S 65 AMG,FULL-SIZE,6.0,12,AS7,Z,18.5,11.8,15.5,357,,Kaggle 2014-2020,Premium petrol,7-speed automatic,yes,no
+Mercedes-Benz,S 65 AMG COUPE,COMPACT,6.0,12,AS7,Z,18.0,11.3,15.0,345,,Kaggle 2014-2020,Premium petrol,7-speed automatic,yes,no
+Mercedes-Benz,SL 550,TWO-SEATER,4.7,8,AS7,Z,13.8,9.5,11.9,274,,Kaggle 2014-2020,Premium petrol,7-speed automatic,no,no
+Mercedes-Benz,SL 63 AMG,TWO-SEATER,5.5,8,AS7,Z,14.7,9.5,12.4,285,,Kaggle 2014-2020,Premium petrol,7-speed automatic,yes,no
+Mercedes-Benz,SL 65 AMG,TWO-SEATER,6.0,12,AS7,Z,16.7,11.2,14.2,327,,Kaggle 2014-2020,Premium petrol,7-speed automatic,yes,no
+Mercedes-Benz,SLK 250,TWO-SEATER,1.8,4,AS7,Z,10.4,7.2,9.0,207,,Kaggle 2014-2020,Premium petrol,7-speed automatic,no,no
+Mercedes-Benz,SLK 250,TWO-SEATER,1.8,4,M6,Z,10.4,7.2,9.0,207,,Kaggle 2014-2020,Premium petrol,6-speed manual,no,no
+Mercedes-Benz,SLK 55 AMG,TWO-SEATER,5.5,8,AS7,Z,12.4,8.5,10.6,244,,Kaggle 2014-2020,Premium petrol,7-speed automatic,yes,no
+Mercedes-Benz,SLS AMG GT COUPE,TWO-SEATER,6.2,8,AM7,Z,18.1,12.6,15.6,359,,Kaggle 2014-2020,Premium petrol,7-speed automated manual,yes,no
+Mercedes-Benz,SLS AMG GT ROADSTER,TWO-SEATER,6.2,8,AM7,Z,18.1,12.6,15.6,359,,Kaggle 2014-2020,Premium petrol,7-speed automated manual,yes,no
+BMW,228i,SUBCOMPACT,2.0,4,AS8,Z,9.9,6.5,8.4,197,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,no
+BMW,228i,SUBCOMPACT,2.0,4,M6,Z,10.7,7.0,9.0,211,,Kaggle 2014-2020,Premium petrol,6-speed manual,no,no
+BMW,228i xDRIVE,SUBCOMPACT,2.0,4,AS8,Z,10.4,6.8,8.8,207,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,228i xDRIVE CABRIOLET,SUBCOMPACT,2.0,4,AS8,Z,10.5,6.9,8.9,209,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,320i,COMPACT,2.0,4,AS8,Z,9.9,6.5,8.4,197,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,no
+BMW,320i,COMPACT,2.0,4,M6,Z,10.7,7.0,9.0,211,,Kaggle 2014-2020,Premium petrol,6-speed manual,no,no
+BMW,320i xDRIVE,COMPACT,2.0,4,AS8,Z,10.4,6.8,8.8,207,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,328d xDRIVE,COMPACT,2.0,4,AS8,D,7.7,5.7,6.8,183,,Kaggle 2014-2020,Diesel,8-speed automatic,no,yes
+BMW,328d xDRIVE TOURING,STATION WAGON - SMALL,2.0,4,AS8,D,7.7,5.7,6.8,183,,Kaggle 2014-2020,Diesel,8-speed automatic,no,yes
+BMW,328i xDRIVE,COMPACT,2.0,4,AS8,Z,10.5,6.9,8.9,209,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,328i xDRIVE GRAN TURISMO,FULL-SIZE,2.0,4,AS8,Z,10.5,6.9,8.9,209,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,328i xDRIVE TOURING,STATION WAGON - SMALL,2.0,4,AS8,Z,10.5,6.9,8.9,209,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,335i xDRIVE GRAN TURISMO,FULL-SIZE,3.0,6,AS8,Z,12.0,7.9,10.2,238,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,340i,COMPACT,3.0,6,AS8,Z,10.9,7.2,9.3,217,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,no
+BMW,340i,COMPACT,3.0,6,M6,Z,11.6,7.8,9.9,231,,Kaggle 2014-2020,Premium petrol,6-speed manual,no,no
+BMW,340i xDRIVE,COMPACT,3.0,6,AS8,Z,10.9,7.3,9.3,216,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,340i xDRIVE,COMPACT,3.0,6,M6,Z,11.9,8.3,10.3,241,,Kaggle 2014-2020,Premium petrol,6-speed manual,no,yes
+BMW,428i CABRIOLET,SUBCOMPACT,2.0,4,AS8,Z,10.8,6.7,8.9,211,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,no
+BMW,428i COUPE,COMPACT,2.0,4,AS8,Z,9.9,6.5,8.4,197,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,no
+BMW,428i COUPE,COMPACT,2.0,4,M6,Z,10.7,7.0,9.0,211,,Kaggle 2014-2020,Premium petrol,6-speed manual,no,no
+BMW,428i GRAN COUPE,COMPACT,2.0,4,AS8,Z,10.8,6.7,8.9,211,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,no
+BMW,428i GRAN COUPE,COMPACT,2.0,4,M6,Z,10.9,6.8,9.0,210,,Kaggle 2014-2020,Premium petrol,6-speed manual,no,no
+BMW,428i xDRIVE CABRIOLET,SUBCOMPACT,2.0,4,AS8,Z,11.3,7.1,9.4,221,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,428i xDRIVE COUPE,COMPACT,2.0,4,AS8,Z,10.5,6.9,8.9,209,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,428i xDRIVE GRAN COUPE,COMPACT,2.0,4,AS8,Z,10.5,6.9,8.9,209,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,435i CABRIOLET,SUBCOMPACT,3.0,6,AS8,Z,11.8,7.6,9.9,232,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,no
+BMW,435i COUPE,COMPACT,3.0,6,AS8,Z,11.6,7.7,9.9,232,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,no
+BMW,435i COUPE,COMPACT,3.0,6,M6,Z,12.1,8.4,10.5,246,,Kaggle 2014-2020,Premium petrol,6-speed manual,no,no
+BMW,435i xDRIVE CABRIOLET,SUBCOMPACT,3.0,6,AS8,Z,11.9,8.1,10.2,238,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,435i xDRIVE COUPE,COMPACT,3.0,6,AS8,Z,12.0,7.9,10.2,238,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,435i xDRIVE COUPE,COMPACT,3.0,6,M6,Z,12.3,8.4,10.5,247,,Kaggle 2014-2020,Premium petrol,6-speed manual,no,yes
+BMW,435i xDRIVE GRAN COUPE,COMPACT,3.0,6,AS8,Z,12.0,7.9,10.2,238,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,528i xDRIVE,MID-SIZE,2.0,4,AS8,Z,10.5,6.9,8.9,209,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,535d xDRIVE,MID-SIZE,3.0,6,AS8,D,9.2,6.3,7.9,212,,Kaggle 2014-2020,Diesel,8-speed automatic,no,yes
+BMW,535i xDRIVE,MID-SIZE,3.0,6,AS8,Z,11.9,8.1,10.2,238,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,535i xDRIVE GRAN TURISMO,FULL-SIZE,3.0,6,AS8,Z,13.0,9.1,11.2,263,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,550i xDRIVE,MID-SIZE,4.4,8,AS8,Z,14.4,9.6,12.3,288,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,550i xDRIVE GRAN TURISMO,FULL-SIZE,4.4,8,AS8,Z,14.3,9.3,12.1,283,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,640i xDRIVE CABRIOLET,SUBCOMPACT,3.0,6,AS8,Z,11.9,8.1,10.2,238,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,640i xDRIVE GRAN COUPE,COMPACT,3.0,6,AS8,Z,11.9,8.1,10.2,238,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,650i xDRIVE CABRIOLET,SUBCOMPACT,4.4,8,AS8,Z,14.3,9.3,12.1,283,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,650i xDRIVE COUPE,COMPACT,4.4,8,AS8,Z,14.4,9.6,12.3,288,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,650i xDRIVE GRAN COUPE,COMPACT,4.4,8,AS8,Z,14.3,9.3,12.1,283,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,750i xDRIVE,FULL-SIZE,4.4,8,AS8,Z,14.3,9.3,12.1,283,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,750Li xDRIVE,FULL-SIZE,4.4,8,AS8,Z,14.3,9.3,12.1,283,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,ACTIVEHYBRID 5,MID-SIZE,3.0,6,AS8,Z,10.6,7.9,9.4,219,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,no
+BMW,ALPINA B6 xDRIVE GRAN COUPE,COMPACT,4.4,8,AS8,Z,14.3,9.3,12.1,283,,Kaggle 2014-2020,Premium petrol,8-speed automatic,yes,yes
+BMW,M2,SUBCOMPACT,3.0,6,AM7,Z,11.8,8.8,10.4,244,,Kaggle 2014-2020,Premium petrol,7-speed automated manual,yes,no
+BMW,M2,SUBCOMPACT,3.0,6,M6,Z,12.7,9.2,11.1,260,,Kaggle 2014-2020,Premium petrol,6-speed manual,yes,no
+BMW,M235i,SUBCOMPACT,3.0,6,AS8,Z,11.6,7.7,9.9,232,,Kaggle 2014-2020,Premium petrol,8-speed automatic,yes,no
+BMW,M235i,SUBCOMPACT,3.0,6,M6,Z,11.9,8.6,10.4,245,,Kaggle 2014-2020,Premium petrol,6-speed manual,yes,no
+BMW,M235i CABRIOLET,SUBCOMPACT,3.0,6,AS8,Z,11.6,7.7,9.9,232,,Kaggle 2014-2020,Premium petrol,8-speed automatic,yes,no
+BMW,M235i CABRIOLET,SUBCOMPACT,3.0,6,M6,Z,12.1,8.4,10.5,246,,Kaggle 2014-2020,Premium petrol,6-speed manual,yes,no
+BMW,M235i xDRIVE,SUBCOMPACT,3.0,6,AS8,Z,12.0,7.9,10.2,238,,Kaggle 2014-2020,Premium petrol,8-speed automatic,yes,yes
+BMW,M235i xDRIVE CABRIOLET,SUBCOMPACT,3.0,6,AS8,Z,12.0,7.9,10.2,238,,Kaggle 2014-2020,Premium petrol,8-speed automatic,yes,yes
+BMW,M3,COMPACT,3.0,6,AM7,Z,14.1,9.7,12.1,284,,Kaggle 2014-2020,Premium petrol,7-speed automated manual,yes,no
+BMW,M3,COMPACT,3.0,6,M6,Z,13.7,9.0,11.6,271,,Kaggle 2014-2020,Premium petrol,6-speed manual,yes,no
+BMW,M4 CABRIOLET,SUBCOMPACT,3.0,6,AM7,Z,14.2,9.6,12.1,282,,Kaggle 2014-2020,Premium petrol,7-speed automated manual,yes,no
+BMW,M4 CABRIOLET,SUBCOMPACT,3.0,6,M6,Z,14.1,9.0,11.8,278,,Kaggle 2014-2020,Premium petrol,6-speed manual,yes,no
+BMW,M4 Coupe,COMPACT,3.0,6,AM7,Z,14.1,9.7,12.1,284,,Kaggle 2014-2020,Premium petrol,7-speed automated manual,yes,no
+BMW,M4 Coupe,COMPACT,3.0,6,M6,Z,13.7,9.0,11.6,271,,Kaggle 2014-2020,Premium petrol,6-speed manual,yes,no
+BMW,M5,MID-SIZE,4.4,8,AM7,Z,17.3,11.5,14.7,344,,Kaggle 2014-2020,Premium petrol,7-speed automated manual,yes,no
+BMW,M5,MID-SIZE,4.4,8,M6,Z,16.1,10.9,13.7,321,,Kaggle 2014-2020,Premium petrol,6-speed manual,yes,no
+BMW,M6,COMPACT,4.4,8,AM7,Z,17.3,11.5,14.7,344,,Kaggle 2014-2020,Premium petrol,7-speed automated manual,yes,no
+BMW,M6,COMPACT,4.4,8,M6,Z,16.1,10.9,13.7,321,,Kaggle 2014-2020,Premium petrol,6-speed manual,yes,no
+BMW,M6 CABRIOLET,SUBCOMPACT,4.4,8,AM7,Z,17.3,11.5,14.7,344,,Kaggle 2014-2020,Premium petrol,7-speed automated manual,yes,no
+BMW,M6 CABRIOLET,SUBCOMPACT,4.4,8,M6,Z,16.1,10.9,13.7,321,,Kaggle 2014-2020,Premium petrol,6-speed manual,yes,no
+BMW,M6 GRAN COUPE,COMPACT,4.4,8,AM7,Z,17.3,11.5,14.7,344,,Kaggle 2014-2020,Premium petrol,7-speed automated manual,yes,no
+BMW,M6 GRAN COUPE,COMPACT,4.4,8,M6,Z,16.1,10.9,13.7,321,,Kaggle 2014-2020,Premium petrol,6-speed manual,yes,no
+BMW,X1 xDrive28i,SUV - SMALL,2.0,4,AS8,Z,10.7,7.4,9.2,215,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,X3 xDRIVE28d,SUV - SMALL,2.0,4,AS8,D,8.6,6.9,7.9,211,,Kaggle 2014-2020,Diesel,8-speed automatic,no,yes
+BMW,X3 xDRIVE28i,SUV - SMALL,2.0,4,AS8,Z,11.1,8.4,9.9,231,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,X3 xDRIVE35i,SUV - SMALL,3.0,6,AS8,Z,12.7,8.8,10.9,257,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,X4 M40i,SUV - SMALL,3.0,6,AS8,Z,12.8,9.5,11.3,264,,Kaggle 2014-2020,Premium petrol,8-speed automatic,yes,no
+BMW,X4 xDRIVE28i,SUV - SMALL,2.0,4,AS8,Z,11.7,8.4,10.2,238,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,X4 xDRIVE35i,SUV - SMALL,3.0,6,AS8,Z,12.7,8.8,10.9,257,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,X5 M,SUV - STANDARD,4.4,8,AS8,Z,16.6,12.1,14.6,343,,Kaggle 2014-2020,Premium petrol,8-speed automatic,yes,no
+BMW,X5 xDRIVE35d,SUV - STANDARD,3.0,6,AS8,D,10.0,7.6,8.9,233,,Kaggle 2014-2020,Diesel,8-speed automatic,no,yes
+BMW,X5 xDRIVE35i,SUV - STANDARD,3.0,6,AS8,Z,13.0,9.7,11.5,269,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,X5 xDRIVE50i,SUV - STANDARD,4.4,8,AS8,Z,15.7,11.4,13.8,322,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,X6 M,SUV - STANDARD,4.4,8,AS8,Z,16.6,12.1,14.6,343,,Kaggle 2014-2020,Premium petrol,8-speed automatic,yes,no
+BMW,X6 xDRIVE35i,SUV - STANDARD,3.0,6,AS8,Z,13.0,9.7,11.5,269,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,X6 xDRIVE50i,SUV - STANDARD,4.4,8,AS8,Z,15.7,11.4,13.8,322,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,Z4 sDRIVE28i,TWO-SEATER,2.0,4,AS8,Z,10.7,7.1,9.1,212,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,no
+BMW,Z4 sDRIVE28i,TWO-SEATER,2.0,4,M6,Z,10.7,7.0,9.0,211,,Kaggle 2014-2020,Premium petrol,6-speed manual,no,no
+BMW,Z4 sDRIVE35i,TWO-SEATER,3.0,6,AM7,Z,13.7,10.0,12.1,282,,Kaggle 2014-2020,Premium petrol,7-speed automated manual,no,no
+BMW,Z4 sDRIVE35is,TWO-SEATER,3.0,6,AM7,Z,13.7,10.0,12.1,282,,Kaggle 2014-2020,Premium petrol,7-speed automated manual,no,no
+Mercedes-Benz,AMG C 63,COMPACT,4.0,8,AS7,Z,13.4,9.6,11.7,268,,Kaggle 2014-2020,Premium petrol,7-speed automatic,yes,no
+Mercedes-Benz,AMG C 63 S,COMPACT,4.0,8,AS7,Z,13.4,9.6,11.7,268,,Kaggle 2014-2020,Premium petrol,7-speed automatic,yes,no
+Mercedes-Benz,AMG CLA 45,COMPACT,2.0,4,AS7,Z,10.2,7.7,9.1,214,,Kaggle 2014-2020,Premium petrol,7-speed automatic,yes,no
+Mercedes-Benz,AMG CLS 63 S 4MATIC,COMPACT,5.5,8,AS7,Z,15.1,10.8,13.1,308,,Kaggle 2014-2020,Premium petrol,7-speed automatic,yes,yes
+Mercedes-Benz,AMG E 63 S 4MATIC,MID-SIZE,5.5,8,AS7,Z,15.3,10.8,13.3,310,,Kaggle 2014-2020,Premium petrol,7-speed automatic,yes,yes
+Mercedes-Benz,AMG E 63 S 4MATIC WAGON,STATION WAGON - MID-SIZE,5.5,8,AS7,Z,15.2,11.0,13.3,310,,Kaggle 2014-2020,Premium petrol,7-speed automatic,yes,yes
+Mercedes-Benz,AMG G 63,SUV - STANDARD,5.5,8,AS7,Z,20.0,16.6,18.5,417,,Kaggle 2014-2020,Premium petrol,7-speed automatic,yes,no
+Mercedes-Benz,AMG G 65,SUV - STANDARD,6.0,12,AS7,Z,24.3,17.9,21.4,476,,Kaggle 2014-2020,Premium petrol,7-speed automatic,yes,no
+Mercedes-Benz,AMG GL 63 S,SUV - STANDARD,5.5,8,AS7,Z,18.2,14.0,16.3,369,,Kaggle 2014-2020,Premium petrol,7-speed automatic,yes,no
+Mercedes-Benz,AMG GLA 45,SUV - SMALL,2.0,4,AS7,Z,10.3,8.1,9.3,216,,Kaggle 2014-2020,Premium petrol,7-speed automatic,yes,no
+Mercedes-Benz,AMG GLE 63 S 4MATIC,SUV - STANDARD,5.5,8,AS7,Z,17.3,13.5,15.6,366,,Kaggle 2014-2020,Premium petrol,7-speed automatic,yes,yes
+Mercedes-Benz,AMG GLE 63 S COUPE 4MATIC,SUV - STANDARD,5.5,8,AS7,Z,17.2,12.8,15.2,363,,Kaggle 2014-2020,Premium petrol,7-speed automatic,yes,yes
+Mercedes-Benz,AMG GT S,TWO-SEATER,4.0,8,AM7,Z,14.5,10.8,12.8,303,,Kaggle 2014-2020,Premium petrol,7-speed automated manual,yes,no
+Mercedes-Benz,AMG S 63,FULL-SIZE,5.5,8,AS7,Z,15.7,10.1,13.2,313,,Kaggle 2014-2020,Premium petrol,7-speed automatic,yes,no
+Mercedes-Benz,AMG S 63 COUPE,COMPACT,5.5,8,AS7,Z,15.3,10.2,13.0,313,,Kaggle 2014-2020,Premium petrol,7-speed automatic,yes,no
+Mercedes-Benz,AMG S 65,FULL-SIZE,6.0,12,AS7,Z,18.5,11.8,15.5,361,,Kaggle 2014-2020,Premium petrol,7-speed automatic,yes,no
+Mercedes-Benz,AMG S 65 COUPE,COMPACT,6.0,12,AS7,Z,18.0,11.3,15.0,355,,Kaggle 2014-2020,Premium petrol,7-speed automatic,yes,no
+Mercedes-Benz,AMG SL 63,TWO-SEATER,5.5,8,AS7,Z,14.7,9.5,12.4,298,,Kaggle 2014-2020,Premium petrol,7-speed automatic,yes,no
+Mercedes-Benz,AMG SL 65,TWO-SEATER,6.0,12,AS7,Z,16.7,11.2,14.2,335,,Kaggle 2014-2020,Premium petrol,7-speed automatic,yes,no
+Mercedes-Benz,AMG SLK 55,TWO-SEATER,5.5,8,AS7,Z,12.4,8.5,10.6,252,,Kaggle 2014-2020,Premium petrol,7-speed automatic,yes,no
+Mercedes-Benz,B 250,MID-SIZE,2.0,4,AS7,Z,9.2,6.6,8.0,188,,Kaggle 2014-2020,Premium petrol,7-speed automatic,no,no
+Mercedes-Benz,B 250 4MATIC,MID-SIZE,2.0,4,AS7,Z,10.0,7.5,8.9,206,,Kaggle 2014-2020,Premium petrol,7-speed automatic,no,yes
+Mercedes-Benz,C 300 4MATIC,COMPACT,2.0,4,AS7,Z,10.1,7.8,9.0,212,,Kaggle 2014-2020,Premium petrol,7-speed automatic,no,yes
+Mercedes-Benz,C 450 AMG SPORT 4MATIC,COMPACT,3.0,6,AS7,Z,11.1,9.6,10.4,231,,Kaggle 2014-2020,Premium petrol,7-speed automatic,yes,yes
+Mercedes-Benz,CLA 250,COMPACT,2.0,4,AS7,Z,9.4,6.4,8.1,188,,Kaggle 2014-2020,Premium petrol,7-speed automatic,no,no
+Mercedes-Benz,CLA 250 4MATIC FFV,COMPACT,2.0,4,AS7,Z,9.8,7.1,8.6,198,,Kaggle 2014-2020,Premium petrol,7-speed automatic,no,yes
+Mercedes-Benz,CLA 250 4MATIC FFV,COMPACT,2.0,4,AS7,E,13.1,9.8,11.6,198,,Kaggle 2014-2020,Ethanol (E85),7-speed automatic,no,yes
+Mercedes-Benz,CLS 400 4MATIC,COMPACT,3.0,6,AS7,Z,12.2,8.8,10.7,252,,Kaggle 2014-2020,Premium petrol,7-speed automatic,no,yes
+Mercedes-Benz,CLS 550 4MATIC,COMPACT,4.7,8,AS7,Z,13.7,9.3,11.7,277,,Kaggle 2014-2020,Premium petrol,7-speed automatic,no,yes
+Mercedes-Benz,E 250 BLUETEC 4MATIC,MID-SIZE,2.1,4,AS7,D,8.6,6.0,7.4,200,,Kaggle 2014-2020,Diesel,7-speed automatic,no,yes
+Mercedes-Benz,E 300 4MATIC,MID-SIZE,3.5,6,AS7,Z,11.9,8.2,10.2,240,,Kaggle 2014-2020,Premium petrol,7-speed automatic,no,yes
+Mercedes-Benz,E 400 4MATIC,MID-SIZE,3.0,6,AS7,Z,12.0,8.5,10.4,244,,Kaggle 2014-2020,Premium petrol,7-speed automatic,no,yes
+Mercedes-Benz,E 400 4MATIC COUPE,SUBCOMPACT,3.0,6,AS7,Z,11.8,8.4,10.2,239,,Kaggle 2014-2020,Premium petrol,7-speed automatic,no,yes
+Mercedes-Benz,E 400 4MATIC WAGON,STATION WAGON - MID-SIZE,3.0,6,AS7,Z,12.4,8.9,10.8,253,,Kaggle 2014-2020,Premium petrol,7-speed automatic,no,yes
+Mercedes-Benz,E 400 CABRIOLET,SUBCOMPACT,3.0,6,AS7,Z,11.5,8.1,10.0,233,,Kaggle 2014-2020,Premium petrol,7-speed automatic,no,no
+Mercedes-Benz,E 550 4MATIC,MID-SIZE,4.7,8,AS7,Z,12.9,9.6,11.4,270,,Kaggle 2014-2020,Premium petrol,7-speed automatic,no,yes
+Mercedes-Benz,E 550 CABRIOLET,SUBCOMPACT,4.7,8,AS7,Z,13.7,9.2,11.7,275,,Kaggle 2014-2020,Premium petrol,7-speed automatic,no,no
+Mercedes-Benz,E 550 COUPE,SUBCOMPACT,4.7,8,AS7,Z,13.4,8.9,11.4,268,,Kaggle 2014-2020,Premium petrol,7-speed automatic,no,no
+Mercedes-Benz,G 550,SUV - STANDARD,5.5,8,AS7,Z,19.0,16.5,17.9,401,,Kaggle 2014-2020,Premium petrol,7-speed automatic,no,no
+Mercedes-Benz,GL 350 BLUETEC 4MATIC,SUV - STANDARD,3.0,6,AS7,D,13.6,10.0,12.0,322,,Kaggle 2014-2020,Diesel,7-speed automatic,no,yes
+Mercedes-Benz,GL 550 4MATIC,SUV - STANDARD,4.7,8,AS7,Z,17.5,13.1,15.5,365,,Kaggle 2014-2020,Premium petrol,7-speed automatic,no,yes
+Mercedes-Benz,GLA 250 4MATIC,SUV - SMALL,2.0,4,AS7,Z,9.8,7.4,8.7,203,,Kaggle 2014-2020,Premium petrol,7-speed automatic,no,yes
+Mercedes-Benz,GLE 350d 4MATIC,SUV - STANDARD,3.0,6,A9,D,10.1,8.0,9.2,246,,Kaggle 2014-2020,Diesel,9-speed automatic,no,yes
+Mercedes-Benz,GLE 350d 4MATIC COUPE,SUV - STANDARD,3.0,6,A9,D,10.4,8.2,9.4,253,,Kaggle 2014-2020,Diesel,9-speed automatic,no,yes
+Mercedes-Benz,GLE 400 4MATIC,SUV - STANDARD,3.0,6,AS7,Z,13.3,10.4,12.0,282,,Kaggle 2014-2020,Premium petrol,7-speed automatic,no,yes
+Mercedes-Benz,GLE 450 AMG SPORT 4MATIC COUPE,SUV - STANDARD,3.0,6,A9,Z,13.6,10.2,12.0,281,,Kaggle 2014-2020,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,GLE 550 4MATIC,SUV - STANDARD,4.7,8,AS7,Z,16.2,11.8,14.2,335,,Kaggle 2014-2020,Premium petrol,7-speed automatic,no,yes
+Mercedes-Benz,MAYBACH S 600,FULL-SIZE,6.0,12,AS7,Z,18.2,11.7,15.3,359,,Kaggle 2014-2020,Premium petrol,7-speed automatic,yes,no
+Mercedes-Benz,METRIS CARGO,SPECIAL PURPOSE VEHICLE,2.0,4,AS7,Z,10.8,9.5,10.2,233,,Kaggle 2014-2020,Premium petrol,7-speed automatic,no,no
+Mercedes-Benz,METRIS PASSENGER,SPECIAL PURPOSE VEHICLE,2.0,4,AS7,Z,11.5,10.2,10.9,248,,Kaggle 2014-2020,Premium petrol,7-speed automatic,no,no
+Mercedes-Benz,S 400 4MATIC SWB,MID-SIZE,3.0,6,AS7,Z,12.6,8.6,10.8,253,,Kaggle 2014-2020,Premium petrol,7-speed automatic,no,yes
+Mercedes-Benz,S 550 4MATIC SWB,MID-SIZE,4.7,8,AS7,Z,14.7,9.1,12.2,294,,Kaggle 2014-2020,Premium petrol,7-speed automatic,no,yes
+Mercedes-Benz,S 550 4MATIC LWB,FULL-SIZE,4.7,8,AS7,Z,14.8,9.8,12.5,287,,Kaggle 2014-2020,Premium petrol,7-speed automatic,no,yes
+Mercedes-Benz,S 550 4MATIC COUPE,COMPACT,4.7,8,AS7,Z,14.4,9.8,12.3,289,,Kaggle 2014-2020,Premium petrol,7-speed automatic,no,yes
+Mercedes-Benz,S 600,FULL-SIZE,6.0,12,AS7,Z,17.3,11.0,14.5,340,,Kaggle 2014-2020,Premium petrol,7-speed automatic,no,no
+Mercedes-Benz,SL 550,TWO-SEATER,4.7,8,AS7,Z,14.6,9.6,12.3,289,,Kaggle 2014-2020,Premium petrol,7-speed automatic,no,no
+Mercedes-Benz,SLK 300,TWO-SEATER,2.0,4,A9,Z,9.6,7.3,8.5,199,,Kaggle 2014-2020,Premium petrol,9-speed automatic,no,no
+Mercedes-Benz,SLK 350,TWO-SEATER,3.5,6,AS7,Z,11.1,8.1,9.8,229,,Kaggle 2014-2020,Premium petrol,7-speed automatic,no,no
+BMW,230i CABRIOLET,SUBCOMPACT,2.0,4,AS8,Z,10.0,7.2,8.7,207,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,no
+BMW,230i COUPE,SUBCOMPACT,2.0,4,AS8,Z,9.8,6.8,8.4,197,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,no
+BMW,230i COUPE,SUBCOMPACT,2.0,4,M6,Z,11.1,7.3,9.4,219,,Kaggle 2014-2020,Premium petrol,6-speed manual,no,no
+BMW,230i xDrive Cabriolet,SUBCOMPACT,2.0,4,AS8,Z,10.5,7.4,9.1,213,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,230i xDrive Coupe,SUBCOMPACT,2.0,4,AS8,Z,10.2,7.4,9.0,210,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,320i,COMPACT,2.0,4,AS8,Z,10.0,6.5,8.4,200,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,no
+BMW,320i,COMPACT,2.0,4,M6,Z,10.2,6.7,8.6,202,,Kaggle 2014-2020,Premium petrol,6-speed manual,no,no
+BMW,320i xDRIVE,COMPACT,2.0,4,AS8,Z,10.3,6.9,8.8,206,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,328d xDRIVE,COMPACT,2.0,4,AS8,D,7.9,5.9,7.0,189,,Kaggle 2014-2020,Diesel,8-speed automatic,no,yes
+BMW,328d xDRIVE TOURING,STATION WAGON - SMALL,2.0,4,AS8,D,7.9,5.9,7.0,189,,Kaggle 2014-2020,Diesel,8-speed automatic,no,yes
+BMW,330i xDRIVE,COMPACT,2.0,4,AS8,Z,10.5,7.4,9.1,213,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,330i xDRIVE GRAN TURISMO,FULL-SIZE,2.0,4,AS8,Z,10.5,7.4,9.1,213,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,330i xDRIVE TOURING,STATION WAGON - SMALL,2.0,4,AS8,Z,10.5,7.4,9.1,213,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,340i,COMPACT,3.0,6,AS8,Z,11.1,7.8,9.6,224,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,no
+BMW,340i,COMPACT,3.0,6,M6,Z,12.2,8.2,10.4,242,,Kaggle 2014-2020,Premium petrol,6-speed manual,no,no
+BMW,340i xDRIVE,COMPACT,3.0,6,AS8,Z,11.4,7.8,9.8,228,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,340i xDRIVE,COMPACT,3.0,6,M6,Z,12.2,8.5,10.5,246,,Kaggle 2014-2020,Premium petrol,6-speed manual,no,yes
+BMW,340i xDRIVE GRAN TURISMO,FULL-SIZE,3.0,6,AS8,Z,11.9,8.1,10.2,238,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,430i xDrive Cabriolet,SUBCOMPACT,2.0,4,AS8,Z,10.6,7.3,9.1,211,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,430i xDrive Coupe,COMPACT,2.0,4,AS8,Z,10.5,7.4,9.1,213,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,430i xDrive Gran Coupe,COMPACT,2.0,4,AS8,Z,10.5,7.4,9.1,213,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,440i COUPE,COMPACT,3.0,6,AS8,Z,11.1,7.8,9.6,224,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,no
+BMW,440i COUPE,COMPACT,3.0,6,M6,Z,12.2,8.2,10.4,242,,Kaggle 2014-2020,Premium petrol,6-speed manual,no,no
+BMW,440i xDRIVE CABRIOLET,SUBCOMPACT,3.0,6,AS8,Z,11.9,8.1,10.2,238,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,440i xDRIVE COUPE,COMPACT,3.0,6,AS8,Z,11.4,7.8,9.8,228,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,440i xDRIVE COUPE,COMPACT,3.0,6,M6,Z,12.2,8.5,10.5,246,,Kaggle 2014-2020,Premium petrol,6-speed manual,no,yes
+BMW,440i xDRIVE GRAN COUPE,COMPACT,3.0,6,AS8,Z,11.4,7.8,9.8,228,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,530i xDRIVE,MID-SIZE,2.0,4,AS8,Z,10.5,7.4,9.1,213,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,540i xDRIVE,MID-SIZE,3.0,6,AS8,Z,11.4,7.8,9.8,228,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,640i xDRIVE CABRIOLET,SUBCOMPACT,3.0,6,AS8,Z,12.4,8.4,10.6,249,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,640i xDRIVE GRAN COUPE,COMPACT,3.0,6,AS8,Z,12.4,8.4,10.6,249,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,650i xDRIVE CABRIOLET,SUBCOMPACT,4.4,8,AS8,Z,14.7,9.7,12.5,292,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,650i xDRIVE COUPE,COMPACT,4.4,8,AS8,Z,13.8,9.1,11.7,273,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,650i xDRIVE GRAN COUPE,COMPACT,4.4,8,AS8,Z,14.7,9.7,12.5,292,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,740Li xDRIVE,FULL-SIZE,3.0,6,AS8,Z,11.9,8.1,10.2,238,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,750i xDRIVE,FULL-SIZE,4.4,8,AS8,Z,13.8,9.1,11.7,273,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,750Li xDRIVE,FULL-SIZE,4.4,8,AS8,Z,14.7,9.7,12.5,292,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,ALPINA B6 xDRIVE GRAN COUPE,COMPACT,4.4,8,AS8,Z,14.7,9.7,12.5,292,,Kaggle 2014-2020,Premium petrol,8-speed automatic,yes,yes
+BMW,Alpina B7 xDrive,FULL-SIZE,4.4,8,AS8,Z,14.7,9.7,12.5,292,,Kaggle 2014-2020,Premium petrol,8-speed automatic,yes,yes
+BMW,M2,SUBCOMPACT,3.0,6,AM7,Z,11.8,8.9,10.5,245,,Kaggle 2014-2020,Premium petrol,7-speed automated manual,yes,no
+BMW,M2,SUBCOMPACT,3.0,6,M6,Z,13.1,9.2,11.4,267,,Kaggle 2014-2020,Premium petrol,6-speed manual,yes,no
+BMW,M240i CABRIOLET,SUBCOMPACT,3.0,6,AS8,Z,11.1,7.8,9.6,224,,Kaggle 2014-2020,Premium petrol,8-speed automatic,yes,no
+BMW,M240i CABRIOLET,SUBCOMPACT,3.0,6,M6,Z,12.2,8.2,10.4,242,,Kaggle 2014-2020,Premium petrol,6-speed manual,yes,no
+BMW,M240i COUPE,SUBCOMPACT,3.0,6,AS8,Z,11.1,7.8,9.6,224,,Kaggle 2014-2020,Premium petrol,8-speed automatic,yes,no
+BMW,M240i COUPE,SUBCOMPACT,3.0,6,M6,Z,12.5,8.4,10.7,250,,Kaggle 2014-2020,Premium petrol,6-speed manual,yes,no
+BMW,M240i xDrive Cabriolet,SUBCOMPACT,3.0,6,AS8,Z,11.4,7.8,9.8,228,,Kaggle 2014-2020,Premium petrol,8-speed automatic,yes,yes
+BMW,M240i xDrive Coupe,SUBCOMPACT,3.0,6,AS8,Z,11.4,7.8,9.8,228,,Kaggle 2014-2020,Premium petrol,8-speed automatic,yes,yes
+BMW,M3,COMPACT,3.0,6,AM7,Z,14.0,9.7,12.1,284,,Kaggle 2014-2020,Premium petrol,7-speed automated manual,yes,no
+BMW,M3,COMPACT,3.0,6,M6,Z,13.7,9.1,11.7,273,,Kaggle 2014-2020,Premium petrol,6-speed manual,yes,no
+BMW,M4 CABRIOLET,SUBCOMPACT,3.0,6,AM7,Z,14.1,9.6,12.1,283,,Kaggle 2014-2020,Premium petrol,7-speed automated manual,yes,no
+BMW,M4 CABRIOLET,SUBCOMPACT,3.0,6,M6,Z,13.7,9.1,11.7,273,,Kaggle 2014-2020,Premium petrol,6-speed manual,yes,no
+BMW,M4 Coupe,COMPACT,3.0,6,AM7,Z,14.0,9.7,12.1,284,,Kaggle 2014-2020,Premium petrol,7-speed automated manual,yes,no
+BMW,M4 Coupe,COMPACT,3.0,6,M6,Z,13.7,9.1,11.7,273,,Kaggle 2014-2020,Premium petrol,6-speed manual,yes,no
+BMW,M6,COMPACT,4.4,8,AM7,Z,17.2,11.6,14.7,343,,Kaggle 2014-2020,Premium petrol,7-speed automated manual,yes,no
+BMW,M6,COMPACT,4.4,8,M6,Z,16.2,10.9,13.8,324,,Kaggle 2014-2020,Premium petrol,6-speed manual,yes,no
+BMW,M6 CABRIOLET,SUBCOMPACT,4.4,8,AM7,Z,17.2,11.6,14.7,343,,Kaggle 2014-2020,Premium petrol,7-speed automated manual,yes,no
+BMW,M6 CABRIOLET,SUBCOMPACT,4.4,8,M6,Z,16.2,10.9,13.8,324,,Kaggle 2014-2020,Premium petrol,6-speed manual,yes,no
+BMW,M6 GRAN COUPE,COMPACT,4.4,8,AM7,Z,17.2,11.6,14.7,343,,Kaggle 2014-2020,Premium petrol,7-speed automated manual,yes,no
+BMW,M6 GRAN COUPE,COMPACT,4.4,8,M6,Z,16.2,10.9,13.8,324,,Kaggle 2014-2020,Premium petrol,6-speed manual,yes,no
+BMW,M760i xDRIVE,FULL-SIZE,6.6,12,AS8,Z,17.7,11.9,15.1,355,,Kaggle 2014-2020,Premium petrol,8-speed automatic,yes,yes
+BMW,X1 xDrive28i,SUV - SMALL,2.0,4,AS8,Z,10.5,7.4,9.1,213,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,X3 xDRIVE28d,SUV - SMALL,2.0,4,AS8,D,8.7,7.1,8.0,211,,Kaggle 2014-2020,Diesel,8-speed automatic,no,yes
+BMW,X3 xDRIVE28i,SUV - SMALL,2.0,4,AS8,Z,11.1,8.5,10.0,233,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,X3 xDRIVE35i,SUV - SMALL,3.0,6,AS8,Z,12.7,9.1,11.1,260,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,X4 M40i,SUV - SMALL,3.0,6,AS8,Z,12.7,9.1,11.1,260,,Kaggle 2014-2020,Premium petrol,8-speed automatic,yes,no
+BMW,X4 xDRIVE28i,SUV - SMALL,2.0,4,AS8,Z,11.8,8.6,10.3,240,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,X5 M,SUV - STANDARD,4.4,8,AS8,Z,16.6,12.1,14.6,341,,Kaggle 2014-2020,Premium petrol,8-speed automatic,yes,no
+BMW,X5 xDRIVE35d,SUV - STANDARD,3.0,6,AS8,D,10.3,8.0,9.3,249,,Kaggle 2014-2020,Diesel,8-speed automatic,no,yes
+BMW,X5 xDRIVE35i,SUV - STANDARD,3.0,6,AS8,Z,13.0,9.8,11.5,270,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,X5 xDRIVE50i,SUV - STANDARD,4.4,8,AS8,Z,15.6,11.3,13.7,320,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,X6 M,SUV - STANDARD,4.4,8,AS8,Z,16.6,12.1,14.6,341,,Kaggle 2014-2020,Premium petrol,8-speed automatic,yes,no
+BMW,X6 xDRIVE35i,SUV - STANDARD,3.0,6,AS8,Z,13.0,9.8,11.5,270,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,X6 xDRIVE50i,SUV - STANDARD,4.4,8,AS8,Z,15.6,11.3,13.7,320,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+Mercedes-Benz,AMG C 63,COMPACT,4.0,8,AS7,Z,13.4,9.6,11.7,273,,Kaggle 2014-2020,Premium petrol,7-speed automatic,yes,no
+Mercedes-Benz,AMG C 63 CABRIOLET,SUBCOMPACT,4.0,8,AS7,Z,14.0,10.1,12.2,291,,Kaggle 2014-2020,Premium petrol,7-speed automatic,yes,no
+Mercedes-Benz,AMG C 63 COUPE,SUBCOMPACT,4.0,8,AS7,Z,13.8,10.1,12.1,285,,Kaggle 2014-2020,Premium petrol,7-speed automatic,yes,no
+Mercedes-Benz,AMG C 63 S,COMPACT,4.0,8,AS7,Z,13.4,9.6,11.7,273,,Kaggle 2014-2020,Premium petrol,7-speed automatic,yes,no
+Mercedes-Benz,AMG C 63 S Cabriolet,SUBCOMPACT,4.0,8,AS7,Z,14.0,10.1,12.2,291,,Kaggle 2014-2020,Premium petrol,7-speed automatic,yes,no
+Mercedes-Benz,AMG C 63 S Coupe,SUBCOMPACT,4.0,8,AS7,Z,13.8,10.1,12.1,285,,Kaggle 2014-2020,Premium petrol,7-speed automatic,yes,no
+Mercedes-Benz,AMG CLA 45,COMPACT,2.0,4,AS7,Z,10.7,7.6,9.3,221,,Kaggle 2014-2020,Premium petrol,7-speed automatic,yes,no
+Mercedes-Benz,AMG G 63,SUV - STANDARD,5.5,8,AS7,Z,20.0,16.6,18.5,413,,Kaggle 2014-2020,Premium petrol,7-speed automatic,yes,no
+Mercedes-Benz,AMG G 65,SUV - STANDARD,6.0,12,AS7,Z,22.2,18.0,20.3,467,,Kaggle 2014-2020,Premium petrol,7-speed automatic,yes,no
+Mercedes-Benz,AMG GLA 45 4MATIC,SUV - SMALL,2.0,4,AS7,Z,11.3,8.5,10.0,233,,Kaggle 2014-2020,Premium petrol,7-speed automatic,yes,yes
+Mercedes-Benz,AMG GLC 43 4MATIC Coupe,SUV - SMALL,3.0,6,A9,Z,17.4,11.1,14.6,353,,Kaggle 2014-2020,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG GLE 43 4MATIC,SUV - STANDARD,3.0,6,A9,Z,13.6,10.1,12.0,281,,Kaggle 2014-2020,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG GLE 43 4MATIC COUPE,SUV - STANDARD,3.0,6,A9,Z,13.6,10.2,12.0,281,,Kaggle 2014-2020,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG GLE 63 S 4MATIC,SUV - STANDARD,5.5,8,AS7,Z,17.3,13.5,15.6,363,,Kaggle 2014-2020,Premium petrol,7-speed automatic,yes,yes
+Mercedes-Benz,AMG GLE 63 S 4MATIC COUPE,SUV - STANDARD,5.5,8,AS7,Z,17.2,12.8,15.2,363,,Kaggle 2014-2020,Premium petrol,7-speed automatic,yes,yes
+Mercedes-Benz,AMG GLS 63,SUV - STANDARD,5.5,8,AS7,Z,18.2,14.0,16.3,369,,Kaggle 2014-2020,Premium petrol,7-speed automatic,yes,no
+Mercedes-Benz,AMG GT COUPE,TWO-SEATER,4.0,8,AS7,Z,14.5,10.8,12.8,303,,Kaggle 2014-2020,Premium petrol,7-speed automatic,yes,no
+Mercedes-Benz,AMG GT S COUPE,TWO-SEATER,4.0,8,AS7,Z,14.5,10.8,12.8,303,,Kaggle 2014-2020,Premium petrol,7-speed automatic,yes,no
+Mercedes-Benz,AMG S 63 4MATIC,FULL-SIZE,5.5,8,AS7,Z,15.7,10.1,13.2,313,,Kaggle 2014-2020,Premium petrol,7-speed automatic,yes,yes
+Mercedes-Benz,AMG S 63 CABRIOLET,COMPACT,5.5,8,AS7,Z,16.4,10.6,13.8,322,,Kaggle 2014-2020,Premium petrol,7-speed automatic,yes,no
+Mercedes-Benz,AMG S 63 COUPE,COMPACT,5.5,8,AS7,Z,15.3,10.2,13.0,305,,Kaggle 2014-2020,Premium petrol,7-speed automatic,yes,no
+Mercedes-Benz,AMG S 65,FULL-SIZE,6.0,12,AS7,Z,17.6,10.9,14.6,349,,Kaggle 2014-2020,Premium petrol,7-speed automatic,yes,no
+Mercedes-Benz,AMG S 65 CABRIOLET,COMPACT,6.0,12,AS7,Z,17.1,11.0,14.3,348,,Kaggle 2014-2020,Premium petrol,7-speed automatic,yes,no
+Mercedes-Benz,AMG S 65 COUPE,COMPACT,6.0,12,AS7,Z,18.7,11.6,15.5,365,,Kaggle 2014-2020,Premium petrol,7-speed automatic,yes,no
+Mercedes-Benz,AMG SL 65,TWO-SEATER,6.0,12,AS7,Z,17.6,10.8,14.5,340,,Kaggle 2014-2020,Premium petrol,7-speed automatic,yes,no
+Mercedes-Benz,AMG SLC 43,TWO-SEATER,3.0,6,A9,Z,11.6,8.2,10.1,234,,Kaggle 2014-2020,Premium petrol,9-speed automatic,yes,no
+Mercedes-Benz,B 250,MID-SIZE,2.0,4,AS7,Z,9.7,6.6,8.3,179,,Kaggle 2014-2020,Premium petrol,7-speed automatic,no,no
+Mercedes-Benz,C 300 4MATIC Cabriolet,SUBCOMPACT,2.0,4,A9,Z,10.8,8.0,9.5,222,,Kaggle 2014-2020,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,C 300 4MATIC Coupe,SUBCOMPACT,2.0,4,AS7,Z,10.4,8.0,9.3,218,,Kaggle 2014-2020,Premium petrol,7-speed automatic,no,yes
+Mercedes-Benz,CLA 250,COMPACT,2.0,4,AS7,Z,9.6,6.4,8.1,190,,Kaggle 2014-2020,Premium petrol,7-speed automatic,no,no
+Mercedes-Benz,CLS 550 4MATIC,COMPACT,4.7,8,A9,Z,13.6,9.4,11.7,275,,Kaggle 2014-2020,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,E 400 4MATIC,MID-SIZE,3.0,6,A9,Z,11.8,8.6,10.4,245,,Kaggle 2014-2020,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,E 400 4MATIC WAGON,STATION WAGON - MID-SIZE,3.0,6,A9,Z,12.4,9.3,11.0,259,,Kaggle 2014-2020,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,E 400 COUPE,SUBCOMPACT,3.0,6,AS7,Z,11.8,8.4,10.2,239,,Kaggle 2014-2020,Premium petrol,7-speed automatic,no,no
+Mercedes-Benz,G 550,SUV - STANDARD,4.0,8,AS7,Z,19.0,16.6,17.9,401,,Kaggle 2014-2020,Premium petrol,7-speed automatic,no,no
+Mercedes-Benz,GLA 250 4MATIC,SUV - SMALL,2.0,4,AS7,Z,10.3,7.6,9.1,212,,Kaggle 2014-2020,Premium petrol,7-speed automatic,no,yes
+Mercedes-Benz,GLC 300 4MATIC,SUV - SMALL,2.0,4,A9,Z,11.1,8.5,10.0,233,,Kaggle 2014-2020,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,GLE 400 4MATIC,SUV - STANDARD,3.0,6,A9,Z,13.1,10.1,11.7,276,,Kaggle 2014-2020,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,GLE 550 4MATIC,SUV - STANDARD,4.7,8,A9,Z,15.3,11.3,13.5,318,,Kaggle 2014-2020,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,GLS 450 4MATIC,SUV - STANDARD,3.0,6,A9,Z,14.4,11.4,13.0,306,,Kaggle 2014-2020,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,GLS 550 4MATIC,SUV - STANDARD,4.7,8,A9,Z,16.7,12.9,15.0,347,,Kaggle 2014-2020,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,MAYBACH S 600,FULL-SIZE,6.0,12,AS7,Z,18.2,11.0,15.0,359,,Kaggle 2014-2020,Premium petrol,7-speed automatic,yes,no
+Mercedes-Benz,METRIS CARGO,SPECIAL PURPOSE VEHICLE,2.0,4,AS7,Z,11.1,9.1,10.2,240,,Kaggle 2014-2020,Premium petrol,7-speed automatic,no,no
+Mercedes-Benz,METRIS PASSENGER,SPECIAL PURPOSE VEHICLE,2.0,4,AS7,Z,11.5,9.3,10.5,248,,Kaggle 2014-2020,Premium petrol,7-speed automatic,no,no
+Mercedes-Benz,S 550 4MATIC SWB,MID-SIZE,4.7,8,A9,Z,14.3,9.2,12.0,280,,Kaggle 2014-2020,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,S 550 4MATIC LWB,FULL-SIZE,4.7,8,A9,Z,14.3,9.2,12.0,280,,Kaggle 2014-2020,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,S 550 4MATIC CABRIOLET,COMPACT,4.7,8,A9,Z,13.9,9.3,11.8,276,,Kaggle 2014-2020,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,S 550 4MATIC COUPE,COMPACT,4.7,8,A9,Z,14.1,9.3,11.9,278,,Kaggle 2014-2020,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,S 600,FULL-SIZE,6.0,12,AS7,Z,17.5,10.8,14.5,350,,Kaggle 2014-2020,Premium petrol,7-speed automatic,no,no
+Mercedes-Benz,SL 450,TWO-SEATER,3.0,6,A9,Z,11.5,8.4,10.1,237,,Kaggle 2014-2020,Premium petrol,9-speed automatic,no,no
+Mercedes-Benz,SL 550,TWO-SEATER,4.7,8,A9,Z,13.6,9.5,11.7,275,,Kaggle 2014-2020,Premium petrol,9-speed automatic,no,no
+Mercedes-Benz,SLC 300,TWO-SEATER,2.0,4,A9,Z,9.5,7.2,8.5,200,,Kaggle 2014-2020,Premium petrol,9-speed automatic,no,no
+BMW,230i xDrive Cabriolet,SUBCOMPACT,2.0,4,AS8,Z,10.2,7.2,8.9,208,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,230i xDrive Coupe,SUBCOMPACT,2.0,4,AS8,Z,9.9,7.1,8.6,202,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,328d xDRIVE,COMPACT,2.0,4,AS8,D,7.8,5.9,7.0,184,,Kaggle 2014-2020,Diesel,8-speed automatic,no,yes
+BMW,328d xDRIVE TOURING,STATION WAGON - SMALL,2.0,4,AS8,D,7.8,5.9,7.0,184,,Kaggle 2014-2020,Diesel,8-speed automatic,no,yes
+BMW,330i xDRIVE,COMPACT,2.0,4,AS8,Z,10.2,7.2,8.9,208,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,330i xDRIVE GRAN TURISMO,FULL-SIZE,2.0,4,AS8,Z,10.2,7.2,8.9,208,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,330i xDRIVE TOURING,STATION WAGON - SMALL,2.0,4,AS8,Z,10.2,7.2,8.9,208,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,340i,COMPACT,3.0,6,AS8,Z,9.2,6.2,7.8,183,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,no
+BMW,340i,COMPACT,3.0,6,M6,Z,12.1,8.1,10.3,240,,Kaggle 2014-2020,Premium petrol,6-speed manual,no,no
+BMW,340i xDRIVE,COMPACT,3.0,6,AS8,Z,11.1,7.5,9.5,223,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,340i xDRIVE,COMPACT,3.0,6,M6,Z,12.2,8.4,10.5,245,,Kaggle 2014-2020,Premium petrol,6-speed manual,no,yes
+BMW,340i xDRIVE GRAN TURISMO,FULL-SIZE,3.0,6,AS8,Z,11.8,7.9,10.0,235,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,430i xDrive Cabriolet,SUBCOMPACT,2.0,4,AS8,Z,10.7,7.3,9.1,214,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,430i xDrive Coupe,COMPACT,2.0,4,AS8,Z,10.2,7.2,8.9,208,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,430i xDrive Gran Coupe,COMPACT,2.0,4,AS8,Z,10.2,7.2,8.9,208,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,440i COUPE,COMPACT,3.0,6,AS8,Z,9.2,6.2,7.8,183,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,no
+BMW,440i COUPE,COMPACT,3.0,6,M6,Z,12.1,8.1,10.3,240,,Kaggle 2014-2020,Premium petrol,6-speed manual,no,no
+BMW,440i xDRIVE CABRIOLET,SUBCOMPACT,3.0,6,AS8,Z,11.8,7.9,10.0,235,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,440i xDRIVE COUPE,COMPACT,3.0,6,AS8,Z,11.1,7.5,9.5,223,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,440i xDRIVE COUPE,COMPACT,3.0,6,M6,Z,12.2,8.4,10.5,245,,Kaggle 2014-2020,Premium petrol,6-speed manual,no,yes
+BMW,440i xDRIVE GRAN COUPE,COMPACT,3.0,6,AS8,Z,11.1,7.5,9.5,223,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,530i xDRIVE,MID-SIZE,2.0,4,AS8,Z,10.2,7.2,8.9,208,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,540i xDRIVE,MID-SIZE,3.0,6,AS8,Z,11.6,8.1,10.0,236,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,640i xDRIVE CABRIOLET,SUBCOMPACT,3.0,6,AS8,Z,12.3,8.4,10.5,248,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,640i xDRIVE GRAN COUPE,COMPACT,3.0,6,AS8,Z,12.3,8.4,10.5,248,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,640i xDRIVE GRAN TURISMO,FULL-SIZE,3.0,6,AS8,Z,11.9,8.4,10.3,241,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,650i xDRIVE CABRIOLET,SUBCOMPACT,4.4,8,AS8,Z,14.7,9.6,12.4,292,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,650i xDRIVE COUPE,SUBCOMPACT,4.4,8,AS8,Z,14.0,10.0,12.2,286,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,650i xDRIVE GRAN COUPE,COMPACT,4.4,8,AS8,Z,14.7,9.6,12.4,292,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,750i xDRIVE,FULL-SIZE,4.4,8,AS8,Z,14.7,9.6,12.4,292,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,750i xDRIVE SWB,FULL-SIZE,4.4,8,AS8,Z,14.3,9.4,12.1,283,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,ALPINA B6 xDRIVE GRAN COUPE,COMPACT,4.4,8,AS8,Z,14.7,9.6,12.4,292,,Kaggle 2014-2020,Premium petrol,8-speed automatic,yes,yes
+BMW,M240i CABRIOLET,SUBCOMPACT,3.0,6,AS8,Z,10.9,7.7,9.5,222,,Kaggle 2014-2020,Premium petrol,8-speed automatic,yes,no
+BMW,M240i CABRIOLET,SUBCOMPACT,3.0,6,M6,Z,12.7,8.7,10.9,255,,Kaggle 2014-2020,Premium petrol,6-speed manual,yes,no
+BMW,M240i COUPE,SUBCOMPACT,3.0,6,AS8,Z,10.9,7.7,9.5,222,,Kaggle 2014-2020,Premium petrol,8-speed automatic,yes,no
+BMW,M240i COUPE,SUBCOMPACT,3.0,6,M6,Z,12.5,8.4,10.7,249,,Kaggle 2014-2020,Premium petrol,6-speed manual,yes,no
+BMW,M240i xDrive Cabriolet,SUBCOMPACT,3.0,6,AS8,Z,11.2,7.8,9.7,227,,Kaggle 2014-2020,Premium petrol,8-speed automatic,yes,yes
+BMW,M240i xDrive Coupe,SUBCOMPACT,3.0,6,AS8,Z,11.2,7.8,9.7,227,,Kaggle 2014-2020,Premium petrol,8-speed automatic,yes,yes
+BMW,M3,COMPACT,3.0,6,AM7,Z,13.5,9.9,11.9,280,,Kaggle 2014-2020,Premium petrol,7-speed automated manual,yes,no
+BMW,M3,COMPACT,3.0,6,M6,Z,13.5,9.3,11.6,273,,Kaggle 2014-2020,Premium petrol,6-speed manual,yes,no
+BMW,M4 CABRIOLET,SUBCOMPACT,3.0,6,AM7,Z,14.5,10.5,12.7,299,,Kaggle 2014-2020,Premium petrol,7-speed automated manual,yes,no
+BMW,M4 CABRIOLET,SUBCOMPACT,3.0,6,M6,Z,13.8,9.4,11.9,280,,Kaggle 2014-2020,Premium petrol,6-speed manual,yes,no
+BMW,M4 Coupe,COMPACT,3.0,6,AM7,Z,13.5,9.9,11.9,280,,Kaggle 2014-2020,Premium petrol,7-speed automated manual,yes,no
+BMW,M4 Coupe,COMPACT,3.0,6,M6,Z,13.5,9.3,11.6,273,,Kaggle 2014-2020,Premium petrol,6-speed manual,yes,no
+BMW,M550i xDRIVE,MID-SIZE,4.4,8,AS8,Z,14.3,9.4,12.1,283,,Kaggle 2014-2020,Premium petrol,8-speed automatic,yes,yes
+BMW,M6 CABRIOLET,SUBCOMPACT,4.4,8,AM7,Z,17.3,11.6,14.7,344,,Kaggle 2014-2020,Premium petrol,7-speed automated manual,yes,no
+BMW,M6 COUPE,SUBCOMPACT,4.4,8,AM7,Z,17.3,11.6,14.7,344,,Kaggle 2014-2020,Premium petrol,7-speed automated manual,yes,no
+BMW,M6 COUPE,SUBCOMPACT,4.4,8,M6,Z,16.2,10.9,13.8,324,,Kaggle 2014-2020,Premium petrol,6-speed manual,yes,no
+BMW,M6 GRAN COUPE,COMPACT,4.4,8,AM7,Z,17.3,11.6,14.7,344,,Kaggle 2014-2020,Premium petrol,7-speed automated manual,yes,no
+BMW,X1 xDrive28i,SUV - SMALL,2.0,4,AS8,Z,10.7,7.5,9.3,217,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,X2 xDrive28i,SUV - SMALL,2.0,4,AS8,Z,11.0,7.7,9.5,222,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,X3 xDrive30i,SUV - SMALL,2.0,4,AS8,Z,10.8,8.0,9.5,223,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,X3 M40i,SUV - SMALL,3.0,6,AS8,Z,11.7,8.6,10.3,241,,Kaggle 2014-2020,Premium petrol,8-speed automatic,yes,no
+BMW,X4 M40i,SUV - SMALL,3.0,6,AS8,Z,12.9,9.5,11.4,266,,Kaggle 2014-2020,Premium petrol,8-speed automatic,yes,no
+BMW,X5 xDRIVE35d,SUV - STANDARD,3.0,6,AS8,D,10.3,8.0,9.3,246,,Kaggle 2014-2020,Diesel,8-speed automatic,no,yes
+BMW,X5 xDRIVE50i,SUV - STANDARD,4.4,8,AS8,Z,15.4,11.2,13.5,317,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,X6 xDRIVE50i,SUV - STANDARD,4.4,8,AS8,Z,15.4,11.2,13.5,317,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+Mercedes-Benz,AMG C 43 4MATIC,COMPACT,3.0,6,A9,Z,11.8,8.8,10.4,244,,Kaggle 2014-2020,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG C 43 4MATIC Cabriolet,SUBCOMPACT,3.0,6,A9,Z,12.3,9.4,11.0,256,,Kaggle 2014-2020,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG C 43 4MATIC Coupe,SUBCOMPACT,3.0,6,A9,Z,11.8,8.8,10.5,245,,Kaggle 2014-2020,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG C 63,COMPACT,4.0,8,A7,Z,13.4,9.6,11.7,274,,Kaggle 2014-2020,Premium petrol,7-speed automatic,yes,no
+Mercedes-Benz,AMG C 63 CABRIOLET,SUBCOMPACT,4.0,8,A7,Z,14.0,10.4,12.4,291,,Kaggle 2014-2020,Premium petrol,7-speed automatic,yes,no
+Mercedes-Benz,AMG C 63 COUPE,SUBCOMPACT,4.0,8,A7,Z,13.8,10.1,12.1,285,,Kaggle 2014-2020,Premium petrol,7-speed automatic,yes,no
+Mercedes-Benz,AMG C 63 S,COMPACT,4.0,8,A7,Z,13.4,9.6,11.7,274,,Kaggle 2014-2020,Premium petrol,7-speed automatic,yes,no
+Mercedes-Benz,AMG C 63 S Cabriolet,SUBCOMPACT,4.0,8,A7,Z,14.0,10.4,12.4,291,,Kaggle 2014-2020,Premium petrol,7-speed automatic,yes,no
+Mercedes-Benz,AMG C 63 S Coupe,SUBCOMPACT,4.0,8,A7,Z,13.8,10.2,12.2,285,,Kaggle 2014-2020,Premium petrol,7-speed automatic,yes,no
+Mercedes-Benz,AMG CLA 45 4MATIC,COMPACT,2.0,4,AM7,Z,10.3,7.9,9.2,217,,Kaggle 2014-2020,Premium petrol,7-speed automated manual,yes,yes
+Mercedes-Benz,AMG E 43 4MATIC,MID-SIZE,3.0,6,A9,Z,12.4,9.4,11.1,258,,Kaggle 2014-2020,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG E 63 S 4MATIC,MID-SIZE,4.0,8,A9,Z,15.5,10.6,13.3,313,,Kaggle 2014-2020,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG E 63 S 4MATIC WAGON,STATION WAGON - MID-SIZE,4.0,8,A9,Z,15.2,11.0,13.3,312,,Kaggle 2014-2020,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG G 63,SUV - STANDARD,5.5,8,A7,Z,19.9,15.5,17.9,419,,Kaggle 2014-2020,Premium petrol,7-speed automatic,yes,no
+Mercedes-Benz,AMG G 65,SUV - STANDARD,6.0,12,A7,Z,22.2,18.0,20.3,473,,Kaggle 2014-2020,Premium petrol,7-speed automatic,yes,no
+Mercedes-Benz,AMG GLA 45 4MATIC,STATION WAGON - MID-SIZE,2.0,4,AM7,Z,10.7,8.3,9.6,225,,Kaggle 2014-2020,Premium petrol,7-speed automated manual,yes,yes
+Mercedes-Benz,AMG GLC 43 4MATIC,SUV - SMALL,3.0,6,A9,Z,13.1,10.1,11.8,277,,Kaggle 2014-2020,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG GLC 43 4MATIC Coupe,SUV - SMALL,3.0,6,A9,Z,13.0,9.9,11.6,272,,Kaggle 2014-2020,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG GLE 43 4MATIC,SUV - STANDARD,3.0,6,A9,Z,13.5,10.3,12.1,282,,Kaggle 2014-2020,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG GLE 43 4MATIC COUPE,SUV - STANDARD,3.0,6,A9,Z,13.5,10.6,12.2,285,,Kaggle 2014-2020,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG GLE 63 S 4MATIC,SUV - STANDARD,5.5,8,A7,Z,17.2,13.4,15.5,364,,Kaggle 2014-2020,Premium petrol,7-speed automatic,yes,yes
+Mercedes-Benz,AMG GLE 63 S 4MATIC COUPE,SUV - STANDARD,5.5,8,A7,Z,17.2,12.8,15.2,357,,Kaggle 2014-2020,Premium petrol,7-speed automatic,yes,yes
+Mercedes-Benz,AMG GLS 63 4MATIC,SUV - STANDARD,5.5,8,A7,Z,17.6,13.3,15.7,367,,Kaggle 2014-2020,Premium petrol,7-speed automatic,yes,yes
+Mercedes-Benz,AMG GT COUPE,TWO-SEATER,4.0,8,AM7,Z,14.5,10.8,12.8,302,,Kaggle 2014-2020,Premium petrol,7-speed automated manual,yes,no
+Mercedes-Benz,AMG GT ROADSTER,TWO-SEATER,4.0,8,AM7,Z,14.7,11.0,13.0,304,,Kaggle 2014-2020,Premium petrol,7-speed automated manual,yes,no
+Mercedes-Benz,AMG GT C Coupe,TWO-SEATER,4.0,8,AM7,Z,15.5,11.7,13.8,322,,Kaggle 2014-2020,Premium petrol,7-speed automated manual,yes,no
+Mercedes-Benz,AMG GT C Roadster,TWO-SEATER,4.0,8,AM7,Z,15.5,11.7,13.8,322,,Kaggle 2014-2020,Premium petrol,7-speed automated manual,yes,no
+Mercedes-Benz,AMG GT R Coupe,TWO-SEATER,4.0,8,AM7,Z,15.6,11.9,13.9,324,,Kaggle 2014-2020,Premium petrol,7-speed automated manual,yes,no
+Mercedes-Benz,AMG GT S COUPE,TWO-SEATER,4.0,8,AM7,Z,14.5,10.8,12.8,302,,Kaggle 2014-2020,Premium petrol,7-speed automated manual,yes,no
+Mercedes-Benz,AMG S 63 4MATIC,FULL-SIZE,4.0,8,A9,Z,14.1,8.9,11.8,275,,Kaggle 2014-2020,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG S 63 4MATIC CABRIOLET,SUBCOMPACT,4.0,8,A9,Z,15.8,9.8,13.1,306,,Kaggle 2014-2020,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG S 63 4MATIC COUPE,COMPACT,4.0,8,A9,Z,14.0,8.7,11.6,271,,Kaggle 2014-2020,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG S 65,FULL-SIZE,6.0,12,A7,Z,18.6,10.9,15.1,356,,Kaggle 2014-2020,Premium petrol,7-speed automatic,yes,no
+Mercedes-Benz,AMG SL 63,TWO-SEATER,5.5,8,A7,Z,14.7,9.5,12.4,291,,Kaggle 2014-2020,Premium petrol,7-speed automatic,yes,no
+Mercedes-Benz,AMG SL 65,TWO-SEATER,6.0,12,A7,Z,17.6,10.8,14.5,339,,Kaggle 2014-2020,Premium petrol,7-speed automatic,yes,no
+Mercedes-Benz,AMG SLC 43,TWO-SEATER,3.0,6,A9,Z,11.6,8.2,10.1,236,,Kaggle 2014-2020,Premium petrol,9-speed automatic,yes,no
+Mercedes-Benz,B 250,MID-SIZE,2.0,4,AM7,Z,9.8,6.8,8.4,196,,Kaggle 2014-2020,Premium petrol,7-speed automated manual,no,no
+Mercedes-Benz,B 250 4MATIC,MID-SIZE,2.0,4,AM7,Z,10.3,7.8,9.1,215,,Kaggle 2014-2020,Premium petrol,7-speed automated manual,no,yes
+Mercedes-Benz,C 300 4MATIC,COMPACT,2.0,4,A9,Z,10.5,7.5,9.1,214,,Kaggle 2014-2020,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,C 300 4MATIC Cabriolet,SUBCOMPACT,2.0,4,A9,Z,10.8,8.0,9.6,224,,Kaggle 2014-2020,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,C 300 4MATIC Coupe,SUBCOMPACT,2.0,4,A9,Z,10.5,7.8,9.3,218,,Kaggle 2014-2020,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,C 300 4MATIC Wagon,STATION WAGON - MID-SIZE,2.0,4,A9,Z,10.7,8.0,9.5,222,,Kaggle 2014-2020,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,CLA 250,COMPACT,2.0,4,AM7,Z,9.6,6.6,8.2,193,,Kaggle 2014-2020,Premium petrol,7-speed automated manual,no,no
+Mercedes-Benz,CLA 250 4MATIC,COMPACT,2.0,4,AM7,Z,9.9,7.3,8.7,204,,Kaggle 2014-2020,Premium petrol,7-speed automated manual,no,yes
+Mercedes-Benz,E 300 4MATIC,MID-SIZE,2.0,4,A9,Z,11.0,8.1,9.7,227,,Kaggle 2014-2020,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,E 400 4MATIC,MID-SIZE,3.0,6,A9,Z,11.8,8.7,10.4,246,,Kaggle 2014-2020,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,E 400 4MATIC CABRIOLET,SUBCOMPACT,3.0,6,A9,Z,12.0,9.2,10.8,251,,Kaggle 2014-2020,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,E 400 4MATIC COUPE,SUBCOMPACT,3.0,6,A9,Z,11.9,9.0,10.6,248,,Kaggle 2014-2020,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,E 400 4MATIC WAGON,STATION WAGON - MID-SIZE,3.0,6,A9,Z,12.4,9.5,11.1,261,,Kaggle 2014-2020,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,G 550,SUV - STANDARD,4.0,8,A7,Z,18.2,16.5,17.5,410,,Kaggle 2014-2020,Premium petrol,7-speed automatic,no,no
+Mercedes-Benz,GLA 250 4MATIC,SUV - SMALL,2.0,4,AM7,Z,10.1,7.6,9.0,209,,Kaggle 2014-2020,Premium petrol,7-speed automated manual,no,yes
+Mercedes-Benz,GLC 300 4MATIC,SUV - SMALL,2.0,4,A9,Z,11.1,8.6,10.0,240,,Kaggle 2014-2020,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,GLC 300 4MATIC Coupe,SUV - SMALL,2.0,4,A9,Z,11.0,8.7,10.0,235,,Kaggle 2014-2020,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,GLE 400 4MATIC,SUV - STANDARD,3.0,6,A9,Z,13.5,10.3,12.1,282,,Kaggle 2014-2020,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,GLE 550 4MATIC,SUV - STANDARD,4.7,8,A9,Z,15.2,11.4,13.5,317,,Kaggle 2014-2020,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,GLS 450 4MATIC,SUV - STANDARD,3.0,6,A9,Z,14.3,11.4,13.0,305,,Kaggle 2014-2020,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,GLS 550 4MATIC,SUV - STANDARD,4.7,8,A9,Z,16.5,12.6,14.7,346,,Kaggle 2014-2020,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,Maybach S 650,FULL-SIZE,6.0,12,A9,Z,18.4,11.1,15.1,355,,Kaggle 2014-2020,Premium petrol,9-speed automatic,yes,no
+Mercedes-Benz,METRIS CARGO,SPECIAL PURPOSE VEHICLE,2.0,4,A7,Z,11.5,9.8,10.7,251,,Kaggle 2014-2020,Premium petrol,7-speed automatic,no,no
+Mercedes-Benz,METRIS PASSENGER,SPECIAL PURPOSE VEHICLE,2.0,4,A7,Z,12.3,10.3,11.4,268,,Kaggle 2014-2020,Premium petrol,7-speed automatic,no,no
+Mercedes-Benz,S 450 4MATIC SWB,MID-SIZE,3.0,6,A9,Z,12.8,8.5,10.9,255,,Kaggle 2014-2020,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,S 560 Cabriolet,SUBCOMPACT,4.0,8,A9,Z,13.9,9.2,11.8,276,,Kaggle 2014-2020,Premium petrol,9-speed automatic,no,no
+Mercedes-Benz,S 560 4MATIC,FULL-SIZE,4.0,8,A9,Z,13.5,8.6,11.3,265,,Kaggle 2014-2020,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,S 560 4MATIC SWB,MID-SIZE,4.0,8,A9,Z,13.1,8.8,11.2,261,,Kaggle 2014-2020,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,S 560 4MATIC COUPE,COMPACT,4.0,8,A9,Z,13.6,8.8,11.4,269,,Kaggle 2014-2020,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,SL 450,TWO-SEATER,3.0,6,A9,Z,11.5,8.5,10.2,238,,Kaggle 2014-2020,Premium petrol,9-speed automatic,no,no
+Mercedes-Benz,SL 550,TWO-SEATER,4.7,8,A9,Z,13.5,9.6,11.8,275,,Kaggle 2014-2020,Premium petrol,9-speed automatic,no,no
+Mercedes-Benz,SLC 300,TWO-SEATER,2.0,4,A9,Z,9.6,7.4,8.6,202,,Kaggle 2014-2020,Premium petrol,9-speed automatic,no,no
+BMW,230i xDrive Cabriolet,SUBCOMPACT,2.0,4,AS8,Z,10.2,7.2,8.8,207,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,330i xDRIVE,COMPACT,2.0,4,AS8,Z,9.5,6.9,8.3,194,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,330i xDRIVE GRAN TURISMO,FULL-SIZE,2.0,4,AS8,Z,10.2,7.2,8.8,207,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,330i xDRIVE TOURING,STATION WAGON - SMALL,2.0,4,AS8,Z,10.2,7.2,8.8,207,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,430i xDrive Cabriolet,SUBCOMPACT,2.0,4,AS8,Z,10.6,7.3,9.1,213,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,430i xDrive Coupe,COMPACT,2.0,4,AS8,Z,10.2,7.2,8.8,207,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,430i xDrive Gran Coupe,COMPACT,2.0,4,AS8,Z,10.2,7.2,8.8,207,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,440i COUPE,COMPACT,3.0,6,AS8,Z,11.2,7.3,9.4,227,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,no
+BMW,440i COUPE,COMPACT,3.0,6,M6,Z,12.8,8.8,11.0,256,,Kaggle 2014-2020,Premium petrol,6-speed manual,no,no
+BMW,440i xDRIVE COUPE,COMPACT,3.0,6,AS8,Z,11.4,7.6,9.7,228,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,440i xDRIVE COUPE,COMPACT,3.0,6,M6,Z,13.0,8.5,11.0,256,,Kaggle 2014-2020,Premium petrol,6-speed manual,no,yes
+BMW,440i xDRIVE GRAN COUPE,COMPACT,3.0,6,AS8,Z,11.4,7.6,9.7,228,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,530i xDRIVE,MID-SIZE,2.0,4,AS8,Z,10.2,7.2,8.8,207,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,540i xDRIVE,MID-SIZE,3.0,6,AS8,Z,11.2,8.1,9.8,231,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,650i xDRIVE GRAN COUPE,COMPACT,4.4,8,AS8,Z,14.0,9.6,12.0,282,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,750i xDRIVE,FULL-SIZE,4.4,8,AS8,Z,13.3,9.2,11.5,269,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,750Li xDRIVE,FULL-SIZE,4.4,8,AS8,Z,14.0,9.6,12.0,282,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,ALPINA B6 xDRIVE GRAN COUPE,COMPACT,4.4,8,AS8,Z,14.0,9.6,12.0,282,,Kaggle 2014-2020,Premium petrol,8-speed automatic,yes,yes
+BMW,Alpina B7 xDrive,FULL-SIZE,4.4,8,AS8,Z,14.0,9.6,12.0,282,,Kaggle 2014-2020,Premium petrol,8-speed automatic,yes,yes
+BMW,M2 Competition,SUBCOMPACT,3.0,6,AM7,Z,14.3,10.4,12.6,294,,Kaggle 2014-2020,Premium petrol,7-speed automated manual,yes,no
+BMW,M2 Competition,SUBCOMPACT,3.0,6,M6,Z,13.4,9.6,11.7,273,,Kaggle 2014-2020,Premium petrol,6-speed manual,yes,no
+BMW,M240i CABRIOLET,SUBCOMPACT,3.0,6,AS8,Z,11.2,7.8,9.7,227,,Kaggle 2014-2020,Premium petrol,8-speed automatic,yes,no
+BMW,M240i CABRIOLET,SUBCOMPACT,3.0,6,M6,Z,12.8,8.8,11.0,256,,Kaggle 2014-2020,Premium petrol,6-speed manual,yes,no
+BMW,M240i COUPE,SUBCOMPACT,3.0,6,AS8,Z,11.2,7.8,9.7,227,,Kaggle 2014-2020,Premium petrol,8-speed automatic,yes,no
+BMW,M240i COUPE,SUBCOMPACT,3.0,6,M6,Z,12.8,8.8,11.0,256,,Kaggle 2014-2020,Premium petrol,6-speed manual,yes,no
+BMW,M240i Coupe M Performance,SUBCOMPACT,3.0,6,AS8,Z,11.2,7.8,9.7,227,,Kaggle 2014-2020,Premium petrol,8-speed automatic,yes,no
+BMW,M240i Coupe M Performance,SUBCOMPACT,3.0,6,M6,Z,12.8,8.8,11.0,256,,Kaggle 2014-2020,Premium petrol,6-speed manual,yes,no
+BMW,M240i xDrive Cabriolet,SUBCOMPACT,3.0,6,AS8,Z,11.3,8.0,9.8,229,,Kaggle 2014-2020,Premium petrol,8-speed automatic,yes,yes
+BMW,M240i xDrive Coupe,SUBCOMPACT,3.0,6,AS8,Z,11.3,8.0,9.8,229,,Kaggle 2014-2020,Premium petrol,8-speed automatic,yes,yes
+BMW,M240i xDrive Coupe M Performance,SUBCOMPACT,3.0,6,AS8,Z,11.3,8.0,9.8,229,,Kaggle 2014-2020,Premium petrol,8-speed automatic,yes,yes
+BMW,M4 Cabriolet Competition,SUBCOMPACT,3.0,6,AM7,Z,14.5,10.5,12.7,299,,Kaggle 2014-2020,Premium petrol,7-speed automated manual,yes,no
+BMW,M4 Cabriolet Competition,SUBCOMPACT,3.0,6,M6,Z,13.8,9.4,11.9,280,,Kaggle 2014-2020,Premium petrol,6-speed manual,yes,no
+BMW,M4 Coupe,COMPACT,3.0,6,AM7,Z,14.3,10.4,12.6,294,,Kaggle 2014-2020,Premium petrol,7-speed automated manual,yes,no
+BMW,M4 Coupe,COMPACT,3.0,6,M6,Z,13.4,9.6,11.7,273,,Kaggle 2014-2020,Premium petrol,6-speed manual,yes,no
+BMW,M4 Coupe Competition,COMPACT,3.0,6,AM7,Z,14.3,10.4,12.6,294,,Kaggle 2014-2020,Premium petrol,7-speed automated manual,yes,no
+BMW,M4 Coupe Competition,COMPACT,3.0,6,M6,Z,13.4,9.6,11.7,273,,Kaggle 2014-2020,Premium petrol,6-speed manual,yes,no
+BMW,M4 CS,COMPACT,3.0,6,AM7,Z,14.3,10.4,12.6,294,,Kaggle 2014-2020,Premium petrol,7-speed automated manual,yes,no
+BMW,M5,MID-SIZE,4.4,8,AS8,Z,16.0,11.2,13.9,324,,Kaggle 2014-2020,Premium petrol,8-speed automatic,yes,no
+BMW,M5 Competition,MID-SIZE,4.4,8,AS8,Z,16.0,11.2,13.9,324,,Kaggle 2014-2020,Premium petrol,8-speed automatic,yes,no
+BMW,M550i xDRIVE,MID-SIZE,4.4,8,AS8,Z,13.3,9.2,11.5,269,,Kaggle 2014-2020,Premium petrol,8-speed automatic,yes,yes
+BMW,M760Li xDrive,FULL-SIZE,6.6,12,AS8,Z,17.7,11.9,15.1,355,,Kaggle 2014-2020,Premium petrol,8-speed automatic,yes,yes
+BMW,M850i xDrive Cabriolet,SUBCOMPACT,4.4,8,AS8,Z,13.5,9.2,11.6,270,,Kaggle 2014-2020,Premium petrol,8-speed automatic,yes,yes
+BMW,M850i xDrive Coupe,SUBCOMPACT,4.4,8,AS8,Z,13.3,9.2,11.5,269,,Kaggle 2014-2020,Premium petrol,8-speed automatic,yes,yes
+BMW,X3 xDrive30i,SUV - SMALL,2.0,4,AS8,Z,10.8,8.0,9.6,223,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,X3 M40i,SUV - SMALL,3.0,6,AS8,Z,11.9,8.7,10.4,245,,Kaggle 2014-2020,Premium petrol,8-speed automatic,yes,no
+BMW,X4 xDrive30i,SUV - SMALL,2.0,4,AS8,Z,10.8,8.0,9.6,223,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,X4 M40i,SUV - SMALL,3.0,6,AS8,Z,11.9,8.7,10.4,245,,Kaggle 2014-2020,Premium petrol,8-speed automatic,yes,no
+BMW,X5 xDrive40i,SUV - STANDARD,3.0,6,AS8,Z,11.7,9.1,10.5,245,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,X5 xDRIVE50i,SUV - STANDARD,4.4,8,AS8,Z,15.3,11.1,13.4,314,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,X6 xDRIVE35i,SUV - STANDARD,3.0,6,AS8,Z,13.0,9.9,11.6,272,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,X6 xDRIVE50i,SUV - STANDARD,4.4,8,AS8,Z,14.3,10.6,12.6,294,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,X7 xDrive40i,SUV - STANDARD,3.0,6,AS8,Z,12.0,9.4,10.8,254,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,X7 xDrive50i,SUV - STANDARD,4.4,8,AS8,Z,14.3,10.6,12.6,294,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+Mercedes-Benz,A 220,SUBCOMPACT,2.0,4,AM7,Z,9.7,6.8,8.4,195,,Kaggle 2014-2020,Premium petrol,7-speed automated manual,no,no
+Mercedes-Benz,A 220 4MATIC,SUBCOMPACT,2.0,4,AM7,Z,9.6,7.1,8.5,199,,Kaggle 2014-2020,Premium petrol,7-speed automated manual,no,yes
+Mercedes-Benz,A 250,STATION WAGON - SMALL,2.0,4,AM7,Z,9.4,6.8,8.3,192,,Kaggle 2014-2020,Premium petrol,7-speed automated manual,no,no
+Mercedes-Benz,A 250 4MATIC,STATION WAGON - SMALL,2.0,4,AM7,Z,9.9,7.0,8.6,201,,Kaggle 2014-2020,Premium petrol,7-speed automated manual,no,yes
+Mercedes-Benz,AMG C 43 4MATIC,COMPACT,3.0,6,A9,Z,12.4,8.7,10.7,253,,Kaggle 2014-2020,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG C 43 4MATIC Cabriolet,SUBCOMPACT,3.0,6,A9,Z,12.7,9.2,11.2,263,,Kaggle 2014-2020,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG C 43 4MATIC Coupe,SUBCOMPACT,3.0,6,A9,Z,12.9,8.8,11.1,255,,Kaggle 2014-2020,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG C 43 4MATIC Wagon,STATION WAGON - SMALL,3.0,6,A9,Z,12.4,8.9,10.8,255,,Kaggle 2014-2020,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG C 63,COMPACT,4.0,8,A9,Z,13.2,8.7,11.2,263,,Kaggle 2014-2020,Premium petrol,9-speed automatic,yes,no
+Mercedes-Benz,AMG C 63 S,COMPACT,4.0,8,A9,Z,13.2,8.7,11.2,263,,Kaggle 2014-2020,Premium petrol,9-speed automatic,yes,no
+Mercedes-Benz,AMG C 63 S Cabriolet,SUBCOMPACT,4.0,8,A9,Z,13.9,9.7,12.0,282,,Kaggle 2014-2020,Premium petrol,9-speed automatic,yes,no
+Mercedes-Benz,AMG C 63 S Coupe,SUBCOMPACT,4.0,8,A9,Z,13.9,9.2,11.8,277,,Kaggle 2014-2020,Premium petrol,9-speed automatic,yes,no
+Mercedes-Benz,AMG CLA 45 4MATIC,MINICOMPACT,2.0,4,AM7,Z,10.3,7.9,9.2,217,,Kaggle 2014-2020,Premium petrol,7-speed automated manual,yes,yes
+Mercedes-Benz,AMG CLS 53 4MATIC+,COMPACT,3.0,6,A9,Z,12.4,8.7,10.7,235,,Kaggle 2014-2020,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG E 53 4MATIC+,MID-SIZE,3.0,6,A9,Z,11.2,8.3,9.9,232,,Kaggle 2014-2020,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG E 53 4MATIC+ Cabriolet,SUBCOMPACT,3.0,6,A9,Z,12.5,9.0,10.9,245,,Kaggle 2014-2020,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG E 53 4MATIC+ Coupe,SUBCOMPACT,3.0,6,A9,Z,12.3,8.5,10.6,237,,Kaggle 2014-2020,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG E 53 4MATIC+ Wagon,STATION WAGON - MID-SIZE,3.0,6,A9,Z,11.5,8.6,10.2,239,,Kaggle 2014-2020,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG E 63 S 4MATIC+,MID-SIZE,4.0,8,A9,Z,16.0,10.5,13.5,318,,Kaggle 2014-2020,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG E 63 S 4MATIC+ Wagon,STATION WAGON - MID-SIZE,4.0,8,A9,Z,14.6,10.4,12.7,299,,Kaggle 2014-2020,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG G 63,SUV - STANDARD,4.0,8,A9,Z,18.1,15.6,17.0,396,,Kaggle 2014-2020,Premium petrol,9-speed automatic,yes,no
+Mercedes-Benz,AMG GLC 43 4MATIC,SUV - SMALL,3.0,6,A9,Z,12.5,9.6,11.2,262,,Kaggle 2014-2020,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG GLC 43 4MATIC Coupe,SUV - SMALL,3.0,6,A9,Z,12.6,9.7,11.3,265,,Kaggle 2014-2020,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG GLC 63 S 4MATIC+,SUV - SMALL,4.0,8,A9,Z,15.0,10.9,13.2,309,,Kaggle 2014-2020,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG GLC 63 S 4MATIC+ Coupe,SUV - SMALL,4.0,8,A9,Z,15.0,10.9,13.2,309,,Kaggle 2014-2020,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG GLE 43 4MATIC,SUV - STANDARD,3.0,6,A9,Z,14.0,10.6,12.4,292,,Kaggle 2014-2020,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG GLE 43 4MATIC COUPE,SUV - STANDARD,3.0,6,A9,Z,14.1,10.9,12.6,297,,Kaggle 2014-2020,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG GLE 63 S 4MATIC,SUV - STANDARD,4.7,8,A7,Z,17.7,13.4,15.8,370,,Kaggle 2014-2020,Premium petrol,7-speed automatic,yes,yes
+Mercedes-Benz,AMG GLE 63 S 4MATIC COUPE,SUV - STANDARD,4.7,8,A7,Z,17.2,12.8,15.2,357,,Kaggle 2014-2020,Premium petrol,7-speed automatic,yes,yes
+Mercedes-Benz,AMG GLS 63 4MATIC,SUV - STANDARD,4.7,8,A7,Z,17.8,13.2,15.7,370,,Kaggle 2014-2020,Premium petrol,7-speed automatic,yes,yes
+Mercedes-Benz,AMG GT 53 4MATIC+ Coupe,COMPACT,3.0,6,A9,Z,12.4,9.8,11.2,264,,Kaggle 2014-2020,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG GT 63 4MATIC+ Coupe,COMPACT,4.0,8,A9,Z,15.5,11.5,13.7,323,,Kaggle 2014-2020,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG GT 63 S 4MATIC+ Coupe,COMPACT,4.0,8,A9,Z,15.6,11.5,13.7,324,,Kaggle 2014-2020,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG GT C Coupe,TWO-SEATER,4.0,8,AM7,Z,15.3,11.4,13.5,315,,Kaggle 2014-2020,Premium petrol,7-speed automated manual,yes,no
+Mercedes-Benz,AMG GT C Roadster,TWO-SEATER,4.0,8,AM7,Z,15.2,11.4,13.5,315,,Kaggle 2014-2020,Premium petrol,7-speed automated manual,yes,no
+Mercedes-Benz,AMG GT R Coupe,TWO-SEATER,4.0,8,AM7,Z,15.9,11.8,14.0,327,,Kaggle 2014-2020,Premium petrol,7-speed automated manual,yes,no
+Mercedes-Benz,AMG S 63 4MATIC+,FULL-SIZE,4.0,8,A9,Z,14.1,8.9,11.8,275,,Kaggle 2014-2020,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG S 63 4MATIC+ Cabriolet,SUBCOMPACT,4.0,8,A9,Z,15.8,9.8,13.1,306,,Kaggle 2014-2020,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG S 63 4MATIC+ Coupe,COMPACT,4.0,8,A9,Z,14.0,8.7,11.6,271,,Kaggle 2014-2020,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG S 65 CABRIOLET,SUBCOMPACT,6.0,12,A9,Z,17.1,11.0,14.3,337,,Kaggle 2014-2020,Premium petrol,9-speed automatic,yes,no
+Mercedes-Benz,AMG S 65 COUPE,COMPACT,6.0,12,A9,Z,17.6,11.0,14.6,343,,Kaggle 2014-2020,Premium petrol,9-speed automatic,yes,no
+Mercedes-Benz,AMG SL 63,TWO-SEATER,5.5,8,A7,Z,15.3,10.2,13.0,303,,Kaggle 2014-2020,Premium petrol,7-speed automatic,yes,no
+Mercedes-Benz,AMG SLC 43,TWO-SEATER,3.0,6,A9,Z,11.8,8.2,10.2,238,,Kaggle 2014-2020,Premium petrol,9-speed automatic,yes,no
+Mercedes-Benz,B 250,STATION WAGON - SMALL,2.0,4,AM7,Z,9.8,6.8,8.4,196,,Kaggle 2014-2020,Premium petrol,7-speed automated manual,no,no
+Mercedes-Benz,B 250 4MATIC,STATION WAGON - SMALL,2.0,4,AM7,Z,10.3,7.8,9.1,215,,Kaggle 2014-2020,Premium petrol,7-speed automated manual,no,yes
+Mercedes-Benz,C 300 4MATIC,COMPACT,2.0,4,A9,Z,11.0,7.3,9.4,219,,Kaggle 2014-2020,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,C 300 4MATIC Cabriolet,SUBCOMPACT,2.0,4,A9,Z,11.3,8.1,9.9,231,,Kaggle 2014-2020,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,C 300 4MATIC Coupe,SUBCOMPACT,2.0,4,A9,Z,10.9,7.7,9.5,221,,Kaggle 2014-2020,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,C 300 4MATIC Wagon,STATION WAGON - SMALL,2.0,4,A9,Z,10.9,7.7,9.5,221,,Kaggle 2014-2020,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,CLA 250,MINICOMPACT,2.0,4,AM7,Z,9.6,6.6,8.2,193,,Kaggle 2014-2020,Premium petrol,7-speed automated manual,no,no
+Mercedes-Benz,CLA 250 4MATIC,MINICOMPACT,2.0,4,AM7,Z,9.9,7.3,8.7,204,,Kaggle 2014-2020,Premium petrol,7-speed automated manual,no,yes
+Mercedes-Benz,CLS 450 4MATIC,COMPACT,3.0,6,A9,Z,11.3,7.9,9.8,213,,Kaggle 2014-2020,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,E 300 4MATIC,MID-SIZE,2.0,4,A9,Z,11.0,8.1,9.7,228,,Kaggle 2014-2020,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,E 450 4MATIC,MID-SIZE,3.0,6,A9,Z,11.8,8.5,10.3,244,,Kaggle 2014-2020,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,E 450 4MATIC Cabriolet,SUBCOMPACT,3.0,6,A9,Z,12.7,10.1,11.6,271,,Kaggle 2014-2020,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,E 450 4MATIC Coupe,SUBCOMPACT,3.0,6,A9,Z,12.5,9.1,11.0,257,,Kaggle 2014-2020,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,E 450 4MATIC Wagon,STATION WAGON - MID-SIZE,3.0,6,A9,Z,12.3,8.9,10.8,254,,Kaggle 2014-2020,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,G 550,SUV - STANDARD,4.0,8,A9,Z,18.0,14.1,16.3,378,,Kaggle 2014-2020,Premium petrol,9-speed automatic,no,no
+Mercedes-Benz,GLC 300 4MATIC,SUV - SMALL,2.0,4,A9,Z,11.0,8.7,10.0,234,,Kaggle 2014-2020,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,GLC 300 4MATIC Coupe,SUV - SMALL,2.0,4,A9,Z,10.8,9.0,10.0,234,,Kaggle 2014-2020,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,GLS 450 4MATIC,SUV - STANDARD,3.0,6,A9,Z,14.9,11.2,13.2,312,,Kaggle 2014-2020,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,GLS 550 4MATIC,SUV - STANDARD,4.7,8,A9,Z,17.2,12.6,15.1,355,,Kaggle 2014-2020,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,Maybach S 560 4MATIC,FULL-SIZE,4.0,8,A9,Z,14.4,9.5,12.2,286,,Kaggle 2014-2020,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,Maybach S 650,FULL-SIZE,6.0,12,A7,Z,18.4,11.1,15.1,355,,Kaggle 2014-2020,Premium petrol,7-speed automatic,yes,no
+Mercedes-Benz,Metris Cargo LWB,SPECIAL PURPOSE VEHICLE,2.0,4,A7,Z,11.3,9.6,10.5,248,,Kaggle 2014-2020,Premium petrol,7-speed automatic,no,no
+Mercedes-Benz,S 450 4MATIC SWB,MID-SIZE,3.0,6,A9,Z,12.8,8.5,10.8,253,,Kaggle 2014-2020,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,S 560 Cabriolet,SUBCOMPACT,4.0,8,A9,Z,13.8,9.2,11.7,275,,Kaggle 2014-2020,Premium petrol,9-speed automatic,no,no
+Mercedes-Benz,S 560 4MATIC SWB,MID-SIZE,4.0,8,A9,Z,13.5,8.6,11.3,265,,Kaggle 2014-2020,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,SL 450,TWO-SEATER,3.0,6,A9,Z,11.8,8.5,10.3,241,,Kaggle 2014-2020,Premium petrol,9-speed automatic,no,no
+Mercedes-Benz,SL 550,TWO-SEATER,4.7,8,A9,Z,13.5,9.3,11.6,270,,Kaggle 2014-2020,Premium petrol,9-speed automatic,no,no
+Mercedes-Benz,SLC 300,TWO-SEATER,2.0,4,A9,Z,10.0,7.3,8.8,205,,Kaggle 2014-2020,Premium petrol,9-speed automatic,no,no
+BMW,230i CABRIOLET,SUBCOMPACT,2.0,4,AS8,Z,10.1,7.0,8.7,204,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,no
+BMW,230i xDrive Cabriolet,SUBCOMPACT,2.0,4,AS8,Z,10.9,7.5,9.4,219,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,230i COUPE,SUBCOMPACT,2.0,4,AS8,Z,9.5,7.4,8.5,200,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,no
+BMW,230i xDrive Coupe,SUBCOMPACT,2.0,4,AS8,Z,10.9,7.5,9.4,219,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,330i xDrive Sedan,COMPACT,2.0,4,AS8,Z,9.5,6.9,8.3,195,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,430i Coupe,COMPACT,2.0,4,AS8,Z,10.1,7.0,8.7,204,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,no
+BMW,430i xDrive Coupe,COMPACT,2.0,4,AS8,Z,10.9,7.5,9.4,219,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,430i xDrive Gran Coupe,COMPACT,2.0,4,AS8,Z,10.9,7.5,9.4,219,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,440i xDRIVE CABRIOLET,SUBCOMPACT,3.0,6,AS8,Z,12.4,8.5,10.7,249,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,440i COUPE,COMPACT,3.0,6,AS8,Z,11.4,8.1,9.9,231,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,no
+BMW,440i xDRIVE COUPE,COMPACT,3.0,6,AS8,Z,11.4,8.3,10.0,233,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,440i xDRIVE COUPE,COMPACT,3.0,6,M6,Z,13.0,8.5,11.0,257,,Kaggle 2014-2020,Premium petrol,6-speed manual,no,yes
+BMW,440i xDRIVE GRAN COUPE,COMPACT,3.0,6,AS8,Z,11.4,8.3,10.0,233,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,530i xDrive Sedan,MID-SIZE,2.0,4,AS8,Z,9.9,7.5,8.8,206,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,540i xDrive Sedan,MID-SIZE,3.0,6,AS8,Z,10.7,8.1,9.5,222,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,750i xDrive Sedan,FULL-SIZE,4.4,8,AS8,Z,14.5,9.9,12.4,290,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,750Li xDrive Sedan,FULL-SIZE,4.4,8,AS8,Z,14.5,9.9,12.4,290,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,Alpina B7 xDrive,FULL-SIZE,4.4,8,AS8,Z,14.5,9.9,12.4,290,,Kaggle 2014-2020,Premium petrol,8-speed automatic,yes,yes
+BMW,M2 Competition,SUBCOMPACT,3.0,6,AM7,Z,14.1,10.3,12.4,290,,Kaggle 2014-2020,Premium petrol,7-speed automated manual,yes,no
+BMW,M240i CABRIOLET,SUBCOMPACT,3.0,6,AS8,Z,11.4,8.1,9.9,231,,Kaggle 2014-2020,Premium petrol,8-speed automatic,yes,no
+BMW,M240i CABRIOLET,SUBCOMPACT,3.0,6,M6,Z,12.7,8.8,10.9,255,,Kaggle 2014-2020,Premium petrol,6-speed manual,yes,no
+BMW,M240i xDrive Cabriolet,SUBCOMPACT,3.0,6,AS8,Z,11.4,8.3,10.0,233,,Kaggle 2014-2020,Premium petrol,8-speed automatic,yes,yes
+BMW,M240i COUPE,SUBCOMPACT,3.0,6,AS8,Z,11.4,8.1,9.9,231,,Kaggle 2014-2020,Premium petrol,8-speed automatic,yes,no
+BMW,M240i Coupe M Performance,SUBCOMPACT,3.0,6,AS8,Z,11.4,8.1,9.9,231,,Kaggle 2014-2020,Premium petrol,8-speed automatic,yes,no
+BMW,M240i COUPE,SUBCOMPACT,3.0,6,M6,Z,12.7,8.8,10.9,255,,Kaggle 2014-2020,Premium petrol,6-speed manual,yes,no
+BMW,M240i Coupe M Performance,SUBCOMPACT,3.0,6,M6,Z,12.7,8.8,10.9,255,,Kaggle 2014-2020,Premium petrol,6-speed manual,yes,no
+BMW,M240i xDrive Coupe,SUBCOMPACT,3.0,6,AS8,Z,11.4,8.3,10.0,233,,Kaggle 2014-2020,Premium petrol,8-speed automatic,yes,yes
+BMW,M240i xDrive Coupe M Performance,SUBCOMPACT,3.0,6,AS8,Z,11.4,8.3,10.0,233,,Kaggle 2014-2020,Premium petrol,8-speed automatic,yes,yes
+BMW,M340i xDrive Sedan,COMPACT,3.0,6,AS8,Z,11.4,8.3,10.0,233,,Kaggle 2014-2020,Premium petrol,8-speed automatic,yes,yes
+BMW,M4 Coupe,COMPACT,3.0,6,AM7,Z,14.1,10.3,12.4,290,,Kaggle 2014-2020,Premium petrol,7-speed automated manual,yes,no
+BMW,M4 Coupe Competition,COMPACT,3.0,6,AM7,Z,14.1,10.3,12.4,290,,Kaggle 2014-2020,Premium petrol,7-speed automated manual,yes,no
+BMW,M4 CS,COMPACT,3.0,6,AM7,Z,14.1,10.3,12.4,290,,Kaggle 2014-2020,Premium petrol,7-speed automated manual,yes,no
+BMW,M5 Sedan,MID-SIZE,4.4,8,AS8,Z,16.0,11.0,13.8,322,,Kaggle 2014-2020,Premium petrol,8-speed automatic,yes,no
+BMW,M5 Competition,MID-SIZE,4.4,8,AS8,Z,16.0,11.0,13.8,322,,Kaggle 2014-2020,Premium petrol,8-speed automatic,yes,no
+BMW,M550i xDrive Sedan,MID-SIZE,4.4,8,AS8,Z,13.6,9.3,11.7,273,,Kaggle 2014-2020,Premium petrol,8-speed automatic,yes,yes
+BMW,M760i xDrive Sedan,FULL-SIZE,6.6,12,AS8,Z,17.8,11.9,15.1,354,,Kaggle 2014-2020,Premium petrol,8-speed automatic,yes,yes
+BMW,M8 Cabriolet,SUBCOMPACT,4.4,8,AS8,Z,16.0,11.0,13.8,322,,Kaggle 2014-2020,Premium petrol,8-speed automatic,yes,no
+BMW,M8 Cabriolet Competition,SUBCOMPACT,4.4,8,AS8,Z,16.0,11.0,13.8,322,,Kaggle 2014-2020,Premium petrol,8-speed automatic,yes,no
+BMW,M8 Coupe,SUBCOMPACT,4.4,8,AS8,Z,16.0,11.0,13.8,322,,Kaggle 2014-2020,Premium petrol,8-speed automatic,yes,no
+BMW,M8 Coupe Competition,SUBCOMPACT,4.4,8,AS8,Z,16.0,11.0,13.8,322,,Kaggle 2014-2020,Premium petrol,8-speed automatic,yes,no
+BMW,M8 Gran Coupe,MID-SIZE,4.4,8,AS8,Z,16.0,11.0,13.8,322,,Kaggle 2014-2020,Premium petrol,8-speed automatic,yes,no
+BMW,M8 Gran Coupe Competition,MID-SIZE,4.4,8,AS8,Z,16.0,11.0,13.8,322,,Kaggle 2014-2020,Premium petrol,8-speed automatic,yes,no
+BMW,M850i xDrive Cabriolet,SUBCOMPACT,4.4,8,AS8,Z,14.5,9.9,12.4,290,,Kaggle 2014-2020,Premium petrol,8-speed automatic,yes,yes
+BMW,M850i xDrive Coupe,SUBCOMPACT,4.4,8,AS8,Z,13.6,9.3,11.7,273,,Kaggle 2014-2020,Premium petrol,8-speed automatic,yes,yes
+BMW,M850i xDrive Gran Coupe,MID-SIZE,4.4,8,AS8,Z,14.5,9.9,12.4,290,,Kaggle 2014-2020,Premium petrol,8-speed automatic,yes,yes
+BMW,X1 xDrive28i,SUV - SMALL,2.0,4,AS8,Z,10.3,7.7,9.1,213,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,X2 xDrive28i,SUV - SMALL,2.0,4,AS8,Z,9.9,7.6,8.8,207,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,X2 M35i,SUV - SMALL,2.0,4,AS8,Z,10.0,7.8,9.0,210,,Kaggle 2014-2020,Premium petrol,8-speed automatic,yes,no
+BMW,X3 xDrive30i,SUV - SMALL,2.0,4,AS8,Z,10.0,8.2,9.2,215,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,X3 M,SUV - SMALL,3.0,6,AS8,Z,16.6,12.1,14.6,339,,Kaggle 2014-2020,Premium petrol,8-speed automatic,yes,no
+BMW,X3 M Competition,SUV - SMALL,3.0,6,AS8,Z,16.6,12.1,14.6,339,,Kaggle 2014-2020,Premium petrol,8-speed automatic,yes,no
+BMW,X3 M40i,SUV - SMALL,3.0,6,AS8,Z,11.3,8.7,10.1,235,,Kaggle 2014-2020,Premium petrol,8-speed automatic,yes,no
+BMW,X4 xDrive30i,SUV - SMALL,2.0,4,AS8,Z,10.0,8.2,9.2,215,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,X4 M,SUV - SMALL,3.0,6,AS8,Z,16.6,12.1,14.6,339,,Kaggle 2014-2020,Premium petrol,8-speed automatic,yes,no
+BMW,X4 M Competition,SUV - SMALL,3.0,6,AS8,Z,16.6,12.1,14.6,339,,Kaggle 2014-2020,Premium petrol,8-speed automatic,yes,no
+BMW,X4 M40i,SUV - SMALL,3.0,6,AS8,Z,11.3,8.7,10.1,235,,Kaggle 2014-2020,Premium petrol,8-speed automatic,yes,no
+BMW,X5 xDRIVE50i,SUV - STANDARD,4.4,8,AS8,Z,14.5,10.7,12.8,302,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,X5 M50i,SUV - STANDARD,4.4,8,AS8,Z,14.5,10.7,12.8,302,,Kaggle 2014-2020,Premium petrol,8-speed automatic,yes,no
+BMW,X6 xDrive40i,SUV - STANDARD,3.0,6,AS8,Z,11.7,9.1,10.5,245,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,X6 M50i,SUV - STANDARD,4.4,8,AS8,Z,14.5,10.7,12.8,302,,Kaggle 2014-2020,Premium petrol,8-speed automatic,yes,no
+BMW,X7 xDrive50i,SUV - STANDARD,4.4,8,AS8,Z,15.5,11.4,13.6,318,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,yes
+BMW,X7 M50i,SUV - STANDARD,4.4,8,AS8,Z,15.5,11.4,13.6,318,,Kaggle 2014-2020,Premium petrol,8-speed automatic,yes,no
+BMW,Z4 sDrive30i,TWO-SEATER,2.0,4,AS8,Z,9.5,7.4,8.5,200,,Kaggle 2014-2020,Premium petrol,8-speed automatic,no,no
+BMW,Z4 M40i,TWO-SEATER,3.0,6,AS8,Z,10.3,8.0,9.3,216,,Kaggle 2014-2020,Premium petrol,8-speed automatic,yes,no
+BMW,228i xDrive Gran Coupe,COMPACT,2.0,4,AS8,Z,10.2,7.2,8.8,206,2021,Canada 2021-2026,Premium petrol,8-speed automatic,no,yes
+BMW,230i xDrive Cabriolet,SUBCOMPACT,2.0,4,AS8,Z,11.2,7.7,9.6,225,2021,Canada 2021-2026,Premium petrol,8-speed automatic,no,yes
+BMW,230i xDrive Coupe,SUBCOMPACT,2.0,4,AS8,Z,11.2,7.7,9.6,225,2021,Canada 2021-2026,Premium petrol,8-speed automatic,no,yes
+BMW,430i xDrive Coupe,SUBCOMPACT,2.0,4,AS8,Z,10.0,7.1,8.7,202,2021,Canada 2021-2026,Premium petrol,8-speed automatic,no,yes
+BMW,530i xDrive Sedan,MID-SIZE,2.0,4,AS8,Z,10.1,7.5,8.9,206,2021,Canada 2021-2026,Premium petrol,8-speed automatic,no,yes
+BMW,540i xDrive Sedan,FULL-SIZE,3.0,6,AS8,Z,10.3,7.6,9.1,211,2021,Canada 2021-2026,Premium petrol,8-speed automatic,no,yes
+BMW,750i xDrive Sedan,FULL-SIZE,4.4,8,AS8,Z,14.0,9.7,12.0,281,2021,Canada 2021-2026,Premium petrol,8-speed automatic,no,yes
+BMW,750Li xDrive Sedan,FULL-SIZE,4.4,8,AS8,Z,14.0,9.7,12.0,281,2021,Canada 2021-2026,Premium petrol,8-speed automatic,no,yes
+BMW,Alpina B7 xDrive,FULL-SIZE,4.4,8,AS8,Z,14.0,9.7,12.0,281,2021,Canada 2021-2026,Premium petrol,8-speed automatic,yes,yes
+BMW,ALPINA XB7,SUV - STANDARD,4.4,8,AS8,Z,15.7,11.5,13.8,321,2021,Canada 2021-2026,Premium petrol,8-speed automatic,yes,no
+BMW,M2 Competition,SUBCOMPACT,3.0,6,AM7,Z,14.3,10.4,12.6,293,2021,Canada 2021-2026,Premium petrol,7-speed automated manual,yes,no
+BMW,M235i xDrive Gran Coupe,COMPACT,2.0,4,AS8,Z,10.4,7.7,9.2,213,2021,Canada 2021-2026,Premium petrol,8-speed automatic,yes,yes
+BMW,M240i xDrive Cabriolet,SUBCOMPACT,3.0,6,AS8,Z,11.3,7.9,9.8,228,2021,Canada 2021-2026,Premium petrol,8-speed automatic,yes,yes
+BMW,M240i xDrive Coupe,SUBCOMPACT,3.0,6,AS8,Z,11.3,7.9,9.8,228,2021,Canada 2021-2026,Premium petrol,8-speed automatic,yes,yes
+BMW,M340i xDrive Sedan,COMPACT,3.0,6,AS8,Z,10.5,7.7,9.2,214,2021,Canada 2021-2026,Premium petrol,8-speed automatic,yes,yes
+BMW,M440i xDrive Coupe,SUBCOMPACT,3.0,6,AS8,Z,10.5,7.7,9.2,214,2021,Canada 2021-2026,Premium petrol,8-speed automatic,yes,yes
+BMW,M5 Sedan,MID-SIZE,4.4,8,AS8,Z,16.0,11.0,13.8,323,2021,Canada 2021-2026,Premium petrol,8-speed automatic,yes,no
+BMW,M5 Competition,MID-SIZE,4.4,8,AS8,Z,16.0,11.0,13.8,323,2021,Canada 2021-2026,Premium petrol,8-speed automatic,yes,no
+BMW,M550i xDrive Sedan,MID-SIZE,4.4,8,AS8,Z,13.5,9.5,11.7,272,2021,Canada 2021-2026,Premium petrol,8-speed automatic,yes,yes
+BMW,M8 Cabriolet,SUBCOMPACT,4.4,8,AS8,Z,16.0,11.0,13.8,323,2021,Canada 2021-2026,Premium petrol,8-speed automatic,yes,no
+BMW,M8 Cabriolet Competition,SUBCOMPACT,4.4,8,AS8,Z,16.0,11.0,13.8,323,2021,Canada 2021-2026,Premium petrol,8-speed automatic,yes,no
+BMW,M8 Coupe,SUBCOMPACT,4.4,8,AS8,Z,16.0,11.0,13.8,323,2021,Canada 2021-2026,Premium petrol,8-speed automatic,yes,no
+BMW,M8 Coupe Competition,SUBCOMPACT,4.4,8,AS8,Z,16.0,11.0,13.8,323,2021,Canada 2021-2026,Premium petrol,8-speed automatic,yes,no
+BMW,M8 Gran Coupe,MID-SIZE,4.4,8,AS8,Z,16.0,11.0,13.8,323,2021,Canada 2021-2026,Premium petrol,8-speed automatic,yes,no
+BMW,M8 Gran Coupe Competition,MID-SIZE,4.4,8,AS8,Z,16.0,11.0,13.8,323,2021,Canada 2021-2026,Premium petrol,8-speed automatic,yes,no
+BMW,M850i xDrive Cabriolet,SUBCOMPACT,4.4,8,AS8,Z,14.0,9.7,12.0,281,2021,Canada 2021-2026,Premium petrol,8-speed automatic,yes,yes
+BMW,M850i xDrive Coupe,SUBCOMPACT,4.4,8,AS8,Z,13.5,9.5,11.7,272,2021,Canada 2021-2026,Premium petrol,8-speed automatic,yes,yes
+BMW,M850i xDrive Gran Coupe,MID-SIZE,4.4,8,AS8,Z,14.0,9.7,12.0,281,2021,Canada 2021-2026,Premium petrol,8-speed automatic,yes,yes
+BMW,X2 xDrive28i,SUV - SMALL,2.0,4,AS8,Z,9.8,7.5,8.8,205,2021,Canada 2021-2026,Premium petrol,8-speed automatic,no,yes
+BMW,X2 M35i,SUV - SMALL,2.0,4,AS8,Z,10.0,7.7,8.9,209,2021,Canada 2021-2026,Premium petrol,8-speed automatic,yes,no
+BMW,X3 xDrive30i,SUV - SMALL,2.0,4,AS8,Z,10.2,8.2,9.3,217,2021,Canada 2021-2026,Premium petrol,8-speed automatic,no,yes
+BMW,X4 xDrive30i,SUV - SMALL,2.0,4,AS8,Z,10.2,8.2,9.3,217,2021,Canada 2021-2026,Premium petrol,8-speed automatic,no,yes
+BMW,X5 xDrive40i,SUV - STANDARD,3.0,6,AS8,Z,11.4,9.2,10.4,242,2021,Canada 2021-2026,Premium petrol,8-speed automatic,no,yes
+BMW,X5 M,SUV - STANDARD,4.4,8,AS8,Z,17.9,13.0,15.7,364,2021,Canada 2021-2026,Premium petrol,8-speed automatic,yes,no
+BMW,X5 M Competition,SUV - STANDARD,4.4,8,AS8,Z,17.9,13.0,15.7,364,2021,Canada 2021-2026,Premium petrol,8-speed automatic,yes,no
+BMW,X5 M50i,SUV - STANDARD,4.4,8,AS8,Z,14.4,10.6,12.7,302,2021,Canada 2021-2026,Premium petrol,8-speed automatic,yes,no
+BMW,X6 xDrive40i,SUV - STANDARD,3.0,6,AS8,Z,11.4,9.2,10.4,242,2021,Canada 2021-2026,Premium petrol,8-speed automatic,no,yes
+BMW,X6 M,SUV - STANDARD,4.4,8,AS8,Z,17.9,13.0,15.7,364,2021,Canada 2021-2026,Premium petrol,8-speed automatic,yes,no
+BMW,X6 M Competition,SUV - STANDARD,4.4,8,AS8,Z,17.9,13.0,15.7,364,2021,Canada 2021-2026,Premium petrol,8-speed automatic,yes,no
+BMW,X6 M50i,SUV - STANDARD,4.4,8,AS8,Z,14.4,10.6,12.7,302,2021,Canada 2021-2026,Premium petrol,8-speed automatic,yes,no
+BMW,X7 xDrive40i,SUV - STANDARD,3.0,6,AS8,Z,12.1,9.8,11.1,256,2021,Canada 2021-2026,Premium petrol,8-speed automatic,no,yes
+BMW,X7 M50i,SUV - STANDARD,4.4,8,AS8,Z,15.7,11.5,13.8,321,2021,Canada 2021-2026,Premium petrol,8-speed automatic,yes,no
+BMW,Z4 sDrive30i,TWO-SEATER,2.0,4,AS8,Z,9.4,7.3,8.4,197,2021,Canada 2021-2026,Premium petrol,8-speed automatic,no,no
+BMW,Z4 M40i,TWO-SEATER,3.0,6,AS8,Z,10.7,8.0,9.5,221,2021,Canada 2021-2026,Premium petrol,8-speed automatic,yes,no
+Mercedes-Benz,A 220 4MATIC Sedan,SUBCOMPACT,2.0,4,AM7,Z,9.6,6.9,8.4,197,2021,Canada 2021-2026,Premium petrol,7-speed automated manual,no,yes
+Mercedes-Benz,A 250 4MATIC Hatch,STATION WAGON - SMALL,2.0,4,AM7,Z,9.4,6.8,8.2,193,2021,Canada 2021-2026,Premium petrol,7-speed automated manual,no,yes
+Mercedes-Benz,AMG A 35 4MATIC Sedan,SUBCOMPACT,2.0,4,AM7,Z,10.7,8.2,9.5,224,2021,Canada 2021-2026,Premium petrol,7-speed automated manual,yes,yes
+Mercedes-Benz,AMG A 35 4MATIC Hatch,STATION WAGON - SMALL,2.0,4,AM7,Z,10.6,8.2,9.5,224,2021,Canada 2021-2026,Premium petrol,7-speed automated manual,yes,yes
+Mercedes-Benz,AMG C 43 4MATIC Sedan,COMPACT,3.0,6,A9,Z,13.4,8.7,11.3,266,2021,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG C 43 4MATIC Cabriolet,SUBCOMPACT,3.0,6,A9,Z,12.3,8.7,10.7,251,2021,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG C 43 4MATIC Coupe,SUBCOMPACT,3.0,6,A9,Z,12.5,8.8,10.8,254,2021,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG C 43 4MATIC Wagon,STATION WAGON - SMALL,3.0,6,A9,Z,12.3,8.5,10.6,249,2021,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG C 63 Sedan,COMPACT,4.0,8,A9,Z,13.5,8.9,11.4,269,2021,Canada 2021-2026,Premium petrol,9-speed automatic,yes,no
+Mercedes-Benz,AMG C 63 S Sedan,COMPACT,4.0,8,A9,Z,13.5,8.9,11.4,269,2021,Canada 2021-2026,Premium petrol,9-speed automatic,yes,no
+Mercedes-Benz,AMG C 63 S Cabriolet,SUBCOMPACT,4.0,8,A9,Z,13.9,9.6,12.0,281,2021,Canada 2021-2026,Premium petrol,9-speed automatic,yes,no
+Mercedes-Benz,AMG C 63 S Coupe,SUBCOMPACT,4.0,8,A9,Z,13.7,9.1,11.6,273,2021,Canada 2021-2026,Premium petrol,9-speed automatic,yes,no
+Mercedes-Benz,AMG CLA 35 4MATIC Coupe,COMPACT,2.0,4,AM7,Z,10.7,8.2,9.5,224,2021,Canada 2021-2026,Premium petrol,7-speed automated manual,yes,yes
+Mercedes-Benz,AMG CLA 45 4MATIC Coupe,COMPACT,2.0,4,AM8,Z,12.0,8.2,10.3,242,2021,Canada 2021-2026,Premium petrol,8-speed automated manual,yes,yes
+Mercedes-Benz,AMG CLS 53 4MATIC+ Coupe,COMPACT,3.0,6,A9,Z,11.3,9.0,10.3,242,2021,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG E 53 4MATIC+ Sedan,MID-SIZE,3.0,6,A9,Z,10.7,8.2,9.5,225,2021,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG E 53 4MATIC+ Cabriolet,SUBCOMPACT,3.0,6,A9,Z,11.3,8.8,10.2,239,2021,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG E 53 4MATIC+ Coupe,SUBCOMPACT,3.0,6,A9,Z,11.2,8.5,10.0,235,2021,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG E 53 4MATIC+ Wagon,STATION WAGON - MID-SIZE,3.0,6,A9,Z,11.3,8.7,10.1,238,2021,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG E 63 S 4MATIC+ Sedan,MID-SIZE,4.0,8,A9,Z,15.0,10.1,12.8,301,2021,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG E 63 S 4MATIC+ Wagon,STATION WAGON - MID-SIZE,4.0,8,A9,Z,14.7,10.4,12.8,300,2021,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG G 63 SUV,SUV - STANDARD,4.0,8,A9,Z,18.6,15.5,17.2,396,2021,Canada 2021-2026,Premium petrol,9-speed automatic,yes,no
+Mercedes-Benz,AMG GLA 35 4MATIC SUV,SUV - SMALL,2.0,4,AM8,Z,10.4,8.1,9.4,219,2021,Canada 2021-2026,Premium petrol,8-speed automated manual,yes,yes
+Mercedes-Benz,AMG GLA 45 4MATIC SUV,SUV - SMALL,2.0,4,AM8,Z,11.6,8.8,10.4,243,2021,Canada 2021-2026,Premium petrol,8-speed automated manual,yes,yes
+Mercedes-Benz,AMG GLB 35 SUV,SUV - SMALL,2.0,4,AM8,Z,11.1,8.9,10.1,237,2021,Canada 2021-2026,Premium petrol,8-speed automated manual,yes,no
+Mercedes-Benz,AMG GLC 43 4MATIC SUV,SUV - SMALL,3.0,6,A9,Z,13.1,9.6,11.6,272,2021,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG GLC 43 4MATIC Coupe,SUV - SMALL,3.0,6,A9,Z,13.5,9.6,11.7,277,2021,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG GLC 63 S 4MATIC+ SUV,SUV - SMALL,4.0,8,A9,Z,15.7,10.9,13.5,319,2021,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG GLC 63 S 4MATIC+ Coupe,SUV - SMALL,4.0,8,A9,Z,15.2,10.8,13.2,311,2021,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG GLE 53 4MATIC+ SUV,SUV - STANDARD,3.0,6,A9,Z,13.2,10.8,12.1,285,2021,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG GLE 53 4MATIC+ Coupe,SUV - STANDARD,3.0,6,A9,Z,12.7,10.4,11.7,273,2021,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG GLE 63 S 4MATIC+ SUV,SUV - STANDARD,4.0,8,A9,Z,16.2,12.5,14.5,340,2021,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG GLE 63 S 4MATIC+ Coupe,SUV - STANDARD,4.0,8,A9,Z,16.3,12.8,14.7,347,2021,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG GLS 63 4MATIC+ SUV,SUV - STANDARD,4.0,8,A9,Z,16.3,12.9,14.8,347,2021,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG GT 53 4MATIC+ Coupe,COMPACT,3.0,6,A9,Z,11.9,9.6,10.9,255,2021,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG GT 63 4MATIC+ Coupe,COMPACT,4.0,8,A9,Z,15.6,11.5,13.7,322,2021,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG GT 63 S 4MATIC+ Coupe,COMPACT,4.0,8,A9,Z,15.1,11.1,13.3,312,2021,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG GT Black Series Coupe,TWO-SEATER,4.0,8,AM7,Z,15.6,12.0,13.9,328,2021,Canada 2021-2026,Premium petrol,7-speed automated manual,yes,no
+Mercedes-Benz,AMG GT C Coupe,TWO-SEATER,4.0,8,AM7,Z,15.9,12.1,14.2,332,2021,Canada 2021-2026,Premium petrol,7-speed automated manual,yes,no
+Mercedes-Benz,AMG GT C Roadster,TWO-SEATER,4.0,8,AM7,Z,15.8,12.0,14.1,330,2021,Canada 2021-2026,Premium petrol,7-speed automated manual,yes,no
+Mercedes-Benz,AMG GT R Coupe,TWO-SEATER,4.0,8,AM7,Z,16.4,12.0,14.4,339,2021,Canada 2021-2026,Premium petrol,7-speed automated manual,yes,no
+Mercedes-Benz,AMG S 63 4MATIC+ Cabriolet,SUBCOMPACT,4.0,8,A9,Z,16.3,10.0,13.5,317,2021,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG S 63 4MATIC+ Coupe,COMPACT,4.0,8,A9,Z,15.1,9.2,12.4,293,2021,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,C 300 4MATIC Sedan,COMPACT,2.0,4,A9,Z,10.1,7.1,8.7,204,2021,Canada 2021-2026,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,C 300 4MATIC Cabriolet,SUBCOMPACT,2.0,4,A9,Z,10.8,7.9,9.5,223,2021,Canada 2021-2026,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,C 300 4MATIC Coupe,SUBCOMPACT,2.0,4,A9,Z,10.2,7.4,9.0,210,2021,Canada 2021-2026,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,C 300 4MATIC Wagon,STATION WAGON - SMALL,2.0,4,A9,Z,10.5,7.5,9.1,214,2021,Canada 2021-2026,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,CLA 250 4MATIC Coupe,COMPACT,2.0,4,AM7,Z,9.8,7.1,8.6,201,2021,Canada 2021-2026,Premium petrol,7-speed automated manual,no,yes
+Mercedes-Benz,CLS 450 4MATIC Coupe,COMPACT,3.0,6,A9,Z,10.5,8.1,9.4,222,2021,Canada 2021-2026,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,E 350 4MATIC Sedan,MID-SIZE,2.0,4,A9,Z,10.7,7.8,9.4,221,2021,Canada 2021-2026,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,E 450 4MATIC Sedan,MID-SIZE,3.0,6,A9,Z,10.4,7.8,9.2,217,2021,Canada 2021-2026,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,E 450 4MATIC Cabriolet,SUBCOMPACT,3.0,6,A9,Z,10.4,8.0,9.3,219,2021,Canada 2021-2026,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,E 450 4MATIC Coupe,SUBCOMPACT,3.0,6,A9,Z,10.3,7.9,9.3,218,2021,Canada 2021-2026,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,E 450 4MATIC All-Terrain Wagon,STATION WAGON - MID-SIZE,3.0,6,A9,Z,10.6,8.4,9.6,226,2021,Canada 2021-2026,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,G 550 SUV,SUV - STANDARD,4.0,8,A9,Z,13.6,12.4,13.1,307,2021,Canada 2021-2026,Premium petrol,9-speed automatic,no,no
+Mercedes-Benz,GLA 250 4MATIC SUV,SUV - SMALL,2.0,4,AM8,Z,9.8,7.2,8.7,203,2021,Canada 2021-2026,Premium petrol,8-speed automated manual,no,yes
+Mercedes-Benz,GLB 250 4MATIC SUV,SUV - SMALL,2.0,4,AM8,Z,10.3,7.8,9.2,216,2021,Canada 2021-2026,Premium petrol,8-speed automated manual,no,yes
+Mercedes-Benz,GLC 300 4MATIC SUV,SUV - SMALL,2.0,4,A9,Z,11.3,8.5,10.0,235,2021,Canada 2021-2026,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,GLC 300 4MATIC Coupe,SUV - SMALL,2.0,4,A9,Z,10.6,8.4,9.6,226,2021,Canada 2021-2026,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,GLE 350 4MATIC SUV,SUV - STANDARD,2.0,4,A9,Z,12.4,9.0,10.8,254,2021,Canada 2021-2026,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,GLE 450 4MATIC SUV,SUV - STANDARD,3.0,6,A9,Z,11.4,9.2,10.4,244,2021,Canada 2021-2026,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,GLS 450 4MATIC SUV,SUV - STANDARD,3.0,6,A9,Z,12.0,9.8,11.0,257,2021,Canada 2021-2026,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,GLS 580 4MATIC SUV,SUV - STANDARD,4.0,8,A9,Z,14.5,11.2,13.0,305,2021,Canada 2021-2026,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,Maybach GLS 600 4MATIC SUV,SUV - STANDARD,4.0,8,A9,Z,16.6,12.5,14.8,346,2021,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,Maybach S 580 4MATIC Sedan,FULL-SIZE,4.0,8,A9,Z,15.5,9.8,12.9,301,2021,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,Metris Cargo Van,SPECIAL PURPOSE VEHICLE,2.0,4,A9,Z,12.6,10.0,11.5,268,2021,Canada 2021-2026,Premium petrol,9-speed automatic,no,no
+Mercedes-Benz,Metris Cargo Van LWB,SPECIAL PURPOSE VEHICLE,2.0,4,A9,Z,12.6,10.0,11.5,268,2021,Canada 2021-2026,Premium petrol,9-speed automatic,no,no
+Mercedes-Benz,Metris Passenger Van,SPECIAL PURPOSE VEHICLE,2.0,4,A9,Z,13.3,10.8,12.2,284,2021,Canada 2021-2026,Premium petrol,9-speed automatic,no,no
+Mercedes-Benz,S 500 4MATIC SWB Sedan,FULL-SIZE,3.0,6,A9,Z,11.3,8.0,9.8,230,2021,Canada 2021-2026,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,S 560 Cabriolet,SUBCOMPACT,4.0,8,A9,Z,14.5,9.0,12.0,282,2021,Canada 2021-2026,Premium petrol,9-speed automatic,no,no
+Mercedes-Benz,S 560 4MATIC COUPE,COMPACT,4.0,8,A9,Z,14.5,9.0,12.0,282,2021,Canada 2021-2026,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,S 580 4MATIC LWB Sedan,FULL-SIZE,4.0,8,A9,Z,14.4,9.4,12.2,285,2021,Canada 2021-2026,Premium petrol,9-speed automatic,no,yes
+BMW,430i xDrive Cabriolet,SUBCOMPACT,2.0,4,AS8,Z,10.0,7.1,8.7,202,2022,Canada 2021-2026,Premium petrol,8-speed automatic,no,yes
+BMW,530i xDrive Sedan,MID-SIZE,2.0,4,AS8,Z,10.1,7.4,8.9,206,2022,Canada 2021-2026,Premium petrol,8-speed automatic,no,yes
+BMW,540i xDrive Sedan,FULL-SIZE,3.0,6,AS8,Z,10.5,8.1,9.4,219,2022,Canada 2021-2026,Premium petrol,8-speed automatic,no,yes
+BMW,750i xDrive Sedan,FULL-SIZE,4.4,8,AS8,Z,13.9,9.6,12.0,279,2022,Canada 2021-2026,Premium petrol,8-speed automatic,no,yes
+BMW,750Li xDrive Sedan,FULL-SIZE,4.4,8,AS8,Z,13.9,9.6,12.0,279,2022,Canada 2021-2026,Premium petrol,8-speed automatic,no,yes
+BMW,Alpina B7,FULL-SIZE,4.4,8,AS8,Z,13.9,9.6,12.0,279,2022,Canada 2021-2026,Premium petrol,8-speed automatic,yes,no
+BMW,ALPINA B8 Gran Coupe,MID-SIZE,4.4,8,AS8,Z,13.9,9.6,12.0,279,2022,Canada 2021-2026,Premium petrol,8-speed automatic,yes,no
+BMW,M235i xDrive Gran Coupe,COMPACT,2.0,4,AS8,Z,10.4,7.8,9.2,214,2022,Canada 2021-2026,Premium petrol,8-speed automatic,yes,yes
+BMW,M240i xDrive Coupe,SUBCOMPACT,3.0,6,AS8,Z,10.4,7.5,9.1,212,2022,Canada 2021-2026,Premium petrol,8-speed automatic,yes,yes
+BMW,M3 Sedan,COMPACT,3.0,6,M6,Z,14.7,10.1,12.6,293,2022,Canada 2021-2026,Premium petrol,6-speed manual,yes,no
+BMW,M3 Competition Sedan,COMPACT,3.0,6,AS8,Z,14.5,10.2,12.6,292,2022,Canada 2021-2026,Premium petrol,8-speed automatic,yes,no
+BMW,M3 Competition Sedan M xDrive,COMPACT,3.0,6,AS8,Z,14.6,10.5,12.7,296,2022,Canada 2021-2026,Premium petrol,8-speed automatic,yes,yes
+BMW,M340i xDrive Sedan,COMPACT,3.0,6,AS8,Z,10.4,7.7,9.2,214,2022,Canada 2021-2026,Premium petrol,8-speed automatic,yes,yes
+BMW,M4 Competition Cabriolet M xDrive,SUBCOMPACT,3.0,6,AS8,Z,15.1,10.4,12.9,301,2022,Canada 2021-2026,Premium petrol,8-speed automatic,yes,yes
+BMW,M4 Coupe,SUBCOMPACT,3.0,6,M6,Z,14.7,10.1,12.6,293,2022,Canada 2021-2026,Premium petrol,6-speed manual,yes,no
+BMW,M4 Competition Coupe,SUBCOMPACT,3.0,6,AS8,Z,14.5,10.2,12.6,292,2022,Canada 2021-2026,Premium petrol,8-speed automatic,yes,no
+BMW,M4 Competition Coupe M xDrive,SUBCOMPACT,3.0,6,AS8,Z,14.6,10.5,12.7,296,2022,Canada 2021-2026,Premium petrol,8-speed automatic,yes,yes
+BMW,M440i xDrive Cabriolet,SUBCOMPACT,3.0,6,AS8,Z,10.4,7.4,9.1,211,2022,Canada 2021-2026,Premium petrol,8-speed automatic,yes,yes
+BMW,M440i xDrive Coupe,SUBCOMPACT,3.0,6,AS8,Z,10.4,7.7,9.2,214,2022,Canada 2021-2026,Premium petrol,8-speed automatic,yes,yes
+BMW,M440i xDrive Gran Coupe,COMPACT,3.0,6,AS8,Z,10.9,8.0,9.6,224,2022,Canada 2021-2026,Premium petrol,8-speed automatic,yes,yes
+BMW,M5 Sedan,MID-SIZE,4.4,8,AS8,Z,16.1,11.0,13.8,322,2022,Canada 2021-2026,Premium petrol,8-speed automatic,yes,no
+BMW,M5 Competition,MID-SIZE,4.4,8,AS8,Z,16.1,11.0,13.8,322,2022,Canada 2021-2026,Premium petrol,8-speed automatic,yes,no
+BMW,M5 CS,MID-SIZE,4.4,8,AS8,Z,16.1,11.0,13.8,322,2022,Canada 2021-2026,Premium petrol,8-speed automatic,yes,no
+BMW,M550i xDrive Sedan,MID-SIZE,4.4,8,AS8,Z,13.5,9.3,11.6,271,2022,Canada 2021-2026,Premium petrol,8-speed automatic,yes,yes
+BMW,M8 Cabriolet,SUBCOMPACT,4.4,8,AS8,Z,16.1,11.0,13.8,322,2022,Canada 2021-2026,Premium petrol,8-speed automatic,yes,no
+BMW,M8 Cabriolet Competition,SUBCOMPACT,4.4,8,AS8,Z,16.1,11.0,13.8,322,2022,Canada 2021-2026,Premium petrol,8-speed automatic,yes,no
+BMW,M8 Coupe,SUBCOMPACT,4.4,8,AS8,Z,16.1,11.0,13.8,322,2022,Canada 2021-2026,Premium petrol,8-speed automatic,yes,no
+BMW,M8 Coupe Competition,SUBCOMPACT,4.4,8,AS8,Z,16.1,11.0,13.8,322,2022,Canada 2021-2026,Premium petrol,8-speed automatic,yes,no
+BMW,M8 Gran Coupe,MID-SIZE,4.4,8,AS8,Z,16.1,11.0,13.8,322,2022,Canada 2021-2026,Premium petrol,8-speed automatic,yes,no
+BMW,M8 Gran Coupe Competition,MID-SIZE,4.4,8,AS8,Z,16.1,11.0,13.8,322,2022,Canada 2021-2026,Premium petrol,8-speed automatic,yes,no
+BMW,M850i xDrive Cabriolet,SUBCOMPACT,4.4,8,AS8,Z,13.9,9.6,12.0,279,2022,Canada 2021-2026,Premium petrol,8-speed automatic,yes,yes
+BMW,M850i xDrive Coupe,SUBCOMPACT,4.4,8,AS8,Z,13.5,9.3,11.6,271,2022,Canada 2021-2026,Premium petrol,8-speed automatic,yes,yes
+BMW,M850i xDrive Gran Coupe,MID-SIZE,4.4,8,AS8,Z,13.9,9.6,12.0,279,2022,Canada 2021-2026,Premium petrol,8-speed automatic,yes,yes
+BMW,X2 M35i,SUV - SMALL,2.0,4,AS8,Z,9.9,7.6,8.9,207,2022,Canada 2021-2026,Premium petrol,8-speed automatic,yes,no
+BMW,X3 xDrive30i,SUV - SMALL,2.0,4,AS8,Z,11.0,8.5,9.9,230,2022,Canada 2021-2026,Premium petrol,8-speed automatic,no,yes
+BMW,X3 M,SUV - SMALL,3.0,6,AS8,Z,15.7,11.7,13.9,323,2022,Canada 2021-2026,Premium petrol,8-speed automatic,yes,no
+BMW,X3 M Competition,SUV - SMALL,3.0,6,AS8,Z,15.7,11.7,13.9,323,2022,Canada 2021-2026,Premium petrol,8-speed automatic,yes,no
+BMW,X3 M40i,SUV - SMALL,3.0,6,AS8,Z,11.2,9.1,10.3,241,2022,Canada 2021-2026,Premium petrol,8-speed automatic,yes,no
+BMW,X4 xDrive30i,SUV - SMALL,2.0,4,AS8,Z,11.0,8.5,9.9,230,2022,Canada 2021-2026,Premium petrol,8-speed automatic,no,yes
+BMW,X4 M,SUV - SMALL,3.0,6,AS8,Z,15.7,11.7,13.9,323,2022,Canada 2021-2026,Premium petrol,8-speed automatic,yes,no
+BMW,X4 M Competition,SUV - SMALL,3.0,6,AS8,Z,15.7,11.7,13.9,323,2022,Canada 2021-2026,Premium petrol,8-speed automatic,yes,no
+BMW,X4 M40i,SUV - SMALL,3.0,6,AS8,Z,11.2,9.1,10.3,241,2022,Canada 2021-2026,Premium petrol,8-speed automatic,yes,no
+BMW,X5 xDrive40i,SUV - STANDARD,3.0,6,AS8,Z,11.3,9.2,10.4,241,2022,Canada 2021-2026,Premium petrol,8-speed automatic,no,yes
+BMW,X6 xDrive40i,SUV - STANDARD,3.0,6,AS8,Z,11.3,9.2,10.4,241,2022,Canada 2021-2026,Premium petrol,8-speed automatic,no,yes
+BMW,Z4 sDrive30i,TWO-SEATER,2.0,4,AS8,Z,9.4,7.4,8.5,199,2022,Canada 2021-2026,Premium petrol,8-speed automatic,no,no
+BMW,Z4 M40i,TWO-SEATER,3.0,6,AS8,Z,10.8,8.1,9.6,223,2022,Canada 2021-2026,Premium petrol,8-speed automatic,yes,no
+Mercedes-Benz,A 220 4MATIC Sedan,SUBCOMPACT,2.0,4,AM7,Z,9.5,6.8,8.3,194,2022,Canada 2021-2026,Premium petrol,7-speed automated manual,no,yes
+Mercedes-Benz,A 250 4MATIC Hatch,STATION WAGON - SMALL,2.0,4,AM7,Z,10.0,7.0,8.7,202,2022,Canada 2021-2026,Premium petrol,7-speed automated manual,no,yes
+Mercedes-Benz,AMG A 35 4MATIC Sedan,SUBCOMPACT,2.0,4,AM7,Z,10.8,7.9,9.5,221,2022,Canada 2021-2026,Premium petrol,7-speed automated manual,yes,yes
+Mercedes-Benz,AMG A 35 4MATIC Hatch,STATION WAGON - SMALL,2.0,4,AM7,Z,10.8,7.8,9.4,221,2022,Canada 2021-2026,Premium petrol,7-speed automated manual,yes,yes
+Mercedes-Benz,AMG C 43 4MATIC Cabriolet,SUBCOMPACT,3.0,6,A9,Z,12.7,8.7,10.9,256,2022,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG C 43 4MATIC Coupe,SUBCOMPACT,3.0,6,A9,Z,12.6,8.5,10.8,252,2022,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG CLA 35 4MATIC Coupe,COMPACT,2.0,4,AM7,Z,11.0,8.2,9.7,227,2022,Canada 2021-2026,Premium petrol,7-speed automated manual,yes,yes
+Mercedes-Benz,AMG CLA 45 4MATIC Coupe,COMPACT,2.0,4,AM8,Z,12.0,8.5,10.4,243,2022,Canada 2021-2026,Premium petrol,8-speed automated manual,yes,yes
+Mercedes-Benz,AMG CLS 53 4MATIC+ Coupe,COMPACT,3.0,6,A9,Z,11.6,8.8,10.3,241,2022,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG E 53 4MATIC+ Sedan,MID-SIZE,3.0,6,A9,Z,11.3,8.3,9.9,232,2022,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG E 53 4MATIC+ Cabriolet,SUBCOMPACT,3.0,6,A9,Z,12.0,8.9,10.6,247,2022,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG E 53 4MATIC+ Coupe,SUBCOMPACT,3.0,6,A9,Z,11.7,8.4,10.2,239,2022,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG G 63 SUV,SUV - STANDARD,4.0,8,A9,Z,19.3,15.6,17.6,412,2022,Canada 2021-2026,Premium petrol,9-speed automatic,yes,no
+Mercedes-Benz,AMG G 63 4x4 Squared,SUV - STANDARD,4.0,8,A9,Z,21.5,18.7,20.2,470,2022,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG GLA 35 4MATIC SUV,STATION WAGON - SMALL,2.0,4,AM8,Z,11.0,8.4,9.8,230,2022,Canada 2021-2026,Premium petrol,8-speed automated manual,yes,yes
+Mercedes-Benz,AMG GLA 45 4MATIC SUV,STATION WAGON - SMALL,2.0,4,AM8,Z,12.3,9.6,11.1,260,2022,Canada 2021-2026,Premium petrol,8-speed automated manual,yes,yes
+Mercedes-Benz,AMG GLB 35 4MATIC SUV,STATION WAGON - MID-SIZE,2.0,4,AM8,Z,12.7,9.4,11.2,262,2022,Canada 2021-2026,Premium petrol,8-speed automated manual,yes,yes
+Mercedes-Benz,AMG GLC 43 4MATIC SUV,SUV - SMALL,3.0,6,A9,Z,12.9,9.3,11.3,264,2022,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG GLC 43 4MATIC Coupe,SUV - SMALL,3.0,6,A9,Z,14.0,10.1,12.3,287,2022,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG GLE 53 4MATIC+ SUV,SUV - STANDARD,3.0,6,A9,Z,13.4,10.6,12.1,283,2022,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG GLE 53 4MATIC+ Coupe,SUV - STANDARD,3.0,6,A9,Z,13.6,11.1,12.5,292,2022,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG GLE 63 S 4MATIC+ SUV,SUV - STANDARD,4.0,8,A9,Z,16.2,12.6,14.6,341,2022,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG GLE 63 S 4MATIC+ Coupe,SUV - STANDARD,4.0,8,A9,Z,16.4,12.8,14.8,346,2022,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG GLS 63 4MATIC+ SUV,SUV - STANDARD,4.0,8,A9,Z,17.1,13.2,15.3,360,2022,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG GT 53 4MATIC+ Coupe,COMPACT,3.0,6,A9,Z,12.3,9.4,11.0,258,2022,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG SL 63 4MATIC+ Roadster,MINICOMPACT,4.0,8,A9,Z,17.1,11.3,14.5,339,2022,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,C 300 4MATIC Sedan,COMPACT,2.0,4,A9,Z,9.9,7.1,8.6,202,2022,Canada 2021-2026,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,C 300 4MATIC Cabriolet,SUBCOMPACT,2.0,4,A9,Z,11.0,8.0,9.6,224,2022,Canada 2021-2026,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,C 300 4MATIC Coupe,SUBCOMPACT,2.0,4,A9,Z,10.7,7.5,9.3,217,2022,Canada 2021-2026,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,CLA 250 4MATIC Coupe,COMPACT,2.0,4,AM7,Z,9.8,7.0,8.6,200,2022,Canada 2021-2026,Premium petrol,7-speed automated manual,no,yes
+Mercedes-Benz,CLS 450 4MATIC Coupe,COMPACT,3.0,6,A9,Z,11.1,8.2,9.8,229,2022,Canada 2021-2026,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,E 350 4MATIC Sedan,MID-SIZE,2.0,4,A9,Z,11.2,8.2,9.8,229,2022,Canada 2021-2026,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,E 450 4MATIC Sedan,MID-SIZE,3.0,6,A9,Z,10.5,7.9,9.3,218,2022,Canada 2021-2026,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,E 450 4MATIC Cabriolet,SUBCOMPACT,3.0,6,A9,Z,11.2,8.4,9.9,233,2022,Canada 2021-2026,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,E 450 4MATIC Coupe,SUBCOMPACT,3.0,6,A9,Z,11.0,8.0,9.6,225,2022,Canada 2021-2026,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,E 450 4MATIC All-Terrain Wagon,STATION WAGON - MID-SIZE,3.0,6,A9,Z,11.0,8.3,9.8,229,2022,Canada 2021-2026,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,G 550 SUV,SUV - STANDARD,4.0,8,A9,Z,16.3,13.7,15.1,354,2022,Canada 2021-2026,Premium petrol,9-speed automatic,no,no
+Mercedes-Benz,GLA 250 4MATIC SUV,SUV - SMALL,2.0,4,AM8,Z,10.3,7.3,9.0,210,2022,Canada 2021-2026,Premium petrol,8-speed automated manual,no,yes
+Mercedes-Benz,GLB 250 4MATIC SUV,SUV - SMALL,2.0,4,AM8,Z,10.9,7.9,9.5,224,2022,Canada 2021-2026,Premium petrol,8-speed automated manual,no,yes
+Mercedes-Benz,GLC 300 4MATIC SUV,SUV - SMALL,2.0,4,A9,Z,11.5,9.1,10.4,242,2022,Canada 2021-2026,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,GLC 300 4MATIC Coupe,SUV - SMALL,2.0,4,A9,Z,11.5,8.5,10.1,237,2022,Canada 2021-2026,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,GLE 350 4MATIC SUV,SUV - STANDARD,2.0,4,A9,Z,12.1,8.9,10.7,250,2022,Canada 2021-2026,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,GLE 450 4MATIC SUV,SUV - STANDARD,3.0,6,A9,Z,11.4,9.3,10.4,244,2022,Canada 2021-2026,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,GLE 450 4MATIC Coupe,SUV - STANDARD,3.0,6,A9,Z,11.7,9.2,10.5,247,2022,Canada 2021-2026,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,GLS 450 4MATIC SUV,SUV - STANDARD,3.0,6,A9,Z,12.8,10.0,11.5,269,2022,Canada 2021-2026,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,GLS 600 4MATIC Maybach SUV,SUV - STANDARD,4.0,8,A9,Z,16.3,12.2,14.4,338,2022,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,Maybach S 580 4MATIC Sedan,FULL-SIZE,4.0,8,A9,Z,15.2,9.9,12.9,301,2022,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,Maybach S 680 4MATIC Sedan,FULL-SIZE,6.0,12,A9,Z,19.4,11.2,15.7,369,2022,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,Metris Cargo Van,SPECIAL PURPOSE VEHICLE,2.0,4,A9,Z,12.6,10.1,11.5,267,2022,Canada 2021-2026,Premium petrol,9-speed automatic,no,no
+Mercedes-Benz,Metris Cargo Van LWB,SPECIAL PURPOSE VEHICLE,2.0,4,A9,Z,12.6,10.1,11.5,267,2022,Canada 2021-2026,Premium petrol,9-speed automatic,no,no
+Mercedes-Benz,Metris Passenger Van,SPECIAL PURPOSE VEHICLE,2.0,4,A9,Z,13.3,10.6,12.1,282,2022,Canada 2021-2026,Premium petrol,9-speed automatic,no,no
+Mercedes-Benz,S 500 4MATIC SWB Sedan,FULL-SIZE,3.0,6,A9,Z,11.4,8.0,9.9,231,2022,Canada 2021-2026,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,S 580 4MATIC LWB Sedan,FULL-SIZE,4.0,8,A9,Z,14.3,9.5,12.2,285,2022,Canada 2021-2026,Premium petrol,9-speed automatic,no,yes
+BMW,230i xDrive Coupe,SUBCOMPACT,2.0,4,AS8,Z,9.6,6.9,8.4,195,2023,Canada 2021-2026,Premium petrol,8-speed automatic,no,yes
+BMW,330i xDrive Sedan,COMPACT,2.0,4,AS8,Z,9.8,7.0,8.6,200,2023,Canada 2021-2026,Premium petrol,8-speed automatic,no,yes
+BMW,430i xDrive Cabriolet,SUBCOMPACT,2.0,4,AS8,Z,10.1,7.1,8.7,203,2023,Canada 2021-2026,Premium petrol,8-speed automatic,no,yes
+BMW,430i xDrive Coupe,SUBCOMPACT,2.0,4,AS8,Z,10.1,7.1,8.7,203,2023,Canada 2021-2026,Premium petrol,8-speed automatic,no,yes
+BMW,540i xDrive Sedan,MID-SIZE,3.0,6,AS8,Z,10.5,8.1,9.4,219,2023,Canada 2021-2026,Premium petrol,8-speed automatic,no,yes
+BMW,760i xDrive Sedan,FULL-SIZE,4.4,8,AS8,Z,13.0,9.1,11.3,261,2023,Canada 2021-2026,Premium petrol,8-speed automatic,no,yes
+BMW,ALPINA B8 Gran Coupe,MID-SIZE,4.4,8,AS8,Z,14.1,9.9,12.2,284,2023,Canada 2021-2026,Premium petrol,8-speed automatic,yes,no
+BMW,ALPINA XB7,SUV - STANDARD,4.4,8,AS8,Z,15.2,11.6,13.6,314,2023,Canada 2021-2026,Premium petrol,8-speed automatic,yes,no
+BMW,M2 Coupe,SUBCOMPACT,3.0,6,AS8,Z,14.6,10.3,12.7,294,2023,Canada 2021-2026,Premium petrol,8-speed automatic,yes,no
+BMW,M2 Coupe,SUBCOMPACT,3.0,6,M6,Z,14.3,10.0,12.4,287,2023,Canada 2021-2026,Premium petrol,6-speed manual,yes,no
+BMW,M235i xDrive Gran Coupe,COMPACT,2.0,4,AS8,Z,9.8,7.2,8.6,202,2023,Canada 2021-2026,Premium petrol,8-speed automatic,yes,yes
+BMW,M240i xDrive Coupe,SUBCOMPACT,3.0,6,AS8,Z,10.4,7.4,9.0,210,2023,Canada 2021-2026,Premium petrol,8-speed automatic,yes,yes
+BMW,M3 Competition M xDrive Sedan,COMPACT,3.0,6,AS8,Z,14.6,10.5,12.7,296,2023,Canada 2021-2026,Premium petrol,8-speed automatic,yes,yes
+BMW,M340i xDrive Sedan,COMPACT,3.0,6,AS8,Z,10.3,7.4,9.0,210,2023,Canada 2021-2026,Premium petrol,8-speed automatic,yes,yes
+BMW,M4 Competition M xDrive Cabriolet,SUBCOMPACT,3.0,6,AS8,Z,15.1,10.4,12.9,301,2023,Canada 2021-2026,Premium petrol,8-speed automatic,yes,yes
+BMW,M4 Competition M xDrive Coupe,SUBCOMPACT,3.0,6,AS8,Z,14.6,10.5,12.7,296,2023,Canada 2021-2026,Premium petrol,8-speed automatic,yes,yes
+BMW,M4 CSL Coupe,SUBCOMPACT,3.0,6,AS8,Z,15.0,10.3,12.9,301,2023,Canada 2021-2026,Premium petrol,8-speed automatic,yes,no
+BMW,M440i xDrive Cabriolet,SUBCOMPACT,3.0,6,AS8,Z,10.6,7.7,9.3,216,2023,Canada 2021-2026,Premium petrol,8-speed automatic,yes,yes
+BMW,M440i xDrive Coupe,SUBCOMPACT,3.0,6,AS8,Z,10.7,7.6,9.3,216,2023,Canada 2021-2026,Premium petrol,8-speed automatic,yes,yes
+BMW,M5 Sedan,MID-SIZE,4.4,8,AS8,Z,16.1,11.1,13.8,324,2023,Canada 2021-2026,Premium petrol,8-speed automatic,yes,no
+BMW,M5 Competition Sedan,MID-SIZE,4.4,8,AS8,Z,16.1,11.1,13.8,324,2023,Canada 2021-2026,Premium petrol,8-speed automatic,yes,no
+BMW,M550i xDrive Sedan,MID-SIZE,4.4,8,AS8,Z,14.0,9.5,12.0,277,2023,Canada 2021-2026,Premium petrol,8-speed automatic,yes,yes
+BMW,M8 Competition Cabriolet,SUBCOMPACT,4.4,8,AS8,Z,16.1,10.9,13.7,321,2023,Canada 2021-2026,Premium petrol,8-speed automatic,yes,no
+BMW,M8 Competition Coupe,SUBCOMPACT,4.4,8,AS8,Z,16.1,10.9,13.7,321,2023,Canada 2021-2026,Premium petrol,8-speed automatic,yes,no
+BMW,M8 Competition Gran Coupe,MID-SIZE,4.4,8,AS8,Z,16.1,10.9,13.7,321,2023,Canada 2021-2026,Premium petrol,8-speed automatic,yes,no
+BMW,M850i xDrive Cabriolet,SUBCOMPACT,4.4,8,AS8,Z,14.1,9.9,12.2,284,2023,Canada 2021-2026,Premium petrol,8-speed automatic,yes,yes
+BMW,M850i xDrive Coupe,SUBCOMPACT,4.4,8,AS8,Z,14.1,9.9,12.2,284,2023,Canada 2021-2026,Premium petrol,8-speed automatic,yes,yes
+BMW,M850i xDrive Gran Coupe,MID-SIZE,4.4,8,AS8,Z,14.1,9.9,12.2,284,2023,Canada 2021-2026,Premium petrol,8-speed automatic,yes,yes
+BMW,X1 xDrive28i,SUV - SMALL,2.0,4,AM7,Z,9.6,7.0,8.4,195,2023,Canada 2021-2026,Premium petrol,7-speed automated manual,no,yes
+BMW,X3 xDrive30i,SUV - SMALL,2.0,4,AS8,Z,11.0,8.4,9.9,229,2023,Canada 2021-2026,Premium petrol,8-speed automatic,no,yes
+BMW,X3 M40i,SUV - SMALL,3.0,6,AS8,Z,10.9,9.0,10.1,235,2023,Canada 2021-2026,Premium petrol,8-speed automatic,yes,no
+BMW,X4 xDrive30i,SUV - SMALL,2.0,4,AS8,Z,11.0,8.4,9.9,229,2023,Canada 2021-2026,Premium petrol,8-speed automatic,no,yes
+BMW,X4 M40i,SUV - SMALL,3.0,6,AS8,Z,10.9,9.0,10.1,235,2023,Canada 2021-2026,Premium petrol,8-speed automatic,yes,no
+BMW,X5 xDrive40i,SUV - STANDARD,3.0,6,AS8,Z,11.4,9.3,10.4,242,2023,Canada 2021-2026,Premium petrol,8-speed automatic,no,yes
+BMW,X5 M50i,SUV - STANDARD,4.4,8,AS8,Z,14.7,10.9,13.0,302,2023,Canada 2021-2026,Premium petrol,8-speed automatic,yes,no
+BMW,X6 xDrive40i,SUV - STANDARD,3.0,6,AS8,Z,11.4,9.3,10.4,242,2023,Canada 2021-2026,Premium petrol,8-speed automatic,no,yes
+BMW,X6 M50i,SUV - STANDARD,4.4,8,AS8,Z,14.7,10.9,13.0,302,2023,Canada 2021-2026,Premium petrol,8-speed automatic,yes,no
+BMW,X7 xDrive40i,SUV - STANDARD,3.0,6,AS8,Z,11.3,9.5,10.5,243,2023,Canada 2021-2026,Premium petrol,8-speed automatic,no,yes
+BMW,X7 M60i xDrive,SUV - STANDARD,4.4,8,AS8,Z,14.3,11.1,12.9,299,2023,Canada 2021-2026,Premium petrol,8-speed automatic,yes,yes
+BMW,Z4 sDrive30i,TWO-SEATER,2.0,4,AS8,Z,9.4,7.1,8.4,194,2023,Canada 2021-2026,Premium petrol,8-speed automatic,no,no
+BMW,Z4 M40i,TWO-SEATER,3.0,6,AS8,Z,10.4,7.5,9.1,210,2023,Canada 2021-2026,Premium petrol,8-speed automatic,yes,no
+Mercedes-Benz,AMG C 43 4MATIC Cabriolet,SUBCOMPACT,3.0,6,A9,Z,13.3,9.2,11.4,268,2023,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG C 43 4MATIC Coupe,SUBCOMPACT,3.0,6,A9,Z,12.9,8.7,11.0,257,2023,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG C 43 4MATIC Sedan,COMPACT,2.0,4,A9,Z,12.1,9.0,10.7,251,2023,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG CLA 35 4MATIC Coupe,COMPACT,2.0,4,AM7,Z,11.4,8.1,9.9,232,2023,Canada 2021-2026,Premium petrol,7-speed automated manual,yes,yes
+Mercedes-Benz,AMG CLA 45 4MATIC Coupe,COMPACT,2.0,4,AM8,Z,12.0,8.3,10.3,241,2023,Canada 2021-2026,Premium petrol,8-speed automated manual,yes,yes
+Mercedes-Benz,AMG E 53 4MATIC+ Sedan,MID-SIZE,3.0,6,A9,Z,11.0,8.1,9.7,227,2023,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG E 53 4MATIC+ Cabriolet,SUBCOMPACT,3.0,6,A9,Z,11.6,8.7,10.3,242,2023,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG E 53 4MATIC+ Coupe,SUBCOMPACT,3.0,6,A9,Z,11.5,8.5,10.2,238,2023,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG E 63 S 4MATIC+ Sedan,MID-SIZE,4.0,8,A9,Z,14.8,9.9,12.6,296,2023,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG G 63 SUV,SUV - STANDARD,4.0,8,A9,Z,19.5,15.5,17.7,415,2023,Canada 2021-2026,Premium petrol,9-speed automatic,yes,no
+Mercedes-Benz,AMG G 63 4x4 Squared SUV,SUV - STANDARD,4.0,8,A9,Z,23.5,19.4,21.7,508,2023,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG GLA 35 4MATIC SUV,STATION WAGON - SMALL,2.0,4,AM8,Z,10.7,8.0,9.5,222,2023,Canada 2021-2026,Premium petrol,8-speed automated manual,yes,yes
+Mercedes-Benz,AMG GLA 45 4MATIC SUV,STATION WAGON - SMALL,2.0,4,AM8,Z,12.2,9.3,10.9,256,2023,Canada 2021-2026,Premium petrol,8-speed automated manual,yes,yes
+Mercedes-Benz,AMG GLB 35 4MATIC SUV,STATION WAGON - MID-SIZE,2.0,4,AM8,Z,11.3,8.7,10.2,238,2023,Canada 2021-2026,Premium petrol,8-speed automated manual,yes,yes
+Mercedes-Benz,AMG GLC 43 4MATIC Coupe,SUV - SMALL,3.0,6,A9,Z,13.5,9.7,11.8,274,2023,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG GLE 53 4MATIC+ SUV,SUV - STANDARD,3.0,6,A9,Z,13.4,10.7,12.2,284,2023,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG GLE 53 4MATIC+ Coupe,SUV - STANDARD,3.0,6,A9,Z,13.1,10.4,11.9,277,2023,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG GLE 63 S 4MATIC+ SUV,SUV - STANDARD,4.0,8,A9,Z,16.3,12.6,14.7,343,2023,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG GLE 63 S 4MATIC+ Coupe,SUV - STANDARD,4.0,8,A9,Z,16.5,12.8,14.8,347,2023,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG GLS 63 4MATIC+ SUV,SUV - STANDARD,4.0,8,A9,Z,16.6,13.2,15.1,354,2023,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG GT 53 4MATIC+ Coupe,COMPACT,3.0,6,A9,Z,12.3,9.8,11.2,262,2023,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG GT 63 4MATIC+ Coupe,COMPACT,4.0,8,A9,Z,16.1,11.4,14.0,329,2023,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG GT 63 S 4MATIC+ Coupe,COMPACT,4.0,8,A9,Z,16.1,11.4,14.0,329,2023,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG SL 63 4MATIC+ Roadster,MINICOMPACT,4.0,8,A9,Z,18.2,11.8,15.3,360,2023,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,C 300 4MATIC Cabriolet,SUBCOMPACT,2.0,4,A9,Z,11.0,7.8,9.5,223,2023,Canada 2021-2026,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,C 300 4MATIC Coupe,SUBCOMPACT,2.0,4,A9,Z,10.7,7.6,9.3,218,2023,Canada 2021-2026,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,C 300 4MATIC Sedan,COMPACT,2.0,4,A9,Z,9.8,7.1,8.6,201,2023,Canada 2021-2026,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,CLS 450 4MATIC Coupe,COMPACT,3.0,6,A9,Z,11.0,8.2,9.7,229,2023,Canada 2021-2026,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,E 350 4MATIC Sedan,MID-SIZE,2.0,4,A9,Z,11.2,8.0,9.7,228,2023,Canada 2021-2026,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,E 450 4MATIC Sedan,MID-SIZE,3.0,6,A9,Z,10.6,7.8,9.3,219,2023,Canada 2021-2026,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,E 450 4MATIC All-Terrain Wagon,STATION WAGON - MID-SIZE,3.0,6,A9,Z,11.4,8.3,10.0,233,2023,Canada 2021-2026,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,G 550 SUV,SUV - STANDARD,4.0,8,A9,Z,17.9,14.4,16.3,383,2023,Canada 2021-2026,Premium petrol,9-speed automatic,no,no
+Mercedes-Benz,GLB 250 4MATIC SUV,SUV - SMALL,2.0,4,AM8,Z,10.7,7.9,9.4,221,2023,Canada 2021-2026,Premium petrol,8-speed automated manual,no,yes
+Mercedes-Benz,GLC 300 4MATIC SUV,SUV - SMALL,2.0,4,A9,Z,10.4,9.1,9.8,229,2023,Canada 2021-2026,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,GLC 300 4MATIC Coupe,SUV - SMALL,2.0,4,A9,Z,12.2,9.2,10.9,253,2023,Canada 2021-2026,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,GLE 350 4MATIC SUV,SUV - STANDARD,2.0,4,A9,Z,12.1,9.6,11.0,257,2023,Canada 2021-2026,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,GLE 450 4MATIC SUV,SUV - STANDARD,3.0,6,A9,Z,11.5,9.3,10.5,245,2023,Canada 2021-2026,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,GLS 450 4MATIC SUV,SUV - STANDARD,3.0,6,A9,Z,12.7,10.1,11.6,270,2023,Canada 2021-2026,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,GLS 580 4MATIC SUV,SUV - STANDARD,4.0,8,A9,Z,14.9,11.2,13.2,310,2023,Canada 2021-2026,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,GLS 600 4MATIC Maybach SUV,SUV - STANDARD,4.0,8,A9,Z,16.8,12.4,14.8,346,2023,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,Maybach S 580 4MATIC Sedan,FULL-SIZE,4.0,8,A9,Z,15.9,9.6,13.0,305,2023,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,Maybach S 680 4MATIC Sedan,FULL-SIZE,6.0,12,A9,Z,20.5,11.5,16.4,384,2023,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,Metris Cargo Van,SPECIAL PURPOSE VEHICLE,2.0,4,A9,Z,12.6,10.4,11.6,271,2023,Canada 2021-2026,Premium petrol,9-speed automatic,no,no
+Mercedes-Benz,Metris Cargo Van LWB,SPECIAL PURPOSE VEHICLE,2.0,4,A9,Z,12.6,10.4,11.6,271,2023,Canada 2021-2026,Premium petrol,9-speed automatic,no,no
+Mercedes-Benz,Metris Passenger Van,SPECIAL PURPOSE VEHICLE,2.0,4,A9,Z,13.4,10.8,12.3,285,2023,Canada 2021-2026,Premium petrol,9-speed automatic,no,no
+Mercedes-Benz,S 500 4MATIC Sedan,FULL-SIZE,3.0,6,A9,Z,12.0,8.4,10.4,242,2023,Canada 2021-2026,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,S 580 4MATIC Sedan,FULL-SIZE,4.0,8,A9,Z,14.3,9.5,12.2,285,2023,Canada 2021-2026,Premium petrol,9-speed automatic,no,yes
+BMW,228i xDrive Gran Coupe,COMPACT,2.0,4,AS8,Z,10.2,7.2,8.8,205,2024,Canada 2021-2026,Premium petrol,8-speed automatic,no,yes
+BMW,230i xDrive Coupe,SUBCOMPACT,2.0,4,AS8,Z,9.6,7.1,8.4,195,2024,Canada 2021-2026,Premium petrol,8-speed automatic,no,yes
+BMW,430i xDrive Cabriolet,SUBCOMPACT,2.0,4,AS8,Z,10.0,7.1,8.7,203,2024,Canada 2021-2026,Premium petrol,8-speed automatic,no,yes
+BMW,430i xDrive Coupe,SUBCOMPACT,2.0,4,AS8,Z,10.0,7.1,8.7,203,2024,Canada 2021-2026,Premium petrol,8-speed automatic,no,yes
+BMW,530i xDrive Sedan,MID-SIZE,2.0,4,AS8,Z,8.7,6.8,7.9,182,2024,Canada 2021-2026,Premium petrol,8-speed automatic,no,yes
+BMW,760i xDrive Sedan,FULL-SIZE,4.4,8,AS8,Z,13.3,9.3,11.5,265,2024,Canada 2021-2026,Premium petrol,8-speed automatic,no,yes
+BMW,M3 CS Sedan,COMPACT,3.0,6,AS8,Z,15.3,10.6,13.2,305,2024,Canada 2021-2026,Premium petrol,8-speed automatic,yes,no
+BMW,M340i xDrive Sedan,COMPACT,3.0,6,AS8,Z,10.4,7.5,9.1,212,2024,Canada 2021-2026,Premium petrol,8-speed automatic,yes,yes
+BMW,M440i xDrive Cabriolet,SUBCOMPACT,3.0,6,AS8,Z,10.4,7.5,9.1,211,2024,Canada 2021-2026,Premium petrol,8-speed automatic,yes,yes
+BMW,M440i xDrive Coupe,SUBCOMPACT,3.0,6,AS8,Z,10.7,7.5,9.3,216,2024,Canada 2021-2026,Premium petrol,8-speed automatic,yes,yes
+BMW,M440i xDrive Gran Coupe,COMPACT,3.0,6,AS8,Z,10.7,7.8,9.4,218,2024,Canada 2021-2026,Premium petrol,8-speed automatic,yes,yes
+BMW,M8 Competition Cabriolet,SUBCOMPACT,4.4,8,AS8,Z,16.0,10.9,13.7,321,2024,Canada 2021-2026,Premium petrol,8-speed automatic,yes,no
+BMW,M8 Competition Coupe,SUBCOMPACT,4.4,8,AS8,Z,16.0,10.9,13.7,321,2024,Canada 2021-2026,Premium petrol,8-speed automatic,yes,no
+BMW,M8 Competition Gran Coupe,MID-SIZE,4.4,8,AS8,Z,16.0,10.9,13.7,321,2024,Canada 2021-2026,Premium petrol,8-speed automatic,yes,no
+BMW,X1 M35i xDrive,SUV - SMALL,2.0,4,AM7,Z,10.1,7.6,9.0,208,2024,Canada 2021-2026,Premium petrol,7-speed automated manual,yes,yes
+BMW,X2 xDrive28i,SUV - SMALL,2.0,4,AM7,Z,9.7,7.1,8.5,198,2024,Canada 2021-2026,Premium petrol,7-speed automated manual,no,yes
+BMW,X2 M35i xDrive,SUV - SMALL,2.0,4,AM7,Z,10.3,7.3,8.9,207,2024,Canada 2021-2026,Premium petrol,7-speed automated manual,yes,yes
+BMW,X5 xDrive40i,SUV - STANDARD,3.0,6,AS8,Z,10.1,8.7,9.4,218,2024,Canada 2021-2026,Premium petrol,8-speed automatic,no,yes
+BMW,X5 M Competition,SUV - STANDARD,4.4,8,AS8,Z,18.2,12.9,15.8,366,2024,Canada 2021-2026,Premium petrol,8-speed automatic,yes,no
+BMW,X5 M60i,SUV - STANDARD,4.4,8,AS8,Z,13.8,10.5,12.3,285,2024,Canada 2021-2026,Premium petrol,8-speed automatic,yes,no
+BMW,X6 xDrive40i,SUV - STANDARD,3.0,6,AS8,Z,10.3,8.9,9.6,223,2024,Canada 2021-2026,Premium petrol,8-speed automatic,no,yes
+BMW,X6 M Competition,SUV - STANDARD,4.4,8,AS8,Z,18.2,12.9,15.8,366,2024,Canada 2021-2026,Premium petrol,8-speed automatic,yes,no
+BMW,X6 M60i,SUV - STANDARD,4.4,8,AS8,Z,13.8,10.5,12.3,285,2024,Canada 2021-2026,Premium petrol,8-speed automatic,yes,no
+BMW,X7 M60i,SUV - STANDARD,4.4,8,AS8,Z,14.3,11.1,12.9,299,2024,Canada 2021-2026,Premium petrol,8-speed automatic,yes,no
+Mercedes-Benz,AMG C 43 4MATIC Sedan,COMPACT,2.0,4,A9,Z,11.8,8.4,10.3,242,2024,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG CLA 35 4MATIC Coupe,COMPACT,2.0,4,AM8,Z,10.8,8.0,9.6,225,2024,Canada 2021-2026,Premium petrol,8-speed automated manual,yes,yes
+Mercedes-Benz,AMG CLA 45 S 4MATIC Coupe,COMPACT,2.0,4,AM8,Z,11.9,8.3,10.3,242,2024,Canada 2021-2026,Premium petrol,8-speed automated manual,yes,yes
+Mercedes-Benz,AMG CLE 53 4MATIC+ Coupe,SUBCOMPACT,3.0,6,A9,Z,11.7,8.7,10.4,243,2024,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG GLA 35 4MATIC Coupe,STATION WAGON - SMALL,2.0,4,AM8,Z,11.0,8.6,9.9,230,2024,Canada 2021-2026,Premium petrol,8-speed automated manual,yes,yes
+Mercedes-Benz,AMG GLB 35 4MATIC Coupe,STATION WAGON - SMALL,2.0,4,AM8,Z,11.5,9.0,10.4,238,2024,Canada 2021-2026,Premium petrol,8-speed automated manual,yes,yes
+Mercedes-Benz,AMG GLC 43 4MATIC Coupe,SUV - SMALL,2.0,4,A9,Z,12.7,9.8,11.4,269,2024,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG GLC 43 4MATIC+ SUV,SUV - SMALL,2.0,4,A9,Z,12.6,9.4,11.2,263,2024,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG GLE 53 4MATIC+ SUV,SUV - STANDARD,3.0,6,A9,Z,12.9,10.2,11.7,273,2024,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG GLE 53 4MATIC+ Coupe,SUV - STANDARD,3.0,6,A9,Z,12.8,10.1,11.6,273,2024,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG GLE 63 S 4MATIC+ SUV,SUV - STANDARD,4.0,8,A9,Z,16.6,12.3,14.7,343,2024,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG GLE 63 S 4MATIC+ Coupe,SUV - STANDARD,4.0,8,A9,Z,16.6,12.3,14.7,343,2024,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG GLS 63 4MATIC+ SUV,SUV - STANDARD,4.0,8,A9,Z,16.8,13.2,15.2,357,2024,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG GT 53 4MATIC+,COMPACT,3.0,6,A9,Z,12.3,9.8,11.2,262,2024,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG GT 55 4MATIC+ Coupe,SUBCOMPACT,4.0,8,A9,Z,17.8,11.6,15.0,353,2024,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG GT 63 4MATIC+,COMPACT,4.0,8,A9,Z,15.3,11.3,13.5,318,2024,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG GT 63 4MATIC+ Coupe,SUBCOMPACT,4.0,8,A9,Z,17.8,11.6,15.0,353,2024,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG SL 55 4MATIC+ Roadster,MINICOMPACT,4.0,8,A9,Z,17.0,11.3,14.5,340,2024,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG SL 63 4MATIC+ Roadster,MINICOMPACT,4.0,8,A9,Z,17.0,11.3,14.5,340,2024,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,C 300 4MATIC Sedan,COMPACT,2.0,4,A9,Z,10.1,7.1,8.8,206,2024,Canada 2021-2026,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,CLA 250 4MATIC Coupe,COMPACT,2.0,4,AM8,Z,9.5,6.8,8.3,194,2024,Canada 2021-2026,Premium petrol,8-speed automated manual,no,yes
+Mercedes-Benz,CLE 300 4MATIC Cabriolet,SUBCOMPACT,2.0,4,A9,Z,10.1,7.3,8.9,209,2024,Canada 2021-2026,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,CLE 300 4MATIC Coupe,SUBCOMPACT,2.0,4,A9,Z,9.9,7.0,8.6,201,2024,Canada 2021-2026,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,E 350 4MATIC Sedan,MID-SIZE,2.0,4,A9,Z,9.9,7.1,8.6,203,2024,Canada 2021-2026,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,E 450 4MATIC Sedan,MID-SIZE,3.0,6,A9,Z,10.8,7.7,9.4,221,2024,Canada 2021-2026,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,GLA 250 4MATIC SUV,SUV - SMALL,2.0,4,AM8,Z,9.7,7.3,8.6,202,2024,Canada 2021-2026,Premium petrol,8-speed automated manual,no,yes
+Mercedes-Benz,GLB 250 4MATIC SUV,SUV - SMALL,2.0,4,AM8,Z,9.9,7.4,8.7,205,2024,Canada 2021-2026,Premium petrol,8-speed automated manual,no,yes
+Mercedes-Benz,GLC 300 4MATIC SUV,SUV - SMALL,2.0,4,A9,Z,10.0,7.8,9.0,212,2024,Canada 2021-2026,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,GLC 300 4MATIC Coupe,SUV - SMALL,2.0,4,A9,Z,10.0,7.8,9.0,212,2024,Canada 2021-2026,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,GLE 350 4MATIC SUV,SUV - STANDARD,2.0,4,A9,Z,11.5,8.6,10.2,238,2024,Canada 2021-2026,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,GLE 450 4MATIC SUV,SUV - STANDARD,3.0,6,A9,Z,12.1,9.2,10.8,252,2024,Canada 2021-2026,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,GLE 450 4MATIC Coupe,SUV - STANDARD,3.0,6,A9,Z,12.2,9.0,10.8,252,2024,Canada 2021-2026,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,GLS 450 4MATIC SUV,SUV - STANDARD,3.0,6,A9,Z,12.7,9.6,11.3,266,2024,Canada 2021-2026,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,GLS 580 4MATIC SUV,SUV - STANDARD,4.0,8,A9,Z,16.8,11.9,14.6,344,2024,Canada 2021-2026,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,GLS 600 4MATIC Maybach SUV,SUV - STANDARD,4.0,8,A9,Z,17.8,12.8,15.6,364,2024,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,S 500 4MATIC Sedan,FULL-SIZE,3.0,6,A9,Z,11.3,7.7,9.7,226,2024,Canada 2021-2026,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,S 580 4MATIC Sedan,FULL-SIZE,4.0,8,A9,Z,13.0,8.6,11.0,260,2024,Canada 2021-2026,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,Maybach S 580 4MATIC Sedan,FULL-SIZE,4.0,8,A9,Z,13.3,8.9,11.3,266,2024,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,Maybach S 680 4MATIC Sedan,FULL-SIZE,6.0,12,A9,Z,19.8,11.7,16.1,379,2024,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+BMW,228 xDrive Gran Coupe,COMPACT,2.0,4,AM7,Z,9.0,6.3,7.7,179,2025,Canada 2021-2026,Premium petrol,7-speed automated manual,no,yes
+BMW,230i xDrive Coupe,SUBCOMPACT,2.0,4,AS8,Z,9.5,7.1,8.4,194,2025,Canada 2021-2026,Premium petrol,8-speed automatic,no,yes
+BMW,330i xDrive Sedan,COMPACT,2.0,4,AS8,Z,8.9,6.9,8.0,185,2025,Canada 2021-2026,Premium petrol,8-speed automatic,no,yes
+BMW,430i xDrive Cabriolet,SUBCOMPACT,2.0,4,AS8,Z,9.6,7.1,8.5,196,2025,Canada 2021-2026,Premium petrol,8-speed automatic,no,yes
+BMW,430i xDrive Coupe,SUBCOMPACT,2.0,4,AS8,Z,8.7,6.9,7.9,183,2025,Canada 2021-2026,Premium petrol,8-speed automatic,no,yes
+BMW,430i xDrive Gran Coupe,COMPACT,2.0,4,AS8,Z,9.3,6.9,8.2,190,2025,Canada 2021-2026,Premium petrol,8-speed automatic,no,yes
+BMW,M2 Coupe,SUBCOMPACT,3.0,6,AS8,Z,14.4,10.3,12.5,290,2025,Canada 2021-2026,Premium petrol,8-speed automatic,yes,no
+BMW,M2 Coupe,SUBCOMPACT,3.0,6,M6,Z,14.7,10.0,12.6,294,2025,Canada 2021-2026,Premium petrol,6-speed manual,yes,no
+BMW,M240i xDrive Coupe,SUBCOMPACT,3.0,6,AS8,Z,10.3,7.3,9.0,209,2025,Canada 2021-2026,Premium petrol,8-speed automatic,yes,yes
+BMW,M3 Competition M xDrive Sedan,COMPACT,3.0,6,AS8,Z,14.9,10.3,12.8,296,2025,Canada 2021-2026,Premium petrol,8-speed automatic,yes,yes
+BMW,M340i xDrive Sedan,COMPACT,3.0,6,AS8,Z,9.0,7.1,8.2,189,2025,Canada 2021-2026,Premium petrol,8-speed automatic,yes,yes
+BMW,M4 Competition M xDrive Cabriolet,SUBCOMPACT,3.0,6,AS8,Z,14.9,10.5,12.9,297,2025,Canada 2021-2026,Premium petrol,8-speed automatic,yes,yes
+BMW,M4 Competition M xDrive Coupe,SUBCOMPACT,3.0,6,AS8,Z,14.7,10.2,12.7,293,2025,Canada 2021-2026,Premium petrol,8-speed automatic,yes,yes
+BMW,M4 CS Coupe,SUBCOMPACT,3.0,6,AS8,Z,15.0,10.3,12.9,297,2025,Canada 2021-2026,Premium petrol,8-speed automatic,yes,no
+BMW,M440i xDrive Cabriolet,SUBCOMPACT,3.0,6,AS8,Z,9.2,7.3,8.4,194,2025,Canada 2021-2026,Premium petrol,8-speed automatic,yes,yes
+BMW,M440i xDrive Coupe,SUBCOMPACT,3.0,6,AS8,Z,8.9,7.1,8.1,187,2025,Canada 2021-2026,Premium petrol,8-speed automatic,yes,yes
+BMW,M440i xDrive Gran Coupe,COMPACT,3.0,6,AS8,Z,9.4,7.6,8.6,199,2025,Canada 2021-2026,Premium petrol,8-speed automatic,yes,yes
+BMW,M8 Competition Cabriolet,SUBCOMPACT,4.4,8,AS8,Z,16.1,10.9,13.8,321,2025,Canada 2021-2026,Premium petrol,8-speed automatic,yes,no
+BMW,M8 Competition Coupe,SUBCOMPACT,4.4,8,AS8,Z,16.1,10.9,13.8,321,2025,Canada 2021-2026,Premium petrol,8-speed automatic,yes,no
+BMW,M8 Competition Gran Coupe,MID-SIZE,4.4,8,AS8,Z,16.1,10.9,13.8,321,2025,Canada 2021-2026,Premium petrol,8-speed automatic,yes,no
+BMW,M850i xDrive Cabriolet,SUBCOMPACT,4.4,8,AS8,Z,14.2,9.9,12.2,285,2025,Canada 2021-2026,Premium petrol,8-speed automatic,yes,yes
+BMW,M850i xDrive Gran Coupe,MID-SIZE,4.4,8,AS8,Z,14.2,9.9,12.2,285,2025,Canada 2021-2026,Premium petrol,8-speed automatic,yes,yes
+BMW,X1 xDrive28i,SUV - SMALL,2.0,4,AM7,Z,9.7,7.1,8.5,198,2025,Canada 2021-2026,Premium petrol,7-speed automated manual,no,yes
+BMW,X1 M35i,SUV - SMALL,2.0,4,AM7,Z,10.1,7.6,9.0,208,2025,Canada 2021-2026,Premium petrol,7-speed automated manual,yes,no
+BMW,X2 M35i,SUV - SMALL,2.0,4,AM7,Z,10.3,7.3,8.9,206,2025,Canada 2021-2026,Premium petrol,7-speed automated manual,yes,no
+BMW,X3 xDrive30i,SUV - SMALL,2.0,4,AS8,Z,8.8,7.1,8.1,186,2025,Canada 2021-2026,Premium petrol,8-speed automatic,no,yes
+BMW,X3 M50i xDrive,SUV - SMALL,3.0,6,AS8,Z,9.3,7.7,8.6,199,2025,Canada 2021-2026,Premium petrol,8-speed automatic,yes,yes
+BMW,X4 xDrive30i,SUV - SMALL,2.0,4,AS8,Z,11.1,8.6,9.9,231,2025,Canada 2021-2026,Premium petrol,8-speed automatic,no,yes
+BMW,X4 M40i xDrive,SUV - SMALL,3.0,6,AS8,Z,10.9,9.0,10.0,234,2025,Canada 2021-2026,Premium petrol,8-speed automatic,yes,yes
+BMW,X5 M60i xDrive,SUV - STANDARD,4.4,8,AS8,Z,13.8,10.5,12.3,285,2025,Canada 2021-2026,Premium petrol,8-speed automatic,yes,yes
+BMW,X6 M60i xDrive,SUV - STANDARD,4.4,8,AS8,Z,13.8,10.5,12.3,285,2025,Canada 2021-2026,Premium petrol,8-speed automatic,yes,yes
+BMW,X7 xDrive40i,SUV - STANDARD,3.0,6,AS8,Z,11.6,9.6,10.7,247,2025,Canada 2021-2026,Premium petrol,8-speed automatic,no,yes
+BMW,X7 M60i xDrive,SUV - STANDARD,4.4,8,AS8,Z,14.7,11.6,13.3,310,2025,Canada 2021-2026,Premium petrol,8-speed automatic,yes,yes
+BMW,Z4 M40i,TWO-SEATER,3.0,6,AS8,Z,10.4,8.0,9.3,215,2025,Canada 2021-2026,Premium petrol,8-speed automatic,yes,no
+BMW,Z4 M40i,TWO-SEATER,3.0,6,M6,Z,12.6,8.9,10.9,253,2025,Canada 2021-2026,Premium petrol,6-speed manual,yes,no
+Mercedes-Benz,AMG C 43 4MATIC Sedan,COMPACT,2.0,4,A9,Z,12.5,8.8,10.8,252,2025,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG CLA 45 S 4MATIC Coupe,COMPACT,2.0,4,AM8,Z,11.7,8.4,10.2,236,2025,Canada 2021-2026,Premium petrol,8-speed automated manual,yes,yes
+Mercedes-Benz,AMG CLE 53 4MATIC+ Cabriolet,SUBCOMPACT,3.0,6,A9,Z,12.1,9.2,10.8,253,2025,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG G 63 SUV,SUV - STANDARD,4.0,8,A9,Z,17.4,14.7,16.2,378,2025,Canada 2021-2026,Premium petrol,9-speed automatic,yes,no
+Mercedes-Benz,AMG GLA 35 4MATIC Coupe,STATION WAGON - SMALL,2.0,4,AM8,Z,10.9,8.4,9.8,230,2025,Canada 2021-2026,Premium petrol,8-speed automated manual,yes,yes
+Mercedes-Benz,AMG GLB 35 4MATIC Coupe,STATION WAGON - SMALL,2.0,4,AM8,Z,11.5,8.9,10.3,242,2025,Canada 2021-2026,Premium petrol,8-speed automated manual,yes,yes
+Mercedes-Benz,AMG GLC 43 4MATIC+ SUV,STATION WAGON - SMALL,2.0,4,A9,Z,12.6,9.4,11.2,263,2025,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG GLC 43 4MATIC Coupe,STATION WAGON - SMALL,2.0,4,A9,Z,12.7,9.8,11.4,269,2025,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG GLE 53 4MATIC+ Coupe,SUV - STANDARD,3.0,6,A9,Z,13.2,10.7,12.1,282,2025,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG GLE 63 S 4MATIC+ SUV,SUV - STANDARD,4.0,8,A9,Z,17.2,12.8,15.2,355,2025,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG GLE 63 S 4MATIC+ Coupe,SUV - STANDARD,4.0,8,A9,Z,17.2,12.8,15.2,355,2025,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG GLS 63 4MATIC+ SUV,SUV - STANDARD,4.0,8,A9,Z,17.2,13.1,15.3,359,2025,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG GT 53 4MATIC+,COMPACT,3.0,6,A9,Z,12.3,10.0,11.3,263,2025,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG GT 55 4MATIC+ Coupe,SUBCOMPACT,4.0,8,A9,Z,19.7,12.6,16.5,387,2025,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG GT 63 4MATIC+ Coupe,SUBCOMPACT,4.0,8,A9,Z,19.7,12.6,16.5,387,2025,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG GT 63 PRO 4MATIC+ Coupe,SUBCOMPACT,4.0,8,A9,Z,19.7,12.6,16.5,387,2025,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG SL 43 4MATIC Roadster,MINICOMPACT,2.0,4,A9,Z,12.2,8.8,10.7,249,2025,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG SL 55 4MATIC+ Roadster,MINICOMPACT,4.0,8,A9,Z,18.2,11.3,15.1,347,2025,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG SL 63 4MATIC+ Roadster,MINICOMPACT,4.0,8,A9,Z,18.2,11.3,15.1,347,2025,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,C 300 4MATIC Sedan,COMPACT,2.0,4,A9,Z,10.0,7.1,8.7,204,2025,Canada 2021-2026,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,CLA 250 4MATIC Coupe,COMPACT,2.0,4,AM8,Z,9.3,6.9,8.2,193,2025,Canada 2021-2026,Premium petrol,8-speed automated manual,no,yes
+Mercedes-Benz,CLE 300 4MATIC Cabriolet,SUBCOMPACT,2.0,4,A9,Z,10.4,7.4,9.1,211,2025,Canada 2021-2026,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,CLE 300 4MATIC Coupe,SUBCOMPACT,2.0,4,A9,Z,9.8,7.1,8.6,201,2025,Canada 2021-2026,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,CLE 450 4MATIC Cabriolet,SUBCOMPACT,3.0,6,A9,Z,10.2,7.4,8.9,210,2025,Canada 2021-2026,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,CLE 450 4MATIC Coupe,SUBCOMPACT,3.0,6,A9,Z,10.4,7.1,9.0,211,2025,Canada 2021-2026,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,E 350 4MATIC Sedan,MID-SIZE,2.0,4,A9,Z,10.0,7.2,8.7,203,2025,Canada 2021-2026,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,G 550 SUV,SUV - STANDARD,3.0,6,A9,Z,13.6,12.4,13.1,305,2025,Canada 2021-2026,Premium petrol,9-speed automatic,no,no
+Mercedes-Benz,GLA 250 4MATIC SUV,SUV - SMALL,2.0,4,AM8,Z,9.4,7.1,8.4,196,2025,Canada 2021-2026,Premium petrol,8-speed automated manual,no,yes
+Mercedes-Benz,GLB 250 4MATIC SUV,SUV - SMALL,2.0,4,AM8,Z,9.8,7.2,8.6,201,2025,Canada 2021-2026,Premium petrol,8-speed automated manual,no,yes
+Mercedes-Benz,GLC 300 4MATIC SUV,SUV - SMALL,2.0,4,A9,Z,10.0,7.6,8.9,210,2025,Canada 2021-2026,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,GLC 300 4MATIC Coupe,SUV - SMALL,2.0,4,A9,Z,10.1,7.7,9.0,210,2025,Canada 2021-2026,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,GLE 350 4MATIC SUV,SUV - STANDARD,2.0,4,A9,Z,12.2,9.2,10.8,255,2025,Canada 2021-2026,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,GLE 450 4MATIC SUV,SUV - STANDARD,3.0,6,A9,Z,12.5,9.6,11.2,264,2025,Canada 2021-2026,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,GLE 450 4MATIC Coupe,SUV - STANDARD,3.0,6,A9,Z,12.5,9.6,11.2,264,2025,Canada 2021-2026,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,GLS 580 4MATIC SUV,SUV - STANDARD,4.0,8,A9,Z,16.6,12.1,14.6,340,2025,Canada 2021-2026,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,GLS 600 4MATIC Maybach SUV,SUV - STANDARD,4.0,8,A9,Z,17.9,12.9,15.6,365,2025,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,Maybach S 580 4MATIC Sedan,FULL-SIZE,4.0,8,A9,Z,14.6,8.8,12.0,280,2025,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,Maybach S 680 4MATIC Sedan,FULL-SIZE,6.0,12,A9,Z,19.8,11.6,16.1,375,2025,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,S 500 4MATIC Sedan,FULL-SIZE,3.0,6,A9,Z,11.2,7.7,9.6,226,2025,Canada 2021-2026,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,S 580 4MATIC Sedan,FULL-SIZE,4.0,8,A9,Z,14.1,9.4,12.0,278,2025,Canada 2021-2026,Premium petrol,9-speed automatic,no,yes
+BMW,M2 Coupe CS,SUBCOMPACT,3.0,6,AS8,Z,14.7,10.2,12.7,295,2026,Canada 2021-2026,Premium petrol,8-speed automatic,yes,no
+BMW,M3 Competition Sedan,COMPACT,3.0,6,AS8,Z,14.9,10.3,12.8,296,2026,Canada 2021-2026,Premium petrol,8-speed automatic,yes,no
+BMW,M4 Competition Coupe,SUBCOMPACT,3.0,6,AS8,Z,14.7,10.2,12.7,293,2026,Canada 2021-2026,Premium petrol,8-speed automatic,yes,no
+BMW,M4 Competition Cabriolet,SUBCOMPACT,3.0,6,AS8,Z,14.9,10.5,12.9,297,2026,Canada 2021-2026,Premium petrol,8-speed automatic,yes,no
+BMW,X1 xDrive28i,SUV - SMALL,2.0,4,AM7,Z,9.5,6.9,8.3,193,2026,Canada 2021-2026,Premium petrol,7-speed automated manual,no,yes
+BMW,X1 M35i xDrive,SUV - SMALL,2.0,4,AM7,Z,9.9,7.4,8.8,203,2026,Canada 2021-2026,Premium petrol,7-speed automated manual,yes,yes
+BMW,X2 xDrive28i,SUV - SMALL,2.0,4,AM7,Z,9.7,6.9,8.4,195,2026,Canada 2021-2026,Premium petrol,7-speed automated manual,no,yes
+BMW,X2 M35i xDrive,SUV - SMALL,2.0,4,AM7,Z,10.3,7.5,9.1,210,2026,Canada 2021-2026,Premium petrol,7-speed automated manual,yes,yes
+BMW,X3 30 xDrive,SUV - SMALL,2.0,4,AS8,Z,8.8,7.1,8.1,186,2026,Canada 2021-2026,Premium petrol,8-speed automatic,no,yes
+BMW,X3 M50 xDrive,SUV - SMALL,3.0,6,AS8,Z,9.3,7.7,8.6,199,2026,Canada 2021-2026,Premium petrol,8-speed automatic,yes,yes
+BMW,X6 xDrive40i,SUV - STANDARD,3.0,6,AS8,Z,10.9,8.9,10.0,231,2026,Canada 2021-2026,Premium petrol,8-speed automatic,no,yes
+BMW,X7 xDrive40i,SUV - STANDARD,3.0,6,AS8,Z,11.3,9.3,10.4,240,2026,Canada 2021-2026,Premium petrol,8-speed automatic,no,yes
+BMW,Z4 sDrive30i Roadster,TWO-SEATER,2.0,4,AS8,Z,9.4,7.1,8.4,194,2026,Canada 2021-2026,Premium petrol,8-speed automatic,no,no
+BMW,Z4 M40i Roadster,TWO-SEATER,3.0,6,AS8,Z,10.4,8.0,9.3,215,2026,Canada 2021-2026,Premium petrol,8-speed automatic,yes,no
+BMW,Z4 M40i Roadster,TWO-SEATER,3.0,6,M6,Z,12.6,8.9,10.9,253,2026,Canada 2021-2026,Premium petrol,6-speed manual,yes,no
+Mercedes-Benz,AMG CLA 35 4MATIC Coupe,COMPACT,2.0,4,AM8,Z,10.8,8.1,9.6,224,2026,Canada 2021-2026,Premium petrol,8-speed automated manual,yes,yes
+Mercedes-Benz,AMG CLA 45 S 4MATIC+ Coupe,COMPACT,2.0,4,AM8,Z,11.7,8.4,10.2,236,2026,Canada 2021-2026,Premium petrol,8-speed automated manual,yes,yes
+Mercedes-Benz,AMG CLE 53 4MATIC Cabriolet,SUBCOMPACT,3.0,6,A9,Z,12.1,9.2,10.8,253,2026,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG CLE 53 4MATIC Coupe,SUBCOMPACT,3.0,6,A9,Z,11.7,8.7,10.4,243,2026,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG G 63 SUV,SUV - STANDARD,4.0,8,A9,Z,17.4,14.7,16.2,383,2026,Canada 2021-2026,Premium petrol,9-speed automatic,yes,no
+Mercedes-Benz,AMG GLA 35 4MATIC Coupe,STATION WAGON - SMALL,2.0,4,AM8,Z,10.5,7.9,9.3,218,2026,Canada 2021-2026,Premium petrol,8-speed automated manual,yes,yes
+Mercedes-Benz,AMG GLC 43 4MATIC Coupe,STATION WAGON - SMALL,2.0,4,A9,Z,12.3,9.2,10.9,256,2026,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG GLC 43 4MATIC+ SUV,STATION WAGON - SMALL,2.0,4,A9,Z,12.1,9.0,10.8,252,2026,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG GLE 63 S 4MATIC+ Coupe,SUV - STANDARD,4.0,8,A9,Z,15.8,11.4,13.8,325,2026,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG GLE 63 S 4MATIC+ SUV,SUV - STANDARD,4.0,8,A9,Z,16.1,11.5,14.0,328,2026,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG GLS 63 4MATIC+ SUV,SUV - STANDARD,4.0,8,A9,Z,16.2,11.7,14.2,334,2026,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG GT 43 Coupe,SUBCOMPACT,2.0,4,A9,Z,12.4,8.8,10.8,252,2026,Canada 2021-2026,Premium petrol,9-speed automatic,yes,no
+Mercedes-Benz,AMG GT 53 4MATIC+ 4-Door Coupe,STATION WAGON - SMALL,3.0,6,A9,Z,12.3,10.0,11.3,263,2026,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG GT 55 4MATIC+ Coupe,SUBCOMPACT,4.0,8,A9,Z,17.4,11.5,14.8,346,2026,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG GT 63 4MATIC+ 4-Door Coupe,STATION WAGON - SMALL,4.0,8,A9,Z,15.3,11.3,13.5,318,2026,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG GT 63 4MATIC+ Coupe,SUBCOMPACT,4.0,8,A9,Z,18.0,11.5,15.1,346,2026,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG GT 63 PRO 4MATIC+ Coupe,SUBCOMPACT,4.0,8,A9,Z,17.4,11.5,14.8,346,2026,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG SL 55 4MATIC+ Roadster,MINICOMPACT,4.0,8,A9,Z,17.3,11.4,14.7,343,2026,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,AMG SL 63 4MATIC+ Roadster,MINICOMPACT,4.0,8,A9,Z,17.3,11.4,14.7,347,2026,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,Maybach AMG SL 680 4MATIC Roadster,TWO-SEATER,4.0,8,A9,Z,17.0,11.3,14.5,347,2026,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,C 300 Sedan,COMPACT,2.0,4,A9,Z,9.3,6.7,8.1,191,2026,Canada 2021-2026,Premium petrol,9-speed automatic,no,no
+Mercedes-Benz,CLA 250 Coupe,COMPACT,2.0,4,AM8,Z,9.0,6.5,7.9,185,2026,Canada 2021-2026,Premium petrol,8-speed automated manual,no,no
+Mercedes-Benz,CLE 300 4MATIC Cabriolet,SUBCOMPACT,2.0,4,A9,Z,9.9,7.1,8.6,202,2026,Canada 2021-2026,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,CLE 300 4MATIC Coupe,SUBCOMPACT,2.0,4,A9,Z,9.9,7.2,8.7,203,2026,Canada 2021-2026,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,CLE 450 4MATIC Coupe,SUBCOMPACT,3.0,6,A9,Z,10.4,7.3,9.0,211,2026,Canada 2021-2026,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,E 450 4MATIC All-Terrain Wagon,STATION WAGON - MID-SIZE,3.0,6,A9,Z,10.6,7.6,9.3,218,2026,Canada 2021-2026,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,GLA 250 SUV,STATION WAGON - SMALL,2.0,4,AM8,Z,9.2,6.9,8.2,190,2026,Canada 2021-2026,Premium petrol,8-speed automated manual,no,no
+Mercedes-Benz,GLB 250 SUV,STATION WAGON - SMALL,2.0,4,AM8,Z,9.3,7.0,8.3,193,2026,Canada 2021-2026,Premium petrol,8-speed automated manual,no,no
+Mercedes-Benz,GLC 300 4MATIC SUV,SUV - SMALL,2.0,4,A9,Z,9.9,7.7,8.9,208,2026,Canada 2021-2026,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,GLE 580 4MATIC SUV,SUV - STANDARD,4.0,8,A9,Z,15.2,11.2,13.4,314,2026,Canada 2021-2026,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,GLS 580 4MATIC SUV,SUV - STANDARD,4.0,8,A9,Z,16.6,11.5,14.3,335,2026,Canada 2021-2026,Premium petrol,9-speed automatic,no,yes
+Mercedes-Benz,Maybach GLS 600 4MATIC SUV,SUV - STANDARD,4.0,8,A9,Z,17.7,12.9,15.6,364,2026,Canada 2021-2026,Premium petrol,9-speed automatic,yes,yes
+Mercedes-Benz,S 500 4MATIC Sedan,FULL-SIZE,3.0,6,A9,Z,11.6,8.2,10.1,236,2026,Canada 2021-2026,Premium petrol,9-speed automatic,no,yes

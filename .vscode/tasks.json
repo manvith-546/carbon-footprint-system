@@ -1,0 +1,73 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "1. Install Python packages",
+      "type": "process",
+      "command": "${command:python.interpreterPath}",
+      "args": ["-m", "pip", "install", "-r", "requirements.txt"],
+      "options": { "cwd": "${workspaceFolder}" },
+      "problemMatcher": []
+    },
+    {
+      "label": "2. Start the website",
+      "type": "process",
+      "command": "${command:python.interpreterPath}",
+      "args": ["python/app.py"],
+      "options": { "cwd": "${workspaceFolder}" },
+      "isBackground": true,
+      "problemMatcher": [],
+      "group": { "kind": "build", "isDefault": true }
+    },
+    {
+      "label": "3. Train models and build the data",
+      "type": "process",
+      "command": "${command:python.interpreterPath}",
+      "args": ["run_all.py"],
+      "options": { "cwd": "${workspaceFolder}" },
+      "problemMatcher": []
+    },
+    {
+      "label": "4. Terminal estimator (Python)",
+      "type": "process",
+      "command": "${command:python.interpreterPath}",
+      "args": ["python/3_estimate_cli.py"],
+      "options": { "cwd": "${workspaceFolder}" },
+      "problemMatcher": []
+    },
+    {
+      "label": "Compile Java",
+      "type": "process",
+      "command": "javac",
+      "args": ["-d", "java/out", "java/CarbonFootprintApp.java"],
+      "options": { "cwd": "${workspaceFolder}" },
+      "problemMatcher": ["$javac"]
+    },
+    {
+      "label": "5. Console app (Java)",
+      "type": "process",
+      "command": "java",
+      "args": ["-cp", "java/out", "CarbonFootprintApp"],
+      "options": { "cwd": "${workspaceFolder}" },
+      "dependsOn": "Compile Java",
+      "problemMatcher": []
+    },
+    {
+      "label": "6. Build the SQL database and run the queries",
+      "type": "process",
+      "command": "${command:python.interpreterPath}",
+      "args": ["sql/build_database.py"],
+      "options": { "cwd": "${workspaceFolder}" },
+      "problemMatcher": []
+    },
+    {
+      "label": "7. Run all tests",
+      "type": "process",
+      "command": "${command:python.interpreterPath}",
+      "args": ["tests/test_api.py"],
+      "options": { "cwd": "${workspaceFolder}" },
+      "problemMatcher": [],
+      "group": { "kind": "test", "isDefault": true }
+    }
+  ]
+}
